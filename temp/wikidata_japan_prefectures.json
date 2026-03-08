@@ -1,0 +1,780 @@
+{
+  "prefectures_from_wikidata": [
+    {
+      "qid": "Q11587852",
+      "name": "Iwai Prefecture"
+    },
+    {
+      "qid": "Q11587859",
+      "name": "Iwasaki Prefecture"
+    },
+    {
+      "qid": "Q11599927",
+      "name": "Kasamatsu Prefecture"
+    },
+    {
+      "qid": "Q11602831",
+      "name": "Chikuma Prefecture"
+    },
+    {
+      "qid": "Q11608541",
+      "name": "Okitama Prefecture"
+    },
+    {
+      "qid": "Q11608658",
+      "name": "Mimitsu Prefecture"
+    },
+    {
+      "qid": "Q11611687",
+      "name": "Isawa Prefecture"
+    },
+    {
+      "qid": "Q11616428",
+      "name": "Wakamatsu Prefecture"
+    },
+    {
+      "qid": "Q11621085",
+      "name": "Katsushika Prefecture"
+    },
+    {
+      "qid": "Q11630811",
+      "name": "Kakuda Prefecture"
+    },
+    {
+      "qid": "Q11633475",
+      "name": "Toyooka Prefecture"
+    },
+    {
+      "qid": "Q11633575",
+      "name": "Toyosaki Prefecture"
+    },
+    {
+      "qid": "Q11636512",
+      "name": "Echigo Prefecture"
+    },
+    {
+      "qid": "Q11636907",
+      "name": "Ashigara Prefecture"
+    },
+    {
+      "qid": "Q11637047",
+      "name": "Asuwa Prefecture"
+    },
+    {
+      "qid": "Q11643549",
+      "name": "Miyakonojō Prefecture"
+    },
+    {
+      "qid": "Q11664103",
+      "name": "Nirayama Prefecture"
+    },
+    {
+      "qid": "Q11666801",
+      "name": "Shikama Prefecture"
+    },
+    {
+      "qid": "Q11669411",
+      "name": "Takayama Prefecture"
+    },
+    {
+      "qid": "Q11675967",
+      "name": "Tsuruoka Prefecture"
+    },
+    {
+      "qid": "Q24841611",
+      "name": "Sapporo Prefecture"
+    },
+    {
+      "qid": "Q24841612",
+      "name": "Hakodate Prefecture"
+    },
+    {
+      "qid": "Q24841613",
+      "name": "Nemuro Prefecture"
+    },
+    {
+      "qid": "Q67552128",
+      "name": "Honbo Prefecture"
+    },
+    {
+      "qid": "Q1490",
+      "name": "Tokyo"
+    },
+    {
+      "qid": "Q15701",
+      "name": "Kagoshima Prefecture"
+    },
+    {
+      "qid": "Q44843",
+      "name": "Tochigi Prefecture"
+    },
+    {
+      "qid": "Q47896",
+      "name": "Miyagi Prefecture"
+    },
+    {
+      "qid": "Q48326",
+      "name": "Iwate Prefecture"
+    },
+    {
+      "qid": "Q71699",
+      "name": "Aomori Prefecture"
+    },
+    {
+      "qid": "Q71707",
+      "name": "Fukushima Prefecture"
+    },
+    {
+      "qid": "Q80011",
+      "name": "Chiba Prefecture"
+    },
+    {
+      "qid": "Q80434",
+      "name": "Aichi Prefecture"
+    },
+    {
+      "qid": "Q81863",
+      "name": "Akita Prefecture"
+    },
+    {
+      "qid": "Q83273",
+      "name": "Ibaraki Prefecture"
+    },
+    {
+      "qid": "Q120730",
+      "name": "Kyoto Prefecture"
+    },
+    {
+      "qid": "Q122723",
+      "name": "Osaka Prefecture"
+    },
+    {
+      "qid": "Q123258",
+      "name": "Fukuoka Prefecture"
+    },
+    {
+      "qid": "Q123376",
+      "name": "Ehime Prefecture"
+    },
+    {
+      "qid": "Q125863",
+      "name": "Yamagata Prefecture"
+    },
+    {
+      "qid": "Q127264",
+      "name": "Yamaguchi Prefecture"
+    },
+    {
+      "qid": "Q127513",
+      "name": "Kanagawa Prefecture"
+    },
+    {
+      "qid": "Q127877",
+      "name": "Nagano Prefecture"
+    },
+    {
+      "qid": "Q128186",
+      "name": "Saitama Prefecture"
+    },
+    {
+      "qid": "Q128196",
+      "name": "Mie Prefecture"
+    },
+    {
+      "qid": "Q129499",
+      "name": "Gunma Prefecture"
+    },
+    {
+      "qid": "Q130290",
+      "name": "Hyōgo Prefecture"
+    },
+    {
+      "qid": "Q130300",
+      "name": "Miyazaki Prefecture"
+    },
+    {
+      "qid": "Q130308",
+      "name": "Kumamoto Prefecture"
+    },
+    {
+      "qid": "Q131277",
+      "name": "Gifu Prefecture"
+    },
+    {
+      "qid": "Q131281",
+      "name": "Ishikawa Prefecture"
+    },
+    {
+      "qid": "Q131287",
+      "name": "Nara Prefecture"
+    },
+    {
+      "qid": "Q131314",
+      "name": "Wakayama Prefecture"
+    },
+    {
+      "qid": "Q131320",
+      "name": "Shizuoka Prefecture"
+    },
+    {
+      "qid": "Q131358",
+      "name": "Shiga Prefecture"
+    },
+    {
+      "qid": "Q132705",
+      "name": "Niigata Prefecture"
+    },
+    {
+      "qid": "Q132720",
+      "name": "Yamanashi Prefecture"
+    },
+    {
+      "qid": "Q132751",
+      "name": "Shimane Prefecture"
+    },
+    {
+      "qid": "Q132929",
+      "name": "Toyama Prefecture"
+    },
+    {
+      "qid": "Q132936",
+      "name": "Okayama Prefecture"
+    },
+    {
+      "qid": "Q133879",
+      "name": "Fukui Prefecture"
+    },
+    {
+      "qid": "Q133924",
+      "name": "Oita Prefecture"
+    },
+    {
+      "qid": "Q133935",
+      "name": "Tottori Prefecture"
+    },
+    {
+      "qid": "Q134093",
+      "name": "Kōchi Prefecture"
+    },
+    {
+      "qid": "Q160420",
+      "name": "Saga Prefecture"
+    },
+    {
+      "qid": "Q160734",
+      "name": "Tokushima Prefecture"
+    },
+    {
+      "qid": "Q161454",
+      "name": "Kagawa Prefecture"
+    },
+    {
+      "qid": "Q169376",
+      "name": "Nagasaki Prefecture"
+    },
+    {
+      "qid": "Q617375",
+      "name": "Hiroshima Prefecture"
+    },
+    {
+      "qid": "Q766445",
+      "name": "Okinawa Prefecture"
+    },
+    {
+      "qid": "Q1037393",
+      "name": "Hokkaido"
+    },
+    {
+      "qid": "Q1189121",
+      "name": "Tokyo Prefecture"
+    },
+    {
+      "qid": "Q3070843",
+      "name": "Nukata Prefecture"
+    },
+    {
+      "qid": "Q5765997",
+      "name": "Kokura Prefecture"
+    },
+    {
+      "qid": "Q8168443",
+      "name": "Esashi Prefecture"
+    },
+    {
+      "qid": "Q9610752",
+      "name": "Myōdō Prefecture"
+    },
+    {
+      "qid": "Q10440951",
+      "name": "Ishizuchi Prefecture"
+    },
+    {
+      "qid": "Q10877643",
+      "name": "Kamiyama Prefecture"
+    },
+    {
+      "qid": "Q10888158",
+      "name": "Kurashiki Prefecture"
+    },
+    {
+      "qid": "Q11353500",
+      "name": "Nanao Prefecture"
+    },
+    {
+      "qid": "Q11355447",
+      "name": "Sannohe Prefecture"
+    },
+    {
+      "qid": "Q11356237",
+      "name": "Mikawa Prefecture"
+    },
+    {
+      "qid": "Q11356619",
+      "name": "Mizuma Prefecture"
+    },
+    {
+      "qid": "Q11369658",
+      "name": "Kumihama Prefecture"
+    },
+    {
+      "qid": "Q11372515",
+      "name": "Gojō Prefecture"
+    },
+    {
+      "qid": "Q11378040",
+      "name": "Sendai Prefecture"
+    },
+    {
+      "qid": "Q11380900",
+      "name": "Ina Prefecture"
+    },
+    {
+      "qid": "Q11389086",
+      "name": "Iruma Prefecture"
+    },
+    {
+      "qid": "Q11390556",
+      "name": "Yatsushiro Prefecture"
+    },
+    {
+      "qid": "Q11409098",
+      "name": "Inba Prefecture"
+    },
+    {
+      "qid": "Q11415214",
+      "name": "Nagoya Prefecture"
+    },
+    {
+      "qid": "Q11418417",
+      "name": "Shinagawa Prefecture"
+    },
+    {
+      "qid": "Q11428319",
+      "name": "Sakai Prefecture"
+    },
+    {
+      "qid": "Q11437356",
+      "name": "Ōtsu Prefecture"
+    },
+    {
+      "qid": "Q11443550",
+      "name": "Amakusa Prefecture"
+    },
+    {
+      "qid": "Q11449795",
+      "name": "Utsunomiya Prefecture"
+    },
+    {
+      "qid": "Q11455281",
+      "name": "Miyazaku Prefecture"
+    },
+    {
+      "qid": "Q11463166",
+      "name": "Oda Prefecture"
+    },
+    {
+      "qid": "Q11463534",
+      "name": "Kosuge Prefecture"
+    },
+    {
+      "qid": "Q11475714",
+      "name": "Iwahana Prefecture"
+    },
+    {
+      "qid": "Q11480390",
+      "name": "Ichikawa Prefecture"
+    },
+    {
+      "qid": "Q11486059",
+      "name": "Fuchū Prefecture"
+    },
+    {
+      "qid": "Q11486130",
+      "name": "Watarai Prefecture"
+    },
+    {
+      "qid": "Q11499551",
+      "name": "Tsuruga Prefecture"
+    },
+    {
+      "qid": "Q11502104",
+      "name": "Niikawa Prefecture"
+    },
+    {
+      "qid": "Q11502680",
+      "name": "Niihari Prefecture"
+    },
+    {
+      "qid": "Q11504893",
+      "name": "Nikkō Prefecture"
+    },
+    {
+      "qid": "Q11509922",
+      "name": "Hita Prefecture"
+    },
+    {
+      "qid": "Q11518523",
+      "name": "Kisarazu Prefecture"
+    },
+    {
+      "qid": "Q11533748",
+      "name": "Kashiwazaki Prefecture"
+    },
+    {
+      "qid": "Q11548346",
+      "name": "Suibara Prefecture"
+    },
+    {
+      "qid": "Q11553440",
+      "name": "Kawachi Prefecture"
+    },
+    {
+      "qid": "Q11557878",
+      "name": "Hamamatsu Prefecture"
+    },
+    {
+      "qid": "Q11557991",
+      "name": "Hamada Prefecture"
+    },
+    {
+      "qid": "Q11558170",
+      "name": "Urawa Prefecture"
+    },
+    {
+      "qid": "Q11568818",
+      "name": "Kumagaya Prefecture"
+    },
+    {
+      "qid": "Q11571157",
+      "name": "Inukami Prefecture"
+    },
+    {
+      "qid": "Q11574881",
+      "name": "Ikuno Prefecture"
+    },
+    {
+      "qid": "Q11579165",
+      "name": "Tome Prefecture"
+    },
+    {
+      "qid": "Q11579971",
+      "name": "Shirakawa Prefecture"
+    },
+    {
+      "qid": "Q11582007",
+      "name": "Aikawa Prefecture"
+    },
+    {
+      "qid": "Q11585334",
+      "name": "Isawa Prefecture"
+    },
+    {
+      "qid": "Q11586489",
+      "name": "Ishinomaki Prefecture"
+    }
+  ],
+  "jcg_pref_mapping": [
+    {
+      "pref_code": "01",
+      "jcg_pref_name": "Hokkaido",
+      "wikidata_qid": "Q1037393",
+      "matched": true
+    },
+    {
+      "pref_code": "02",
+      "jcg_pref_name": "Aomori",
+      "wikidata_qid": "Q71699",
+      "matched": true
+    },
+    {
+      "pref_code": "03",
+      "jcg_pref_name": "Iwate",
+      "wikidata_qid": "Q48326",
+      "matched": true
+    },
+    {
+      "pref_code": "04",
+      "jcg_pref_name": "Akita",
+      "wikidata_qid": "Q81863",
+      "matched": true
+    },
+    {
+      "pref_code": "05",
+      "jcg_pref_name": "Yamagata",
+      "wikidata_qid": "Q125863",
+      "matched": true
+    },
+    {
+      "pref_code": "06",
+      "jcg_pref_name": "Miyagi",
+      "wikidata_qid": "Q47896",
+      "matched": true
+    },
+    {
+      "pref_code": "07",
+      "jcg_pref_name": "Fukushima",
+      "wikidata_qid": "Q71707",
+      "matched": true
+    },
+    {
+      "pref_code": "08",
+      "jcg_pref_name": "Niigata",
+      "wikidata_qid": "Q132705",
+      "matched": true
+    },
+    {
+      "pref_code": "09",
+      "jcg_pref_name": "Nagano",
+      "wikidata_qid": "Q127877",
+      "matched": true
+    },
+    {
+      "pref_code": "10",
+      "jcg_pref_name": "Tokyo",
+      "wikidata_qid": "Q1189121",
+      "matched": true
+    },
+    {
+      "pref_code": "11",
+      "jcg_pref_name": "Kanagawa",
+      "wikidata_qid": "Q127513",
+      "matched": true
+    },
+    {
+      "pref_code": "12",
+      "jcg_pref_name": "Chiba",
+      "wikidata_qid": "Q80011",
+      "matched": true
+    },
+    {
+      "pref_code": "13",
+      "jcg_pref_name": "Saitama",
+      "wikidata_qid": "Q128186",
+      "matched": true
+    },
+    {
+      "pref_code": "14",
+      "jcg_pref_name": "Ibaraki",
+      "wikidata_qid": "Q83273",
+      "matched": true
+    },
+    {
+      "pref_code": "15",
+      "jcg_pref_name": "Tochigi",
+      "wikidata_qid": "Q44843",
+      "matched": true
+    },
+    {
+      "pref_code": "16",
+      "jcg_pref_name": "Gunma",
+      "wikidata_qid": "Q129499",
+      "matched": true
+    },
+    {
+      "pref_code": "17",
+      "jcg_pref_name": "Yamanashi",
+      "wikidata_qid": "Q132720",
+      "matched": true
+    },
+    {
+      "pref_code": "18",
+      "jcg_pref_name": "Shizuoka",
+      "wikidata_qid": "Q131320",
+      "matched": true
+    },
+    {
+      "pref_code": "19",
+      "jcg_pref_name": "Gifu",
+      "wikidata_qid": "Q131277",
+      "matched": true
+    },
+    {
+      "pref_code": "20",
+      "jcg_pref_name": "Aichi",
+      "wikidata_qid": "Q80434",
+      "matched": true
+    },
+    {
+      "pref_code": "21",
+      "jcg_pref_name": "Mie",
+      "wikidata_qid": "Q128196",
+      "matched": true
+    },
+    {
+      "pref_code": "22",
+      "jcg_pref_name": "Kyoto",
+      "wikidata_qid": "Q120730",
+      "matched": true
+    },
+    {
+      "pref_code": "23",
+      "jcg_pref_name": "Shiga",
+      "wikidata_qid": "Q131358",
+      "matched": true
+    },
+    {
+      "pref_code": "24",
+      "jcg_pref_name": "Nara",
+      "wikidata_qid": "Q131287",
+      "matched": true
+    },
+    {
+      "pref_code": "25",
+      "jcg_pref_name": "Osaka",
+      "wikidata_qid": "Q122723",
+      "matched": true
+    },
+    {
+      "pref_code": "26",
+      "jcg_pref_name": "Wakayama",
+      "wikidata_qid": "Q131314",
+      "matched": true
+    },
+    {
+      "pref_code": "27",
+      "jcg_pref_name": "Hyogo",
+      "wikidata_qid": "Q130290",
+      "matched": true
+    },
+    {
+      "pref_code": "28",
+      "jcg_pref_name": "Toyama",
+      "wikidata_qid": "Q132929",
+      "matched": true
+    },
+    {
+      "pref_code": "29",
+      "jcg_pref_name": "Fukui",
+      "wikidata_qid": "Q133879",
+      "matched": true
+    },
+    {
+      "pref_code": "30",
+      "jcg_pref_name": "Ishikawa",
+      "wikidata_qid": "Q131281",
+      "matched": true
+    },
+    {
+      "pref_code": "31",
+      "jcg_pref_name": "Okayama",
+      "wikidata_qid": "Q132936",
+      "matched": true
+    },
+    {
+      "pref_code": "32",
+      "jcg_pref_name": "Shimane",
+      "wikidata_qid": "Q132751",
+      "matched": true
+    },
+    {
+      "pref_code": "33",
+      "jcg_pref_name": "Yamaguchi",
+      "wikidata_qid": "Q127264",
+      "matched": true
+    },
+    {
+      "pref_code": "34",
+      "jcg_pref_name": "Tottori",
+      "wikidata_qid": "Q133935",
+      "matched": true
+    },
+    {
+      "pref_code": "35",
+      "jcg_pref_name": "Hiroshima",
+      "wikidata_qid": "Q617375",
+      "matched": true
+    },
+    {
+      "pref_code": "36",
+      "jcg_pref_name": "Kagawa",
+      "wikidata_qid": "Q161454",
+      "matched": true
+    },
+    {
+      "pref_code": "37",
+      "jcg_pref_name": "Tokushima",
+      "wikidata_qid": "Q160734",
+      "matched": true
+    },
+    {
+      "pref_code": "38",
+      "jcg_pref_name": "Ehime",
+      "wikidata_qid": "Q123376",
+      "matched": true
+    },
+    {
+      "pref_code": "39",
+      "jcg_pref_name": "Kochi",
+      "wikidata_qid": "Q134093",
+      "matched": true
+    },
+    {
+      "pref_code": "40",
+      "jcg_pref_name": "Fukuoka",
+      "wikidata_qid": "Q123258",
+      "matched": true
+    },
+    {
+      "pref_code": "41",
+      "jcg_pref_name": "Saga",
+      "wikidata_qid": "Q160420",
+      "matched": true
+    },
+    {
+      "pref_code": "42",
+      "jcg_pref_name": "Nagasaki",
+      "wikidata_qid": "Q169376",
+      "matched": true
+    },
+    {
+      "pref_code": "43",
+      "jcg_pref_name": "Kumamoto",
+      "wikidata_qid": "Q130308",
+      "matched": true
+    },
+    {
+      "pref_code": "44",
+      "jcg_pref_name": "Oita",
+      "wikidata_qid": "Q133924",
+      "matched": true
+    },
+    {
+      "pref_code": "45",
+      "jcg_pref_name": "Miyazaki",
+      "wikidata_qid": "Q130300",
+      "matched": true
+    },
+    {
+      "pref_code": "46",
+      "jcg_pref_name": "Kagoshima",
+      "wikidata_qid": "Q15701",
+      "matched": true
+    },
+    {
+      "pref_code": "47",
+      "jcg_pref_name": "Okinawa",
+      "wikidata_qid": "Q766445",
+      "matched": true
+    }
+  ]
+}
