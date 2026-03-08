@@ -1,0 +1,4363 @@
+[
+  {
+    "code": "01001",
+    "name": "Akan",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01002",
+    "name": "Ashoro",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01003",
+    "name": "Atsukeshi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01004",
+    "name": "Atsuta",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01005",
+    "name": "Abashiri",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01006",
+    "name": "Abuta(Shiribeshi)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01007",
+    "name": "Abuta(Iburi)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01008",
+    "name": "Ishikari",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01009",
+    "name": "Isoya",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01010",
+    "name": "Iwanai",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01011",
+    "name": "Usu",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01012",
+    "name": "Utasutsu",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01013",
+    "name": "Urakawa",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01014",
+    "name": "Uryu(Sorachi)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01015",
+    "name": "Esashi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01016",
+    "name": "Okushiri",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01017",
+    "name": "Oshoro",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01018",
+    "name": "Kasai",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01019",
+    "name": "Kato",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01020",
+    "name": "Kabato",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01021",
+    "name": "Kamiiso",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01022",
+    "name": "Kamikawa(Tokachi)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01023",
+    "name": "Kamikawa(Kamikawa)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01024",
+    "name": "Kameda",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01025",
+    "name": "Kayabe",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01026",
+    "name": "Kawakami",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01027",
+    "name": "Kushiro",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01028",
+    "name": "Kudo",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01029",
+    "name": "Sapporo",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01030",
+    "name": "Samani",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01031",
+    "name": "Saru",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01032",
+    "name": "Shizunai",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01033",
+    "name": "Shibetsu",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01034",
+    "name": "Shimamaki",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01035",
+    "name": "Shakotan",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01036",
+    "name": "Shari",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01037",
+    "name": "Shiraoi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01038",
+    "name": "Shiranuka",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01039",
+    "name": "Suttsu",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01040",
+    "name": "Setana",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01041",
+    "name": "Soya",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01042",
+    "name": "Sorachi(Sorachi)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01043",
+    "name": "Sorachi(Kamikawa)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01044",
+    "name": "Chitose",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01045",
+    "name": "Teshio(Rumoi)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01046",
+    "name": "Teshio(Soya)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01047",
+    "name": "Tokachi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01048",
+    "name": "Tokoro",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01049",
+    "name": "Tomamae",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01050",
+    "name": "Nakagawa(Kamikawa)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01051",
+    "name": "Nakagawa(Tokachi)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01052",
+    "name": "Niikappu",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01053",
+    "name": "Nishi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01054",
+    "name": "Nemuro",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01055",
+    "name": "Notsuke",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01056",
+    "name": "Hanasaki",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01057",
+    "name": "Hamamasu",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01058",
+    "name": "Bikuni",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01059",
+    "name": "Hiyama",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01060",
+    "name": "Hiroo",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01061",
+    "name": "Futoro",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01062",
+    "name": "Furuu",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01063",
+    "name": "Furubira",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01064",
+    "name": "Horoizumi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01065",
+    "name": "Horobetsu",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01066",
+    "name": "Mashike",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01067",
+    "name": "Matsumae",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01068",
+    "name": "Mitsuishi",
+    "deleted": true,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01069",
+    "name": "Menashi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01070",
+    "name": "Mombetsu",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01071",
+    "name": "Yamakoshi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01072",
+    "name": "Yubari",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01073",
+    "name": "Yufutsu(Iburi)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01074",
+    "name": "Yufutsu(Kamikawa)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01075",
+    "name": "Yoichi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01076",
+    "name": "Rishiri",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01077",
+    "name": "Rumoi",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01078",
+    "name": "Rebun",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01079",
+    "name": "Futami",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01080",
+    "name": "Hidaka",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "01081",
+    "name": "Uryu(Kamikawa)",
+    "deleted": false,
+    "pref_code": "01",
+    "pref_name": "Hokkaido"
+  },
+  {
+    "code": "02001",
+    "name": "Kamikita",
+    "deleted": false,
+    "pref_code": "02",
+    "pref_name": "Aomori"
+  },
+  {
+    "code": "02002",
+    "name": "Kitatsugaru",
+    "deleted": false,
+    "pref_code": "02",
+    "pref_name": "Aomori"
+  },
+  {
+    "code": "02003",
+    "name": "Sannohe",
+    "deleted": false,
+    "pref_code": "02",
+    "pref_name": "Aomori"
+  },
+  {
+    "code": "02004",
+    "name": "Shimokita",
+    "deleted": false,
+    "pref_code": "02",
+    "pref_name": "Aomori"
+  },
+  {
+    "code": "02005",
+    "name": "Nakatsugaru",
+    "deleted": false,
+    "pref_code": "02",
+    "pref_name": "Aomori"
+  },
+  {
+    "code": "02006",
+    "name": "Nishitsugaru",
+    "deleted": false,
+    "pref_code": "02",
+    "pref_name": "Aomori"
+  },
+  {
+    "code": "02007",
+    "name": "Higashitsugaru",
+    "deleted": false,
+    "pref_code": "02",
+    "pref_name": "Aomori"
+  },
+  {
+    "code": "02008",
+    "name": "Minamitsugaru",
+    "deleted": false,
+    "pref_code": "02",
+    "pref_name": "Aomori"
+  },
+  {
+    "code": "03001",
+    "name": "Isawa",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03002",
+    "name": "Iwate",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03003",
+    "name": "Esashi",
+    "deleted": true,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03004",
+    "name": "Kamihei",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03005",
+    "name": "Kunohe",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03006",
+    "name": "Kesen",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03007",
+    "name": "Shimohei",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03008",
+    "name": "Shiwa",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03009",
+    "name": "Nishiiwai",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03010",
+    "name": "Ninohe",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03011",
+    "name": "Hienuki",
+    "deleted": true,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03012",
+    "name": "Higashiiwai",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "03013",
+    "name": "Waga",
+    "deleted": false,
+    "pref_code": "03",
+    "pref_name": "Iwate"
+  },
+  {
+    "code": "04001",
+    "name": "Ogachi",
+    "deleted": false,
+    "pref_code": "04",
+    "pref_name": "Akita"
+  },
+  {
+    "code": "04002",
+    "name": "Kaduno",
+    "deleted": false,
+    "pref_code": "04",
+    "pref_name": "Akita"
+  },
+  {
+    "code": "04003",
+    "name": "Kawabe",
+    "deleted": true,
+    "pref_code": "04",
+    "pref_name": "Akita"
+  },
+  {
+    "code": "04004",
+    "name": "Kitaakita",
+    "deleted": false,
+    "pref_code": "04",
+    "pref_name": "Akita"
+  },
+  {
+    "code": "04005",
+    "name": "Semboku",
+    "deleted": false,
+    "pref_code": "04",
+    "pref_name": "Akita"
+  },
+  {
+    "code": "04006",
+    "name": "Hiraka",
+    "deleted": true,
+    "pref_code": "04",
+    "pref_name": "Akita"
+  },
+  {
+    "code": "04007",
+    "name": "Minamiakita",
+    "deleted": false,
+    "pref_code": "04",
+    "pref_name": "Akita"
+  },
+  {
+    "code": "04008",
+    "name": "Yamamoto",
+    "deleted": false,
+    "pref_code": "04",
+    "pref_name": "Akita"
+  },
+  {
+    "code": "04009",
+    "name": "Yuri",
+    "deleted": true,
+    "pref_code": "04",
+    "pref_name": "Akita"
+  },
+  {
+    "code": "05001",
+    "name": "Akumi",
+    "deleted": false,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05002",
+    "name": "Kitamurayama",
+    "deleted": false,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05003",
+    "name": "Nishiokitama",
+    "deleted": false,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05004",
+    "name": "Nishitagawa",
+    "deleted": true,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05005",
+    "name": "Nishimurayama",
+    "deleted": false,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05006",
+    "name": "Higashiokitama",
+    "deleted": false,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05007",
+    "name": "Higashitagawa",
+    "deleted": false,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05008",
+    "name": "Higashimurayama",
+    "deleted": false,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05009",
+    "name": "Minamiokitama",
+    "deleted": true,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05010",
+    "name": "Minamimurayama",
+    "deleted": true,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "05011",
+    "name": "Mogami",
+    "deleted": false,
+    "pref_code": "05",
+    "pref_name": "Yamagata"
+  },
+  {
+    "code": "06001",
+    "name": "Igu",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06002",
+    "name": "Oshika",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06003",
+    "name": "Katta",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06004",
+    "name": "Kami",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06005",
+    "name": "Kurihara",
+    "deleted": true,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06006",
+    "name": "Kurokawa",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06007",
+    "name": "Shida",
+    "deleted": true,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06008",
+    "name": "Shibata",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06009",
+    "name": "Tamadukuri",
+    "deleted": true,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06010",
+    "name": "Toda",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06011",
+    "name": "Tome",
+    "deleted": true,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06012",
+    "name": "Natori",
+    "deleted": true,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06013",
+    "name": "Miyagi",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06014",
+    "name": "Motoyoshi",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06015",
+    "name": "Monou",
+    "deleted": true,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "06016",
+    "name": "Watari",
+    "deleted": false,
+    "pref_code": "06",
+    "pref_name": "Miyagi"
+  },
+  {
+    "code": "07001",
+    "name": "Asaka",
+    "deleted": true,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07002",
+    "name": "Adachi",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07003",
+    "name": "Ishikawa",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07004",
+    "name": "Ishiki",
+    "deleted": true,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07005",
+    "name": "Iwase",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07006",
+    "name": "Onuma",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07007",
+    "name": "Kawanuma",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07008",
+    "name": "Kitaaidu",
+    "deleted": true,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07009",
+    "name": "Shinobu",
+    "deleted": true,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07010",
+    "name": "Soma",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07011",
+    "name": "Date",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07012",
+    "name": "Tamura",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07013",
+    "name": "Nishishirakawa",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07014",
+    "name": "Higashishirakawa",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07015",
+    "name": "Futaba",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07016",
+    "name": "Minamiaidu",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "07017",
+    "name": "Yama",
+    "deleted": false,
+    "pref_code": "07",
+    "pref_name": "Fukushima"
+  },
+  {
+    "code": "08001",
+    "name": "Iwafune",
+    "deleted": false,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08002",
+    "name": "Kariwa",
+    "deleted": false,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08003",
+    "name": "Kitauonuma",
+    "deleted": true,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08004",
+    "name": "Kitakambara",
+    "deleted": false,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08005",
+    "name": "Koshi",
+    "deleted": true,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08006",
+    "name": "Sado",
+    "deleted": true,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08007",
+    "name": "Santo",
+    "deleted": false,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08008",
+    "name": "Nakauonuma",
+    "deleted": false,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08009",
+    "name": "Nakakambara",
+    "deleted": true,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08010",
+    "name": "Nakakubiki",
+    "deleted": true,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08011",
+    "name": "Nishikambara",
+    "deleted": false,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08012",
+    "name": "Nishikubiki",
+    "deleted": true,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08013",
+    "name": "Higashikambara",
+    "deleted": false,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08014",
+    "name": "Higashikubiki",
+    "deleted": true,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08015",
+    "name": "Minamiuonuma",
+    "deleted": false,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "08016",
+    "name": "Minamikambara",
+    "deleted": false,
+    "pref_code": "08",
+    "pref_name": "Niigata"
+  },
+  {
+    "code": "09001",
+    "name": "Kamiina",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09002",
+    "name": "Kamitakai",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09003",
+    "name": "Kamiminochi",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09004",
+    "name": "Kiso",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09005",
+    "name": "Kitaazumi",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09006",
+    "name": "Kitasaku",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09007",
+    "name": "Sarashina",
+    "deleted": true,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09008",
+    "name": "Shimoina",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09009",
+    "name": "Shimotakai",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09010",
+    "name": "Shimominochi",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09011",
+    "name": "Suwa",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09012",
+    "name": "Chiisagata",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09013",
+    "name": "(Reserved)",
+    "deleted": true,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09014",
+    "name": "Hanishina",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09015",
+    "name": "Higashichikuma",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09016",
+    "name": "Minamiazumi",
+    "deleted": true,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "09017",
+    "name": "Minamisaku",
+    "deleted": false,
+    "pref_code": "09",
+    "pref_name": "Nagano"
+  },
+  {
+    "code": "10001",
+    "name": "Kitatama",
+    "deleted": true,
+    "pref_code": "10",
+    "pref_name": "Tokyo"
+  },
+  {
+    "code": "10002",
+    "name": "Nishitama",
+    "deleted": false,
+    "pref_code": "10",
+    "pref_name": "Tokyo"
+  },
+  {
+    "code": "10003",
+    "name": "Minamitama",
+    "deleted": true,
+    "pref_code": "10",
+    "pref_name": "Tokyo"
+  },
+  {
+    "code": "10004",
+    "name": "Oshima",
+    "deleted": false,
+    "pref_code": "10",
+    "pref_name": "Tokyo"
+  },
+  {
+    "code": "10005",
+    "name": "Miyake",
+    "deleted": false,
+    "pref_code": "10",
+    "pref_name": "Tokyo"
+  },
+  {
+    "code": "10006",
+    "name": "Hachijo",
+    "deleted": false,
+    "pref_code": "10",
+    "pref_name": "Tokyo"
+  },
+  {
+    "code": "10007",
+    "name": "Ogasawara",
+    "deleted": false,
+    "pref_code": "10",
+    "pref_name": "Tokyo"
+  },
+  {
+    "code": "11001",
+    "name": "Aiko",
+    "deleted": false,
+    "pref_code": "11",
+    "pref_name": "Kanagawa"
+  },
+  {
+    "code": "11002",
+    "name": "Ashigarakami",
+    "deleted": false,
+    "pref_code": "11",
+    "pref_name": "Kanagawa"
+  },
+  {
+    "code": "11003",
+    "name": "Ashigarashimo",
+    "deleted": false,
+    "pref_code": "11",
+    "pref_name": "Kanagawa"
+  },
+  {
+    "code": "11004",
+    "name": "Koza",
+    "deleted": false,
+    "pref_code": "11",
+    "pref_name": "Kanagawa"
+  },
+  {
+    "code": "11005",
+    "name": "Tsukui",
+    "deleted": true,
+    "pref_code": "11",
+    "pref_name": "Kanagawa"
+  },
+  {
+    "code": "11006",
+    "name": "Naka",
+    "deleted": false,
+    "pref_code": "11",
+    "pref_name": "Kanagawa"
+  },
+  {
+    "code": "11007",
+    "name": "Miura",
+    "deleted": false,
+    "pref_code": "11",
+    "pref_name": "Kanagawa"
+  },
+  {
+    "code": "12001",
+    "name": "Awa",
+    "deleted": false,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12002",
+    "name": "Isumi",
+    "deleted": false,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12003",
+    "name": "Ichihara",
+    "deleted": true,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12004",
+    "name": "Inba",
+    "deleted": false,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12005",
+    "name": "Kaijo",
+    "deleted": true,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12006",
+    "name": "Katori",
+    "deleted": false,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12007",
+    "name": "Kimitsu",
+    "deleted": true,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12008",
+    "name": "Sambu",
+    "deleted": false,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12009",
+    "name": "Sosa",
+    "deleted": true,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12010",
+    "name": "Chiba",
+    "deleted": true,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12011",
+    "name": "Chosei",
+    "deleted": false,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "12012",
+    "name": "Higashikatsushika",
+    "deleted": true,
+    "pref_code": "12",
+    "pref_name": "Chiba"
+  },
+  {
+    "code": "13001",
+    "name": "Iruma",
+    "deleted": false,
+    "pref_code": "13",
+    "pref_name": "Saitama"
+  },
+  {
+    "code": "13002",
+    "name": "Osato",
+    "deleted": false,
+    "pref_code": "13",
+    "pref_name": "Saitama"
+  },
+  {
+    "code": "13003",
+    "name": "Kitaadachi",
+    "deleted": false,
+    "pref_code": "13",
+    "pref_name": "Saitama"
+  },
+  {
+    "code": "13004",
+    "name": "Kitakatsushika",
+    "deleted": false,
+    "pref_code": "13",
+    "pref_name": "Saitama"
+  },
+  {
+    "code": "13005",
+    "name": "Kitasaitama",
+    "deleted": true,
+    "pref_code": "13",
+    "pref_name": "Saitama"
+  },
+  {
+    "code": "13006",
+    "name": "Kodama",
+    "deleted": false,
+    "pref_code": "13",
+    "pref_name": "Saitama"
+  },
+  {
+    "code": "13007",
+    "name": "Chichibu",
+    "deleted": false,
+    "pref_code": "13",
+    "pref_name": "Saitama"
+  },
+  {
+    "code": "13008",
+    "name": "Hiki",
+    "deleted": false,
+    "pref_code": "13",
+    "pref_name": "Saitama"
+  },
+  {
+    "code": "13009",
+    "name": "Minamisaitama",
+    "deleted": false,
+    "pref_code": "13",
+    "pref_name": "Saitama"
+  },
+  {
+    "code": "14001",
+    "name": "Inashiki",
+    "deleted": false,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14002",
+    "name": "Kashima",
+    "deleted": true,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14003",
+    "name": "Kitasoma",
+    "deleted": false,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14004",
+    "name": "Kuji",
+    "deleted": false,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14005",
+    "name": "Sashima",
+    "deleted": false,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14006",
+    "name": "Taga",
+    "deleted": true,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14007",
+    "name": "Tsukuba",
+    "deleted": true,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14008",
+    "name": "Naka",
+    "deleted": false,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14009",
+    "name": "Namegata",
+    "deleted": true,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14010",
+    "name": "Niihari",
+    "deleted": true,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14011",
+    "name": "Nishiibaraki",
+    "deleted": true,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14012",
+    "name": "Higashiibaraki",
+    "deleted": false,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14013",
+    "name": "Makabe",
+    "deleted": true,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "14014",
+    "name": "Yuki",
+    "deleted": false,
+    "pref_code": "14",
+    "pref_name": "Ibaraki"
+  },
+  {
+    "code": "15001",
+    "name": "Ashikaga",
+    "deleted": true,
+    "pref_code": "15",
+    "pref_name": "Tochigi"
+  },
+  {
+    "code": "15002",
+    "name": "Aso",
+    "deleted": true,
+    "pref_code": "15",
+    "pref_name": "Tochigi"
+  },
+  {
+    "code": "15003",
+    "name": "Kamitsuga",
+    "deleted": true,
+    "pref_code": "15",
+    "pref_name": "Tochigi"
+  },
+  {
+    "code": "15004",
+    "name": "Kawachi",
+    "deleted": false,
+    "pref_code": "15",
+    "pref_name": "Tochigi"
+  },
+  {
+    "code": "15005",
+    "name": "Shioya",
+    "deleted": false,
+    "pref_code": "15",
+    "pref_name": "Tochigi"
+  },
+  {
+    "code": "15006",
+    "name": "Shimotsuga",
+    "deleted": false,
+    "pref_code": "15",
+    "pref_name": "Tochigi"
+  },
+  {
+    "code": "15007",
+    "name": "Nasu",
+    "deleted": false,
+    "pref_code": "15",
+    "pref_name": "Tochigi"
+  },
+  {
+    "code": "15008",
+    "name": "Haga",
+    "deleted": false,
+    "pref_code": "15",
+    "pref_name": "Tochigi"
+  },
+  {
+    "code": "16001",
+    "name": "Agatsuma",
+    "deleted": false,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16002",
+    "name": "Usui",
+    "deleted": true,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16003",
+    "name": "Ora",
+    "deleted": false,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16004",
+    "name": "Kanra",
+    "deleted": false,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16005",
+    "name": "Kitagumma",
+    "deleted": false,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16006",
+    "name": "Gumma",
+    "deleted": true,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16007",
+    "name": "Sawa",
+    "deleted": false,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16008",
+    "name": "Seta",
+    "deleted": true,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16009",
+    "name": "Tano",
+    "deleted": false,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16010",
+    "name": "Tone",
+    "deleted": false,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16011",
+    "name": "Nitta",
+    "deleted": true,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "16012",
+    "name": "Yamada",
+    "deleted": true,
+    "pref_code": "16",
+    "pref_name": "Gunma"
+  },
+  {
+    "code": "17001",
+    "name": "Kitakoma",
+    "deleted": true,
+    "pref_code": "17",
+    "pref_name": "Yamanashi"
+  },
+  {
+    "code": "17002",
+    "name": "Kitatsuru",
+    "deleted": false,
+    "pref_code": "17",
+    "pref_name": "Yamanashi"
+  },
+  {
+    "code": "17003",
+    "name": "Nakakoma",
+    "deleted": false,
+    "pref_code": "17",
+    "pref_name": "Yamanashi"
+  },
+  {
+    "code": "17004",
+    "name": "Nishiyatsushiro",
+    "deleted": false,
+    "pref_code": "17",
+    "pref_name": "Yamanashi"
+  },
+  {
+    "code": "17005",
+    "name": "Higashiyatsushiro",
+    "deleted": true,
+    "pref_code": "17",
+    "pref_name": "Yamanashi"
+  },
+  {
+    "code": "17006",
+    "name": "Higashiyamanashi",
+    "deleted": true,
+    "pref_code": "17",
+    "pref_name": "Yamanashi"
+  },
+  {
+    "code": "17007",
+    "name": "Minamikoma",
+    "deleted": false,
+    "pref_code": "17",
+    "pref_name": "Yamanashi"
+  },
+  {
+    "code": "17008",
+    "name": "Minamitsuru",
+    "deleted": false,
+    "pref_code": "17",
+    "pref_name": "Yamanashi"
+  },
+  {
+    "code": "18001",
+    "name": "Abe",
+    "deleted": true,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18002",
+    "name": "Inasa",
+    "deleted": true,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18003",
+    "name": "Ihara",
+    "deleted": true,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18004",
+    "name": "Iwata",
+    "deleted": true,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18005",
+    "name": "Ogasa",
+    "deleted": true,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18006",
+    "name": "Kamo",
+    "deleted": false,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18007",
+    "name": "Shida",
+    "deleted": true,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18008",
+    "name": "Shuchi",
+    "deleted": false,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18009",
+    "name": "Sunto",
+    "deleted": false,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18010",
+    "name": "Tagata",
+    "deleted": false,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18011",
+    "name": "Haibara",
+    "deleted": false,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18012",
+    "name": "Hamana",
+    "deleted": true,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "18013",
+    "name": "Fuji",
+    "deleted": true,
+    "pref_code": "18",
+    "pref_name": "Shizuoka"
+  },
+  {
+    "code": "19001",
+    "name": "Ampachi",
+    "deleted": false,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19002",
+    "name": "Inaba",
+    "deleted": true,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19003",
+    "name": "Ibi",
+    "deleted": false,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19004",
+    "name": "Ena",
+    "deleted": true,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19005",
+    "name": "Ono",
+    "deleted": false,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19006",
+    "name": "Kaizu",
+    "deleted": true,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19007",
+    "name": "Kani",
+    "deleted": false,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19008",
+    "name": "Kamo",
+    "deleted": false,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19009",
+    "name": "Gujo",
+    "deleted": true,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19010",
+    "name": "Toki",
+    "deleted": true,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19011",
+    "name": "Hashima",
+    "deleted": false,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19012",
+    "name": "Fuwa",
+    "deleted": false,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19013",
+    "name": "Mashita",
+    "deleted": true,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19014",
+    "name": "Mugi",
+    "deleted": true,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19015",
+    "name": "Motosu",
+    "deleted": false,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19016",
+    "name": "Yamagata",
+    "deleted": true,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19017",
+    "name": "Yoro",
+    "deleted": false,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "19018",
+    "name": "Yoshiki",
+    "deleted": true,
+    "pref_code": "19",
+    "pref_name": "Gifu"
+  },
+  {
+    "code": "20001",
+    "name": "Aichi",
+    "deleted": false,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20002",
+    "name": "Atsumi",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20003",
+    "name": "Ama",
+    "deleted": false,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20004",
+    "name": "Kitashitara",
+    "deleted": false,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20005",
+    "name": "Chita",
+    "deleted": false,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20006",
+    "name": "Nakashima",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20007",
+    "name": "Nishikasugai",
+    "deleted": false,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20008",
+    "name": "Nishikamo",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20009",
+    "name": "Niwa",
+    "deleted": false,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20010",
+    "name": "Nukata",
+    "deleted": false,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20011",
+    "name": "Haguri",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20012",
+    "name": "Hazu",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20013",
+    "name": "Higashikasugai",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20014",
+    "name": "Higashikamo",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20015",
+    "name": "Hekikai",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20016",
+    "name": "Hoi",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20017",
+    "name": "Minamishitara",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "20018",
+    "name": "Yana",
+    "deleted": true,
+    "pref_code": "20",
+    "pref_name": "Aichi"
+  },
+  {
+    "code": "21001",
+    "name": "Age",
+    "deleted": true,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21002",
+    "name": "Ano",
+    "deleted": true,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21003",
+    "name": "Ayama",
+    "deleted": true,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21004",
+    "name": "Iinan",
+    "deleted": true,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21005",
+    "name": "Ichishi",
+    "deleted": true,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21006",
+    "name": "Inabe",
+    "deleted": false,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21007",
+    "name": "Kawage",
+    "deleted": true,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21008",
+    "name": "Kitamuro",
+    "deleted": false,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21009",
+    "name": "Kuwana",
+    "deleted": false,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21010",
+    "name": "Shima",
+    "deleted": true,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21011",
+    "name": "Suzuka",
+    "deleted": true,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21012",
+    "name": "Taki",
+    "deleted": false,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21013",
+    "name": "Naga",
+    "deleted": true,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21014",
+    "name": "Mie",
+    "deleted": false,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21015",
+    "name": "Minamimuro",
+    "deleted": false,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "21016",
+    "name": "Watarai",
+    "deleted": false,
+    "pref_code": "21",
+    "pref_name": "Mie"
+  },
+  {
+    "code": "22001",
+    "name": "Amada",
+    "deleted": true,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22002",
+    "name": "Ikaruga",
+    "deleted": true,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22003",
+    "name": "Otokuni",
+    "deleted": false,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22004",
+    "name": "Kasa",
+    "deleted": true,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22005",
+    "name": "Kitakuwada",
+    "deleted": true,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22006",
+    "name": "Kuze",
+    "deleted": false,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22007",
+    "name": "Kumano",
+    "deleted": true,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22008",
+    "name": "Soraku",
+    "deleted": false,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22009",
+    "name": "Takeno",
+    "deleted": true,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22010",
+    "name": "Tsuduki",
+    "deleted": false,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22011",
+    "name": "Naka",
+    "deleted": true,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22012",
+    "name": "Funai",
+    "deleted": false,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22013",
+    "name": "Minamikuwada",
+    "deleted": true,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "22014",
+    "name": "Yoza",
+    "deleted": false,
+    "pref_code": "22",
+    "pref_name": "Kyoto"
+  },
+  {
+    "code": "23001",
+    "name": "Ika",
+    "deleted": true,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23002",
+    "name": "Inukami",
+    "deleted": false,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23003",
+    "name": "Echi",
+    "deleted": false,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23004",
+    "name": "Gamou",
+    "deleted": false,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23005",
+    "name": "Kanzaki",
+    "deleted": true,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23006",
+    "name": "Kurita",
+    "deleted": true,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23007",
+    "name": "Koka",
+    "deleted": true,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23008",
+    "name": "Sakata",
+    "deleted": true,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23009",
+    "name": "Shiga",
+    "deleted": true,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23010",
+    "name": "Takashima",
+    "deleted": true,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23011",
+    "name": "Higashiazai",
+    "deleted": true,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "23012",
+    "name": "Yasu",
+    "deleted": true,
+    "pref_code": "23",
+    "pref_name": "Shiga"
+  },
+  {
+    "code": "24001",
+    "name": "Ikoma",
+    "deleted": false,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "24002",
+    "name": "Uda",
+    "deleted": false,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "24003",
+    "name": "Uchi",
+    "deleted": true,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "24004",
+    "name": "Kitakatsuragi",
+    "deleted": false,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "24005",
+    "name": "Shiki",
+    "deleted": false,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "24006",
+    "name": "Soekami",
+    "deleted": true,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "24007",
+    "name": "Takaichi",
+    "deleted": false,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "24008",
+    "name": "Minamikatsuragi",
+    "deleted": true,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "24009",
+    "name": "Yamabe",
+    "deleted": false,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "24010",
+    "name": "Yoshino",
+    "deleted": false,
+    "pref_code": "24",
+    "pref_name": "Nara"
+  },
+  {
+    "code": "25001",
+    "name": "Kitakawachi",
+    "deleted": true,
+    "pref_code": "25",
+    "pref_name": "Osaka"
+  },
+  {
+    "code": "25002",
+    "name": "Sennan",
+    "deleted": false,
+    "pref_code": "25",
+    "pref_name": "Osaka"
+  },
+  {
+    "code": "25003",
+    "name": "Senboku",
+    "deleted": false,
+    "pref_code": "25",
+    "pref_name": "Osaka"
+  },
+  {
+    "code": "25004",
+    "name": "Toyono",
+    "deleted": false,
+    "pref_code": "25",
+    "pref_name": "Osaka"
+  },
+  {
+    "code": "25005",
+    "name": "Nakakawachi",
+    "deleted": true,
+    "pref_code": "25",
+    "pref_name": "Osaka"
+  },
+  {
+    "code": "25006",
+    "name": "Mishima",
+    "deleted": false,
+    "pref_code": "25",
+    "pref_name": "Osaka"
+  },
+  {
+    "code": "25007",
+    "name": "Minamikawachi",
+    "deleted": false,
+    "pref_code": "25",
+    "pref_name": "Osaka"
+  },
+  {
+    "code": "26001",
+    "name": "Arida",
+    "deleted": false,
+    "pref_code": "26",
+    "pref_name": "Wakayama"
+  },
+  {
+    "code": "26002",
+    "name": "Ito",
+    "deleted": false,
+    "pref_code": "26",
+    "pref_name": "Wakayama"
+  },
+  {
+    "code": "26003",
+    "name": "Kaiso",
+    "deleted": false,
+    "pref_code": "26",
+    "pref_name": "Wakayama"
+  },
+  {
+    "code": "26004",
+    "name": "Naga",
+    "deleted": true,
+    "pref_code": "26",
+    "pref_name": "Wakayama"
+  },
+  {
+    "code": "26005",
+    "name": "Nishimuro",
+    "deleted": false,
+    "pref_code": "26",
+    "pref_name": "Wakayama"
+  },
+  {
+    "code": "26006",
+    "name": "Higashimuro",
+    "deleted": false,
+    "pref_code": "26",
+    "pref_name": "Wakayama"
+  },
+  {
+    "code": "26007",
+    "name": "Hidaka",
+    "deleted": false,
+    "pref_code": "26",
+    "pref_name": "Wakayama"
+  },
+  {
+    "code": "27001",
+    "name": "Akou",
+    "deleted": false,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27002",
+    "name": "Asago",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27003",
+    "name": "Arima",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27004",
+    "name": "Izushi",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27005",
+    "name": "Ibo",
+    "deleted": false,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27006",
+    "name": "Innami",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27007",
+    "name": "Kako",
+    "deleted": false,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27008",
+    "name": "Kasai",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27009",
+    "name": "Kato",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27010",
+    "name": "Kawabe",
+    "deleted": false,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27011",
+    "name": "Kanzaki",
+    "deleted": false,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27012",
+    "name": "Kinosaki",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27013",
+    "name": "Sayo",
+    "deleted": false,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27014",
+    "name": "Shikama",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27015",
+    "name": "Shiso",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27016",
+    "name": "Taka",
+    "deleted": false,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27017",
+    "name": "Taki",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27018",
+    "name": "Tsuna",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27019",
+    "name": "Hikami",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27020",
+    "name": "Mikata",
+    "deleted": false,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27021",
+    "name": "Mino",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27022",
+    "name": "Mihara",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27023",
+    "name": "Muko",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "27024",
+    "name": "Yabu",
+    "deleted": true,
+    "pref_code": "27",
+    "pref_name": "Hyogo"
+  },
+  {
+    "code": "28001",
+    "name": "Imizu",
+    "deleted": true,
+    "pref_code": "28",
+    "pref_name": "Toyama"
+  },
+  {
+    "code": "28002",
+    "name": "Kaminiikawa",
+    "deleted": true,
+    "pref_code": "28",
+    "pref_name": "Toyama"
+  },
+  {
+    "code": "28003",
+    "name": "Shimoniikawa",
+    "deleted": false,
+    "pref_code": "28",
+    "pref_name": "Toyama"
+  },
+  {
+    "code": "28004",
+    "name": "Nakaniikawa",
+    "deleted": false,
+    "pref_code": "28",
+    "pref_name": "Toyama"
+  },
+  {
+    "code": "28005",
+    "name": "Nishitonami",
+    "deleted": true,
+    "pref_code": "28",
+    "pref_name": "Toyama"
+  },
+  {
+    "code": "28006",
+    "name": "Nei",
+    "deleted": true,
+    "pref_code": "28",
+    "pref_name": "Toyama"
+  },
+  {
+    "code": "28007",
+    "name": "Himi",
+    "deleted": true,
+    "pref_code": "28",
+    "pref_name": "Toyama"
+  },
+  {
+    "code": "28008",
+    "name": "Higashitonami",
+    "deleted": true,
+    "pref_code": "28",
+    "pref_name": "Toyama"
+  },
+  {
+    "code": "29001",
+    "name": "Asuwa",
+    "deleted": true,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29002",
+    "name": "Imadate",
+    "deleted": false,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29003",
+    "name": "Oi",
+    "deleted": false,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29004",
+    "name": "Ono",
+    "deleted": true,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29005",
+    "name": "Onyu",
+    "deleted": true,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29006",
+    "name": "Sakai",
+    "deleted": true,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29007",
+    "name": "Tsuruga",
+    "deleted": true,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29008",
+    "name": "Nanjo",
+    "deleted": false,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29009",
+    "name": "Nyuu",
+    "deleted": false,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29010",
+    "name": "Mikata",
+    "deleted": false,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29011",
+    "name": "Yoshida",
+    "deleted": false,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "29012",
+    "name": "Mikatakaminaka",
+    "deleted": false,
+    "pref_code": "29",
+    "pref_name": "Fukui"
+  },
+  {
+    "code": "30001",
+    "name": "Ishikawa",
+    "deleted": true,
+    "pref_code": "30",
+    "pref_name": "Ishikawa"
+  },
+  {
+    "code": "30002",
+    "name": "Enuma",
+    "deleted": true,
+    "pref_code": "30",
+    "pref_name": "Ishikawa"
+  },
+  {
+    "code": "30003",
+    "name": "Kashima",
+    "deleted": false,
+    "pref_code": "30",
+    "pref_name": "Ishikawa"
+  },
+  {
+    "code": "30004",
+    "name": "Kahoku",
+    "deleted": false,
+    "pref_code": "30",
+    "pref_name": "Ishikawa"
+  },
+  {
+    "code": "30005",
+    "name": "Suzu",
+    "deleted": true,
+    "pref_code": "30",
+    "pref_name": "Ishikawa"
+  },
+  {
+    "code": "30006",
+    "name": "Nomi",
+    "deleted": false,
+    "pref_code": "30",
+    "pref_name": "Ishikawa"
+  },
+  {
+    "code": "30007",
+    "name": "Hakui",
+    "deleted": false,
+    "pref_code": "30",
+    "pref_name": "Ishikawa"
+  },
+  {
+    "code": "30008",
+    "name": "Fugeshi",
+    "deleted": true,
+    "pref_code": "30",
+    "pref_name": "Ishikawa"
+  },
+  {
+    "code": "30009",
+    "name": "Housu",
+    "deleted": false,
+    "pref_code": "30",
+    "pref_name": "Ishikawa"
+  },
+  {
+    "code": "31001",
+    "name": "Aida",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31002",
+    "name": "Akaiwa",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31003",
+    "name": "Asakuchi",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31004",
+    "name": "Atetsu",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31005",
+    "name": "Oku",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31006",
+    "name": "Oda",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31007",
+    "name": "Katsuta",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31008",
+    "name": "Kawakami",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31009",
+    "name": "Kibi",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31010",
+    "name": "Kume",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31011",
+    "name": "Kojima",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31012",
+    "name": "Shitsuki",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31013",
+    "name": "Jodo",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31014",
+    "name": "Jobo",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31015",
+    "name": "Tsukubo",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31016",
+    "name": "Tomada",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31017",
+    "name": "Maniwa",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31018",
+    "name": "Mitsu",
+    "deleted": true,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31019",
+    "name": "Wake",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "31020",
+    "name": "Kaga",
+    "deleted": false,
+    "pref_code": "31",
+    "pref_name": "Okayama"
+  },
+  {
+    "code": "32001",
+    "name": "Ano",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32002",
+    "name": "Ama",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32003",
+    "name": "Iishi",
+    "deleted": false,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32004",
+    "name": "Ochi",
+    "deleted": false,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32005",
+    "name": "Ohara",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32006",
+    "name": "Oki",
+    "deleted": false,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32007",
+    "name": "Ochi",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32008",
+    "name": "Kanoashi",
+    "deleted": false,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32009",
+    "name": "Suki",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32010",
+    "name": "Chibu",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32011",
+    "name": "Naka",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32012",
+    "name": "Nita",
+    "deleted": false,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32013",
+    "name": "Nima",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32014",
+    "name": "Nogi",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32015",
+    "name": "Hikawa",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32016",
+    "name": "Mino",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "32017",
+    "name": "Yatsuka",
+    "deleted": true,
+    "pref_code": "32",
+    "pref_name": "Shimane"
+  },
+  {
+    "code": "33001",
+    "name": "Asa",
+    "deleted": true,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33002",
+    "name": "Abu",
+    "deleted": false,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33003",
+    "name": "Oshima",
+    "deleted": false,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33004",
+    "name": "Otsu",
+    "deleted": true,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33005",
+    "name": "Kuga",
+    "deleted": false,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33006",
+    "name": "Kumage",
+    "deleted": false,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33007",
+    "name": "Saba",
+    "deleted": true,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33008",
+    "name": "Tsuno",
+    "deleted": true,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33009",
+    "name": "Toyoura",
+    "deleted": true,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33010",
+    "name": "Mine",
+    "deleted": true,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "33011",
+    "name": "Yoshiki",
+    "deleted": true,
+    "pref_code": "33",
+    "pref_name": "Yamaguchi"
+  },
+  {
+    "code": "34001",
+    "name": "Iwami",
+    "deleted": false,
+    "pref_code": "34",
+    "pref_name": "Tottori"
+  },
+  {
+    "code": "34002",
+    "name": "Ketaka",
+    "deleted": true,
+    "pref_code": "34",
+    "pref_name": "Tottori"
+  },
+  {
+    "code": "34003",
+    "name": "Saihaku",
+    "deleted": false,
+    "pref_code": "34",
+    "pref_name": "Tottori"
+  },
+  {
+    "code": "34004",
+    "name": "Tohaku",
+    "deleted": false,
+    "pref_code": "34",
+    "pref_name": "Tottori"
+  },
+  {
+    "code": "34005",
+    "name": "Hino",
+    "deleted": false,
+    "pref_code": "34",
+    "pref_name": "Tottori"
+  },
+  {
+    "code": "34006",
+    "name": "Yazu",
+    "deleted": false,
+    "pref_code": "34",
+    "pref_name": "Tottori"
+  },
+  {
+    "code": "35001",
+    "name": "Aki",
+    "deleted": false,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35002",
+    "name": "Asa",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35003",
+    "name": "Ashina",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35004",
+    "name": "Kamo",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35005",
+    "name": "Konu",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35006",
+    "name": "Saeki",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35007",
+    "name": "Jinseki",
+    "deleted": false,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35008",
+    "name": "Sera",
+    "deleted": false,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35009",
+    "name": "Takata",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35010",
+    "name": "Toyota",
+    "deleted": false,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35011",
+    "name": "Numakuma",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35012",
+    "name": "Hiba",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35013",
+    "name": "Fukayasu",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35014",
+    "name": "Futami",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35015",
+    "name": "Mitsugi",
+    "deleted": true,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "35016",
+    "name": "Yamagata",
+    "deleted": false,
+    "pref_code": "35",
+    "pref_name": "Hiroshima"
+  },
+  {
+    "code": "36001",
+    "name": "Ayauta",
+    "deleted": false,
+    "pref_code": "36",
+    "pref_name": "Kagawa"
+  },
+  {
+    "code": "36002",
+    "name": "Okawa",
+    "deleted": true,
+    "pref_code": "36",
+    "pref_name": "Kagawa"
+  },
+  {
+    "code": "36003",
+    "name": "Kagawa",
+    "deleted": false,
+    "pref_code": "36",
+    "pref_name": "Kagawa"
+  },
+  {
+    "code": "36004",
+    "name": "Kita",
+    "deleted": false,
+    "pref_code": "36",
+    "pref_name": "Kagawa"
+  },
+  {
+    "code": "36005",
+    "name": "Syozu",
+    "deleted": false,
+    "pref_code": "36",
+    "pref_name": "Kagawa"
+  },
+  {
+    "code": "36006",
+    "name": "Nakatado",
+    "deleted": false,
+    "pref_code": "36",
+    "pref_name": "Kagawa"
+  },
+  {
+    "code": "36007",
+    "name": "Mitoyo",
+    "deleted": true,
+    "pref_code": "36",
+    "pref_name": "Kagawa"
+  },
+  {
+    "code": "37001",
+    "name": "Awa",
+    "deleted": true,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "37002",
+    "name": "Itano",
+    "deleted": false,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "37003",
+    "name": "Oe",
+    "deleted": true,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "37004",
+    "name": "Kaifu",
+    "deleted": false,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "37005",
+    "name": "Katsuura",
+    "deleted": false,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "37006",
+    "name": "Naka",
+    "deleted": false,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "37007",
+    "name": "Myozai",
+    "deleted": false,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "37008",
+    "name": "Myodo",
+    "deleted": false,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "37009",
+    "name": "Mima",
+    "deleted": false,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "37010",
+    "name": "Miyoshi",
+    "deleted": false,
+    "pref_code": "37",
+    "pref_name": "Tokushima"
+  },
+  {
+    "code": "38001",
+    "name": "Iyo",
+    "deleted": false,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38002",
+    "name": "Uma",
+    "deleted": true,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38003",
+    "name": "Ochi",
+    "deleted": false,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38004",
+    "name": "Onsen",
+    "deleted": true,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38005",
+    "name": "Kamiukena",
+    "deleted": false,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38006",
+    "name": "Kita",
+    "deleted": false,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38007",
+    "name": "Kitauwa",
+    "deleted": false,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38008",
+    "name": "Shuso",
+    "deleted": true,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38009",
+    "name": "Nii",
+    "deleted": true,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38010",
+    "name": "Nishiuwa",
+    "deleted": false,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38011",
+    "name": "Higashiuwa",
+    "deleted": true,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "38012",
+    "name": "Minamiuwa",
+    "deleted": false,
+    "pref_code": "38",
+    "pref_name": "Ehime"
+  },
+  {
+    "code": "39001",
+    "name": "Agawa",
+    "deleted": false,
+    "pref_code": "39",
+    "pref_name": "Kochi"
+  },
+  {
+    "code": "39002",
+    "name": "Aki",
+    "deleted": false,
+    "pref_code": "39",
+    "pref_name": "Kochi"
+  },
+  {
+    "code": "39003",
+    "name": "Kami",
+    "deleted": true,
+    "pref_code": "39",
+    "pref_name": "Kochi"
+  },
+  {
+    "code": "39004",
+    "name": "Takaoka",
+    "deleted": false,
+    "pref_code": "39",
+    "pref_name": "Kochi"
+  },
+  {
+    "code": "39005",
+    "name": "Tosa",
+    "deleted": false,
+    "pref_code": "39",
+    "pref_name": "Kochi"
+  },
+  {
+    "code": "39006",
+    "name": "Nagaoka",
+    "deleted": false,
+    "pref_code": "39",
+    "pref_name": "Kochi"
+  },
+  {
+    "code": "39007",
+    "name": "Hata",
+    "deleted": false,
+    "pref_code": "39",
+    "pref_name": "Kochi"
+  },
+  {
+    "code": "40001",
+    "name": "Asakura",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40002",
+    "name": "Itoshima",
+    "deleted": true,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40003",
+    "name": "Ukiha",
+    "deleted": true,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40004",
+    "name": "Onga",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40005",
+    "name": "Kasuya",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40006",
+    "name": "Kaho",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40007",
+    "name": "Kurate",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40008",
+    "name": "Sawara",
+    "deleted": true,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40009",
+    "name": "Tagawa",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40010",
+    "name": "Chikushi",
+    "deleted": true,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40011",
+    "name": "Chikujo",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40012",
+    "name": "Mii",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40013",
+    "name": "Miike",
+    "deleted": true,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40014",
+    "name": "Mizuma",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40015",
+    "name": "Miyako",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40016",
+    "name": "Munakata",
+    "deleted": true,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40017",
+    "name": "Yamato",
+    "deleted": true,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "40018",
+    "name": "Yame",
+    "deleted": false,
+    "pref_code": "40",
+    "pref_name": "Fukuoka"
+  },
+  {
+    "code": "41001",
+    "name": "Ogi",
+    "deleted": true,
+    "pref_code": "41",
+    "pref_name": "Saga"
+  },
+  {
+    "code": "41002",
+    "name": "Kanzaki",
+    "deleted": false,
+    "pref_code": "41",
+    "pref_name": "Saga"
+  },
+  {
+    "code": "41003",
+    "name": "Kishima",
+    "deleted": false,
+    "pref_code": "41",
+    "pref_name": "Saga"
+  },
+  {
+    "code": "41004",
+    "name": "Saga",
+    "deleted": true,
+    "pref_code": "41",
+    "pref_name": "Saga"
+  },
+  {
+    "code": "41005",
+    "name": "Nishimatsuura",
+    "deleted": false,
+    "pref_code": "41",
+    "pref_name": "Saga"
+  },
+  {
+    "code": "41006",
+    "name": "Higashimatsuura",
+    "deleted": false,
+    "pref_code": "41",
+    "pref_name": "Saga"
+  },
+  {
+    "code": "41007",
+    "name": "Fujitsu",
+    "deleted": false,
+    "pref_code": "41",
+    "pref_name": "Saga"
+  },
+  {
+    "code": "41008",
+    "name": "Miyaki",
+    "deleted": false,
+    "pref_code": "41",
+    "pref_name": "Saga"
+  },
+  {
+    "code": "42001",
+    "name": "Iki",
+    "deleted": true,
+    "pref_code": "42",
+    "pref_name": "Nagasaki"
+  },
+  {
+    "code": "42002",
+    "name": "Kamiagata",
+    "deleted": true,
+    "pref_code": "42",
+    "pref_name": "Nagasaki"
+  },
+  {
+    "code": "42003",
+    "name": "Kitatakaki",
+    "deleted": true,
+    "pref_code": "42",
+    "pref_name": "Nagasaki"
+  },
+  {
+    "code": "42004",
+    "name": "Kitamatsuura",
+    "deleted": false,
+    "pref_code": "42",
+    "pref_name": "Nagasaki"
+  },
+  {
+    "code": "42005",
+    "name": "Shimoagata",
+    "deleted": true,
+    "pref_code": "42",
+    "pref_name": "Nagasaki"
+  },
+  {
+    "code": "42006",
+    "name": "Nishisonogi",
+    "deleted": false,
+    "pref_code": "42",
+    "pref_name": "Nagasaki"
+  },
+  {
+    "code": "42007",
+    "name": "Higashisonogi",
+    "deleted": false,
+    "pref_code": "42",
+    "pref_name": "Nagasaki"
+  },
+  {
+    "code": "42008",
+    "name": "Minamitakaki",
+    "deleted": true,
+    "pref_code": "42",
+    "pref_name": "Nagasaki"
+  },
+  {
+    "code": "42009",
+    "name": "Minamimatsuura",
+    "deleted": false,
+    "pref_code": "42",
+    "pref_name": "Nagasaki"
+  },
+  {
+    "code": "43001",
+    "name": "Ashikita",
+    "deleted": false,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43002",
+    "name": "Aso",
+    "deleted": false,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43003",
+    "name": "Amakusa",
+    "deleted": false,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43004",
+    "name": "Uto",
+    "deleted": true,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43005",
+    "name": "Kamimashiki",
+    "deleted": false,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43006",
+    "name": "Kamoto",
+    "deleted": true,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43007",
+    "name": "Kikuchi",
+    "deleted": false,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43008",
+    "name": "Kuma",
+    "deleted": false,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43009",
+    "name": "Shimomashiki",
+    "deleted": false,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43010",
+    "name": "Tamana",
+    "deleted": false,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43011",
+    "name": "Hotaku",
+    "deleted": true,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "43012",
+    "name": "Yatsushiro",
+    "deleted": false,
+    "pref_code": "43",
+    "pref_name": "Kumamoto"
+  },
+  {
+    "code": "44001",
+    "name": "Usa",
+    "deleted": true,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44002",
+    "name": "Oita",
+    "deleted": true,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44003",
+    "name": "Ono",
+    "deleted": true,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44004",
+    "name": "Kitaamabe",
+    "deleted": true,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44005",
+    "name": "kusu",
+    "deleted": false,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44006",
+    "name": "Shimoge",
+    "deleted": true,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44007",
+    "name": "Naoiri",
+    "deleted": true,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44008",
+    "name": "Nishikunisaki",
+    "deleted": true,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44009",
+    "name": "Hayami",
+    "deleted": false,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44010",
+    "name": "Higashikunisaki",
+    "deleted": false,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44011",
+    "name": "Hita",
+    "deleted": true,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "44012",
+    "name": "Minamiamabe",
+    "deleted": true,
+    "pref_code": "44",
+    "pref_name": "Oita"
+  },
+  {
+    "code": "45001",
+    "name": "Kitamorokata",
+    "deleted": false,
+    "pref_code": "45",
+    "pref_name": "Miyazaki"
+  },
+  {
+    "code": "45002",
+    "name": "Koyu",
+    "deleted": false,
+    "pref_code": "45",
+    "pref_name": "Miyazaki"
+  },
+  {
+    "code": "45003",
+    "name": "Nishiusuki",
+    "deleted": false,
+    "pref_code": "45",
+    "pref_name": "Miyazaki"
+  },
+  {
+    "code": "45004",
+    "name": "Nishimorokata",
+    "deleted": false,
+    "pref_code": "45",
+    "pref_name": "Miyazaki"
+  },
+  {
+    "code": "45005",
+    "name": "Higashiusuki",
+    "deleted": false,
+    "pref_code": "45",
+    "pref_name": "Miyazaki"
+  },
+  {
+    "code": "45006",
+    "name": "Higashimorokata",
+    "deleted": false,
+    "pref_code": "45",
+    "pref_name": "Miyazaki"
+  },
+  {
+    "code": "45007",
+    "name": "Minaminaka",
+    "deleted": true,
+    "pref_code": "45",
+    "pref_name": "Miyazaki"
+  },
+  {
+    "code": "45008",
+    "name": "Miyazaki",
+    "deleted": true,
+    "pref_code": "45",
+    "pref_name": "Miyazaki"
+  },
+  {
+    "code": "46001",
+    "name": "Aira",
+    "deleted": false,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46002",
+    "name": "Isa",
+    "deleted": true,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46003",
+    "name": "Izumi",
+    "deleted": false,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46004",
+    "name": "Ibusuki",
+    "deleted": true,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46005",
+    "name": "Oshima",
+    "deleted": false,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46006",
+    "name": "Kagoshima",
+    "deleted": false,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46007",
+    "name": "Kawanabe",
+    "deleted": true,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46008",
+    "name": "Kimotsuki",
+    "deleted": false,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46009",
+    "name": "Kumage",
+    "deleted": false,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46010",
+    "name": "Satsuma",
+    "deleted": false,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46011",
+    "name": "Soo",
+    "deleted": false,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "46012",
+    "name": "Hioki",
+    "deleted": true,
+    "pref_code": "46",
+    "pref_name": "Kagoshima"
+  },
+  {
+    "code": "47001",
+    "name": "Kunigami",
+    "deleted": false,
+    "pref_code": "47",
+    "pref_name": "Okinawa"
+  },
+  {
+    "code": "47002",
+    "name": "Shimajiri",
+    "deleted": false,
+    "pref_code": "47",
+    "pref_name": "Okinawa"
+  },
+  {
+    "code": "47003",
+    "name": "Nakagami",
+    "deleted": false,
+    "pref_code": "47",
+    "pref_name": "Okinawa"
+  },
+  {
+    "code": "47004",
+    "name": "Miyako",
+    "deleted": false,
+    "pref_code": "47",
+    "pref_name": "Okinawa"
+  },
+  {
+    "code": "47005",
+    "name": "Yaeyama",
+    "deleted": false,
+    "pref_code": "47",
+    "pref_name": "Okinawa"
+  }
+]

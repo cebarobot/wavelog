@@ -1,0 +1,7714 @@
+[
+  {
+    "qid": "Q865650",
+    "name": "Ōhara district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185421",
+    "name": "Abuta district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.775886111,
+    "lon": 140.818163888
+  },
+  {
+    "qid": "Q1155891",
+    "name": "Kitatsugaru district",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": 40.984,
+    "lon": 140.45
+  },
+  {
+    "qid": "Q528369",
+    "name": "Mizuma district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.2146,
+    "lon": 130.4412
+  },
+  {
+    "qid": "Q1185931",
+    "name": "Shimamaki district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.633055555,
+    "lon": 140.03
+  },
+  {
+    "qid": "Q616396",
+    "name": "Shimominochi district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.89,
+    "lon": 138.574
+  },
+  {
+    "qid": "Q39351",
+    "name": "Samukawa district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1156846",
+    "name": "Nishimorokata district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": 31.93588,
+    "lon": 130.99834
+  },
+  {
+    "qid": "Q1156362",
+    "name": "Onga district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.864,
+    "lon": 130.636
+  },
+  {
+    "qid": "Q1156155",
+    "name": "Kitamatsuura district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": 33.232,
+    "lon": 129.66
+  },
+  {
+    "qid": "Q1155887",
+    "name": "Minamitsugaru District",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": 40.475,
+    "lon": 140.548055555
+  },
+  {
+    "qid": "Q385402",
+    "name": "Ōmi district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.451111,
+    "lon": 134.2175
+  },
+  {
+    "qid": "Q767312",
+    "name": "Chita district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 34.83625,
+    "lon": 136.91577
+  },
+  {
+    "qid": "Q629725",
+    "name": "Yaeyama District",
+    "pref_name": "Okinawa Prefecture",
+    "pref_qid": "Q766445",
+    "lat": 24.274444444,
+    "lon": 123.866111111
+  },
+  {
+    "qid": "Q31312",
+    "name": "Mitoyo district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1156109",
+    "name": "Nishisonogi district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": 32.8317,
+    "lon": 129.868
+  },
+  {
+    "qid": "Q1155899",
+    "name": "Higashishirakawa district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 36.954,
+    "lon": 140.472
+  },
+  {
+    "qid": "Q44611",
+    "name": "Kawachi district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": 36.43805556,
+    "lon": 139.91
+  },
+  {
+    "qid": "Q1185437",
+    "name": "Kamikawa district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.72,
+    "lon": 142.84
+  },
+  {
+    "qid": "Q1155934",
+    "name": "Kagawa district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": 34.461,
+    "lon": 133.983
+  },
+  {
+    "qid": "Q615068",
+    "name": "Hashima district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.3743657,
+    "lon": 136.7774817
+  },
+  {
+    "qid": "Q646275",
+    "name": "Senboku district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": 34.48333333,
+    "lon": 135.38333333
+  },
+  {
+    "qid": "Q690865",
+    "name": "Nakagawa district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 44.48333333,
+    "lon": 142.35
+  },
+  {
+    "qid": "Q1185388",
+    "name": "Shakotan district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.297,
+    "lon": 140.466
+  },
+  {
+    "qid": "Q532276",
+    "name": "Futami district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.25,
+    "lon": 140.26666667
+  },
+  {
+    "qid": "Q548504",
+    "name": "Kasai district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.781,
+    "lon": 142.93
+  },
+  {
+    "qid": "Q521316",
+    "name": "Fuwa district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.370866666,
+    "lon": 136.480119444
+  },
+  {
+    "qid": "Q726999",
+    "name": "Shimoina district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 35.432,
+    "lon": 137.74
+  },
+  {
+    "qid": "Q658585",
+    "name": "Tokachi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.915,
+    "lon": 143.691
+  },
+  {
+    "qid": "Q1156527",
+    "name": "Ogachi district",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 39.181,
+    "lon": 140.404
+  },
+  {
+    "qid": "Q677245",
+    "name": "Inba district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": 35.824,
+    "lon": 140.256
+  },
+  {
+    "qid": "Q1155879",
+    "name": "Shimohei district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 39.86666667,
+    "lon": 141.78333333
+  },
+  {
+    "qid": "Q1156377",
+    "name": "Minamimatsuura district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": 32.96472222,
+    "lon": 129.07916667
+  },
+  {
+    "qid": "Q44438",
+    "name": "Mino district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185927",
+    "name": "Yoichi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.117,
+    "lon": 140.798
+  },
+  {
+    "qid": "Q599471",
+    "name": "Akan district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.23015,
+    "lon": 144.321125
+  },
+  {
+    "qid": "Q787290",
+    "name": "Nukata district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 34.866666666,
+    "lon": 137.166666666
+  },
+  {
+    "qid": "Q737826",
+    "name": "Yoshida district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": 36.0791,
+    "lon": 136.357
+  },
+  {
+    "qid": "Q736755",
+    "name": "Takaoka District",
+    "pref_name": "Kōchi Prefecture",
+    "pref_qid": "Q134093",
+    "lat": 33.337,
+    "lon": 133.08
+  },
+  {
+    "qid": "Q1156031",
+    "name": "Miyoshi district",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": 34.037,
+    "lon": 133.914
+  },
+  {
+    "qid": "Q1185413",
+    "name": "Kamikawa district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.5443,
+    "lon": 143.021
+  },
+  {
+    "qid": "Q1155883",
+    "name": "Sannohe District",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": 40.436944444,
+    "lon": 141.321388888
+  },
+  {
+    "qid": "Q384971",
+    "name": "Oi district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": 35.427,
+    "lon": 135.564
+  },
+  {
+    "qid": "Q685886",
+    "name": "Ama district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.094858333,
+    "lon": 136.793633333
+  },
+  {
+    "qid": "Q775317",
+    "name": "Minamikanbara district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 37.7015,
+    "lon": 139.069
+  },
+  {
+    "qid": "Q726661",
+    "name": "Hanishina district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.4625081,
+    "lon": 138.1825605
+  },
+  {
+    "qid": "Q783553",
+    "name": "Mishima district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": 34.8975,
+    "lon": 135.6535
+  },
+  {
+    "qid": "Q642394",
+    "name": "Agatsuma district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": 36.566666666,
+    "lon": 138.816666666
+  },
+  {
+    "qid": "Q1185403",
+    "name": "Kudō district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.24694444,
+    "lon": 139.98694444
+  },
+  {
+    "qid": "Q303497",
+    "name": "Kuga district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": 34.1895,
+    "lon": 132.2115
+  },
+  {
+    "qid": "Q1185461",
+    "name": "Furuu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.160151,
+    "lon": 140.456055
+  },
+  {
+    "qid": "Q1156374",
+    "name": "Yame district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.2513,
+    "lon": 130.561
+  },
+  {
+    "qid": "Q795245",
+    "name": "Tsugaru district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155896",
+    "name": "Yamamoto district",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 40.284,
+    "lon": 140.26
+  },
+  {
+    "qid": "Q1155929",
+    "name": "Kita district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": 34.238055555,
+    "lon": 134.135
+  },
+  {
+    "qid": "Q605134",
+    "name": "Kitashitara district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.133333333,
+    "lon": 137.65
+  },
+  {
+    "qid": "Q1167153",
+    "name": "Futaba district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.447222222,
+    "lon": 141.005555555
+  },
+  {
+    "qid": "Q31478",
+    "name": "Ōchi district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q541999",
+    "name": "Minamiuwa district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 32.994,
+    "lon": 132.584
+  },
+  {
+    "qid": "Q786450",
+    "name": "Iwate District",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 39.81027778,
+    "lon": 141.12277778
+  },
+  {
+    "qid": "Q1185873",
+    "name": "Nishi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.022,
+    "lon": 140.186
+  },
+  {
+    "qid": "Q788502",
+    "name": "Nishikasugai district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.255,
+    "lon": 136.9173
+  },
+  {
+    "qid": "Q1156037",
+    "name": "Waga district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 39.437,
+    "lon": 140.776
+  },
+  {
+    "qid": "Q1185879",
+    "name": "Isoya District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.835,
+    "lon": 140.468055555
+  },
+  {
+    "qid": "Q1155867",
+    "name": "Nishitsugaru District",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": 40.611,
+    "lon": 140.056
+  },
+  {
+    "qid": "Q1156623",
+    "name": "Kaho district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.5812,
+    "lon": 130.6793
+  },
+  {
+    "qid": "Q1156496",
+    "name": "Mima district",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": 33.975,
+    "lon": 134.051
+  },
+  {
+    "qid": "Q1156370",
+    "name": "Higashisonogi district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": 33.083,
+    "lon": 129.879
+  },
+  {
+    "qid": "Q733727",
+    "name": "Semboku district",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 39.433,
+    "lon": 140.597
+  },
+  {
+    "qid": "Q776029",
+    "name": "Nanjo District",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": 35.77694444,
+    "lon": 136.22611111
+  },
+  {
+    "qid": "Q367648",
+    "name": "Miyako District",
+    "pref_name": "Okinawa Prefecture",
+    "pref_qid": "Q766445",
+    "lat": 24.653888888,
+    "lon": 124.695
+  },
+  {
+    "qid": "Q735735",
+    "name": "Oki District",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": 36.225,
+    "lon": 133.245
+  },
+  {
+    "qid": "Q1156629",
+    "name": "Minaminaka district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": 31.6015,
+    "lon": 131.379
+  },
+  {
+    "qid": "Q634914",
+    "name": "Katsuta district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 35.11,
+    "lon": 134.162
+  },
+  {
+    "qid": "Q278828",
+    "name": "Suzuka district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155923",
+    "name": "Kaifu district",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": 33.691,
+    "lon": 134.375
+  },
+  {
+    "qid": "Q266830",
+    "name": "Noma district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155866",
+    "name": "Adachi district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.58333,
+    "lon": 140.41667
+  },
+  {
+    "qid": "Q1156353",
+    "name": "Tagawa district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.627,
+    "lon": 130.858
+  },
+  {
+    "qid": "Q1177385",
+    "name": "Minamishitara district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 34.9,
+    "lon": 137.5
+  },
+  {
+    "qid": "Q1185945",
+    "name": "Furubira district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.26666667,
+    "lon": 140.63333333
+  },
+  {
+    "qid": "Q1185443",
+    "name": "Kayabe district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.069,
+    "lon": 140.622
+  },
+  {
+    "qid": "Q376858",
+    "name": "Otokuni district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": 34.9,
+    "lon": 135.690555555
+  },
+  {
+    "qid": "Q643336",
+    "name": "Shozu District",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": 34.508,
+    "lon": 134.269
+  },
+  {
+    "qid": "Q31671",
+    "name": "Ono district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 36.21,
+    "lon": 136.869
+  },
+  {
+    "qid": "Q720631",
+    "name": "Asakura district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.436111111,
+    "lon": 130.604166666
+  },
+  {
+    "qid": "Q1156359",
+    "name": "Miyako district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.7,
+    "lon": 130.918055555
+  },
+  {
+    "qid": "Q676000",
+    "name": "Kani district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.4324,
+    "lon": 137.146
+  },
+  {
+    "qid": "Q1156095",
+    "name": "Mii district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.3887,
+    "lon": 130.607
+  },
+  {
+    "qid": "Q552687",
+    "name": "Aichi district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.15,
+    "lon": 137.05
+  },
+  {
+    "qid": "Q430498",
+    "name": "Kitamurayama district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": 38.604,
+    "lon": 140.332
+  },
+  {
+    "qid": "Q1156025",
+    "name": "Itano district",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": 34.131,
+    "lon": 134.482
+  },
+  {
+    "qid": "Q1185449",
+    "name": "Suttsu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.702,
+    "lon": 140.327
+  },
+  {
+    "qid": "Q482062",
+    "name": "Atsumi district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q44439",
+    "name": "Toyota district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q798772",
+    "name": "Minamiuonuma district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 36.869,
+    "lon": 138.817
+  },
+  {
+    "qid": "Q1155869",
+    "name": "Ishikawa district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.132,
+    "lon": 140.556
+  },
+  {
+    "qid": "Q780284",
+    "name": "Katori district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": 35.78,
+    "lon": 140.478055555
+  },
+  {
+    "qid": "Q522936",
+    "name": "Hazu district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 34.82323,
+    "lon": 137.021192
+  },
+  {
+    "qid": "Q1156492",
+    "name": "Naka district",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": 33.818,
+    "lon": 134.244
+  },
+  {
+    "qid": "Q1156486",
+    "name": "Myodo District",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": 33.9895,
+    "lon": 134.455
+  },
+  {
+    "qid": "Q634439",
+    "name": "Shimoniikawa district",
+    "pref_name": "Toyama Prefecture",
+    "pref_qid": "Q132929",
+    "lat": 36.914,
+    "lon": 137.616
+  },
+  {
+    "qid": "Q917024",
+    "name": "Saihaku district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.363055555,
+    "lon": 133.43
+  },
+  {
+    "qid": "Q10876907",
+    "name": "Toyotama district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10876926",
+    "name": "Toshima district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185957",
+    "name": "Soya District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 45.24083,
+    "lon": 142.12114
+  },
+  {
+    "qid": "Q1042141",
+    "name": "Ako district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 34.866666666,
+    "lon": 134.35
+  },
+  {
+    "qid": "Q7850092",
+    "name": "Tsukuba district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7830939",
+    "name": "Toyoura district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1186022",
+    "name": "Horoizumi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.074,
+    "lon": 143.226
+  },
+  {
+    "qid": "Q1042243",
+    "name": "Taka district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 35.069,
+    "lon": 134.902
+  },
+  {
+    "qid": "Q10868527",
+    "name": "Geza district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.380556,
+    "lon": 130.665278
+  },
+  {
+    "qid": "Q7878317",
+    "name": "Ukiha district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.3435,
+    "lon": 130.711131
+  },
+  {
+    "qid": "Q1192087",
+    "name": "Haga district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": 36.5031,
+    "lon": 140.11241
+  },
+  {
+    "qid": "Q10877703",
+    "name": "Kume district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1204309",
+    "name": "Ibi district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.553,
+    "lon": 136.477
+  },
+  {
+    "qid": "Q10877696",
+    "name": "Kumehokujō district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10877697",
+    "name": "Kumenanjō district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1043168",
+    "name": "Hino district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.155,
+    "lon": 133.293055555
+  },
+  {
+    "qid": "Q994492",
+    "name": "Isa district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 32.057222222,
+    "lon": 130.613055555
+  },
+  {
+    "qid": "Q8427221",
+    "name": "Yamaga district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1202849",
+    "name": "Naka district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.31138889,
+    "lon": 139.27388889
+  },
+  {
+    "qid": "Q8049933",
+    "name": "Yasu district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185976",
+    "name": "Usu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.573,
+    "lon": 140.946
+  },
+  {
+    "qid": "Q8081656",
+    "name": "Ōno district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q8081661",
+    "name": "Ōno district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1006139",
+    "name": "Uma district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185455",
+    "name": "Sorachi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.44,
+    "lon": 142.45
+  },
+  {
+    "qid": "Q1186004",
+    "name": "Iwanai district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.993055555,
+    "lon": 140.615
+  },
+  {
+    "qid": "Q909507",
+    "name": "Yamato district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.142222222,
+    "lon": 130.461388888
+  },
+  {
+    "qid": "Q8192952",
+    "name": "Kanzaki district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10865240",
+    "name": "Mikami district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185969",
+    "name": "Setana District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.429413,
+    "lon": 140.008639
+  },
+  {
+    "qid": "Q1032507",
+    "name": "Haguri district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185986",
+    "name": "Ishikari district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.381,
+    "lon": 141.567
+  },
+  {
+    "qid": "Q1186150",
+    "name": "Hiroo district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.47,
+    "lon": 143.17
+  },
+  {
+    "qid": "Q1036292",
+    "name": "Higashikamo district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.08333333,
+    "lon": 137.06666667
+  },
+  {
+    "qid": "Q1186622",
+    "name": "Abashiri district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.73,
+    "lon": 144.13
+  },
+  {
+    "qid": "Q10866228",
+    "name": "Miyoshi district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10885872",
+    "name": "Sumiyoshi district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q8047620",
+    "name": "Yamagata district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1203347",
+    "name": "Nasu district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": 37.032,
+    "lon": 140.125
+  },
+  {
+    "qid": "Q1042150",
+    "name": "Ibo district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 34.8387,
+    "lon": 134.5892
+  },
+  {
+    "qid": "Q10868487",
+    "name": "Shimotsuma district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.191667,
+    "lon": 130.5
+  },
+  {
+    "qid": "Q939030",
+    "name": "MinamiSaitama district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": 36.0266,
+    "lon": 139.681
+  },
+  {
+    "qid": "Q1185393",
+    "name": "Kameda district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 41.953055555,
+    "lon": 140.705
+  },
+  {
+    "qid": "Q10866179",
+    "name": "Mine district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10866143",
+    "name": "Miki district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10866905",
+    "name": "Mitani district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1186123",
+    "name": "Yubari District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.0,
+    "lon": 141.759
+  },
+  {
+    "qid": "Q1042353",
+    "name": "Ika district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": 35.5339,
+    "lon": 136.1987
+  },
+  {
+    "qid": "Q10884592",
+    "name": "Nakatsu district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.633333,
+    "lon": 130.951333
+  },
+  {
+    "qid": "Q1203336",
+    "name": "Haibara district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": 34.769486111,
+    "lon": 138.251716666
+  },
+  {
+    "qid": "Q1042159",
+    "name": "Kitasaitama district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": 36.131388888,
+    "lon": 139.601666666
+  },
+  {
+    "qid": "Q940481",
+    "name": "Aso district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 32.872801,
+    "lon": 131.088483
+  },
+  {
+    "qid": "Q1042347",
+    "name": "Higashiazai district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": 35.3713,
+    "lon": 136.3946
+  },
+  {
+    "qid": "Q1043163",
+    "name": "Yazu district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.311,
+    "lon": 134.363
+  },
+  {
+    "qid": "Q10868208",
+    "name": "Kamiagata district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1202540",
+    "name": "Ashigarakami district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.40388889,
+    "lon": 139.07388889
+  },
+  {
+    "qid": "Q10868620",
+    "name": "Shimoukena district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185954",
+    "name": "Yufutsu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.832,
+    "lon": 142.18
+  },
+  {
+    "qid": "Q10868278",
+    "name": "Jōtō district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1202834",
+    "name": "Shimotsuga district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": 36.359,
+    "lon": 139.651
+  },
+  {
+    "qid": "Q1042360",
+    "name": "Taki district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": 34.371,
+    "lon": 136.33
+  },
+  {
+    "qid": "Q10868734",
+    "name": "Katō district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1186633",
+    "name": "Shari district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.888055555,
+    "lon": 144.78
+  },
+  {
+    "qid": "Q10884792",
+    "name": "Kiku district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.907917,
+    "lon": 130.959528
+  },
+  {
+    "qid": "Q1042045",
+    "name": "Kanzaki district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 35.001388888,
+    "lon": 134.754166666
+  },
+  {
+    "qid": "Q10868678",
+    "name": "Shimoagata district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q961511",
+    "name": "Kamo district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": 34.798,
+    "lon": 138.886
+  },
+  {
+    "qid": "Q988293",
+    "name": "Shida district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": 34.91666667,
+    "lon": 138.28333333
+  },
+  {
+    "qid": "Q7960906",
+    "name": "Wake district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 33.89,
+    "lon": 132.741
+  },
+  {
+    "qid": "Q10869951",
+    "name": "Higashitama district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7902249",
+    "name": "Usui district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7901661",
+    "name": "Usa district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1202776",
+    "name": "Koza district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.374166666,
+    "lon": 139.390833333
+  },
+  {
+    "qid": "Q1185982",
+    "name": "Saru district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.5327,
+    "lon": 142.102
+  },
+  {
+    "qid": "Q10870274",
+    "name": "Higashinari district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1186072",
+    "name": "Niikappu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.569,
+    "lon": 142.509
+  },
+  {
+    "qid": "Q7902917",
+    "name": "Uto district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q8061492",
+    "name": "Yuri district",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 39.385,
+    "lon": 140.048
+  },
+  {
+    "qid": "Q8189301",
+    "name": "Uwa district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 32.994,
+    "lon": 132.584
+  },
+  {
+    "qid": "Q1042808",
+    "name": "Kumage district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": 33.934,
+    "lon": 132.068
+  },
+  {
+    "qid": "Q1042370",
+    "name": "Hamana district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": 34.6943,
+    "lon": 137.5598
+  },
+  {
+    "qid": "Q8192583",
+    "name": "Yoshiki district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185958",
+    "name": "Kamiiso district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 41.681,
+    "lon": 140.383
+  },
+  {
+    "qid": "Q10867299",
+    "name": "Kamihabu district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10867537",
+    "name": "Kōge district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.583333,
+    "lon": 131.15
+  },
+  {
+    "qid": "Q7850104",
+    "name": "Tsukui district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7850232",
+    "name": "Tsuno district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1203500",
+    "name": "Chosei District",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": 35.383333333,
+    "lon": 140.366666666
+  },
+  {
+    "qid": "Q971003",
+    "name": "Ikoma district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": 34.624722222,
+    "lon": 135.703055555
+  },
+  {
+    "qid": "Q8056123",
+    "name": "Yoshiki district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1186612",
+    "name": "Tokoro district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 44.03,
+    "lon": 143.83
+  },
+  {
+    "qid": "Q988501",
+    "name": "Ihara district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1203937",
+    "name": "Miura district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.26722222,
+    "lon": 139.60388889
+  },
+  {
+    "qid": "Q1186040",
+    "name": "Uryu District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.71,
+    "lon": 141.87
+  },
+  {
+    "qid": "Q1042053",
+    "name": "Kawabe district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 34.937,
+    "lon": 135.353
+  },
+  {
+    "qid": "Q8047593",
+    "name": "Yamada district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q8192760",
+    "name": "Hioki district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.633722,
+    "lon": 130.366667
+  },
+  {
+    "qid": "Q8081775",
+    "name": "Ōtsu district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1185996",
+    "name": "Shiraoi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.55,
+    "lon": 141.25
+  },
+  {
+    "qid": "Q10877702",
+    "name": "Kume district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.380278,
+    "lon": 133.776111
+  },
+  {
+    "qid": "Q8081521",
+    "name": "Ōita district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q8081554",
+    "name": "Ōkawa district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": 34.197,
+    "lon": 134.239
+  },
+  {
+    "qid": "Q924766",
+    "name": "Hoi district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 34.8231,
+    "lon": 137.38
+  },
+  {
+    "qid": "Q10867428",
+    "name": "Jōza district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.383333,
+    "lon": 130.816667
+  },
+  {
+    "qid": "Q1042060",
+    "name": "Sayo district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 35.018,
+    "lon": 134.372
+  },
+  {
+    "qid": "Q1202818",
+    "name": "Aiko district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.49972222,
+    "lon": 139.25333333
+  },
+  {
+    "qid": "Q1186133",
+    "name": "Urakawa district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.30461,
+    "lon": 142.88021
+  },
+  {
+    "qid": "Q1186011",
+    "name": "Hiyama district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 41.429,
+    "lon": 140.286
+  },
+  {
+    "qid": "Q909101",
+    "name": "Miike district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.105833333,
+    "lon": 130.493611111
+  },
+  {
+    "qid": "Q931658",
+    "name": "Gamo district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": 35.027036,
+    "lon": 136.220007
+  },
+  {
+    "qid": "Q1185990",
+    "name": "Okushiri district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.166,
+    "lon": 139.463
+  },
+  {
+    "qid": "Q1042066",
+    "name": "Kako district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 34.7501,
+    "lon": 134.919
+  },
+  {
+    "qid": "Q938038",
+    "name": "Kodama district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": 36.206,
+    "lon": 139.092
+  },
+  {
+    "qid": "Q8192347",
+    "name": "Shitsuki district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1042814",
+    "name": "Oshima District",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": 33.911,
+    "lon": 132.288
+  },
+  {
+    "qid": "Q7878286",
+    "name": "Ukena district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 33.65,
+    "lon": 132.966667
+  },
+  {
+    "qid": "Q10867325",
+    "name": "Kamitsuma district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.15,
+    "lon": 130.816667
+  },
+  {
+    "qid": "Q7850141",
+    "name": "Tsuna district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 34.383,
+    "lon": 134.836
+  },
+  {
+    "qid": "Q1186098",
+    "name": "Kabato district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.576,
+    "lon": 141.754
+  },
+  {
+    "qid": "Q8192611",
+    "name": "Jōbō district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7849969",
+    "name": "Tsugaru district",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q8193082",
+    "name": "Nima district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1193172",
+    "name": "Ashigarashimo district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.21055556,
+    "lon": 139.05444444
+  },
+  {
+    "qid": "Q1062968",
+    "name": "Naka district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.460555555,
+    "lon": 140.588055555
+  },
+  {
+    "qid": "Q1072663",
+    "name": "Chikushi district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.46626,
+    "lon": 130.42202
+  },
+  {
+    "qid": "Q1093809",
+    "name": "Naga district",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10908175",
+    "name": "Minamikuwada district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11579168",
+    "name": "Tome district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1043830",
+    "name": "Kagoshima district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.583333333,
+    "lon": 130.55
+  },
+  {
+    "qid": "Q11568982",
+    "name": "Kumano district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11587854",
+    "name": "Iwai district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1075463",
+    "name": "Ora District",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": 36.2328,
+    "lon": 139.492
+  },
+  {
+    "qid": "Q10982247",
+    "name": "Izumi district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1043851",
+    "name": "Shimomashiki district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 32.615,
+    "lon": 130.869
+  },
+  {
+    "qid": "Q10908952",
+    "name": "Minamikatsushika district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10909044",
+    "name": "Minamiadachi district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10965808",
+    "name": "Shimakami district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1076986",
+    "name": "Kanra district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": 36.221,
+    "lon": 138.716
+  },
+  {
+    "qid": "Q10892252",
+    "name": "Yabase district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.515278,
+    "lon": 133.638056
+  },
+  {
+    "qid": "Q10930388",
+    "name": "Kii district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10932605",
+    "name": "Tado district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1075196",
+    "name": "Osato district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": 36.1201,
+    "lon": 139.194
+  },
+  {
+    "qid": "Q10935393",
+    "name": "Ōba district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1072595",
+    "name": "Chiisagata district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.313762,
+    "lon": 138.082867
+  },
+  {
+    "qid": "Q10933275",
+    "name": "Yasu district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.45,
+    "lon": 130.616667
+  },
+  {
+    "qid": "Q11574848",
+    "name": "Ikuha district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.25035,
+    "lon": 130.762
+  },
+  {
+    "qid": "Q1043870",
+    "name": "Soo district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.439,
+    "lon": 130.983
+  },
+  {
+    "qid": "Q11553459",
+    "name": "Kōchi district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 35.88475,
+    "lon": 140.244444
+  },
+  {
+    "qid": "Q920980",
+    "name": "Samani district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.181,
+    "lon": 143.028
+  },
+  {
+    "qid": "Q1078639",
+    "name": "Yosa district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": 35.511,
+    "lon": 135.111
+  },
+  {
+    "qid": "Q10916802",
+    "name": "Kōshi district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1078679",
+    "name": "Funai district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": 35.16666667,
+    "lon": 135.41666667
+  },
+  {
+    "qid": "Q11578175",
+    "name": "Obusuma district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1043819",
+    "name": "Kikuchi district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 32.889,
+    "lon": 130.884
+  },
+  {
+    "qid": "Q10917398",
+    "name": "Yoshino district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10978107",
+    "name": "Naka district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10941584",
+    "name": "Futoro district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1072644",
+    "name": "Chikujo District",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.586244,
+    "lon": 131.044507
+  },
+  {
+    "qid": "Q1049340",
+    "name": "Saga district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1111129",
+    "name": "Mitsu district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1076972",
+    "name": "Kuse district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": 34.8876,
+    "lon": 135.747
+  },
+  {
+    "qid": "Q10921834",
+    "name": "Honji district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10976940",
+    "name": "Shimashimo district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11558968",
+    "name": "Kaitō district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.166667,
+    "lon": 136.8
+  },
+  {
+    "qid": "Q10920245",
+    "name": "Suki district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11581212",
+    "name": "Mashizu district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10902745",
+    "name": "Kitaōsumi district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.591111,
+    "lon": 130.642778
+  },
+  {
+    "qid": "Q10968332",
+    "name": "Nishinari district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1075231",
+    "name": "Sashima district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.1149,
+    "lon": 139.802
+  },
+  {
+    "qid": "Q10959357",
+    "name": "Otaru district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1117901",
+    "name": "Takaichi district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": 34.4497,
+    "lon": 135.809
+  },
+  {
+    "qid": "Q10922442",
+    "name": "Tetsuta district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11569784",
+    "name": "Kataoka district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1077001",
+    "name": "Tone district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": 36.86,
+    "lon": 139.09
+  },
+  {
+    "qid": "Q11582541",
+    "name": "Sōma district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": 35.8682,
+    "lon": 140.165
+  },
+  {
+    "qid": "Q1066336",
+    "name": "Kitakatsushika district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": 36.01,
+    "lon": 139.769
+  },
+  {
+    "qid": "Q10924235",
+    "name": "Kama district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.55,
+    "lon": 130.766667
+  },
+  {
+    "qid": "Q11582541",
+    "name": "Sōma district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 35.8682,
+    "lon": 140.165
+  },
+  {
+    "qid": "Q11583134",
+    "name": "Mashima district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11553458",
+    "name": "Kawachi district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10909001",
+    "name": "Minamimorokata district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.495444,
+    "lon": 131.045389
+  },
+  {
+    "qid": "Q11553861",
+    "name": "Kawawa district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11554080",
+    "name": "Kawage district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1044239",
+    "name": "Kishima district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": 33.182,
+    "lon": 130.149
+  },
+  {
+    "qid": "Q11584565",
+    "name": "Chibu district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1043823",
+    "name": "Kimotsuki district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.206,
+    "lon": 130.863
+  },
+  {
+    "qid": "Q10946384",
+    "name": "Asa district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10946235",
+    "name": "Uji district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1076978",
+    "name": "Kitasoma District",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 35.8682,
+    "lon": 140.165
+  },
+  {
+    "qid": "Q1043882",
+    "name": "Kanzaki district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": 33.364722222,
+    "lon": 130.393055555
+  },
+  {
+    "qid": "Q10946986",
+    "name": "Ano district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10926861",
+    "name": "Kunisaki district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1075201",
+    "name": "Hiki district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": 36.027,
+    "lon": 139.304
+  },
+  {
+    "qid": "Q10947253",
+    "name": "Yasuna district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11586793",
+    "name": "Ishizu district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11587885",
+    "name": "Iwanashi district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1043839",
+    "name": "Kamoto district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 32.8,
+    "lon": 130.7
+  },
+  {
+    "qid": "Q11559039",
+    "name": "Kaizu district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11559335",
+    "name": "Ama district",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11558826",
+    "name": "Ama district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10896679",
+    "name": "Izumo district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10892227",
+    "name": "Hattō district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.3925,
+    "lon": 134.279444
+  },
+  {
+    "qid": "Q11588138",
+    "name": "Tonami district",
+    "pref_name": "Toyama Prefecture",
+    "pref_qid": "Q132929",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11587088",
+    "name": "Ishida district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1075450",
+    "name": "Kitagunma district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": 36.4478,
+    "lon": 138.967
+  },
+  {
+    "qid": "Q11574220",
+    "name": "Koshikijima district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.843333,
+    "lon": 129.901111
+  },
+  {
+    "qid": "Q1044260",
+    "name": "Ashikita district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 32.283457,
+    "lon": 130.531258
+  },
+  {
+    "qid": "Q11561609",
+    "name": "Shibukawa district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10950321",
+    "name": "Muroran district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11560415",
+    "name": "Soejimo district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1075212",
+    "name": "Kuji district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.801,
+    "lon": 140.345
+  },
+  {
+    "qid": "Q11590353",
+    "name": "Jintō district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1043800",
+    "name": "Yatsushiro district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 32.584722222,
+    "lon": 130.673055555
+  },
+  {
+    "qid": "Q11590814",
+    "name": "Jinsai district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1047203",
+    "name": "Etorofu District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1047211",
+    "name": "Kunashiri District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10906953",
+    "name": "Minamiisa district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.9,
+    "lon": 130.45
+  },
+  {
+    "qid": "Q11585428",
+    "name": "Iwaki district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11591020",
+    "name": "Kando district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10981345",
+    "name": "Otagi district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1119478",
+    "name": "Katsuura district",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": 33.913,
+    "lon": 134.416
+  },
+  {
+    "qid": "Q11587876",
+    "name": "Iwaki district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10901972",
+    "name": "Kitatoshima district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11586399",
+    "name": "Ishikawa district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1046896",
+    "name": "Shana District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 45.199148,
+    "lon": 148.000166
+  },
+  {
+    "qid": "Q10907318",
+    "name": "Minamiōsumi district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.100556,
+    "lon": 130.756389
+  },
+  {
+    "qid": "Q1043858",
+    "name": "Hayami district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": 33.369248,
+    "lon": 131.541766
+  },
+  {
+    "qid": "Q1043844",
+    "name": "Higashimatsuura district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": 33.466666666,
+    "lon": 129.883333333
+  },
+  {
+    "qid": "Q10901386",
+    "name": "Shōnan district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10901385",
+    "name": "Shōboku district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11593757",
+    "name": "Fukushima district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10931631",
+    "name": "Iki district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10938425",
+    "name": "Ōsumi district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.492778,
+    "lon": 130.733333
+  },
+  {
+    "qid": "Q1075479",
+    "name": "Sawa district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": 36.3038,
+    "lon": 139.126
+  },
+  {
+    "qid": "Q1075472",
+    "name": "Tano district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": 36.094,
+    "lon": 138.792
+  },
+  {
+    "qid": "Q11595761",
+    "name": "Akita district",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 39.760634936,
+    "lon": 140.065434202
+  },
+  {
+    "qid": "Q10904000",
+    "name": "Kitanaka district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11587858",
+    "name": "Iwasaki district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10891905",
+    "name": "Yagami district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.391389,
+    "lon": 134.249722
+  },
+  {
+    "qid": "Q1043795",
+    "name": "Izumi district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 32.179,
+    "lon": 130.152
+  },
+  {
+    "qid": "Q10906741",
+    "name": "Minamitama district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11576762",
+    "name": "Tagawa district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q10904935",
+    "name": "Chitose district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.86667,
+    "lon": 141.63333
+  },
+  {
+    "qid": "Q1043864",
+    "name": "Miyaki district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": 33.365,
+    "lon": 130.393055555
+  },
+  {
+    "qid": "Q1205890",
+    "name": "Nakatsugaru District",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": 40.5128,
+    "lon": 140.2337
+  },
+  {
+    "qid": "Q1130979",
+    "name": "Hosu District",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": 37.295,
+    "lon": 137.034
+  },
+  {
+    "qid": "Q1204541",
+    "name": "Mikatakaminaka district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": 35.521,
+    "lon": 135.891
+  },
+  {
+    "qid": "Q11619613",
+    "name": "Kikuta district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131175",
+    "name": "Higashimuro district",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": 33.6,
+    "lon": 135.791
+  },
+  {
+    "qid": "Q1206215",
+    "name": "Hikawa district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": 35.39,
+    "lon": 132.83
+  },
+  {
+    "qid": "Q1205635",
+    "name": "Sennan district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": 34.314,
+    "lon": 135.151
+  },
+  {
+    "qid": "Q1210627",
+    "name": "Yamakoshi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.528055555,
+    "lon": 140.323055555
+  },
+  {
+    "qid": "Q1131549",
+    "name": "Tomata district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 35.21,
+    "lon": 133.898055555
+  },
+  {
+    "qid": "Q1131473",
+    "name": "Suwa district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 35.962,
+    "lon": 138.245
+  },
+  {
+    "qid": "Q1204551",
+    "name": "Nyu district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": 35.97,
+    "lon": 136.068055555
+  },
+  {
+    "qid": "Q1131540",
+    "name": "Aida district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 35.166666666,
+    "lon": 134.333333333
+  },
+  {
+    "qid": "Q1131499",
+    "name": "Inabe district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": 35.0752,
+    "lon": 136.584
+  },
+  {
+    "qid": "Q11621089",
+    "name": "Katsushika district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1208682",
+    "name": "Kitaakita district",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 39.96,
+    "lon": 140.321
+  },
+  {
+    "qid": "Q11621089",
+    "name": "Katsushika district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1123066",
+    "name": "Ayauta district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": 34.219913,
+    "lon": 133.944991
+  },
+  {
+    "qid": "Q11621281",
+    "name": "Kanbara district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131032",
+    "name": "Watarai district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": 34.3489,
+    "lon": 136.494
+  },
+  {
+    "qid": "Q11627300",
+    "name": "Saihokujō district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1205501",
+    "name": "Shuchi district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": 34.833333333,
+    "lon": 137.933333333
+  },
+  {
+    "qid": "Q1206404",
+    "name": "Kita district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 33.579,
+    "lon": 132.742
+  },
+  {
+    "qid": "Q1210650",
+    "name": "Hidaka district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.438,
+    "lon": 142.637
+  },
+  {
+    "qid": "Q11627865",
+    "name": "Nishiyamanashi district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11603497",
+    "name": "Tsuiki district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.65,
+    "lon": 131.05
+  },
+  {
+    "qid": "Q1130990",
+    "name": "Kaiso District",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": 34.154,
+    "lon": 135.393
+  },
+  {
+    "qid": "Q1131765",
+    "name": "Watari district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.0,
+    "lon": 140.882
+  },
+  {
+    "qid": "Q1131693",
+    "name": "Tsukubo district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 34.6105,
+    "lon": 133.8231
+  },
+  {
+    "qid": "Q1205009",
+    "name": "Ochi district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": 34.921,
+    "lon": 132.513
+  },
+  {
+    "qid": "Q11629401",
+    "name": "Nishigunma district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11629335",
+    "name": "Nishitonami district",
+    "pref_name": "Toyama Prefecture",
+    "pref_qid": "Q132929",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11610214",
+    "name": "Haguri district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11607178",
+    "name": "Abashiri district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11608890",
+    "name": "Bikuni district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11606769",
+    "name": "Kiire district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.374167,
+    "lon": 130.526111
+  },
+  {
+    "qid": "Q11626139",
+    "name": "Namekata district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11627432",
+    "name": "Nishisoo district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.741,
+    "lon": 130.816667
+  },
+  {
+    "qid": "Q1204530",
+    "name": "Imadate district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": 35.912222222,
+    "lon": 136.276388888
+  },
+  {
+    "qid": "Q1131782",
+    "name": "Kurokawa district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.442,
+    "lon": 140.876
+  },
+  {
+    "qid": "Q1130962",
+    "name": "Shimotakai district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.794,
+    "lon": 138.491
+  },
+  {
+    "qid": "Q1131255",
+    "name": "Kitauonuma district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 37.436472,
+    "lon": 138.838861
+  },
+  {
+    "qid": "Q1206413",
+    "name": "Kamiukena district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 33.653055555,
+    "lon": 132.96
+  },
+  {
+    "qid": "Q11607873",
+    "name": "Midono district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11608543",
+    "name": "Okitama district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11608819",
+    "name": "Mikumi district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131315",
+    "name": "Uda district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": 34.496,
+    "lon": 136.142
+  },
+  {
+    "qid": "Q11610352",
+    "name": "Hamochi district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131714",
+    "name": "Maniwa district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 35.204722222,
+    "lon": 133.56
+  },
+  {
+    "qid": "Q1131627",
+    "name": "Abu district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": 34.55574,
+    "lon": 131.57367
+  },
+  {
+    "qid": "Q1205572",
+    "name": "Shimokita District",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": 41.283333333,
+    "lon": 141.216666666
+  },
+  {
+    "qid": "Q1130973",
+    "name": "Nomi district",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": 36.4677,
+    "lon": 136.5338
+  },
+  {
+    "qid": "Q1131489",
+    "name": "Kuwana district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": 35.0758,
+    "lon": 136.734
+  },
+  {
+    "qid": "Q1130942",
+    "name": "Kahoku district",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": 36.669,
+    "lon": 136.773
+  },
+  {
+    "qid": "Q1130983",
+    "name": "Mie district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": 35.046,
+    "lon": 136.476
+  },
+  {
+    "qid": "Q1204696",
+    "name": "Nita district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": 35.187,
+    "lon": 133.059
+  },
+  {
+    "qid": "Q1131097",
+    "name": "Echi district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": 35.16666667,
+    "lon": 136.21666667
+  },
+  {
+    "qid": "Q1131323",
+    "name": "Nishimuro district",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": 33.604,
+    "lon": 135.486
+  },
+  {
+    "qid": "Q11615175",
+    "name": "Hanasaki district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11613290",
+    "name": "Usuki district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1130967",
+    "name": "Kashima district",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": 36.98,
+    "lon": 136.902
+  },
+  {
+    "qid": "Q1130953",
+    "name": "Hakui district",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": 36.86666667,
+    "lon": 136.8
+  },
+  {
+    "qid": "Q1131879",
+    "name": "Ninohe District",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 40.2667,
+    "lon": 141.267
+  },
+  {
+    "qid": "Q11614917",
+    "name": "Ashida district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131309",
+    "name": "Ito district",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": 34.214,
+    "lon": 135.557
+  },
+  {
+    "qid": "Q1206502",
+    "name": "Ochi district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 34.263055555,
+    "lon": 133.178055555
+  },
+  {
+    "qid": "Q1131876",
+    "name": "Isawa district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 39.201,
+    "lon": 141.007
+  },
+  {
+    "qid": "Q1131437",
+    "name": "Minamikoma district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": 35.417,
+    "lon": 138.412
+  },
+  {
+    "qid": "Q1204336",
+    "name": "Nakaniikawa district",
+    "pref_name": "Toyama Prefecture",
+    "pref_qid": "Q132929",
+    "lat": 36.632,
+    "lon": 137.502
+  },
+  {
+    "qid": "Q1131619",
+    "name": "Iwami district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.534,
+    "lon": 134.381
+  },
+  {
+    "qid": "Q1131814",
+    "name": "Oda district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 34.6338,
+    "lon": 133.588
+  },
+  {
+    "qid": "Q11604966",
+    "name": "Kii district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1206294",
+    "name": "Kasuya district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.629,
+    "lon": 130.522
+  },
+  {
+    "qid": "Q1205516",
+    "name": "Toyono district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": 34.973,
+    "lon": 135.426
+  },
+  {
+    "qid": "Q11616589",
+    "name": "Wakae district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131451",
+    "name": "Kitamuro district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": 34.17888889,
+    "lon": 136.23805556
+  },
+  {
+    "qid": "Q1131788",
+    "name": "Shibata district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.186,
+    "lon": 140.647
+  },
+  {
+    "qid": "Q1206427",
+    "name": "Iyo district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 33.72805556,
+    "lon": 132.78305556
+  },
+  {
+    "qid": "Q1206492",
+    "name": "Nishiuwa district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 33.435,
+    "lon": 132.20111111
+  },
+  {
+    "qid": "Q1131446",
+    "name": "Kitatsuru district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": 35.794,
+    "lon": 138.908
+  },
+  {
+    "qid": "Q1131164",
+    "name": "Hidaka district",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": 33.897,
+    "lon": 135.336
+  },
+  {
+    "qid": "Q1204331",
+    "name": "Motosu district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.4317,
+    "lon": 136.6908
+  },
+  {
+    "qid": "Q11617933",
+    "name": "Matta district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11616955",
+    "name": "Ago district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1205862",
+    "name": "Nakagami District",
+    "pref_name": "Okinawa Prefecture",
+    "pref_qid": "Q766445",
+    "lat": 26.309166666,
+    "lon": 127.777222222
+  },
+  {
+    "qid": "Q1206155",
+    "name": "Nakatado district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": 34.192,
+    "lon": 133.839
+  },
+  {
+    "qid": "Q11617829",
+    "name": "Ibaraki district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.479,
+    "lon": 140.327
+  },
+  {
+    "qid": "Q1131103",
+    "name": "Inukami district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": 35.204,
+    "lon": 136.334
+  },
+  {
+    "qid": "Q1205228",
+    "name": "Yama district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.652,
+    "lon": 140.04
+  },
+  {
+    "qid": "Q1131467",
+    "name": "Nishiyatsushiro district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": 35.5412,
+    "lon": 138.511
+  },
+  {
+    "qid": "Q1131820",
+    "name": "Asakuchi district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 34.514333333,
+    "lon": 133.556094444
+  },
+  {
+    "qid": "Q1131771",
+    "name": "Katta district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.055,
+    "lon": 140.437
+  },
+  {
+    "qid": "Q1206433",
+    "name": "Kurate district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.7869,
+    "lon": 130.671
+  },
+  {
+    "qid": "Q1205907",
+    "name": "Kitauwa district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": 33.283,
+    "lon": 132.719
+  },
+  {
+    "qid": "Q11627429",
+    "name": "Nishiwaga district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131574",
+    "name": "Kaga district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 34.869,
+    "lon": 133.745
+  },
+  {
+    "qid": "Q1206950",
+    "name": "Shimajiri District",
+    "pref_name": "Okinawa Prefecture",
+    "pref_qid": "Q766445",
+    "lat": 26.176111111,
+    "lon": 127.7225
+  },
+  {
+    "qid": "Q11621089",
+    "name": "Katsushika district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11619987",
+    "name": "Ubara district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11621089",
+    "name": "Katsushika district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11620858",
+    "name": "Katsujō district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11620862",
+    "name": "Katsuge district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1204320",
+    "name": "Anpachi district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.334927777,
+    "lon": 136.647908333
+  },
+  {
+    "qid": "Q1131568",
+    "name": "Kume district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 34.967,
+    "lon": 133.943
+  },
+  {
+    "qid": "Q11621281",
+    "name": "Kanbara district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131464",
+    "name": "Minamimuro district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": 33.81694444,
+    "lon": 135.99694444
+  },
+  {
+    "qid": "Q1131751",
+    "name": "Miyagi district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.372,
+    "lon": 141.036
+  },
+  {
+    "qid": "Q1131013",
+    "name": "Kitakatsuragi district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": 34.5659,
+    "lon": 135.728
+  },
+  {
+    "qid": "Q11620164",
+    "name": "Hishikari district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 32.0,
+    "lon": 130.612917
+  },
+  {
+    "qid": "Q1131181",
+    "name": "Arida district",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": 34.03817,
+    "lon": 135.194133
+  },
+  {
+    "qid": "Q1130739",
+    "name": "Yamabe district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": 34.6648,
+    "lon": 136.022
+  },
+  {
+    "qid": "Q1206203",
+    "name": "Kazuno district",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 40.429,
+    "lon": 140.796
+  },
+  {
+    "qid": "Q11626140",
+    "name": "Namegata district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.1,
+    "lon": 140.433333
+  },
+  {
+    "qid": "Q11668733",
+    "name": "Takai district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11669078",
+    "name": "Taki district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.896806,
+    "lon": 130.253972
+  },
+  {
+    "qid": "Q3270651",
+    "name": "Ōtori district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132123",
+    "name": "Nagaoka district",
+    "pref_name": "Kōchi Prefecture",
+    "pref_qid": "Q134093",
+    "lat": 33.792,
+    "lon": 133.671
+  },
+  {
+    "qid": "Q1348656",
+    "name": "Kamo district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.579,
+    "lon": 137.179
+  },
+  {
+    "qid": "Q11642797",
+    "name": "Naka district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11642882",
+    "name": "Naka district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11669692",
+    "name": "Takashima district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11642759",
+    "name": "Nawa district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131916",
+    "name": "Motoyoshi district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.696,
+    "lon": 141.452
+  },
+  {
+    "qid": "Q11643564",
+    "name": "Tsuu district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1352523",
+    "name": "Mikata district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": 35.596,
+    "lon": 135.978
+  },
+  {
+    "qid": "Q11642800",
+    "name": "Naka district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11670257",
+    "name": "Takaki district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q17177016",
+    "name": "Yurugi district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.308611,
+    "lon": 139.312778
+  },
+  {
+    "qid": "Q11629949",
+    "name": "Nishihei district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132017",
+    "name": "Miyazaki district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": 31.907777777,
+    "lon": 131.420277777
+  },
+  {
+    "qid": "Q11595889",
+    "name": "Aika district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11673318",
+    "name": "Koma district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11633558",
+    "name": "Teshima district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11643756",
+    "name": "Tsuru district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q4803120",
+    "name": "Asa district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11664967",
+    "name": "Ei district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.239444,
+    "lon": 130.492222
+  },
+  {
+    "qid": "Q11596989",
+    "name": "Inaba district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11103180",
+    "name": "Higashisoo district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.686972,
+    "lon": 130.966667
+  },
+  {
+    "qid": "Q11657363",
+    "name": "Ata district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q2324302",
+    "name": "Seta district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": 36.3892,
+    "lon": 139.064
+  },
+  {
+    "qid": "Q11655151",
+    "name": "Hei district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q3030924",
+    "name": "Ena district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.449571,
+    "lon": 137.40936
+  },
+  {
+    "qid": "Q11071146",
+    "name": "Mihara district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.413455,
+    "lon": 130.555513
+  },
+  {
+    "qid": "Q11674002",
+    "name": "Uonuma district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11597172",
+    "name": "Ochi district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11597661",
+    "name": "Kuboya district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q2341285",
+    "name": "Mino district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q3031596",
+    "name": "Nagasa district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11632126",
+    "name": "Morokata district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": 31.75,
+    "lon": 131.066667
+  },
+  {
+    "qid": "Q11599473",
+    "name": "Takeno district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131949",
+    "name": "Tōhaku District",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.4833,
+    "lon": 133.767
+  },
+  {
+    "qid": "Q11060541",
+    "name": "Horobetsu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11672760",
+    "name": "Takakusa district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.468333,
+    "lon": 134.176111
+  },
+  {
+    "qid": "Q1131927",
+    "name": "Nishiiwai district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 38.990248,
+    "lon": 141.093708
+  },
+  {
+    "qid": "Q1349420",
+    "name": "Kanoashi district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": 34.46,
+    "lon": 131.881
+  },
+  {
+    "qid": "Q1131910",
+    "name": "Tōda district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.537,
+    "lon": 141.137
+  },
+  {
+    "qid": "Q11634927",
+    "name": "Kami district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11045581",
+    "name": "Yamamoto district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.338416,
+    "lon": 130.635252
+  },
+  {
+    "qid": "Q11634161",
+    "name": "Toyoda district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131935",
+    "name": "Higashiiwai district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 38.934722222,
+    "lon": 141.126666666
+  },
+  {
+    "qid": "Q3205811",
+    "name": "Oe district",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131921",
+    "name": "Oshika district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.453055555,
+    "lon": 141.445
+  },
+  {
+    "qid": "Q1351946",
+    "name": "Higashitsugaru District",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": 41.127,
+    "lon": 140.542
+  },
+  {
+    "qid": "Q1278470",
+    "name": "Ebara district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q4803324",
+    "name": "Asago district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 35.23333,
+    "lon": 134.83333
+  },
+  {
+    "qid": "Q11637033",
+    "name": "Adachi district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11677321",
+    "name": "Aratama district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1515027",
+    "name": "Onsen district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11060221",
+    "name": "Mushiroda district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11650571",
+    "name": "Nishigori district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11637033",
+    "name": "Adachi district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11082347",
+    "name": "Nii district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1346070",
+    "name": "Kamitsuga district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": 36.381388888,
+    "lon": 139.730277777
+  },
+  {
+    "qid": "Q11651399",
+    "name": "Nagakami district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11603079",
+    "name": "Tōshi district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1346028",
+    "name": "Shioya district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": 36.777,
+    "lon": 139.828
+  },
+  {
+    "qid": "Q1348570",
+    "name": "Kiso district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 35.816,
+    "lon": 137.62
+  },
+  {
+    "qid": "Q4803406",
+    "name": "Asai district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11599474",
+    "name": "Takeno district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.343517,
+    "lon": 130.694464
+  },
+  {
+    "qid": "Q4691849",
+    "name": "Age district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11072233",
+    "name": "Shima district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.590639,
+    "lon": 130.178833
+  },
+  {
+    "qid": "Q1208832",
+    "name": "Monbetsu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 44.39,
+    "lon": 143.19
+  },
+  {
+    "qid": "Q11629500",
+    "name": "Saisaijō district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11668133",
+    "name": "Gomu district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 30.35,
+    "lon": 130.516667
+  },
+  {
+    "qid": "Q1131906",
+    "name": "Kesen district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 39.176,
+    "lon": 141.535
+  },
+  {
+    "qid": "Q11633138",
+    "name": "Taniyama district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.530139,
+    "lon": 130.507139
+  },
+  {
+    "qid": "Q11091827",
+    "name": "Aimi district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.443056,
+    "lon": 133.380833
+  },
+  {
+    "qid": "Q1347323",
+    "name": "Minamikawachi district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": 34.465833333,
+    "lon": 135.65
+  },
+  {
+    "qid": "Q11634961",
+    "name": "Kaya district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11071138",
+    "name": "Mii district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.333333,
+    "lon": 130.583333
+  },
+  {
+    "qid": "Q11103095",
+    "name": "Tōhokujō district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11103145",
+    "name": "Tōnanjō district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11667715",
+    "name": "Kami district",
+    "pref_name": "Kōchi Prefecture",
+    "pref_qid": "Q134093",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131901",
+    "name": "Kamihei district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 39.431,
+    "lon": 141.808
+  },
+  {
+    "qid": "Q15467942",
+    "name": "Nuka district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11636831",
+    "name": "Ashikaga district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1347719",
+    "name": "Niwa district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.3465,
+    "lon": 136.913
+  },
+  {
+    "qid": "Q11635439",
+    "name": "Akasaka district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11631090",
+    "name": "Takuma district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11666786",
+    "name": "Akita district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1933120",
+    "name": "Katō district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1349339",
+    "name": "Iishi district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": 35.046,
+    "lon": 132.766
+  },
+  {
+    "qid": "Q11657437",
+    "name": "Ahai district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11657695",
+    "name": "Aka district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11659386",
+    "name": "Sawata district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11658001",
+    "name": "Aya district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1330132",
+    "name": "Kunigami District",
+    "pref_name": "Okinawa Prefecture",
+    "pref_qid": "Q766445",
+    "lat": 26.641666666,
+    "lon": 128.13
+  },
+  {
+    "qid": "Q11071211",
+    "name": "Mikasa district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.462861,
+    "lon": 130.52375
+  },
+  {
+    "qid": "Q11090295",
+    "name": "Chizu district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.256389,
+    "lon": 134.203056
+  },
+  {
+    "qid": "Q11072672",
+    "name": "Ito district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.507306,
+    "lon": 130.1955
+  },
+  {
+    "qid": "Q11046466",
+    "name": "Yamada district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11653089",
+    "name": "Nagara district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q3031924",
+    "name": "Toki district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.35,
+    "lon": 137.183333333
+  },
+  {
+    "qid": "Q4666382",
+    "name": "Abe district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": 34.975,
+    "lon": 138.38361111
+  },
+  {
+    "qid": "Q11072215",
+    "name": "Oshoro district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11049025",
+    "name": "Iwai district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.559722,
+    "lon": 134.334167
+  },
+  {
+    "qid": "Q11110970",
+    "name": "Nemuro district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11629468",
+    "name": "Nishikatsushika district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.114444,
+    "lon": 139.783333
+  },
+  {
+    "qid": "Q3916262",
+    "name": "Atsuta district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q3916260",
+    "name": "Hamamasu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q3916282",
+    "name": "Mitsuishi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q3916283",
+    "name": "Shizunai district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11632126",
+    "name": "Morokata district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.75,
+    "lon": 131.066667
+  },
+  {
+    "qid": "Q1743834",
+    "name": "Kitaiwate district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 40.115,
+    "lon": 141.2886111
+  },
+  {
+    "qid": "Q11643830",
+    "name": "Tsuga district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11071226",
+    "name": "Mino district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11642798",
+    "name": "Naka district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.57475,
+    "lon": 130.414806
+  },
+  {
+    "qid": "Q4227244",
+    "name": "Kōka district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131886",
+    "name": "Shiwa District",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 39.567,
+    "lon": 141.133
+  },
+  {
+    "qid": "Q11070152",
+    "name": "Sonogi district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11664982",
+    "name": "Kubiki district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11629983",
+    "name": "Nishikubiki district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 37.0,
+    "lon": 138.0
+  },
+  {
+    "qid": "Q11073469",
+    "name": "Eso district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11631176",
+    "name": "Shitara district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q4740432",
+    "name": "Amata district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": 35.3,
+    "lon": 135.133333
+  },
+  {
+    "qid": "Q11632569",
+    "name": "Sasara district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q13579879",
+    "name": "Kadono district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11093495",
+    "name": "Sapporo district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q15258611",
+    "name": "Yabu district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q17175662",
+    "name": "Kamakura district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11052337",
+    "name": "Shimane district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1936209",
+    "name": "Minamiiwate district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 39.43055556,
+    "lon": 141.2291667
+  },
+  {
+    "qid": "Q11634160",
+    "name": "Toyoda district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.130556,
+    "lon": 139.980556
+  },
+  {
+    "qid": "Q11073594",
+    "name": "Ou district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q3030840",
+    "name": "Akaiwa district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11113058",
+    "name": "Kuwamura district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q4389432",
+    "name": "Higashiuwa district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q4389522",
+    "name": "Shūsō district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11112846",
+    "name": "Kuwabara district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.961944,
+    "lon": 130.736111
+  },
+  {
+    "qid": "Q11666741",
+    "name": "Iino district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11666756",
+    "name": "Iitaka district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11597062",
+    "name": "Honami district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.65,
+    "lon": 130.683333
+  },
+  {
+    "qid": "Q11666796",
+    "name": "Shikitō district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11666804",
+    "name": "Shikisai district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11666859",
+    "name": "Yabu district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11669689",
+    "name": "Takashima district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1131893",
+    "name": "Kunohe District",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": 40.3,
+    "lon": 141.56
+  },
+  {
+    "qid": "Q11669180",
+    "name": "Takamiya district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1351074",
+    "name": "Aki district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": 34.3532,
+    "lon": 132.5574
+  },
+  {
+    "qid": "Q5752980",
+    "name": "Hienuki district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134084",
+    "name": "Akkeshi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.135743,
+    "lon": 144.916261
+  },
+  {
+    "qid": "Q11385240",
+    "name": "Ikaruga district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11390569",
+    "name": "Yatsushiro district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134212",
+    "name": "Esashi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 44.865969,
+    "lon": 142.435189
+  },
+  {
+    "qid": "Q11359057",
+    "name": "Kaminiikawa district",
+    "pref_name": "Toyama Prefecture",
+    "pref_qid": "Q132929",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11367783",
+    "name": "Nakahei district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11369666",
+    "name": "Kuraki district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.402333,
+    "lon": 139.618333
+  },
+  {
+    "qid": "Q11385111",
+    "name": "Saya district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5507591",
+    "name": "Fukayasu district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11359979",
+    "name": "Kamiishizu district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5994973",
+    "name": "Iinan district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5617131",
+    "name": "Gunma district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5507254",
+    "name": "Fugeshi district",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5617095",
+    "name": "Gujō district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5965265",
+    "name": "Hōtaku district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11361246",
+    "name": "Shimoishizu district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132129",
+    "name": "Aira district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.961944,
+    "lon": 130.736111
+  },
+  {
+    "qid": "Q1132375",
+    "name": "Tamana district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 33.028055555,
+    "lon": 130.59
+  },
+  {
+    "qid": "Q11381283",
+    "name": "Aizu district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11367236",
+    "name": "Naka district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134097",
+    "name": "Rishiri district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 45.18,
+    "lon": 141.24
+  },
+  {
+    "qid": "Q11142877",
+    "name": "Numata district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132154",
+    "name": "Kumage district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 30.38872,
+    "lon": 130.63734
+  },
+  {
+    "qid": "Q4805097",
+    "name": "Ashina district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132343",
+    "name": "Kitamorokata district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": 31.722,
+    "lon": 131.173
+  },
+  {
+    "qid": "Q5750592",
+    "name": "Hiba district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11390479",
+    "name": "Yakami district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132452",
+    "name": "Oshima District",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 27.81,
+    "lon": 128.94
+  },
+  {
+    "qid": "Q1132194",
+    "name": "Nishimatsuura district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": 33.2054,
+    "lon": 129.859
+  },
+  {
+    "qid": "Q11391769",
+    "name": "Yatabe district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11401069",
+    "name": "Kitakunohe district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11120028",
+    "name": "Tatenui district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11122977",
+    "name": "Utasutsu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11366394",
+    "name": "Nakakawachi district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11386050",
+    "name": "Shinobu district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11404352",
+    "name": "Kitahei district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11360742",
+    "name": "Shimohabu district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5768935",
+    "name": "Hiraka district",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 39.31138889,
+    "lon": 140.55333333
+  },
+  {
+    "qid": "Q5754042",
+    "name": "Higashikubiki district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11366980",
+    "name": "Nakakatsushika district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q4811958",
+    "name": "Asuwa district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132472",
+    "name": "Amakusa district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 32.508055555,
+    "lon": 130.0475
+  },
+  {
+    "qid": "Q11146513",
+    "name": "Tsudaka district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q4813143",
+    "name": "Atetsu district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134204",
+    "name": "Rumoi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 44.037,
+    "lon": 141.832
+  },
+  {
+    "qid": "Q5364460",
+    "name": "Nose district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132440",
+    "name": "Kusu district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": 33.274,
+    "lon": 131.161
+  },
+  {
+    "qid": "Q5754165",
+    "name": "Higashiyamanashi district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5754171",
+    "name": "Higashiyatsushiro district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11368489",
+    "name": "Tanboku district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11368494",
+    "name": "Tannan district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132262",
+    "name": "Itoshima district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.555,
+    "lon": 130.18611111
+  },
+  {
+    "qid": "Q5688731",
+    "name": "Hei district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11407436",
+    "name": "Minamikunohe district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11133544",
+    "name": "Aseri district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.453056,
+    "lon": 133.419444
+  },
+  {
+    "qid": "Q11408701",
+    "name": "Minamihei district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11395767",
+    "name": "Izushi district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5973791",
+    "name": "Matsura district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134156",
+    "name": "Shikotan district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11371575",
+    "name": "Futakata district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11398904",
+    "name": "Kamo district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11153319",
+    "name": "Fukatsu district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5760344",
+    "name": "Hikami district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11151384",
+    "name": "Amabe district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11399619",
+    "name": "Kasai district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6100753",
+    "name": "Iwata district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11173974",
+    "name": "Utari district",
+    "pref_name": "Kagawa Prefecture",
+    "pref_qid": "Q161454",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134113",
+    "name": "Tomamae district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 44.31,
+    "lon": 141.87
+  },
+  {
+    "qid": "Q1132241",
+    "name": "Hata district",
+    "pref_name": "Kōchi Prefecture",
+    "pref_qid": "Q134093",
+    "lat": 32.889,
+    "lon": 132.844
+  },
+  {
+    "qid": "Q6004195",
+    "name": "Imizu district",
+    "pref_name": "Toyama Prefecture",
+    "pref_qid": "Q132929",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11374054",
+    "name": "Katano district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11402341",
+    "name": "Kitakawachi district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11401182",
+    "name": "Kitaseta district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5753608",
+    "name": "Higashikatsushika district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5754029",
+    "name": "Higashikasugai district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5984941",
+    "name": "Ibusuki district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.2525,
+    "lon": 130.6338
+  },
+  {
+    "qid": "Q1132445",
+    "name": "Higashiusuki district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": 32.462,
+    "lon": 131.323
+  },
+  {
+    "qid": "Q1132448",
+    "name": "Nishiusuki district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": 32.684,
+    "lon": 131.322
+  },
+  {
+    "qid": "Q11143673",
+    "name": "Hōmi district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.459722,
+    "lon": 134.3175
+  },
+  {
+    "qid": "Q11129342",
+    "name": "Keta district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.520278,
+    "lon": 134.001111
+  },
+  {
+    "qid": "Q1132134",
+    "name": "Tosa district",
+    "pref_name": "Kōchi Prefecture",
+    "pref_qid": "Q134093",
+    "lat": 33.764,
+    "lon": 133.462
+  },
+  {
+    "qid": "Q5097503",
+    "name": "Chikuma district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134070",
+    "name": "Kushiro district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.029,
+    "lon": 144.502
+  },
+  {
+    "qid": "Q11411260",
+    "name": "Koshi district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 37.32658333,
+    "lon": 138.89
+  },
+  {
+    "qid": "Q11403811",
+    "name": "Kitakanra district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11405036",
+    "name": "Toichi district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5380885",
+    "name": "Enuma district",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132466",
+    "name": "Fujitsu district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": 33.016666666,
+    "lon": 130.183333333
+  },
+  {
+    "qid": "Q1132357",
+    "name": "Higashikunisaki district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": 33.727222222,
+    "lon": 131.664444444
+  },
+  {
+    "qid": "Q1134105",
+    "name": "Kawakami district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.425,
+    "lon": 144.53
+  },
+  {
+    "qid": "Q1134236",
+    "name": "Rebun district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 45.387,
+    "lon": 141.018
+  },
+  {
+    "qid": "Q5368803",
+    "name": "Hekikai district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q4830891",
+    "name": "Ayama district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134233",
+    "name": "Shiranuka district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.159,
+    "lon": 143.918
+  },
+  {
+    "qid": "Q5871590",
+    "name": "Hita district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132476",
+    "name": "Kuma district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 32.27,
+    "lon": 130.88
+  },
+  {
+    "qid": "Q1132180",
+    "name": "Higashimorokata district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": 31.983333333,
+    "lon": 131.316666666
+  },
+  {
+    "qid": "Q4829634",
+    "name": "Awa district",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11408481",
+    "name": "Minami district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134092",
+    "name": "Notsuke district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.395,
+    "lon": 145.05
+  },
+  {
+    "qid": "Q11407939",
+    "name": "Minamimurayama district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11407534",
+    "name": "Minamiseta district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11408363",
+    "name": "Minamiokitama district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11398902",
+    "name": "Kamo district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132367",
+    "name": "Satsuma district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.942,
+    "lon": 130.46
+  },
+  {
+    "qid": "Q11408242",
+    "name": "Minamikanra district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11408391",
+    "name": "Minamikatsuragi district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11409085",
+    "name": "Innami district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11409326",
+    "name": "Atsumi district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5986318",
+    "name": "Ichishi district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134549",
+    "name": "Shibetoro District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 45.556628,
+    "lon": 148.772557
+  },
+  {
+    "qid": "Q1132187",
+    "name": "Kamimashiki district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": 32.734,
+    "lon": 130.86
+  },
+  {
+    "qid": "Q5095301",
+    "name": "Chiba district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134079",
+    "name": "Shibetsu district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.65,
+    "lon": 144.84
+  },
+  {
+    "qid": "Q11386034",
+    "name": "Shida district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.008333,
+    "lon": 140.275
+  },
+  {
+    "qid": "Q11411239",
+    "name": "Furuichi district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5396738",
+    "name": "Esashi district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5765974",
+    "name": "Niihari district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11380682",
+    "name": "Iga district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q5510475",
+    "name": "Futami district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11142103",
+    "name": "Kawamura district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.513611,
+    "lon": 133.94
+  },
+  {
+    "qid": "Q11353675",
+    "name": "Shitsumi district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11412369",
+    "name": "Kakami district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132169",
+    "name": "Koyu district",
+    "pref_name": "Miyazaki Prefecture",
+    "pref_qid": "Q130300",
+    "lat": 32.249,
+    "lon": 131.483
+  },
+  {
+    "qid": "Q1134120",
+    "name": "Menashi district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 44.023,
+    "lon": 145.142
+  },
+  {
+    "qid": "Q11390675",
+    "name": "Yana district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 34.8425,
+    "lon": 137.422222
+  },
+  {
+    "qid": "Q4807468",
+    "name": "Aso district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11404155",
+    "name": "Kita district",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11380911",
+    "name": "Ina district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134139",
+    "name": "Kamikawa district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.012,
+    "lon": 142.866
+  },
+  {
+    "qid": "Q1132266",
+    "name": "Aki district",
+    "pref_name": "Kōchi Prefecture",
+    "pref_qid": "Q134093",
+    "lat": 33.537612,
+    "lon": 134.091542
+  },
+  {
+    "qid": "Q11416909",
+    "name": "Shūfu district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11415429",
+    "name": "Nabari district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11415547",
+    "name": "Nagusa district",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11416374",
+    "name": "Kimisawa district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1134336",
+    "name": "Mashike district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.793055555,
+    "lon": 141.523055555
+  },
+  {
+    "qid": "Q11382916",
+    "name": "Sai district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1132141",
+    "name": "Agawa district",
+    "pref_name": "Kōchi Prefecture",
+    "pref_qid": "Q134093",
+    "lat": 33.574752,
+    "lon": 133.167096
+  },
+  {
+    "qid": "Q1155686",
+    "name": "Iwase district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.288055555,
+    "lon": 140.075
+  },
+  {
+    "qid": "Q1155567",
+    "name": "Santō district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 37.5291,
+    "lon": 138.706
+  },
+  {
+    "qid": "Q1155541",
+    "name": "Nishiokitama district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": 38.03299,
+    "lon": 139.84554
+  },
+  {
+    "qid": "Q1155247",
+    "name": "Sera district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": 34.615,
+    "lon": 133.009
+  },
+  {
+    "qid": "Q1155147",
+    "name": "Nakauonuma district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 36.995,
+    "lon": 138.636
+  },
+  {
+    "qid": "Q1155511",
+    "name": "Higashimurayama district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": 38.2947,
+    "lon": 140.23076
+  },
+  {
+    "qid": "Q1142259",
+    "name": "Sunto District",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": 35.368,
+    "lon": 138.927
+  },
+  {
+    "qid": "Q1155355",
+    "name": "Wake district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 34.846,
+    "lon": 134.135
+  },
+  {
+    "qid": "Q1153801",
+    "name": "Iruma district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": 35.921,
+    "lon": 139.297
+  },
+  {
+    "qid": "Q1155694",
+    "name": "Minamiakita District",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 39.943,
+    "lon": 140.139
+  },
+  {
+    "qid": "Q1155531",
+    "name": "Igu district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 37.878055555,
+    "lon": 140.765
+  },
+  {
+    "qid": "Q1145581",
+    "name": "Chichibu district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": 36.023611111,
+    "lon": 139.015
+  },
+  {
+    "qid": "Q1155035",
+    "name": "Mikata district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 35.567,
+    "lon": 134.551
+  },
+  {
+    "qid": "Q1155020",
+    "name": "Kitaadachi district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": 35.972,
+    "lon": 139.636
+  },
+  {
+    "qid": "Q1155592",
+    "name": "Akumi district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": 39.01666667,
+    "lon": 139.9
+  },
+  {
+    "qid": "Q1155067",
+    "name": "Kitaazumi district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.71948,
+    "lon": 137.88127
+  },
+  {
+    "qid": "Q1155105",
+    "name": "Higashichikuma District",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.428055555,
+    "lon": 138.01
+  },
+  {
+    "qid": "Q1154776",
+    "name": "Minamisaku District",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.059,
+    "lon": 138.504
+  },
+  {
+    "qid": "Q1154646",
+    "name": "Nishikamo district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.08333333,
+    "lon": 137.06666667
+  },
+  {
+    "qid": "Q1155600",
+    "name": "Kami district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.587,
+    "lon": 140.7
+  },
+  {
+    "qid": "Q1134132",
+    "name": "Nakagawa district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 42.88851,
+    "lon": 143.44744
+  },
+  {
+    "qid": "Q1155556",
+    "name": "Toyota district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": 34.2353,
+    "lon": 132.885
+  },
+  {
+    "qid": "Q1145821",
+    "name": "Matsumae district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 41.521,
+    "lon": 140.15
+  },
+  {
+    "qid": "Q1155520",
+    "name": "Higashiokitama district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": 38.012,
+    "lon": 140.084
+  },
+  {
+    "qid": "Q1155579",
+    "name": "Jinseki district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": 34.758055555,
+    "lon": 133.265
+  },
+  {
+    "qid": "Q1155548",
+    "name": "Ishikawa district",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": 36.54,
+    "lon": 136.61
+  },
+  {
+    "qid": "Q1154565",
+    "name": "Yuki district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.184722222,
+    "lon": 139.895
+  },
+  {
+    "qid": "Q1154558",
+    "name": "Yoshino district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": 34.137,
+    "lon": 135.97
+  },
+  {
+    "qid": "Q1155094",
+    "name": "Kamitakai district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.666,
+    "lon": 138.412
+  },
+  {
+    "qid": "Q1155539",
+    "name": "Kitakanbara district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 37.981,
+    "lon": 139.264
+  },
+  {
+    "qid": "Q1155139",
+    "name": "Nishikanbara district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 37.6939,
+    "lon": 138.836
+  },
+  {
+    "qid": "Q1155132",
+    "name": "Higashikanbara district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 37.664923,
+    "lon": 139.464178
+  },
+  {
+    "qid": "Q1154678",
+    "name": "Tsuzuki district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": 34.8465,
+    "lon": 135.874
+  },
+  {
+    "qid": "Q1143717",
+    "name": "Isumi district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": 35.231166666,
+    "lon": 140.233611111
+  },
+  {
+    "qid": "Q1155689",
+    "name": "Tamura district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.346,
+    "lon": 140.564
+  },
+  {
+    "qid": "Q1155074",
+    "name": "Kamiminochi district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.783,
+    "lon": 138.154
+  },
+  {
+    "qid": "Q1154962",
+    "name": "Fuji district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": 35.25,
+    "lon": 138.63333
+  },
+  {
+    "qid": "Q1155572",
+    "name": "Yamagata district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": 34.689,
+    "lon": 132.349
+  },
+  {
+    "qid": "Q1155036",
+    "name": "Shiki district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": 34.564,
+    "lon": 135.788
+  },
+  {
+    "qid": "Q1154661",
+    "name": "Soraku district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": 34.769,
+    "lon": 135.961
+  },
+  {
+    "qid": "Q1155110",
+    "name": "Kariwa district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 37.4203,
+    "lon": 138.644
+  },
+  {
+    "qid": "Q1153597",
+    "name": "Awa district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": 35.116666666,
+    "lon": 139.833333333
+  },
+  {
+    "qid": "Q1154785",
+    "name": "Nakakoma district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": 35.6251,
+    "lon": 138.535
+  },
+  {
+    "qid": "Q1154667",
+    "name": "Higashiibaraki district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.38722,
+    "lon": 140.37568
+  },
+  {
+    "qid": "Q1134126",
+    "name": "Katō District",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.237,
+    "lon": 143.17
+  },
+  {
+    "qid": "Q1141178",
+    "name": "Minamitsuru district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": 35.507,
+    "lon": 138.754
+  },
+  {
+    "qid": "Q1155060",
+    "name": "Yoro District",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": 35.2992,
+    "lon": 136.564
+  },
+  {
+    "qid": "Q1134075",
+    "name": "Teshio district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 44.986,
+    "lon": 141.86
+  },
+  {
+    "qid": "Q1143970",
+    "name": "Kamikita district",
+    "pref_name": "Aomori Prefecture",
+    "pref_qid": "Q71699",
+    "lat": 40.773888888,
+    "lon": 141.260833333
+  },
+  {
+    "qid": "Q1154841",
+    "name": "Tagata district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": 35.119444444,
+    "lon": 138.936111111
+  },
+  {
+    "qid": "Q1155124",
+    "name": "Iwafune district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 38.061,
+    "lon": 139.6
+  },
+  {
+    "qid": "Q1155054",
+    "name": "Kamiina district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 35.796,
+    "lon": 137.862
+  },
+  {
+    "qid": "Q1154673",
+    "name": "Inashiki district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 35.994,
+    "lon": 140.275
+  },
+  {
+    "qid": "Q1142451",
+    "name": "Kitasaku district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.353,
+    "lon": 138.552
+  },
+  {
+    "qid": "Q1134193",
+    "name": "Ashoro district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": 43.415555555,
+    "lon": 143.618333333
+  },
+  {
+    "qid": "Q1153740",
+    "name": "Sanbu district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": 35.638,
+    "lon": 140.514
+  },
+  {
+    "qid": "Q1155585",
+    "name": "Nishimurayama district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": 38.384,
+    "lon": 140.045
+  },
+  {
+    "qid": "Q7423207",
+    "name": "Sarashina district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11473723",
+    "name": "Okada district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.080556,
+    "lon": 139.958333
+  },
+  {
+    "qid": "Q6426482",
+    "name": "Kojima district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7398017",
+    "name": "Sado district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": 38.083333333,
+    "lon": 138.333055555
+  },
+  {
+    "qid": "Q6374307",
+    "name": "Kashima district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 35.965556,
+    "lon": 140.644722
+  },
+  {
+    "qid": "Q6960196",
+    "name": "Nakakanbara district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6960209",
+    "name": "Nakakubiki district",
+    "pref_name": "Niigata Prefecture",
+    "pref_qid": "Q132705",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7398293",
+    "name": "Saeki district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7040562",
+    "name": "Nishiibaraki district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.361667,
+    "lon": 140.266667
+  },
+  {
+    "qid": "Q6373931",
+    "name": "Kasa district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11467644",
+    "name": "Yamana district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7428600",
+    "name": "Sawara district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11431107",
+    "name": "Taga district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.716667,
+    "lon": 140.683333
+  },
+  {
+    "qid": "Q6845252",
+    "name": "Mihara district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11438107",
+    "name": "Ōgata district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6980219",
+    "name": "Natori district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6964536",
+    "name": "Naoiri district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11469930",
+    "name": "Yamanashi district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q98491944",
+    "name": "Takayasu district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6358920",
+    "name": "Kamo district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7402764",
+    "name": "Sakai district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11469385",
+    "name": "Yamamoto district",
+    "pref_name": "Kumamoto Prefecture",
+    "pref_qid": "Q130308",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6932192",
+    "name": "Mugi district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q96695289",
+    "name": "Mishima district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11439757",
+    "name": "Ōno district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6862981",
+    "name": "Minamitoshima district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6960105",
+    "name": "Naka district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6404015",
+    "name": "Kibi district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q21655271",
+    "name": "Keta district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11470700",
+    "name": "Yamada district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6863070",
+    "name": "Minamiazumi district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6863065",
+    "name": "Minamiamabe district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6863121",
+    "name": "Minamitakaki district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6864065",
+    "name": "Mine district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11444866",
+    "name": "Anki district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q130341291",
+    "name": "Minato district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q24875411",
+    "name": "Kaisai district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q24875402",
+    "name": "Nakashima district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6446017",
+    "name": "Kurihara district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": 38.74166667,
+    "lon": 141.01725
+  },
+  {
+    "qid": "Q6868901",
+    "name": "Minō district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7069042",
+    "name": "Numakuma district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": 34.5211,
+    "lon": 133.3364
+  },
+  {
+    "qid": "Q7079825",
+    "name": "Ogasa district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6380771",
+    "name": "Kazahaya district",
+    "pref_name": "Ehime Prefecture",
+    "pref_qid": "Q123376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6395302",
+    "name": "Ketaka district",
+    "pref_name": "Tottori Prefecture",
+    "pref_qid": "Q133935",
+    "lat": 35.487638888,
+    "lon": 134.131472222
+  },
+  {
+    "qid": "Q7395781",
+    "name": "Saba district",
+    "pref_name": "Yamaguchi Prefecture",
+    "pref_qid": "Q127264",
+    "lat": 34.189353,
+    "lon": 131.655486
+  },
+  {
+    "qid": "Q7496121",
+    "name": "Shida district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7080026",
+    "name": "Ogi district",
+    "pref_name": "Saga Prefecture",
+    "pref_qid": "Q160420",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11449246",
+    "name": "Uda district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6958275",
+    "name": "Naga district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q24875408",
+    "name": "Kaisai district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.078778,
+    "lon": 136.791139
+  },
+  {
+    "qid": "Q6721577",
+    "name": "Mabicho",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": 34.62902778,
+    "lon": 133.6922222
+  },
+  {
+    "qid": "Q7082713",
+    "name": "Oku district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11471000",
+    "name": "Yamabe district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11432367",
+    "name": "Ōsumi district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.354583,
+    "lon": 139.349167
+  },
+  {
+    "qid": "Q6414199",
+    "name": "Kinosaki district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7402853",
+    "name": "Sakata district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": 35.33725,
+    "lon": 136.303889
+  },
+  {
+    "qid": "Q6938811",
+    "name": "Muro district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6738588",
+    "name": "Makabe district",
+    "pref_name": "Ibaraki Prefecture",
+    "pref_qid": "Q83273",
+    "lat": 36.3,
+    "lon": 139.983333
+  },
+  {
+    "qid": "Q6938811",
+    "name": "Muro district",
+    "pref_name": "Wakayama Prefecture",
+    "pref_qid": "Q131314",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11457397",
+    "name": "Samukawa district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6863115",
+    "name": "Minamisōma district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6410153",
+    "name": "Kimitsu district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": 35.38333333,
+    "lon": 139.91666667
+  },
+  {
+    "qid": "Q6902060",
+    "name": "Monou district",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6883192",
+    "name": "Mitsugi district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11431006",
+    "name": "Taki district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11449432",
+    "name": "Uchi district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6783168",
+    "name": "Mashita district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6379569",
+    "name": "Kawakami district",
+    "pref_name": "Okayama Prefecture",
+    "pref_qid": "Q132936",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11450568",
+    "name": "Asukabe district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q24875390",
+    "name": "Nakashima district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11450769",
+    "name": "Azumi district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11450952",
+    "name": "Anō district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6417767",
+    "name": "Kitakuwada district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6987940",
+    "name": "Nei district",
+    "pref_name": "Toyama Prefecture",
+    "pref_qid": "Q132929",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6417764",
+    "name": "Kitakoma district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6417665",
+    "name": "Kitaamabe district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6379427",
+    "name": "Kawabe district",
+    "pref_name": "Akita Prefecture",
+    "pref_qid": "Q81863",
+    "lat": 39.65277778,
+    "lon": 140.21527778
+  },
+  {
+    "qid": "Q17230977",
+    "name": "Amaha district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6417907",
+    "name": "Kitatama district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7496803",
+    "name": "Shima district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6347746",
+    "name": "Kaijō district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7040718",
+    "name": "Nishitagawa district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7041539",
+    "name": "Nitta district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7040609",
+    "name": "Nishikunisaki district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7095206",
+    "name": "Onyū district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6417903",
+    "name": "Kitatakaki district",
+    "pref_name": "Nagasaki Prefecture",
+    "pref_qid": "Q169376",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11426221",
+    "name": "Kitō district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11427160",
+    "name": "Saitama district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6446084",
+    "name": "Kurita district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": 35.01027778,
+    "lon": 135.98527778
+  },
+  {
+    "qid": "Q11416923",
+    "name": "Sue district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6935606",
+    "name": "Munakata district",
+    "pref_name": "Fukuoka Prefecture",
+    "pref_qid": "Q123258",
+    "lat": 33.766806,
+    "lon": 130.491083
+  },
+  {
+    "qid": "Q7496534",
+    "name": "Shikama district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7496289",
+    "name": "Shiga district",
+    "pref_name": "Shiga Prefecture",
+    "pref_qid": "Q131358",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6417662",
+    "name": "Kitaaizu district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11430789",
+    "name": "Tama district",
+    "pref_name": "Tokyo Prefecture",
+    "pref_qid": "Q1189121",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7047488",
+    "name": "Nogi district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11430789",
+    "name": "Tama district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11431032",
+    "name": "Tago district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q6455248",
+    "name": "Kōnu district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11431050",
+    "name": "Tagi district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11451165",
+    "name": "Asaka district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7403130",
+    "name": "Saku district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": 36.284877777,
+    "lon": 138.45575
+  },
+  {
+    "qid": "Q6379640",
+    "name": "Kawanabe district",
+    "pref_name": "Kagoshima Prefecture",
+    "pref_qid": "Q15701",
+    "lat": 31.322778,
+    "lon": 130.296667
+  },
+  {
+    "qid": "Q7677417",
+    "name": "Takata district",
+    "pref_name": "Hiroshima Prefecture",
+    "pref_qid": "Q617375",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11502256",
+    "name": "Niikura district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11502110",
+    "name": "Niikawa district",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11541893",
+    "name": "Hanzawa district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11543466",
+    "name": "Yokomi district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155862",
+    "name": "Mogami district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": 38.925,
+    "lon": 140.26
+  },
+  {
+    "qid": "Q11504366",
+    "name": "Katagata district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155792",
+    "name": "Date district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.71336,
+    "lon": 140.565717
+  },
+  {
+    "qid": "Q1155850",
+    "name": "Soma District",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.714,
+    "lon": 140.784
+  },
+  {
+    "qid": "Q7680960",
+    "name": "Tamatsukuri District",
+    "pref_name": "Miyagi Prefecture",
+    "pref_qid": "Q47896",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11548296",
+    "name": "Minochi district",
+    "pref_name": "Nagano Prefecture",
+    "pref_qid": "Q127877",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11541347",
+    "name": "Naraha district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11549651",
+    "name": "Himi district",
+    "pref_name": "Toyama Prefecture",
+    "pref_qid": "Q132929",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155799",
+    "name": "Yatsuka district",
+    "pref_name": "Shimane Prefecture",
+    "pref_qid": "Q132751",
+    "lat": 35.465,
+    "lon": 133.051111111
+  },
+  {
+    "qid": "Q11509546",
+    "name": "Hine district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11542238",
+    "name": "Shineha district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11552165",
+    "name": "Ikeda district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11512561",
+    "name": "Akashi district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11526362",
+    "name": "Higashiwaga district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11528653",
+    "name": "Higashihei district",
+    "pref_name": "Iwate Prefecture",
+    "pref_qid": "Q48326",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11545921",
+    "name": "Musa district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155853",
+    "name": "Onuma District",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.448,
+    "lon": 139.544
+  },
+  {
+    "qid": "Q11499560",
+    "name": "Tsuruga district",
+    "pref_name": "Fukui Prefecture",
+    "pref_qid": "Q133879",
+    "lat": 35.645194444,
+    "lon": 136.0555
+  },
+  {
+    "qid": "Q11516836",
+    "name": "Arima district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11516569",
+    "name": "Udo district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11517620",
+    "name": "Asake district",
+    "pref_name": "Mie Prefecture",
+    "pref_qid": "Q128196",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155789",
+    "name": "Nishishirakawa district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.159,
+    "lon": 140.122
+  },
+  {
+    "qid": "Q11479803",
+    "name": "Koma district",
+    "pref_name": "Yamanashi Prefecture",
+    "pref_qid": "Q132720",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11544303",
+    "name": "Tachibana district",
+    "pref_name": "Kanagawa Prefecture",
+    "pref_qid": "Q127513",
+    "lat": 35.483333,
+    "lon": 139.666667
+  },
+  {
+    "qid": "Q11481871",
+    "name": "Hara district",
+    "pref_name": "Saitama Prefecture",
+    "pref_qid": "Q128186",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11538357",
+    "name": "Yanada district",
+    "pref_name": "Tochigi Prefecture",
+    "pref_qid": "Q44843",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11523165",
+    "name": "Murayama district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11483501",
+    "name": "Heguri district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11513576",
+    "name": "Kasugai district",
+    "pref_name": "Aichi Prefecture",
+    "pref_qid": "Q80434",
+    "lat": 35.255,
+    "lon": 136.917306
+  },
+  {
+    "qid": "Q11487842",
+    "name": "Tōbui district",
+    "pref_name": "Hokkaido",
+    "pref_qid": "Q1037393",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155781",
+    "name": "Higashitagawa district",
+    "pref_name": "Yamagata Prefecture",
+    "pref_qid": "Q125863",
+    "lat": 38.785,
+    "lon": 139.966
+  },
+  {
+    "qid": "Q11485642",
+    "name": "Hirose district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155856",
+    "name": "Kawanuma district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.55,
+    "lon": 139.754
+  },
+  {
+    "qid": "Q7651143",
+    "name": "Suzu district",
+    "pref_name": "Ishikawa Prefecture",
+    "pref_qid": "Q131281",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7553491",
+    "name": "Soekami district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11517166",
+    "name": "Mōda district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11528194",
+    "name": "Higashigunma district",
+    "pref_name": "Gunma Prefecture",
+    "pref_qid": "Q129499",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11528130",
+    "name": "Higashitonami district",
+    "pref_name": "Toyama Prefecture",
+    "pref_qid": "Q132929",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11486987",
+    "name": "Shikige district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11486985",
+    "name": "Shikijō district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11487138",
+    "name": "Inasa district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7667621",
+    "name": "Sōsa district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11480066",
+    "name": "Ichihara district",
+    "pref_name": "Chiba Prefecture",
+    "pref_qid": "Q80011",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11490759",
+    "name": "Oshimi district",
+    "pref_name": "Nara Prefecture",
+    "pref_qid": "Q131287",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155802",
+    "name": "Minamiaizu district",
+    "pref_name": "Fukushima Prefecture",
+    "pref_qid": "Q71707",
+    "lat": 37.156,
+    "lon": 139.44
+  },
+  {
+    "qid": "Q11491125",
+    "name": "Shiki district",
+    "pref_name": "Osaka Prefecture",
+    "pref_qid": "Q122723",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q1155732",
+    "name": "Myozai District",
+    "pref_name": "Tokushima Prefecture",
+    "pref_qid": "Q160734",
+    "lat": 33.996,
+    "lon": 134.36
+  },
+  {
+    "qid": "Q7496962",
+    "name": "Shimoge district",
+    "pref_name": "Oita Prefecture",
+    "pref_qid": "Q133924",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11537600",
+    "name": "Kuwada district",
+    "pref_name": "Kyoto Prefecture",
+    "pref_qid": "Q120730",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q7499122",
+    "name": "Shisō district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11545988",
+    "name": "Muko district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": 34.7371605,
+    "lon": 135.3523598
+  },
+  {
+    "qid": "Q11481141",
+    "name": "Mushiroda district",
+    "pref_name": "Gifu Prefecture",
+    "pref_qid": "Q131277",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11498435",
+    "name": "Ittō district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11498436",
+    "name": "Issai district",
+    "pref_name": "Hyōgo Prefecture",
+    "pref_qid": "Q130290",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "qid": "Q11499717",
+    "name": "Fuchi district",
+    "pref_name": "Shizuoka Prefecture",
+    "pref_qid": "Q131320",
+    "lat": null,
+    "lon": null
+  }
+]

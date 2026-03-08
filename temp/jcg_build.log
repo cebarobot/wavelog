@@ -1,0 +1,238 @@
+using_local_wikidata_cache: true
+[MISSING_COORD] code=01004 name=Atsuta pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01006 name=Abuta(Shiribeshi) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01007 name=Abuta(Iburi) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01012 name=Utasutsu pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01014 name=Uryu(Sorachi) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01017 name=Oshoro pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01022 name=Kamikawa(Tokachi) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01023 name=Kamikawa(Kamikawa) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+processed 25/623 found=17 missing=8
+[MISSING_COORD] code=01029 name=Sapporo pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01032 name=Shizunai pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01042 name=Sorachi(Sorachi) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01043 name=Sorachi(Kamikawa) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01045 name=Teshio(Rumoi) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01046 name=Teshio(Soya) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01050 name=Nakagawa(Kamikawa) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+processed 50/623 found=35 missing=15
+[MISSING_COORD] code=01051 name=Nakagawa(Tokachi) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01054 name=Nemuro pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01056 name=Hanasaki pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01057 name=Hamamasu pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01058 name=Bikuni pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01061 name=Futoro pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01065 name=Horobetsu pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01068 name=Mitsuishi pref=Hokkaido reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=01073 name=Yufutsu(Iburi) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=01074 name=Yufutsu(Kamikawa) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+processed 75/623 found=50 missing=25
+[MISSING_COORD] code=01081 name=Uryu(Kamikawa) pref=Hokkaido reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=03003 name=Esashi pref=Iwate reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=03011 name=Hienuki pref=Iwate reason=name_matched_but_no_coord_deleted
+processed 100/623 found=72 missing=28
+[MISSING_COORD] code=05004 name=Nishitagawa pref=Yamagata reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=05009 name=Minamiokitama pref=Yamagata reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=05010 name=Minamimurayama pref=Yamagata reason=name_matched_but_no_coord_deleted
+processed 125/623 found=94 missing=31
+[MISSING_COORD] code=06007 name=Shida pref=Miyagi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=06009 name=Tamadukuri pref=Miyagi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=06011 name=Tome pref=Miyagi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=06012 name=Natori pref=Miyagi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=06015 name=Monou pref=Miyagi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=07001 name=Asaka pref=Fukushima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=07004 name=Ishiki pref=Fukushima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=07008 name=Kitaaidu pref=Fukushima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=07009 name=Shinobu pref=Fukushima reason=name_matched_but_no_coord_deleted
+processed 150/623 found=110 missing=40
+[MISSING_COORD] code=08009 name=Nakakambara pref=Niigata reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=08010 name=Nakakubiki pref=Niigata reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=08014 name=Higashikubiki pref=Niigata reason=name_matched_but_no_coord_deleted
+processed 175/623 found=132 missing=43
+[MISSING_COORD] code=09007 name=Sarashina pref=Nagano reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=09013 name=(Reserved) pref=Nagano reason=skip_parenthetical_hokkaido_special
+[MISSING_COORD] code=09016 name=Minamiazumi pref=Nagano reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=10001 name=Kitatama pref=Tokyo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=10003 name=Minamitama pref=Tokyo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=10004 name=Oshima pref=Tokyo reason=ambiguous_multiple_candidates:2:pref_not_matched
+[MISSING_COORD] code=10005 name=Miyake pref=Tokyo reason=no_name_match_in_catalog
+[MISSING_COORD] code=10006 name=Hachijo pref=Tokyo reason=no_name_match_in_catalog
+[MISSING_COORD] code=10007 name=Ogasawara pref=Tokyo reason=no_name_match_in_catalog
+[MISSING_COORD] code=11005 name=Tsukui pref=Kanagawa reason=name_matched_but_no_coord_deleted
+processed 200/623 found=147 missing=53
+[MISSING_COORD] code=12003 name=Ichihara pref=Chiba reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=12005 name=Kaijo pref=Chiba reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=12009 name=Sosa pref=Chiba reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=12010 name=Chiba pref=Chiba reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=12012 name=Higashikatsushika pref=Chiba reason=name_matched_but_no_coord_deleted
+processed 225/623 found=167 missing=58
+[MISSING_COORD] code=14007 name=Tsukuba pref=Ibaraki reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=14010 name=Niihari pref=Ibaraki reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=15001 name=Ashikaga pref=Tochigi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=15002 name=Aso pref=Tochigi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=16002 name=Usui pref=Gunma reason=name_matched_but_no_coord_deleted
+processed 250/623 found=187 missing=63
+[MISSING_COORD] code=16006 name=Gumma pref=Gunma reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=16011 name=Nitta pref=Gunma reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=16012 name=Yamada pref=Gunma reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=17001 name=Kitakoma pref=Yamanashi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=17005 name=Higashiyatsushiro pref=Yamanashi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=17006 name=Higashiyamanashi pref=Yamanashi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=18002 name=Inasa pref=Shizuoka reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=18003 name=Ihara pref=Shizuoka reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=18004 name=Iwata pref=Shizuoka reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=18005 name=Ogasa pref=Shizuoka reason=name_matched_but_no_coord_deleted
+processed 275/623 found=202 missing=73
+[MISSING_COORD] code=19002 name=Inaba pref=Gifu reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=19006 name=Kaizu pref=Gifu reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=19009 name=Gujo pref=Gifu reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=19013 name=Mashita pref=Gifu reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=19014 name=Mugi pref=Gifu reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=19016 name=Yamagata pref=Gifu reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=19018 name=Yoshiki pref=Gifu reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=20002 name=Atsumi pref=Aichi reason=name_matched_but_no_coord_deleted
+processed 300/623 found=219 missing=81
+[MISSING_COORD] code=20006 name=Nakashima pref=Aichi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=20011 name=Haguri pref=Aichi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=20013 name=Higashikasugai pref=Aichi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=20015 name=Hekikai pref=Aichi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=21001 name=Age pref=Mie reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=21002 name=Ano pref=Mie reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=21003 name=Ayama pref=Mie reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=21004 name=Iinan pref=Mie reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=21005 name=Ichishi pref=Mie reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=21007 name=Kawage pref=Mie reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=21010 name=Shima pref=Mie reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=21011 name=Suzuka pref=Mie reason=name_matched_but_no_coord_deleted
+processed 325/623 found=232 missing=93
+[MISSING_COORD] code=21013 name=Naga pref=Mie reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=22002 name=Ikaruga pref=Kyoto reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=22004 name=Kasa pref=Kyoto reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=22005 name=Kitakuwada pref=Kyoto reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=22007 name=Kumano pref=Kyoto reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=22009 name=Takeno pref=Kyoto reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=22011 name=Naka pref=Kyoto reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=22013 name=Minamikuwada pref=Kyoto reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=23005 name=Kanzaki pref=Shiga reason=name_matched_but_no_coord_deleted
+processed 350/623 found=248 missing=102
+[MISSING_COORD] code=23007 name=Koka pref=Shiga reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=23009 name=Shiga pref=Shiga reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=23010 name=Takashima pref=Shiga reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=23012 name=Yasu pref=Shiga reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=24003 name=Uchi pref=Nara reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=24006 name=Soekami pref=Nara reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=24008 name=Minamikatsuragi pref=Nara reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=25001 name=Kitakawachi pref=Osaka reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=25005 name=Nakakawachi pref=Osaka reason=name_matched_but_no_coord_deleted
+processed 375/623 found=264 missing=111
+[MISSING_COORD] code=26004 name=Naga pref=Wakayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27003 name=Arima pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27004 name=Izushi pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27006 name=Innami pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27008 name=Kasai pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27009 name=Kato pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27012 name=Kinosaki pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27014 name=Shikama pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27015 name=Shiso pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27017 name=Taki pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27019 name=Hikami pref=Hyogo reason=name_matched_but_no_coord_deleted
+processed 400/623 found=278 missing=122
+[MISSING_COORD] code=27021 name=Mino pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27022 name=Mihara pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=27024 name=Yabu pref=Hyogo reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=28001 name=Imizu pref=Toyama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=28002 name=Kaminiikawa pref=Toyama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=28005 name=Nishitonami pref=Toyama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=28006 name=Nei pref=Toyama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=28007 name=Himi pref=Toyama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=28008 name=Higashitonami pref=Toyama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=29001 name=Asuwa pref=Fukui reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=29004 name=Ono pref=Fukui reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=29005 name=Onyu pref=Fukui reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=29006 name=Sakai pref=Fukui reason=name_matched_but_no_coord_deleted
+processed 425/623 found=290 missing=135
+[MISSING_COORD] code=30002 name=Enuma pref=Ishikawa reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=30005 name=Suzu pref=Ishikawa reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=30008 name=Fugeshi pref=Ishikawa reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=31002 name=Akaiwa pref=Okayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=31004 name=Atetsu pref=Okayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=31005 name=Oku pref=Okayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=31008 name=Kawakami pref=Okayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=31009 name=Kibi pref=Okayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=31011 name=Kojima pref=Okayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=31012 name=Shitsuki pref=Okayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=31013 name=Jodo pref=Okayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=31014 name=Jobo pref=Okayama reason=name_matched_but_no_coord_deleted
+processed 450/623 found=303 missing=147
+[MISSING_COORD] code=31018 name=Mitsu pref=Okayama reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=32001 name=Ano pref=Shimane reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=32002 name=Ama pref=Shimane reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=32005 name=Ohara pref=Shimane reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=32009 name=Suki pref=Shimane reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=32010 name=Chibu pref=Shimane reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=32011 name=Naka pref=Shimane reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=32013 name=Nima pref=Shimane reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=32014 name=Nogi pref=Shimane reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=32016 name=Mino pref=Shimane reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=33001 name=Asa pref=Yamaguchi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=33004 name=Otsu pref=Yamaguchi reason=name_matched_but_no_coord_deleted
+processed 475/623 found=316 missing=159
+[MISSING_COORD] code=33008 name=Tsuno pref=Yamaguchi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=33009 name=Toyoura pref=Yamaguchi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=33010 name=Mine pref=Yamaguchi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=33011 name=Yoshiki pref=Yamaguchi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=35002 name=Asa pref=Hiroshima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=35003 name=Ashina pref=Hiroshima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=35004 name=Kamo pref=Hiroshima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=35005 name=Konu pref=Hiroshima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=35006 name=Saeki pref=Hiroshima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=35009 name=Takata pref=Hiroshima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=35012 name=Hiba pref=Hiroshima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=35013 name=Fukayasu pref=Hiroshima reason=name_matched_but_no_coord_deleted
+processed 500/623 found=329 missing=171
+[MISSING_COORD] code=35014 name=Futami pref=Hiroshima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=35015 name=Mitsugi pref=Hiroshima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=36007 name=Mitoyo pref=Kagawa reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=37001 name=Awa pref=Tokushima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=37003 name=Oe pref=Tokushima reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=38002 name=Uma pref=Ehime reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=38004 name=Onsen pref=Ehime reason=name_matched_but_no_coord_deleted
+processed 525/623 found=347 missing=178
+[MISSING_COORD] code=38008 name=Shuso pref=Ehime reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=38009 name=Nii pref=Ehime reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=38011 name=Higashiuwa pref=Ehime reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=39003 name=Kami pref=Kochi reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=40008 name=Sawara pref=Fukuoka reason=name_matched_but_no_coord_deleted
+processed 550/623 found=367 missing=183
+[MISSING_COORD] code=41001 name=Ogi pref=Saga reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=41004 name=Saga pref=Saga reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=42001 name=Iki pref=Nagasaki reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=42002 name=Kamiagata pref=Nagasaki reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=42003 name=Kitatakaki pref=Nagasaki reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=42005 name=Shimoagata pref=Nagasaki reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=42008 name=Minamitakaki pref=Nagasaki reason=name_matched_but_no_coord_deleted
+processed 575/623 found=385 missing=190
+[MISSING_COORD] code=43004 name=Uto pref=Kumamoto reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=43011 name=Hotaku pref=Kumamoto reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=44001 name=Usa pref=Oita reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=44002 name=Oita pref=Oita reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=44003 name=Ono pref=Oita reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=44004 name=Kitaamabe pref=Oita reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=44006 name=Shimoge pref=Oita reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=44007 name=Naoiri pref=Oita reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=44008 name=Nishikunisaki pref=Oita reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=44011 name=Hita pref=Oita reason=name_matched_but_no_coord_deleted
+[MISSING_COORD] code=44012 name=Minamiamabe pref=Oita reason=name_matched_but_no_coord_deleted
+processed 600/623 found=399 missing=201
+done
+total: 623
+wikidata_catalog_rows: 964
+with coords: 422
+missing coords: 201
+name_matched_but_no_coord_deleted: 182
+name_matched_but_no_coord_active: 0
+reason_counts:
+  name_matched_but_no_coord_deleted: 182
+  skip_parenthetical_hokkaido_special: 15
+  no_name_match_in_catalog: 3
+  ambiguous_multiple_candidates:2:pref_not_matched: 1
