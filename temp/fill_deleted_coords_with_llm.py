@@ -452,8 +452,8 @@ def main() -> int:
             continue
         if has_coord(item):
             continue
-        if str(item.get("error", "")) != TARGET_ERROR:
-            continue
+        # if str(item.get("error", "")) != TARGET_ERROR:
+        #     continue
         targets.append(i)
 
     if args.limit > 0:
