@@ -9,7 +9,9 @@
     "lon": 144.321125,
     "wikidata_id": "Q599471",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "阿寒",
+    "deleted_date": ""
   },
   {
     "code": "01002",
@@ -21,7 +23,9 @@
     "lon": 143.618333333,
     "wikidata_id": "Q1134193",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "足寄",
+    "deleted_date": ""
   },
   {
     "code": "01003",
@@ -33,7 +37,9 @@
     "lon": 144.916261,
     "wikidata_id": "Q1134084",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "厚岸",
+    "deleted_date": ""
   },
   {
     "code": "01004",
@@ -41,11 +47,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 43.40013889,
+    "lon": 141.4341944,
+    "wikidata_id": "Q1030435",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "厚田",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "01005",
@@ -57,7 +65,9 @@
     "lon": 144.13,
     "wikidata_id": "Q1186622",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "網走",
+    "deleted_date": ""
   },
   {
     "code": "01006",
@@ -65,11 +75,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 42.810111111,
+    "lon": 140.824125,
+    "wikidata_id": "Q1204586|Q1355478|Q1354396|Q1204596|Q1354496|Q1354413",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "虻田(後志)",
+    "deleted_date": ""
   },
   {
     "code": "01007",
@@ -77,11 +89,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 42.567291667,
+    "lon": 140.738013889,
+    "wikidata_id": "Q1354284|Q1022930",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "虻田(胆振)",
+    "deleted_date": ""
   },
   {
     "code": "01008",
@@ -93,7 +107,9 @@
     "lon": 141.567,
     "wikidata_id": "Q1185986",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "石狩",
+    "deleted_date": ""
   },
   {
     "code": "01009",
@@ -105,7 +121,9 @@
     "lon": 140.468055555,
     "wikidata_id": "Q1185879",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "磯谷",
+    "deleted_date": ""
   },
   {
     "code": "01010",
@@ -117,7 +135,9 @@
     "lon": 140.615,
     "wikidata_id": "Q1186004",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "岩内",
+    "deleted_date": ""
   },
   {
     "code": "01011",
@@ -129,7 +149,9 @@
     "lon": 140.946,
     "wikidata_id": "Q1185976",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "有珠",
+    "deleted_date": ""
   },
   {
     "code": "01012",
@@ -137,11 +159,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 42.725041667,
+    "lon": 140.341027778,
+    "wikidata_id": "Q11545237|Q11569176",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "歌棄",
+    "deleted_date": "Jan.14,1955"
   },
   {
     "code": "01013",
@@ -153,7 +177,9 @@
     "lon": 142.88021,
     "wikidata_id": "Q1186133",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "浦河",
+    "deleted_date": ""
   },
   {
     "code": "01014",
@@ -161,11 +187,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 43.729811111,
+    "lon": 141.924127778,
+    "wikidata_id": "Q942358|Q1357097|Q1357037|Q1357113|Q1357023",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "雨竜(空知）",
+    "deleted_date": ""
   },
   {
     "code": "01015",
@@ -177,7 +205,9 @@
     "lon": 142.435189,
     "wikidata_id": "Q1134212",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "枝幸",
+    "deleted_date": ""
   },
   {
     "code": "01016",
@@ -189,7 +219,9 @@
     "lon": 139.463,
     "wikidata_id": "Q1185990",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "奥尻",
+    "deleted_date": ""
   },
   {
     "code": "01017",
@@ -197,11 +229,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 43.209305556,
+    "lon": 140.921888889,
+    "wikidata_id": "Q11428907",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "忍路",
+    "deleted_date": "Mar.31,1958"
   },
   {
     "code": "01018",
@@ -213,7 +247,9 @@
     "lon": 142.93,
     "wikidata_id": "Q548504",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "河西",
+    "deleted_date": ""
   },
   {
     "code": "01019",
@@ -225,7 +261,9 @@
     "lon": 143.17,
     "wikidata_id": "Q1134126",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "河東",
+    "deleted_date": ""
   },
   {
     "code": "01020",
@@ -237,7 +275,9 @@
     "lon": 141.754,
     "wikidata_id": "Q1186098",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "樺戸",
+    "deleted_date": ""
   },
   {
     "code": "01021",
@@ -249,7 +289,9 @@
     "lon": 140.383,
     "wikidata_id": "Q1185958",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "上磯",
+    "deleted_date": ""
   },
   {
     "code": "01022",
@@ -257,11 +299,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 43.012,
+    "lon": 142.866,
+    "wikidata_id": "Q1134139",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "上川(十勝)",
+    "deleted_date": ""
   },
   {
     "code": "01023",
@@ -269,11 +313,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 43.63215,
+    "lon": 142.9305,
+    "wikidata_id": "Q1185437|Q1185413",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "上川(上川)",
+    "deleted_date": ""
   },
   {
     "code": "01024",
@@ -285,7 +331,9 @@
     "lon": 140.705,
     "wikidata_id": "Q1185393",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "亀田",
+    "deleted_date": ""
   },
   {
     "code": "01025",
@@ -297,7 +345,9 @@
     "lon": 140.622,
     "wikidata_id": "Q1185443",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "茅部",
+    "deleted_date": ""
   },
   {
     "code": "01026",
@@ -309,7 +359,9 @@
     "lon": 144.53,
     "wikidata_id": "Q1134105",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "川上",
+    "deleted_date": ""
   },
   {
     "code": "01027",
@@ -321,7 +373,9 @@
     "lon": 144.502,
     "wikidata_id": "Q1134070",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "釧路",
+    "deleted_date": ""
   },
   {
     "code": "01028",
@@ -333,7 +387,9 @@
     "lon": 139.98694444,
     "wikidata_id": "Q1185403",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "久遠",
+    "deleted_date": ""
   },
   {
     "code": "01029",
@@ -341,11 +397,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 42.9855,
+    "lon": 141.563083333,
+    "wikidata_id": "Q817278",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "札幌",
+    "deleted_date": "Aug.31,1996"
   },
   {
     "code": "01030",
@@ -357,7 +415,9 @@
     "lon": 143.028,
     "wikidata_id": "Q920980",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "様似",
+    "deleted_date": ""
   },
   {
     "code": "01031",
@@ -369,7 +429,9 @@
     "lon": 142.102,
     "wikidata_id": "Q1185982",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "沙流",
+    "deleted_date": ""
   },
   {
     "code": "01032",
@@ -377,11 +439,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 42.341277778,
+    "lon": 142.368583333,
+    "wikidata_id": "Q1000098",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "静内",
+    "deleted_date": "Mar.30,2006"
   },
   {
     "code": "01033",
@@ -393,7 +457,9 @@
     "lon": 144.84,
     "wikidata_id": "Q1134079",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "標津",
+    "deleted_date": ""
   },
   {
     "code": "01034",
@@ -405,7 +471,9 @@
     "lon": 140.03,
     "wikidata_id": "Q1185931",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "島牧",
+    "deleted_date": ""
   },
   {
     "code": "01035",
@@ -417,7 +485,9 @@
     "lon": 140.466,
     "wikidata_id": "Q1185388",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "積丹",
+    "deleted_date": ""
   },
   {
     "code": "01036",
@@ -429,7 +499,9 @@
     "lon": 144.78,
     "wikidata_id": "Q1186633",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "斜里",
+    "deleted_date": ""
   },
   {
     "code": "01037",
@@ -441,7 +513,9 @@
     "lon": 141.25,
     "wikidata_id": "Q1185996",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "白老",
+    "deleted_date": ""
   },
   {
     "code": "01038",
@@ -453,7 +527,9 @@
     "lon": 143.918,
     "wikidata_id": "Q1134233",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "白糠",
+    "deleted_date": ""
   },
   {
     "code": "01039",
@@ -465,7 +541,9 @@
     "lon": 140.327,
     "wikidata_id": "Q1185449",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "寿都",
+    "deleted_date": ""
   },
   {
     "code": "01040",
@@ -477,7 +555,9 @@
     "lon": 140.008639,
     "wikidata_id": "Q1185969",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "瀬棚",
+    "deleted_date": ""
   },
   {
     "code": "01041",
@@ -489,7 +569,9 @@
     "lon": 142.12114,
     "wikidata_id": "Q1185957",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "宗谷",
+    "deleted_date": ""
   },
   {
     "code": "01042",
@@ -497,11 +579,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 43.32387963,
+    "lon": 141.839037037,
+    "wikidata_id": "Q1355427|Q1357239|Q1355445",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "空知(空知)",
+    "deleted_date": ""
   },
   {
     "code": "01043",
@@ -509,11 +593,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 43.341777778,
+    "lon": 142.486907407,
+    "wikidata_id": "Q1357226|Q680384|Q1357254",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "空知(上川)",
+    "deleted_date": ""
   },
   {
     "code": "01044",
@@ -525,7 +611,9 @@
     "lon": 141.63333,
     "wikidata_id": "Q10904935",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "千歳",
+    "deleted_date": "Oct.31,1970"
   },
   {
     "code": "01045",
@@ -533,11 +621,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 44.805319444,
+    "lon": 141.768791667,
+    "wikidata_id": "Q1335041|Q1355384",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "天塩(留萌)",
+    "deleted_date": ""
   },
   {
     "code": "01046",
@@ -545,11 +635,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 45.060430556,
+    "lon": 141.813597222,
+    "wikidata_id": "Q1210534|Q955532",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "天塩(宗谷)",
+    "deleted_date": ""
   },
   {
     "code": "01047",
@@ -561,7 +653,9 @@
     "lon": 143.691,
     "wikidata_id": "Q658585",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "十勝",
+    "deleted_date": ""
   },
   {
     "code": "01048",
@@ -573,7 +667,9 @@
     "lon": 143.83,
     "wikidata_id": "Q1186612",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "常呂",
+    "deleted_date": ""
   },
   {
     "code": "01049",
@@ -585,7 +681,9 @@
     "lon": 141.87,
     "wikidata_id": "Q1134113",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "苫前",
+    "deleted_date": ""
   },
   {
     "code": "01050",
@@ -593,11 +691,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 44.48333333,
+    "lon": 142.35,
+    "wikidata_id": "Q690865",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "中川(上川)",
+    "deleted_date": ""
   },
   {
     "code": "01051",
@@ -605,11 +705,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 42.894255,
+    "lon": 143.43372,
+    "wikidata_id": "Q1134132",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "中川(十勝)",
+    "deleted_date": ""
   },
   {
     "code": "01052",
@@ -621,7 +723,9 @@
     "lon": 142.509,
     "wikidata_id": "Q1186072",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "新冠",
+    "deleted_date": ""
   },
   {
     "code": "01053",
@@ -633,7 +737,9 @@
     "lon": 140.186,
     "wikidata_id": "Q1185873",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "爾志",
+    "deleted_date": ""
   },
   {
     "code": "01054",
@@ -641,11 +747,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 43.281055556,
+    "lon": 145.420305556,
+    "wikidata_id": "Q11536273|Q11418040",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "根室",
+    "deleted_date": "Jul.31,1957"
   },
   {
     "code": "01055",
@@ -657,7 +765,9 @@
     "lon": 145.05,
     "wikidata_id": "Q1134092",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "野付",
+    "deleted_date": ""
   },
   {
     "code": "01056",
@@ -665,11 +775,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 43.343583333,
+    "lon": 145.75425,
+    "wikidata_id": "Q901353",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "花咲",
+    "deleted_date": "Mar.31,1959"
   },
   {
     "code": "01057",
@@ -677,11 +789,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 43.600638889,
+    "lon": 141.38675,
+    "wikidata_id": "Q1030466",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "浜益",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "01058",
@@ -689,11 +803,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 43.298722222,
+    "lon": 140.598,
+    "wikidata_id": "Q11608889",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "美国",
+    "deleted_date": "Sep.29,1956"
   },
   {
     "code": "01059",
@@ -705,7 +821,9 @@
     "lon": 140.286,
     "wikidata_id": "Q1186011",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "檜山",
+    "deleted_date": ""
   },
   {
     "code": "01060",
@@ -717,7 +835,9 @@
     "lon": 143.17,
     "wikidata_id": "Q1186150",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "広尾",
+    "deleted_date": ""
   },
   {
     "code": "01061",
@@ -725,11 +845,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 42.358222222,
+    "lon": 139.906944444,
+    "wikidata_id": "Q11444035",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "太櫓",
+    "deleted_date": "Mar.31,1955"
   },
   {
     "code": "01062",
@@ -741,7 +863,9 @@
     "lon": 140.456055,
     "wikidata_id": "Q1185461",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "古宇",
+    "deleted_date": ""
   },
   {
     "code": "01063",
@@ -753,7 +877,9 @@
     "lon": 140.63333333,
     "wikidata_id": "Q1185945",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "古平",
+    "deleted_date": ""
   },
   {
     "code": "01064",
@@ -765,7 +891,9 @@
     "lon": 143.226,
     "wikidata_id": "Q1186022",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "幌泉",
+    "deleted_date": ""
   },
   {
     "code": "01065",
@@ -773,11 +901,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 42.439152778,
+    "lon": 141.091208333,
+    "wikidata_id": "Q428989",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "幌別",
+    "deleted_date": "Jul.31,1970"
   },
   {
     "code": "01066",
@@ -789,7 +919,9 @@
     "lon": 141.523055555,
     "wikidata_id": "Q1134336",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "増毛",
+    "deleted_date": ""
   },
   {
     "code": "01067",
@@ -801,7 +933,9 @@
     "lon": 140.15,
     "wikidata_id": "Q1145821",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "松前",
+    "deleted_date": ""
   },
   {
     "code": "01068",
@@ -809,11 +943,13 @@
     "deleted": true,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 42.248333333,
+    "lon": 142.560305556,
+    "wikidata_id": "Q1035973",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "三石",
+    "deleted_date": "Mar.30,2006"
   },
   {
     "code": "01069",
@@ -825,7 +961,9 @@
     "lon": 145.142,
     "wikidata_id": "Q1134120",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "目梨",
+    "deleted_date": ""
   },
   {
     "code": "01070",
@@ -837,7 +975,9 @@
     "lon": 143.19,
     "wikidata_id": "Q1208832",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "紋別",
+    "deleted_date": ""
   },
   {
     "code": "01071",
@@ -849,7 +989,9 @@
     "lon": 140.323055555,
     "wikidata_id": "Q1210627",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "山越",
+    "deleted_date": ""
   },
   {
     "code": "01072",
@@ -861,7 +1003,9 @@
     "lon": 141.759,
     "wikidata_id": "Q1186123",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "夕張",
+    "deleted_date": ""
   },
   {
     "code": "01073",
@@ -869,11 +1013,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 42.687083333,
+    "lon": 141.874240741,
+    "wikidata_id": "Q1354230|Q1354084|Q1187152",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "勇払(胆振)",
+    "deleted_date": ""
   },
   {
     "code": "01074",
@@ -881,11 +1027,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 42.979833333,
+    "lon": 142.398388889,
+    "wikidata_id": "Q1356989",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "勇払(上川)",
+    "deleted_date": ""
   },
   {
     "code": "01075",
@@ -897,7 +1045,9 @@
     "lon": 140.798,
     "wikidata_id": "Q1185927",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "余市",
+    "deleted_date": ""
   },
   {
     "code": "01076",
@@ -909,7 +1059,9 @@
     "lon": 141.24,
     "wikidata_id": "Q1134097",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "利尻",
+    "deleted_date": ""
   },
   {
     "code": "01077",
@@ -921,7 +1073,9 @@
     "lon": 141.832,
     "wikidata_id": "Q1134204",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "留萌",
+    "deleted_date": ""
   },
   {
     "code": "01078",
@@ -933,7 +1087,9 @@
     "lon": 141.018,
     "wikidata_id": "Q1134236",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "礼文",
+    "deleted_date": ""
   },
   {
     "code": "01079",
@@ -945,7 +1101,9 @@
     "lon": 140.26666667,
     "wikidata_id": "Q532276",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "二海",
+    "deleted_date": ""
   },
   {
     "code": "01080",
@@ -957,7 +1115,9 @@
     "lon": 142.637,
     "wikidata_id": "Q1210650",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "日高",
+    "deleted_date": ""
   },
   {
     "code": "01081",
@@ -965,11 +1125,13 @@
     "deleted": false,
     "pref_code": "01",
     "pref_name": "Hokkaido",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "lat": 44.009916667,
+    "lon": 142.153944444,
+    "wikidata_id": "Q1355616",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "雨竜(上川）",
+    "deleted_date": ""
   },
   {
     "code": "02001",
@@ -981,7 +1143,9 @@
     "lon": 141.260833333,
     "wikidata_id": "Q1143970",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "上北",
+    "deleted_date": ""
   },
   {
     "code": "02002",
@@ -993,7 +1157,9 @@
     "lon": 140.45,
     "wikidata_id": "Q1155891",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北津軽",
+    "deleted_date": ""
   },
   {
     "code": "02003",
@@ -1005,7 +1171,9 @@
     "lon": 141.321388888,
     "wikidata_id": "Q1155883",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三戸",
+    "deleted_date": ""
   },
   {
     "code": "02004",
@@ -1017,7 +1185,9 @@
     "lon": 141.216666666,
     "wikidata_id": "Q1205572",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "下北",
+    "deleted_date": ""
   },
   {
     "code": "02005",
@@ -1029,7 +1199,9 @@
     "lon": 140.255,
     "wikidata_id": "Q1205890",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "中津軽",
+    "deleted_date": ""
   },
   {
     "code": "02006",
@@ -1041,7 +1213,9 @@
     "lon": 140.056,
     "wikidata_id": "Q1155867",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西津軽",
+    "deleted_date": ""
   },
   {
     "code": "02007",
@@ -1053,7 +1227,9 @@
     "lon": 140.542,
     "wikidata_id": "Q1351946",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東津軽",
+    "deleted_date": ""
   },
   {
     "code": "02008",
@@ -1065,7 +1241,9 @@
     "lon": 140.548055555,
     "wikidata_id": "Q1155887",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南津軽",
+    "deleted_date": ""
   },
   {
     "code": "03001",
@@ -1077,7 +1255,9 @@
     "lon": 141.007,
     "wikidata_id": "Q1131876",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "胆沢",
+    "deleted_date": ""
   },
   {
     "code": "03002",
@@ -1089,7 +1269,9 @@
     "lon": 141.12277778,
     "wikidata_id": "Q786450",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "岩手",
+    "deleted_date": ""
   },
   {
     "code": "03003",
@@ -1097,11 +1279,13 @@
     "deleted": true,
     "pref_code": "03",
     "pref_name": "Iwate",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 39.191472222,
+    "lon": 141.173611111,
+    "wikidata_id": "Q1133147",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "江刺",
+    "deleted_date": "Nov.2,1958"
   },
   {
     "code": "03004",
@@ -1113,7 +1297,9 @@
     "lon": 141.808,
     "wikidata_id": "Q1131901",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "上閉伊",
+    "deleted_date": ""
   },
   {
     "code": "03005",
@@ -1125,7 +1311,9 @@
     "lon": 141.56,
     "wikidata_id": "Q1131893",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "九戸",
+    "deleted_date": ""
   },
   {
     "code": "03006",
@@ -1137,7 +1325,9 @@
     "lon": 141.535,
     "wikidata_id": "Q1131906",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "気仙",
+    "deleted_date": ""
   },
   {
     "code": "03007",
@@ -1149,7 +1339,9 @@
     "lon": 141.78333333,
     "wikidata_id": "Q1155879",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "下閉伊",
+    "deleted_date": ""
   },
   {
     "code": "03008",
@@ -1161,7 +1353,9 @@
     "lon": 141.133,
     "wikidata_id": "Q1131886",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "紫波",
+    "deleted_date": ""
   },
   {
     "code": "03009",
@@ -1173,7 +1367,9 @@
     "lon": 141.093708,
     "wikidata_id": "Q1131927",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西磐井",
+    "deleted_date": ""
   },
   {
     "code": "03010",
@@ -1185,7 +1381,9 @@
     "lon": 141.267,
     "wikidata_id": "Q1131879",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "二戸",
+    "deleted_date": ""
   },
   {
     "code": "03011",
@@ -1193,23 +1391,27 @@
     "deleted": true,
     "pref_code": "03",
     "pref_name": "Iwate",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 39.477666667,
+    "lon": 141.195555556,
+    "wikidata_id": "Q384951|Q11587296",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "稗貫",
+    "deleted_date": "Dec.31,2005"
   },
   {
     "code": "03012",
     "name": "Higashiiwai",
-    "deleted": false,
+    "deleted": true,
     "pref_code": "03",
     "pref_name": "Iwate",
     "lat": 38.934722222,
     "lon": 141.126666666,
     "wikidata_id": "Q1131935",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東磐井",
+    "deleted_date": "Sep.25,2011"
   },
   {
     "code": "03013",
@@ -1221,7 +1423,9 @@
     "lon": 140.776,
     "wikidata_id": "Q1156037",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "和賀",
+    "deleted_date": ""
   },
   {
     "code": "04001",
@@ -1233,11 +1437,13 @@
     "lon": 140.404,
     "wikidata_id": "Q1156527",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "雄勝",
+    "deleted_date": ""
   },
   {
     "code": "04002",
-    "name": "Kaduno",
+    "name": "Kazuno",
     "deleted": false,
     "pref_code": "04",
     "pref_name": "Akita",
@@ -1245,7 +1451,9 @@
     "lon": 140.796,
     "wikidata_id": "Q1206203",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "鹿角",
+    "deleted_date": ""
   },
   {
     "code": "04003",
@@ -1257,7 +1465,9 @@
     "lon": 140.21527778,
     "wikidata_id": "Q6379427",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "河辺",
+    "deleted_date": "Jan.10,2005"
   },
   {
     "code": "04004",
@@ -1269,7 +1479,9 @@
     "lon": 140.321,
     "wikidata_id": "Q1208682",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北秋田",
+    "deleted_date": ""
   },
   {
     "code": "04005",
@@ -1281,7 +1493,9 @@
     "lon": 140.597,
     "wikidata_id": "Q733727",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "仙北",
+    "deleted_date": ""
   },
   {
     "code": "04006",
@@ -1293,7 +1507,9 @@
     "lon": 140.55333333,
     "wikidata_id": "Q5768935",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "平鹿",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "04007",
@@ -1305,7 +1521,9 @@
     "lon": 140.139,
     "wikidata_id": "Q1155694",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南秋田",
+    "deleted_date": ""
   },
   {
     "code": "04008",
@@ -1317,7 +1535,9 @@
     "lon": 140.26,
     "wikidata_id": "Q1155896",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "山本",
+    "deleted_date": ""
   },
   {
     "code": "04009",
@@ -1329,7 +1549,9 @@
     "lon": 140.048,
     "wikidata_id": "Q8061492",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "由利",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "05001",
@@ -1341,7 +1563,9 @@
     "lon": 139.9,
     "wikidata_id": "Q1155592",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "飽海",
+    "deleted_date": ""
   },
   {
     "code": "05002",
@@ -1353,7 +1577,9 @@
     "lon": 140.332,
     "wikidata_id": "Q430498",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北村山",
+    "deleted_date": ""
   },
   {
     "code": "05003",
@@ -1365,7 +1591,9 @@
     "lon": 139.84554,
     "wikidata_id": "Q1155541",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西置賜",
+    "deleted_date": ""
   },
   {
     "code": "05004",
@@ -1373,11 +1601,13 @@
     "deleted": true,
     "pref_code": "05",
     "pref_name": "Yamagata",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 38.620888889,
+    "lon": 139.586972222,
+    "wikidata_id": "Q4817782",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "西田川",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "05005",
@@ -1389,7 +1619,9 @@
     "lon": 140.045,
     "wikidata_id": "Q1155585",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西村山",
+    "deleted_date": ""
   },
   {
     "code": "05006",
@@ -1401,7 +1633,9 @@
     "lon": 140.084,
     "wikidata_id": "Q1155520",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東置賜",
+    "deleted_date": ""
   },
   {
     "code": "05007",
@@ -1413,7 +1647,9 @@
     "lon": 139.966,
     "wikidata_id": "Q1155781",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東田川",
+    "deleted_date": ""
   },
   {
     "code": "05008",
@@ -1425,7 +1661,9 @@
     "lon": 140.23076,
     "wikidata_id": "Q1155511",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東村山",
+    "deleted_date": ""
   },
   {
     "code": "05009",
@@ -1433,11 +1671,13 @@
     "deleted": true,
     "pref_code": "05",
     "pref_name": "Yamagata",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.919111111,
+    "lon": 139.881194444,
+    "wikidata_id": "Q11366463",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "南置賜",
+    "deleted_date": "Mar.31,1958"
   },
   {
     "code": "05010",
@@ -1445,11 +1685,13 @@
     "deleted": true,
     "pref_code": "05",
     "pref_name": "Yamagata",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 38.185638889,
+    "lon": 140.224722222,
+    "wikidata_id": "Q11466317",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "南村山",
+    "deleted_date": "Mar.20,1957"
   },
   {
     "code": "05011",
@@ -1461,7 +1703,9 @@
     "lon": 140.26,
     "wikidata_id": "Q1155862",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "最上",
+    "deleted_date": ""
   },
   {
     "code": "06001",
@@ -1473,7 +1717,9 @@
     "lon": 140.765,
     "wikidata_id": "Q1155531",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "伊具",
+    "deleted_date": ""
   },
   {
     "code": "06002",
@@ -1485,7 +1731,9 @@
     "lon": 141.445,
     "wikidata_id": "Q1131921",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "牡鹿",
+    "deleted_date": ""
   },
   {
     "code": "06003",
@@ -1497,7 +1745,9 @@
     "lon": 140.437,
     "wikidata_id": "Q1131771",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "刈田",
+    "deleted_date": ""
   },
   {
     "code": "06004",
@@ -1509,7 +1759,9 @@
     "lon": 140.7,
     "wikidata_id": "Q1155600",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "加美",
+    "deleted_date": ""
   },
   {
     "code": "06005",
@@ -1521,7 +1773,9 @@
     "lon": 141.01725,
     "wikidata_id": "Q6446017",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "栗原",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "06006",
@@ -1533,7 +1787,9 @@
     "lon": 140.876,
     "wikidata_id": "Q1131782",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "黒川",
+    "deleted_date": ""
   },
   {
     "code": "06007",
@@ -1541,11 +1797,13 @@
     "deleted": true,
     "pref_code": "06",
     "pref_name": "Miyagi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 38.504259259,
+    "lon": 141.03187037,
+    "wikidata_id": "Q6374318|Q7415581|Q6788227",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "志田",
+    "deleted_date": "Mar.30,2006"
   },
   {
     "code": "06008",
@@ -1557,19 +1815,23 @@
     "lon": 140.647,
     "wikidata_id": "Q1131788",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "柴田",
+    "deleted_date": ""
   },
   {
     "code": "06009",
-    "name": "Tamadukuri",
+    "name": "Tamatsukuri",
     "deleted": true,
     "pref_code": "06",
     "pref_name": "Miyagi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 38.698416667,
+    "lon": 140.797708333,
+    "wikidata_id": "Q11474209|Q6966442",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "玉造",
+    "deleted_date": "Mar.30,2006"
   },
   {
     "code": "06010",
@@ -1581,7 +1843,9 @@
     "lon": 141.137,
     "wikidata_id": "Q1131910",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "遠田",
+    "deleted_date": ""
   },
   {
     "code": "06011",
@@ -1589,11 +1853,13 @@
     "deleted": true,
     "pref_code": "06",
     "pref_name": "Miyagi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 38.679704861,
+    "lon": 141.224291667,
+    "wikidata_id": "Q7830682|Q7830712|Q11366735|Q11526358|Q11639167|Q11407879|Q11587218|Q11604158",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "登米",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "06012",
@@ -1601,11 +1867,13 @@
     "deleted": true,
     "pref_code": "06",
     "pref_name": "Miyagi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 38.258388889,
+    "lon": 140.671361111,
+    "wikidata_id": "Q4701253",
+    "query_used": "manual_wikidata_qid",
+    "error": "",
+    "ja_name": "名取",
+    "deleted_date": "Feb.29,1988"
   },
   {
     "code": "06013",
@@ -1617,7 +1885,9 @@
     "lon": 141.036,
     "wikidata_id": "Q1131751",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "宮城",
+    "deleted_date": ""
   },
   {
     "code": "06014",
@@ -1629,7 +1899,9 @@
     "lon": 141.452,
     "wikidata_id": "Q1131916",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "本吉",
+    "deleted_date": ""
   },
   {
     "code": "06015",
@@ -1637,11 +1909,13 @@
     "deleted": true,
     "pref_code": "06",
     "pref_name": "Miyagi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 38.492256944,
+    "lon": 141.282736111,
+    "wikidata_id": "Q11584136|Q11675400|Q11553517|Q2016091|Q11553538|Q11537092|Q11400867",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "桃生",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "06016",
@@ -1653,7 +1927,9 @@
     "lon": 140.882,
     "wikidata_id": "Q1131765",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "亘理",
+    "deleted_date": ""
   },
   {
     "code": "07001",
@@ -1661,11 +1937,13 @@
     "deleted": true,
     "pref_code": "07",
     "pref_name": "Fukushima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.420151235,
+    "lon": 140.30578395,
+    "wikidata_id": "Q11451165|Q11455787|Q11505202|Q11569091|Q11451163|Q11419045|Q11639825|Q11569810|Q11356877|Q11563219",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "安積",
+    "deleted_date": "Apr.30,1965"
   },
   {
     "code": "07002",
@@ -1677,7 +1955,9 @@
     "lon": 140.41667,
     "wikidata_id": "Q1155866",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "安達",
+    "deleted_date": ""
   },
   {
     "code": "07003",
@@ -1689,7 +1969,9 @@
     "lon": 140.556,
     "wikidata_id": "Q1155869",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "石川",
+    "deleted_date": ""
   },
   {
     "code": "07004",
@@ -1697,11 +1979,13 @@
     "deleted": true,
     "pref_code": "07",
     "pref_name": "Fukushima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.087365079,
+    "lon": 140.798412698,
+    "wikidata_id": "Q11460546|Q11642431|Q11419610|Q11477768|Q11576108|Q11446691|Q11354655",
+    "query_used": "manual_wikidata_qid_avg",
+    "error": "",
+    "ja_name": "石城",
+    "deleted_date": "Sep.30,1966"
   },
   {
     "code": "07005",
@@ -1713,7 +1997,9 @@
     "lon": 140.075,
     "wikidata_id": "Q1155686",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "岩瀬",
+    "deleted_date": ""
   },
   {
     "code": "07006",
@@ -1725,7 +2011,9 @@
     "lon": 139.544,
     "wikidata_id": "Q1155853",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "大沼",
+    "deleted_date": ""
   },
   {
     "code": "07007",
@@ -1737,19 +2025,23 @@
     "lon": 139.754,
     "wikidata_id": "Q1155856",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "河沼",
+    "deleted_date": ""
   },
   {
     "code": "07008",
-    "name": "Kitaaidu",
+    "name": "Kitaaizu",
     "deleted": true,
     "pref_code": "07",
     "pref_name": "Fukushima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.491555556,
+    "lon": 139.874083333,
+    "wikidata_id": "Q6417659",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "北会津",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "07009",
@@ -1757,11 +2049,13 @@
     "deleted": true,
     "pref_code": "07",
     "pref_name": "Fukushima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.758666667,
+    "lon": 140.396222222,
+    "wikidata_id": "Q11416638",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "信夫",
+    "deleted_date": "Sep.30,1968"
   },
   {
     "code": "07010",
@@ -1773,7 +2067,9 @@
     "lon": 140.784,
     "wikidata_id": "Q1155850",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "相馬",
+    "deleted_date": ""
   },
   {
     "code": "07011",
@@ -1785,7 +2081,9 @@
     "lon": 140.565717,
     "wikidata_id": "Q1155792",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "伊達",
+    "deleted_date": ""
   },
   {
     "code": "07012",
@@ -1797,7 +2095,9 @@
     "lon": 140.564,
     "wikidata_id": "Q1155689",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "田村",
+    "deleted_date": ""
   },
   {
     "code": "07013",
@@ -1809,7 +2109,9 @@
     "lon": 140.122,
     "wikidata_id": "Q1155789",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西白河",
+    "deleted_date": ""
   },
   {
     "code": "07014",
@@ -1821,7 +2123,9 @@
     "lon": 140.472,
     "wikidata_id": "Q1155899",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東白川",
+    "deleted_date": ""
   },
   {
     "code": "07015",
@@ -1833,11 +2137,13 @@
     "lon": 141.005555555,
     "wikidata_id": "Q1167153",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "双葉",
+    "deleted_date": ""
   },
   {
     "code": "07016",
-    "name": "Minamiaidu",
+    "name": "Minamiaizu",
     "deleted": false,
     "pref_code": "07",
     "pref_name": "Fukushima",
@@ -1845,7 +2151,9 @@
     "lon": 139.44,
     "wikidata_id": "Q1155802",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南会津",
+    "deleted_date": ""
   },
   {
     "code": "07017",
@@ -1857,7 +2165,9 @@
     "lon": 140.04,
     "wikidata_id": "Q1205228",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "耶麻",
+    "deleted_date": ""
   },
   {
     "code": "08001",
@@ -1869,7 +2179,9 @@
     "lon": 139.6,
     "wikidata_id": "Q1155124",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "岩船",
+    "deleted_date": ""
   },
   {
     "code": "08002",
@@ -1881,7 +2193,9 @@
     "lon": 138.644,
     "wikidata_id": "Q1155110",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "刈羽",
+    "deleted_date": ""
   },
   {
     "code": "08003",
@@ -1893,7 +2207,9 @@
     "lon": 138.838861,
     "wikidata_id": "Q1131255",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北魚沼",
+    "deleted_date": "Mar.30,2010"
   },
   {
     "code": "08004",
@@ -1905,7 +2221,9 @@
     "lon": 139.264,
     "wikidata_id": "Q1155539",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北蒲原",
+    "deleted_date": ""
   },
   {
     "code": "08005",
@@ -1917,7 +2235,9 @@
     "lon": 138.89,
     "wikidata_id": "Q11411260",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "古志",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "08006",
@@ -1929,7 +2249,9 @@
     "lon": 138.333055555,
     "wikidata_id": "Q7398017",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "佐渡",
+    "deleted_date": "Feb.29,2004"
   },
   {
     "code": "08007",
@@ -1941,7 +2263,9 @@
     "lon": 138.706,
     "wikidata_id": "Q1155567",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三島",
+    "deleted_date": ""
   },
   {
     "code": "08008",
@@ -1953,7 +2277,9 @@
     "lon": 138.636,
     "wikidata_id": "Q1155147",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "中魚沼",
+    "deleted_date": ""
   },
   {
     "code": "08009",
@@ -1961,11 +2287,13 @@
     "deleted": true,
     "pref_code": "08",
     "pref_name": "Niigata",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.693472222,
+    "lon": 139.174527778,
+    "wikidata_id": "Q4307831",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "中蒲原",
+    "deleted_date": "Dec.31,2005"
   },
   {
     "code": "08010",
@@ -1973,11 +2301,13 @@
     "deleted": true,
     "pref_code": "08",
     "pref_name": "Niigata",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.095812989,
+    "lon": 138.308506578,
+    "wikidata_id": "Q6349492|Q11437609|Q11664981|Q15259949|Q15259969|Q6092508|Q6419069|Q15259968|Q6949404|Q11447094",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "中頸城",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "08011",
@@ -1989,7 +2319,9 @@
     "lon": 138.836,
     "wikidata_id": "Q1155139",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西蒲原",
+    "deleted_date": ""
   },
   {
     "code": "08012",
@@ -2001,7 +2333,9 @@
     "lon": 138.0,
     "wikidata_id": "Q11629983",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西頸城",
+    "deleted_date": "Mar.18,2005"
   },
   {
     "code": "08013",
@@ -2013,7 +2347,9 @@
     "lon": 139.464178,
     "wikidata_id": "Q1155132",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東蒲原",
+    "deleted_date": ""
   },
   {
     "code": "08014",
@@ -2021,11 +2357,13 @@
     "deleted": true,
     "pref_code": "08",
     "pref_name": "Niigata",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.120712963,
+    "lon": 138.49662037,
+    "wikidata_id": "Q11450502|Q7899559|Q8081701|Q11570434|Q6788028|Q6788176",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "東頸城",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "08015",
@@ -2037,7 +2375,9 @@
     "lon": 138.817,
     "wikidata_id": "Q798772",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南魚沼",
+    "deleted_date": ""
   },
   {
     "code": "08016",
@@ -2049,7 +2389,9 @@
     "lon": 139.069,
     "wikidata_id": "Q775317",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南蒲原",
+    "deleted_date": ""
   },
   {
     "code": "09001",
@@ -2061,7 +2403,9 @@
     "lon": 137.862,
     "wikidata_id": "Q1155054",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "上伊那",
+    "deleted_date": ""
   },
   {
     "code": "09002",
@@ -2073,7 +2417,9 @@
     "lon": 138.412,
     "wikidata_id": "Q1155094",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "上高井",
+    "deleted_date": ""
   },
   {
     "code": "09003",
@@ -2085,7 +2431,9 @@
     "lon": 138.154,
     "wikidata_id": "Q1155074",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "上水内",
+    "deleted_date": ""
   },
   {
     "code": "09004",
@@ -2097,7 +2445,9 @@
     "lon": 137.62,
     "wikidata_id": "Q1348570",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "木曽",
+    "deleted_date": ""
   },
   {
     "code": "09005",
@@ -2109,7 +2459,9 @@
     "lon": 137.88127,
     "wikidata_id": "Q1155067",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北安曇",
+    "deleted_date": ""
   },
   {
     "code": "09006",
@@ -2121,7 +2473,9 @@
     "lon": 138.552,
     "wikidata_id": "Q1142451",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北佐久",
+    "deleted_date": ""
   },
   {
     "code": "09007",
@@ -2129,11 +2483,13 @@
     "deleted": true,
     "pref_code": "09",
     "pref_name": "Nagano",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.50644444,
+    "lon": 137.9886389,
+    "wikidata_id": "Q8081673",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "更級",
+    "deleted_date": "Dec.31,2004"
   },
   {
     "code": "09008",
@@ -2145,7 +2501,9 @@
     "lon": 137.74,
     "wikidata_id": "Q726999",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "下伊那",
+    "deleted_date": ""
   },
   {
     "code": "09009",
@@ -2157,7 +2515,9 @@
     "lon": 138.491,
     "wikidata_id": "Q1130962",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "下高井",
+    "deleted_date": ""
   },
   {
     "code": "09010",
@@ -2169,7 +2529,9 @@
     "lon": 138.574,
     "wikidata_id": "Q616396",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "下水内",
+    "deleted_date": ""
   },
   {
     "code": "09011",
@@ -2181,7 +2543,9 @@
     "lon": 138.245,
     "wikidata_id": "Q1131473",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "諏訪",
+    "deleted_date": ""
   },
   {
     "code": "09012",
@@ -2193,7 +2557,9 @@
     "lon": 138.082867,
     "wikidata_id": "Q1072595",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "小県",
+    "deleted_date": ""
   },
   {
     "code": "09013",
@@ -2205,7 +2571,9 @@
     "lon": null,
     "wikidata_id": null,
     "query_used": "local_catalog",
-    "error": "skip_parenthetical_hokkaido_special"
+    "error": "skip_parenthetical_hokkaido_special",
+    "ja_name": "(欠番）",
+    "deleted_date": ""
   },
   {
     "code": "09014",
@@ -2217,7 +2585,9 @@
     "lon": 138.1825605,
     "wikidata_id": "Q726661",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "埴科",
+    "deleted_date": ""
   },
   {
     "code": "09015",
@@ -2229,7 +2599,9 @@
     "lon": 138.01,
     "wikidata_id": "Q1155105",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東筑摩",
+    "deleted_date": ""
   },
   {
     "code": "09016",
@@ -2237,11 +2609,13 @@
     "deleted": true,
     "pref_code": "09",
     "pref_name": "Nagano",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.240773809,
+    "lon": 137.842099205,
+    "wikidata_id": "Q11634192|Q5910929|Q5903227|Q6875161|Q6958711|Q4833076|Q4833133",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "南安曇",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "09017",
@@ -2253,7 +2627,9 @@
     "lon": 138.504,
     "wikidata_id": "Q1154776",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南佐久",
+    "deleted_date": ""
   },
   {
     "code": "10001",
@@ -2261,11 +2637,13 @@
     "deleted": true,
     "pref_code": "10",
     "pref_name": "Tokyo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.754833333,
+    "lon": 139.387361111,
+    "wikidata_id": "Q390806",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "北多摩",
+    "deleted_date": "Nov.2,1970"
   },
   {
     "code": "10002",
@@ -2277,7 +2655,9 @@
     "lon": 139.09514,
     "wikidata_id": "Q1048689",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西多摩",
+    "deleted_date": ""
   },
   {
     "code": "10003",
@@ -2285,15 +2665,17 @@
     "deleted": true,
     "pref_code": "10",
     "pref_name": "Tokyo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.637444444,
+    "lon": 139.475416667,
+    "wikidata_id": "Q317847|Q213263",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "南多摩",
+    "deleted_date": "Oct.31,1971"
   },
   {
     "code": "10004",
-    "name": "Oshima",
+    "name": "Oshima-Shicho",
     "deleted": false,
     "pref_code": "10",
     "pref_name": "Tokyo",
@@ -2301,11 +2683,13 @@
     "lon": null,
     "wikidata_id": null,
     "query_used": "local_catalog",
-    "error": "ambiguous_multiple_candidates:2:pref_not_matched"
+    "error": "ambiguous_multiple_candidates:2:pref_not_matched",
+    "ja_name": "大島支庁",
+    "deleted_date": ""
   },
   {
     "code": "10005",
-    "name": "Miyake",
+    "name": "Miyake-Shicho",
     "deleted": false,
     "pref_code": "10",
     "pref_name": "Tokyo",
@@ -2313,11 +2697,13 @@
     "lon": null,
     "wikidata_id": null,
     "query_used": "local_catalog",
-    "error": "no_name_match_in_catalog"
+    "error": "no_name_match_in_catalog",
+    "ja_name": "三宅支庁",
+    "deleted_date": ""
   },
   {
     "code": "10006",
-    "name": "Hachijo",
+    "name": "Hachijo-Shicho",
     "deleted": false,
     "pref_code": "10",
     "pref_name": "Tokyo",
@@ -2325,11 +2711,13 @@
     "lon": null,
     "wikidata_id": null,
     "query_used": "local_catalog",
-    "error": "no_name_match_in_catalog"
+    "error": "no_name_match_in_catalog",
+    "ja_name": "八丈支庁",
+    "deleted_date": ""
   },
   {
     "code": "10007",
-    "name": "Ogasawara",
+    "name": "Ogasawara-Shicho",
     "deleted": false,
     "pref_code": "10",
     "pref_name": "Tokyo",
@@ -2337,7 +2725,9 @@
     "lon": null,
     "wikidata_id": null,
     "query_used": "local_catalog",
-    "error": "no_name_match_in_catalog"
+    "error": "no_name_match_in_catalog",
+    "ja_name": "小笠原支庁",
+    "deleted_date": ""
   },
   {
     "code": "11001",
@@ -2349,7 +2739,9 @@
     "lon": 139.25333333,
     "wikidata_id": "Q1202818",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "愛甲",
+    "deleted_date": ""
   },
   {
     "code": "11002",
@@ -2361,7 +2753,9 @@
     "lon": 139.07388889,
     "wikidata_id": "Q1202540",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "足柄上",
+    "deleted_date": ""
   },
   {
     "code": "11003",
@@ -2373,7 +2767,9 @@
     "lon": 139.05444444,
     "wikidata_id": "Q1193172",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "足柄下",
+    "deleted_date": ""
   },
   {
     "code": "11004",
@@ -2385,7 +2781,9 @@
     "lon": 139.390833333,
     "wikidata_id": "Q1202776",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "高座",
+    "deleted_date": ""
   },
   {
     "code": "11005",
@@ -2393,11 +2791,13 @@
     "deleted": true,
     "pref_code": "11",
     "pref_name": "Kanagawa",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.602951389,
+    "lon": 139.225819444,
+    "wikidata_id": "Q7498963|Q7850102|Q7398965|Q5507456",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "津久井",
+    "deleted_date": "Mar.10,2007"
   },
   {
     "code": "11006",
@@ -2409,7 +2809,9 @@
     "lon": 139.27388889,
     "wikidata_id": "Q1202849",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "中",
+    "deleted_date": ""
   },
   {
     "code": "11007",
@@ -2421,7 +2823,9 @@
     "lon": 139.60388889,
     "wikidata_id": "Q1203937",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三浦",
+    "deleted_date": ""
   },
   {
     "code": "12001",
@@ -2433,7 +2837,9 @@
     "lon": 139.833333333,
     "wikidata_id": "Q1153597",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "安房",
+    "deleted_date": ""
   },
   {
     "code": "12002",
@@ -2445,7 +2851,9 @@
     "lon": 140.233611111,
     "wikidata_id": "Q1143717",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "夷隅",
+    "deleted_date": ""
   },
   {
     "code": "12003",
@@ -2453,11 +2861,13 @@
     "deleted": true,
     "pref_code": "12",
     "pref_name": "Chiba",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.368222222,
+    "lon": 140.141402778,
+    "wikidata_id": "Q11408358|Q11398854",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "市原",
+    "deleted_date": "Sep.30,1967"
   },
   {
     "code": "12004",
@@ -2469,7 +2879,9 @@
     "lon": 140.256,
     "wikidata_id": "Q677245",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "印旛",
+    "deleted_date": ""
   },
   {
     "code": "12005",
@@ -2477,11 +2889,13 @@
     "deleted": true,
     "pref_code": "12",
     "pref_name": "Chiba",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.721,
+    "lon": 140.702722222,
+    "wikidata_id": "Q5119875|Q4355055",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "海上",
+    "deleted_date": "Jun.30,2005"
   },
   {
     "code": "12006",
@@ -2493,7 +2907,9 @@
     "lon": 140.478055555,
     "wikidata_id": "Q780284",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "香取",
+    "deleted_date": ""
   },
   {
     "code": "12007",
@@ -2505,7 +2921,9 @@
     "lon": 139.91666667,
     "wikidata_id": "Q6410153",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "君津",
+    "deleted_date": "Mar.31,1991"
   },
   {
     "code": "12008",
@@ -2517,7 +2935,9 @@
     "lon": 140.514,
     "wikidata_id": "Q1153740",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "山武",
+    "deleted_date": ""
   },
   {
     "code": "12009",
@@ -2525,11 +2945,13 @@
     "deleted": true,
     "pref_code": "12",
     "pref_name": "Chiba",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.663166667,
+    "lon": 140.536805556,
+    "wikidata_id": "Q5120250|Q5120408",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "匝瑳",
+    "deleted_date": "Mar.26,2006"
   },
   {
     "code": "12010",
@@ -2537,11 +2959,13 @@
     "deleted": true,
     "pref_code": "12",
     "pref_name": "Chiba",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.722416667,
+    "lon": 140.099888889,
+    "wikidata_id": "Q328651",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "千葉",
+    "deleted_date": "Dec.31,1966"
   },
   {
     "code": "12011",
@@ -2553,7 +2977,9 @@
     "lon": 140.366666666,
     "wikidata_id": "Q1203500",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "長生",
+    "deleted_date": ""
   },
   {
     "code": "12012",
@@ -2561,11 +2987,13 @@
     "deleted": true,
     "pref_code": "12",
     "pref_name": "Chiba",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.841444444,
+    "lon": 140.00775,
+    "wikidata_id": "Q7506188",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "東葛飾",
+    "deleted_date": "Mar.27,2005"
   },
   {
     "code": "13001",
@@ -2577,7 +3005,9 @@
     "lon": 139.297,
     "wikidata_id": "Q1153801",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "入間",
+    "deleted_date": ""
   },
   {
     "code": "13002",
@@ -2589,7 +3019,9 @@
     "lon": 139.194,
     "wikidata_id": "Q1075196",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "大里",
+    "deleted_date": ""
   },
   {
     "code": "13003",
@@ -2601,7 +3033,9 @@
     "lon": 139.636,
     "wikidata_id": "Q1155020",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北足立",
+    "deleted_date": ""
   },
   {
     "code": "13004",
@@ -2613,7 +3047,9 @@
     "lon": 139.769,
     "wikidata_id": "Q1066336",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北葛飾",
+    "deleted_date": ""
   },
   {
     "code": "13005",
@@ -2625,7 +3061,9 @@
     "lon": 139.601666666,
     "wikidata_id": "Q1042159",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北埼玉",
+    "deleted_date": "Mar.22,2010"
   },
   {
     "code": "13006",
@@ -2637,7 +3075,9 @@
     "lon": 139.092,
     "wikidata_id": "Q938038",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "児玉",
+    "deleted_date": ""
   },
   {
     "code": "13007",
@@ -2649,7 +3089,9 @@
     "lon": 139.015,
     "wikidata_id": "Q1145581",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "秩父",
+    "deleted_date": ""
   },
   {
     "code": "13008",
@@ -2661,7 +3103,9 @@
     "lon": 139.304,
     "wikidata_id": "Q1075201",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "比企",
+    "deleted_date": ""
   },
   {
     "code": "13009",
@@ -2673,7 +3117,9 @@
     "lon": 139.681,
     "wikidata_id": "Q939030",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南埼玉",
+    "deleted_date": ""
   },
   {
     "code": "14001",
@@ -2685,7 +3131,9 @@
     "lon": 140.275,
     "wikidata_id": "Q1154673",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "稲敷",
+    "deleted_date": ""
   },
   {
     "code": "14002",
@@ -2697,7 +3145,9 @@
     "lon": 140.644722,
     "wikidata_id": "Q6374307",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "鹿島",
+    "deleted_date": "Oct.10,2005"
   },
   {
     "code": "14003",
@@ -2709,7 +3159,9 @@
     "lon": 140.165,
     "wikidata_id": "Q1076978",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北相馬",
+    "deleted_date": ""
   },
   {
     "code": "14004",
@@ -2721,7 +3173,9 @@
     "lon": 140.345,
     "wikidata_id": "Q1075212",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "久慈",
+    "deleted_date": ""
   },
   {
     "code": "14005",
@@ -2733,7 +3187,9 @@
     "lon": 139.802,
     "wikidata_id": "Q1075231",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "猿島",
+    "deleted_date": ""
   },
   {
     "code": "14006",
@@ -2745,7 +3201,9 @@
     "lon": 140.683333,
     "wikidata_id": "Q11431107",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "多賀",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "14007",
@@ -2753,11 +3211,13 @@
     "deleted": true,
     "pref_code": "14",
     "pref_name": "Ibaraki",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.976402778,
+    "lon": 140.023847222,
+    "wikidata_id": "Q3149760|Q8050454",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "筑波",
+    "deleted_date": "Mar.26,2006"
   },
   {
     "code": "14008",
@@ -2769,7 +3229,9 @@
     "lon": 140.588055555,
     "wikidata_id": "Q1062968",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "那珂",
+    "deleted_date": ""
   },
   {
     "code": "14009",
@@ -2781,7 +3243,9 @@
     "lon": 140.433333,
     "wikidata_id": "Q11626140",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "行方",
+    "deleted_date": "Sep.1,2005"
   },
   {
     "code": "14010",
@@ -2789,11 +3253,13 @@
     "deleted": true,
     "pref_code": "14",
     "pref_name": "Ibaraki",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.166541667,
+    "lon": 140.298361111,
+    "wikidata_id": "Q11502678|Q7680891",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "新治",
+    "deleted_date": "Mar.26,2006"
   },
   {
     "code": "14011",
@@ -2805,7 +3271,9 @@
     "lon": 140.266667,
     "wikidata_id": "Q7040562",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西茨城",
+    "deleted_date": "Mar.18,2006"
   },
   {
     "code": "14012",
@@ -2817,7 +3285,9 @@
     "lon": 140.37568,
     "wikidata_id": "Q1154667",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東茨城",
+    "deleted_date": ""
   },
   {
     "code": "14013",
@@ -2829,7 +3299,9 @@
     "lon": 139.983333,
     "wikidata_id": "Q6738588",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "真壁",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "14014",
@@ -2841,7 +3313,9 @@
     "lon": 139.895,
     "wikidata_id": "Q1154565",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "結城",
+    "deleted_date": ""
   },
   {
     "code": "15001",
@@ -2849,11 +3323,13 @@
     "deleted": true,
     "pref_code": "15",
     "pref_name": "Tochigi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.344138889,
+    "lon": 139.438472222,
+    "wikidata_id": "Q11425565|Q11488839",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "足利",
+    "deleted_date": "Sep.30,1962"
   },
   {
     "code": "15002",
@@ -2861,11 +3337,13 @@
     "deleted": true,
     "pref_code": "15",
     "pref_name": "Tochigi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.388527778,
+    "lon": 139.590513889,
+    "wikidata_id": "Q6449279|Q199838",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "安蘇",
+    "deleted_date": "Feb.27,2005"
   },
   {
     "code": "15003",
@@ -2877,7 +3355,9 @@
     "lon": 139.730277777,
     "wikidata_id": "Q1346070",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "上都賀",
+    "deleted_date": "Sep.30,2011"
   },
   {
     "code": "15004",
@@ -2889,7 +3369,9 @@
     "lon": 139.91,
     "wikidata_id": "Q44611",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "河内",
+    "deleted_date": ""
   },
   {
     "code": "15005",
@@ -2901,7 +3383,9 @@
     "lon": 139.828,
     "wikidata_id": "Q1346028",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "塩谷",
+    "deleted_date": ""
   },
   {
     "code": "15006",
@@ -2913,7 +3397,9 @@
     "lon": 139.651,
     "wikidata_id": "Q1202834",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "下都賀",
+    "deleted_date": ""
   },
   {
     "code": "15007",
@@ -2925,7 +3411,9 @@
     "lon": 140.125,
     "wikidata_id": "Q1203347",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "那須",
+    "deleted_date": ""
   },
   {
     "code": "15008",
@@ -2937,7 +3425,9 @@
     "lon": 140.11241,
     "wikidata_id": "Q1192087",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "芳賀",
+    "deleted_date": ""
   },
   {
     "code": "16001",
@@ -2949,7 +3439,9 @@
     "lon": 138.816666666,
     "wikidata_id": "Q642394",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "吾妻",
+    "deleted_date": ""
   },
   {
     "code": "16002",
@@ -2957,11 +3449,13 @@
     "deleted": true,
     "pref_code": "16",
     "pref_name": "Gunma",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.314583333,
+    "lon": 138.790472222,
+    "wikidata_id": "Q6788102",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "碓氷",
+    "deleted_date": "Mar.17,2006"
   },
   {
     "code": "16003",
@@ -2973,7 +3467,9 @@
     "lon": 139.492,
     "wikidata_id": "Q1075463",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "邑楽",
+    "deleted_date": ""
   },
   {
     "code": "16004",
@@ -2985,7 +3481,9 @@
     "lon": 138.716,
     "wikidata_id": "Q1076986",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "甘楽",
+    "deleted_date": ""
   },
   {
     "code": "16005",
@@ -2997,7 +3495,9 @@
     "lon": 138.967,
     "wikidata_id": "Q1075450",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北群馬",
+    "deleted_date": ""
   },
   {
     "code": "16006",
@@ -3005,11 +3505,13 @@
     "deleted": true,
     "pref_code": "16",
     "pref_name": "Gunma",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.385166667,
+    "lon": 138.881916667,
+    "wikidata_id": "Q3508811",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "群馬",
+    "deleted_date": "Sep.30,2006"
   },
   {
     "code": "16007",
@@ -3021,7 +3523,9 @@
     "lon": 139.126,
     "wikidata_id": "Q1075479",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "佐波",
+    "deleted_date": ""
   },
   {
     "code": "16008",
@@ -3033,7 +3537,9 @@
     "lon": 139.11526,
     "wikidata_id": "Q2324302",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "勢多",
+    "deleted_date": "May.04,2009"
   },
   {
     "code": "16009",
@@ -3045,7 +3551,9 @@
     "lon": 138.792,
     "wikidata_id": "Q1075472",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "多野",
+    "deleted_date": ""
   },
   {
     "code": "16010",
@@ -3057,7 +3565,9 @@
     "lon": 139.09,
     "wikidata_id": "Q1077001",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "利根",
+    "deleted_date": ""
   },
   {
     "code": "16011",
@@ -3065,11 +3575,13 @@
     "deleted": true,
     "pref_code": "16",
     "pref_name": "Gunma",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.394833333,
+    "lon": 139.281083333,
+    "wikidata_id": "Q6373972",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "新田",
+    "deleted_date": "Mar.26,2006"
   },
   {
     "code": "16012",
@@ -3080,8 +3592,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "山田",
+    "deleted_date": "Mar.26,2006"
   },
   {
     "code": "17001",
@@ -3089,11 +3603,13 @@
     "deleted": true,
     "pref_code": "17",
     "pref_name": "Yamanashi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.862444444,
+    "lon": 138.318944444,
+    "wikidata_id": "Q3848013",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "北巨摩",
+    "deleted_date": "Mar.14,2006"
   },
   {
     "code": "17002",
@@ -3105,7 +3621,9 @@
     "lon": 138.908,
     "wikidata_id": "Q1131446",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北都留",
+    "deleted_date": ""
   },
   {
     "code": "17003",
@@ -3117,7 +3635,9 @@
     "lon": 138.535,
     "wikidata_id": "Q1154785",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "中巨摩",
+    "deleted_date": ""
   },
   {
     "code": "17004",
@@ -3129,7 +3649,9 @@
     "lon": 138.511,
     "wikidata_id": "Q1131467",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西八代",
+    "deleted_date": ""
   },
   {
     "code": "17005",
@@ -3137,11 +3659,13 @@
     "deleted": true,
     "pref_code": "17",
     "pref_name": "Yamanashi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.553416667,
+    "lon": 138.665083333,
+    "wikidata_id": "Q4805061",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "東八代",
+    "deleted_date": "Jul.31,2006"
   },
   {
     "code": "17006",
@@ -3149,11 +3673,13 @@
     "deleted": true,
     "pref_code": "17",
     "pref_name": "Yamanashi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.652166667,
+    "lon": 138.751055556,
+    "wikidata_id": "Q3194244|Q3508441",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "東山梨",
+    "deleted_date": "Oct.31,2005"
   },
   {
     "code": "17007",
@@ -3165,7 +3691,9 @@
     "lon": 138.412,
     "wikidata_id": "Q1131437",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南巨摩",
+    "deleted_date": ""
   },
   {
     "code": "17008",
@@ -3177,7 +3705,9 @@
     "lon": 138.754,
     "wikidata_id": "Q1141178",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南都留",
+    "deleted_date": ""
   },
   {
     "code": "18001",
@@ -3189,7 +3719,9 @@
     "lon": 138.38361111,
     "wikidata_id": "Q4666382",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "安倍",
+    "deleted_date": "Dec.31,1968"
   },
   {
     "code": "18002",
@@ -3197,11 +3729,13 @@
     "deleted": true,
     "pref_code": "18",
     "pref_name": "Shizuoka",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.814583333,
+    "lon": 137.625675926,
+    "wikidata_id": "Q11487137|Q5908180|Q11353987",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "引佐",
+    "deleted_date": "Jun.30,2005"
   },
   {
     "code": "18003",
@@ -3209,11 +3743,13 @@
     "deleted": true,
     "pref_code": "18",
     "pref_name": "Shizuoka",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.127930556,
+    "lon": 138.590208333,
+    "wikidata_id": "Q988168|Q5507422",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "庵原",
+    "deleted_date": "Oct.31,2008"
   },
   {
     "code": "18004",
@@ -3221,11 +3757,13 @@
     "deleted": true,
     "pref_code": "18",
     "pref_name": "Shizuoka",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.857298611,
+    "lon": 137.850302083,
+    "wikidata_id": "Q7385654|Q11634134|Q5507624|Q7830704|Q4803192|Q138732|Q7688376|Q6875101",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "磐田",
+    "deleted_date": "Jun.30,2005"
   },
   {
     "code": "18005",
@@ -3233,11 +3771,13 @@
     "deleted": true,
     "pref_code": "18",
     "pref_name": "Shizuoka",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.672277778,
+    "lon": 138.021680556,
+    "wikidata_id": "Q6983818|Q5209812",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "小笠",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "18006",
@@ -3249,7 +3789,9 @@
     "lon": 138.886,
     "wikidata_id": "Q961511",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "賀茂",
+    "deleted_date": ""
   },
   {
     "code": "18007",
@@ -3261,7 +3803,9 @@
     "lon": 138.28333333,
     "wikidata_id": "Q988293",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "志太",
+    "deleted_date": "Dec.31,2008"
   },
   {
     "code": "18008",
@@ -3273,7 +3817,9 @@
     "lon": 137.933333333,
     "wikidata_id": "Q1205501",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "周智",
+    "deleted_date": ""
   },
   {
     "code": "18009",
@@ -3285,7 +3831,9 @@
     "lon": 138.927,
     "wikidata_id": "Q1142259",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "駿東",
+    "deleted_date": ""
   },
   {
     "code": "18010",
@@ -3297,7 +3845,9 @@
     "lon": 138.936111111,
     "wikidata_id": "Q1154841",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "田方",
+    "deleted_date": ""
   },
   {
     "code": "18011",
@@ -3309,7 +3859,9 @@
     "lon": 138.251716666,
     "wikidata_id": "Q1203336",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "榛原",
+    "deleted_date": ""
   },
   {
     "code": "18012",
@@ -3321,7 +3873,9 @@
     "lon": 137.5598,
     "wikidata_id": "Q1042370",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "浜名",
+    "deleted_date": "Mar.22,2010"
   },
   {
     "code": "18013",
@@ -3333,11 +3887,13 @@
     "lon": 138.63333,
     "wikidata_id": "Q1154962",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "富士",
+    "deleted_date": "Mar.22,2010"
   },
   {
     "code": "19001",
-    "name": "Ampachi",
+    "name": "Anpachi",
     "deleted": false,
     "pref_code": "19",
     "pref_name": "Gifu",
@@ -3345,7 +3901,9 @@
     "lon": 136.647908333,
     "wikidata_id": "Q1204320",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "安八",
+    "deleted_date": ""
   },
   {
     "code": "19002",
@@ -3353,11 +3911,13 @@
     "deleted": true,
     "pref_code": "19",
     "pref_name": "Gifu",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.400479167,
+    "lon": 136.867430556,
+    "wikidata_id": "Q11642720|Q11596838|Q11675738|Q11625179",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "稲葉",
+    "deleted_date": "Mar.31,1963"
   },
   {
     "code": "19003",
@@ -3369,7 +3929,9 @@
     "lon": 136.477,
     "wikidata_id": "Q1204309",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "揖斐",
+    "deleted_date": ""
   },
   {
     "code": "19004",
@@ -3381,7 +3943,9 @@
     "lon": 137.40936,
     "wikidata_id": "Q3030924",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "恵那",
+    "deleted_date": "Feb.12,2005"
   },
   {
     "code": "19005",
@@ -3393,7 +3957,9 @@
     "lon": 136.869,
     "wikidata_id": "Q31671",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "大野",
+    "deleted_date": ""
   },
   {
     "code": "19006",
@@ -3401,11 +3967,13 @@
     "deleted": true,
     "pref_code": "19",
     "pref_name": "Gifu",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.23250926,
+    "lon": 136.623740752,
+    "wikidata_id": "Q17177011|Q11483355|Q6963939",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "海津",
+    "deleted_date": "Mar.27,2005"
   },
   {
     "code": "19007",
@@ -3417,7 +3985,9 @@
     "lon": 137.146,
     "wikidata_id": "Q676000",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "可児",
+    "deleted_date": ""
   },
   {
     "code": "19008",
@@ -3429,7 +3999,9 @@
     "lon": 137.21026,
     "wikidata_id": "Q1348656",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "加茂",
+    "deleted_date": ""
   },
   {
     "code": "19009",
@@ -3437,11 +4009,13 @@
     "deleted": true,
     "pref_code": "19",
     "pref_name": "Gifu",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.807027778,
+    "lon": 136.954801587,
+    "wikidata_id": "Q5637054|Q11433541|Q7498960|Q7677406|Q6862844|Q11512056|Q7968751",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "郡上",
+    "deleted_date": "Feb.29,2004"
   },
   {
     "code": "19010",
@@ -3453,7 +4027,9 @@
     "lon": 137.183333333,
     "wikidata_id": "Q3031924",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "土岐",
+    "deleted_date": "Jan.22,2006"
   },
   {
     "code": "19011",
@@ -3465,7 +4041,9 @@
     "lon": 136.7774817,
     "wikidata_id": "Q615068",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "羽島",
+    "deleted_date": ""
   },
   {
     "code": "19012",
@@ -3477,7 +4055,9 @@
     "lon": 136.480119444,
     "wikidata_id": "Q521316",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "不破",
+    "deleted_date": ""
   },
   {
     "code": "19013",
@@ -3485,11 +4065,13 @@
     "deleted": true,
     "pref_code": "19",
     "pref_name": "Gifu",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.833566667,
+    "lon": 137.210272222,
+    "wikidata_id": "Q11620355|Q285822|Q11360704|Q11647000|Q11668026",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "益田",
+    "deleted_date": "Feb.29,2004"
   },
   {
     "code": "19014",
@@ -3497,11 +4079,13 @@
     "deleted": true,
     "pref_code": "19",
     "pref_name": "Gifu",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.604622222,
+    "lon": 136.903205556,
+    "wikidata_id": "Q11555839|Q6092346|Q6932102|Q6932189|Q6358190",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "武儀",
+    "deleted_date": "Feb.6,2005"
   },
   {
     "code": "19015",
@@ -3513,7 +4097,9 @@
     "lon": 136.6908,
     "wikidata_id": "Q1204331",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "本巣",
+    "deleted_date": ""
   },
   {
     "code": "19016",
@@ -3521,11 +4107,13 @@
     "deleted": true,
     "pref_code": "19",
     "pref_name": "Gifu",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.655337302,
+    "lon": 132.354626984,
+    "wikidata_id": "Q11399628|Q7850342|Q7813231|Q5530117|Q8081420|Q5102623|Q7830666",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "山県",
+    "deleted_date": "Mar.31,2003"
   },
   {
     "code": "19017",
@@ -3537,7 +4125,9 @@
     "lon": 136.564,
     "wikidata_id": "Q1155060",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "養老",
+    "deleted_date": ""
   },
   {
     "code": "19018",
@@ -3545,11 +4135,13 @@
     "deleted": true,
     "pref_code": "19",
     "pref_name": "Gifu",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.248708331,
+    "lon": 137.287902772,
+    "wikidata_id": "Q6426887|Q11358788",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "吉城",
+    "deleted_date": "Jan.31,2005"
   },
   {
     "code": "20001",
@@ -3561,7 +4153,9 @@
     "lon": 137.05,
     "wikidata_id": "Q552687",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "愛知",
+    "deleted_date": ""
   },
   {
     "code": "20002",
@@ -3569,11 +4163,13 @@
     "deleted": true,
     "pref_code": "20",
     "pref_name": "Aichi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.623222222,
+    "lon": 137.109555556,
+    "wikidata_id": "Q4817781",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "渥美",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "20003",
@@ -3585,7 +4181,9 @@
     "lon": 136.793633333,
     "wikidata_id": "Q685886",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "海部",
+    "deleted_date": ""
   },
   {
     "code": "20004",
@@ -3597,7 +4195,9 @@
     "lon": 137.65,
     "wikidata_id": "Q605134",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北設楽",
+    "deleted_date": ""
   },
   {
     "code": "20005",
@@ -3609,7 +4209,9 @@
     "lon": 136.91577,
     "wikidata_id": "Q767312",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "知多",
+    "deleted_date": ""
   },
   {
     "code": "20006",
@@ -3620,8 +4222,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "中島",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "20007",
@@ -3633,7 +4237,9 @@
     "lon": 136.9173,
     "wikidata_id": "Q788502",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西春日井",
+    "deleted_date": ""
   },
   {
     "code": "20008",
@@ -3645,7 +4251,9 @@
     "lon": 137.06666667,
     "wikidata_id": "Q1154646",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西加茂",
+    "deleted_date": "Jan.03,2010"
   },
   {
     "code": "20009",
@@ -3657,7 +4265,9 @@
     "lon": 136.913,
     "wikidata_id": "Q1347719",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "丹羽",
+    "deleted_date": ""
   },
   {
     "code": "20010",
@@ -3669,7 +4279,9 @@
     "lon": 137.166666666,
     "wikidata_id": "Q787290",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "額田",
+    "deleted_date": ""
   },
   {
     "code": "20011",
@@ -3677,11 +4289,13 @@
     "deleted": true,
     "pref_code": "20",
     "pref_name": "Aichi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.337111111,
+    "lon": 136.778138889,
+    "wikidata_id": "Q6416838",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "葉栗",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "20012",
@@ -3693,7 +4307,9 @@
     "lon": 137.021192,
     "wikidata_id": "Q522936",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "幡豆",
+    "deleted_date": "Mar.31,2011"
   },
   {
     "code": "20013",
@@ -3701,11 +4317,13 @@
     "deleted": true,
     "pref_code": "20",
     "pref_name": "Aichi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.216527778,
+    "lon": 137.035361111,
+    "wikidata_id": "Q694893",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "東春日井",
+    "deleted_date": "Nov.30,1970"
   },
   {
     "code": "20014",
@@ -3717,7 +4335,9 @@
     "lon": 137.06666667,
     "wikidata_id": "Q1036292",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東加茂",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "20015",
@@ -3725,11 +4345,13 @@
     "deleted": true,
     "pref_code": "20",
     "pref_name": "Aichi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.964444444,
+    "lon": 137.01925,
+    "wikidata_id": "Q223496|Q816734",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "碧海",
+    "deleted_date": "Nov.30,1970"
   },
   {
     "code": "20016",
@@ -3741,7 +4363,9 @@
     "lon": 137.38,
     "wikidata_id": "Q924766",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "宝飯",
+    "deleted_date": "Jan.31,2010"
   },
   {
     "code": "20017",
@@ -3753,7 +4377,9 @@
     "lon": 137.5,
     "wikidata_id": "Q1177385",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南設楽",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "20018",
@@ -3765,7 +4391,9 @@
     "lon": 137.422222,
     "wikidata_id": "Q11390675",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "八名",
+    "deleted_date": "Sep.29,1956"
   },
   {
     "code": "21001",
@@ -3776,8 +4404,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "安芸",
+    "deleted_date": "Dec.31,2005"
   },
   {
     "code": "21002",
@@ -3788,8 +4418,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "安濃",
+    "deleted_date": "Sep.29,1956"
   },
   {
     "code": "21003",
@@ -3797,11 +4429,13 @@
     "deleted": true,
     "pref_code": "21",
     "pref_name": "Mie",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.797090278,
+    "lon": 136.167034722,
+    "wikidata_id": "Q5991401|Q7496812|Q4830889|Q8081811",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "阿山",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "21004",
@@ -3809,11 +4443,13 @@
     "deleted": true,
     "pref_code": "21",
     "pref_name": "Mie",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.439125,
+    "lon": 136.361666667,
+    "wikidata_id": "Q4362868|Q11666754",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "飯南",
+    "deleted_date": "Dec.31,2004"
   },
   {
     "code": "21005",
@@ -3821,11 +4457,13 @@
     "deleted": true,
     "pref_code": "21",
     "pref_name": "Mie",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.623854168,
+    "lon": 136.394277781,
+    "wikidata_id": "Q3091497|Q5986319|Q5640654|Q11609121",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "一志",
+    "deleted_date": "Dec.31,2005"
   },
   {
     "code": "21006",
@@ -3837,7 +4475,9 @@
     "lon": 136.584,
     "wikidata_id": "Q1131499",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "員弁",
+    "deleted_date": ""
   },
   {
     "code": "21007",
@@ -3845,11 +4485,13 @@
     "deleted": true,
     "pref_code": "21",
     "pref_name": "Mie",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.796083334,
+    "lon": 136.477159721,
+    "wikidata_id": "Q6379486|Q17216984|Q11512265|Q17209011|Q17176079",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "河芸",
+    "deleted_date": "Sep.29,1956"
   },
   {
     "code": "21008",
@@ -3861,7 +4503,9 @@
     "lon": 136.23805556,
     "wikidata_id": "Q1131451",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北牟婁",
+    "deleted_date": ""
   },
   {
     "code": "21009",
@@ -3873,7 +4517,9 @@
     "lon": 136.734,
     "wikidata_id": "Q1131489",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "桑名",
+    "deleted_date": ""
   },
   {
     "code": "21010",
@@ -3884,8 +4530,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "志摩",
+    "deleted_date": "Sep.30,2004"
   },
   {
     "code": "21011",
@@ -3893,11 +4541,13 @@
     "deleted": true,
     "pref_code": "21",
     "pref_name": "Mie",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.854833333,
+    "lon": 136.391138889,
+    "wikidata_id": "Q7447180",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "鈴鹿",
+    "deleted_date": "Jan.10,2005"
   },
   {
     "code": "21012",
@@ -3909,7 +4559,9 @@
     "lon": 136.33,
     "wikidata_id": "Q1042360",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "多気",
+    "deleted_date": ""
   },
   {
     "code": "21013",
@@ -3917,11 +4569,13 @@
     "deleted": true,
     "pref_code": "21",
     "pref_name": "Mie",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.669611111,
+    "lon": 136.177861111,
+    "wikidata_id": "Q4778827",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "名賀",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "21014",
@@ -3933,7 +4587,9 @@
     "lon": 136.476,
     "wikidata_id": "Q1130983",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三重",
+    "deleted_date": ""
   },
   {
     "code": "21015",
@@ -3945,7 +4601,9 @@
     "lon": 135.99694444,
     "wikidata_id": "Q1131464",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南牟婁",
+    "deleted_date": ""
   },
   {
     "code": "21016",
@@ -3957,7 +4615,9 @@
     "lon": 136.494,
     "wikidata_id": "Q1131032",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "度会",
+    "deleted_date": ""
   },
   {
     "code": "22001",
@@ -3969,7 +4629,9 @@
     "lon": 135.133333,
     "wikidata_id": "Q4740432",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "天田",
+    "deleted_date": "Dec.31,2005"
   },
   {
     "code": "22002",
@@ -3977,11 +4639,13 @@
     "deleted": true,
     "pref_code": "22",
     "pref_name": "Kyoto",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.317555556,
+    "lon": 135.187222222,
+    "wikidata_id": "Q35797124",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "何鹿",
+    "deleted_date": "Sep.29,1956"
   },
   {
     "code": "22003",
@@ -3993,7 +4657,9 @@
     "lon": 135.690555555,
     "wikidata_id": "Q376858",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "乙訓",
+    "deleted_date": ""
   },
   {
     "code": "22004",
@@ -4001,11 +4667,13 @@
     "deleted": true,
     "pref_code": "22",
     "pref_name": "Kyoto",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.409555556,
+    "lon": 135.197666667,
+    "wikidata_id": "Q8081444|Q11398473",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "加佐",
+    "deleted_date": "Dec.31,2005"
   },
   {
     "code": "22005",
@@ -4013,15 +4681,17 @@
     "deleted": true,
     "pref_code": "22",
     "pref_name": "Kyoto",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.213652778,
+    "lon": 135.591652778,
+    "wikidata_id": "Q6383617|Q6884300",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "北桑田",
+    "deleted_date": "Dec.31,2005"
   },
   {
     "code": "22006",
-    "name": "Kuze",
+    "name": "Kuse",
     "deleted": false,
     "pref_code": "22",
     "pref_name": "Kyoto",
@@ -4029,7 +4699,9 @@
     "lon": 135.747,
     "wikidata_id": "Q1076972",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "久世",
+    "deleted_date": ""
   },
   {
     "code": "22007",
@@ -4037,11 +4709,13 @@
     "deleted": true,
     "pref_code": "22",
     "pref_name": "Kyoto",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.603444444,
+    "lon": 134.895,
+    "wikidata_id": "Q11369657",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "熊野",
+    "deleted_date": "Mar.31,2004"
   },
   {
     "code": "22008",
@@ -4053,7 +4727,9 @@
     "lon": 135.961,
     "wikidata_id": "Q1154661",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "相楽",
+    "deleted_date": ""
   },
   {
     "code": "22009",
@@ -4064,12 +4740,14 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "竹野",
+    "deleted_date": "Mar.31,2004"
   },
   {
     "code": "22010",
-    "name": "Tsuduki",
+    "name": "Tsuzuki",
     "deleted": false,
     "pref_code": "22",
     "pref_name": "Kyoto",
@@ -4077,7 +4755,9 @@
     "lon": 135.874,
     "wikidata_id": "Q1154678",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "綴喜",
+    "deleted_date": ""
   },
   {
     "code": "22011",
@@ -4085,11 +4765,13 @@
     "deleted": true,
     "pref_code": "22",
     "pref_name": "Kyoto",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.303208333,
+    "lon": 139.283416667,
+    "wikidata_id": "Q385023|Q1354853",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "中",
+    "deleted_date": "Mar.31,2004"
   },
   {
     "code": "22012",
@@ -4101,7 +4783,9 @@
     "lon": 135.41666667,
     "wikidata_id": "Q1078679",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "船井",
+    "deleted_date": ""
   },
   {
     "code": "22013",
@@ -4109,11 +4793,13 @@
     "deleted": true,
     "pref_code": "22",
     "pref_name": "Kyoto",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.004194444,
+    "lon": 135.605416667,
+    "wikidata_id": "Q30937563",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "南桑田",
+    "deleted_date": "Sep.29,1959"
   },
   {
     "code": "22014",
@@ -4125,7 +4811,9 @@
     "lon": 135.111,
     "wikidata_id": "Q1078639",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "与謝",
+    "deleted_date": ""
   },
   {
     "code": "23001",
@@ -4137,7 +4825,9 @@
     "lon": 136.1987,
     "wikidata_id": "Q1042353",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "伊香",
+    "deleted_date": "Dec.31,2009"
   },
   {
     "code": "23002",
@@ -4149,7 +4839,9 @@
     "lon": 136.334,
     "wikidata_id": "Q1131103",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "犬上",
+    "deleted_date": ""
   },
   {
     "code": "23003",
@@ -4161,7 +4853,9 @@
     "lon": 136.21666667,
     "wikidata_id": "Q1131097",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "愛知",
+    "deleted_date": ""
   },
   {
     "code": "23004",
@@ -4173,7 +4867,9 @@
     "lon": 136.220007,
     "wikidata_id": "Q931658",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "蒲生",
+    "deleted_date": ""
   },
   {
     "code": "23005",
@@ -4181,11 +4877,13 @@
     "deleted": true,
     "pref_code": "23",
     "pref_name": "Shiga",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.001287037,
+    "lon": 134.754416667,
+    "wikidata_id": "Q1203688|Q1207159|Q1155215",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "神崎",
+    "deleted_date": "Dec.31,2005"
   },
   {
     "code": "23006",
@@ -4197,7 +4895,9 @@
     "lon": 135.98527778,
     "wikidata_id": "Q6446084",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "栗太",
+    "deleted_date": "Sep.30,2001"
   },
   {
     "code": "23007",
@@ -4205,11 +4905,13 @@
     "deleted": true,
     "pref_code": "23",
     "pref_name": "Shiga",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.946638889,
+    "lon": 136.148055556,
+    "wikidata_id": "Q11587229|Q6455279|Q3314706|Q3541633|Q3201297|Q3201300|Q3482045",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "甲賀",
+    "deleted_date": "Sep.30,2004"
   },
   {
     "code": "23008",
@@ -4221,7 +4923,9 @@
     "lon": 136.303889,
     "wikidata_id": "Q7402853",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "坂田",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "23009",
@@ -4229,11 +4933,13 @@
     "deleted": true,
     "pref_code": "23",
     "pref_name": "Shiga",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.206333333,
+    "lon": 135.921166667,
+    "wikidata_id": "Q2278690",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "滋賀",
+    "deleted_date": "Mar.19,2006"
   },
   {
     "code": "23010",
@@ -4244,8 +4950,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "高島",
+    "deleted_date": "Dec.31,2004"
   },
   {
     "code": "23011",
@@ -4257,7 +4965,9 @@
     "lon": 136.3946,
     "wikidata_id": "Q1042347",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東浅井",
+    "deleted_date": "Dec.31,2009"
   },
   {
     "code": "23012",
@@ -4265,11 +4975,13 @@
     "deleted": true,
     "pref_code": "23",
     "pref_name": "Shiga",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.085347222,
+    "lon": 136.019027778,
+    "wikidata_id": "Q11362851|Q17173511",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "野洲",
+    "deleted_date": "Sep.30,2004"
   },
   {
     "code": "24001",
@@ -4281,7 +4993,9 @@
     "lon": 135.703055555,
     "wikidata_id": "Q971003",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "生駒",
+    "deleted_date": ""
   },
   {
     "code": "24002",
@@ -4293,7 +5007,9 @@
     "lon": 136.142,
     "wikidata_id": "Q1131315",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "宇陀",
+    "deleted_date": ""
   },
   {
     "code": "24003",
@@ -4301,11 +5017,13 @@
     "deleted": true,
     "pref_code": "24",
     "pref_name": "Nara",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.335361111,
+    "lon": 135.70125,
+    "wikidata_id": "Q17173770",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "宇智",
+    "deleted_date": "Dec.31,1958"
   },
   {
     "code": "24004",
@@ -4317,7 +5035,9 @@
     "lon": 135.728,
     "wikidata_id": "Q1131013",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北葛城",
+    "deleted_date": ""
   },
   {
     "code": "24005",
@@ -4329,7 +5049,9 @@
     "lon": 135.788,
     "wikidata_id": "Q1155036",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "磯城",
+    "deleted_date": ""
   },
   {
     "code": "24006",
@@ -4337,11 +5059,13 @@
     "deleted": true,
     "pref_code": "24",
     "pref_name": "Nara",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.709472222,
+    "lon": 136.044,
+    "wikidata_id": "Q7850060",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "添上",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "24007",
@@ -4353,7 +5077,9 @@
     "lon": 135.809,
     "wikidata_id": "Q1117901",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "高市",
+    "deleted_date": ""
   },
   {
     "code": "24008",
@@ -4361,11 +5087,13 @@
     "deleted": true,
     "pref_code": "24",
     "pref_name": "Nara",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.444694444,
+    "lon": 135.738520833,
+    "wikidata_id": "Q17175954|Q17987698|Q17174986|Q17175841",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "南葛城",
+    "deleted_date": "Mar.30,1958"
   },
   {
     "code": "24009",
@@ -4377,7 +5105,9 @@
     "lon": 136.022,
     "wikidata_id": "Q1130739",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "山辺",
+    "deleted_date": ""
   },
   {
     "code": "24010",
@@ -4389,7 +5119,9 @@
     "lon": 135.97,
     "wikidata_id": "Q1154558",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "吉野",
+    "deleted_date": ""
   },
   {
     "code": "25001",
@@ -4397,11 +5129,13 @@
     "deleted": true,
     "pref_code": "25",
     "pref_name": "Osaka",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.787944444,
+    "lon": 135.679944444,
+    "wikidata_id": "Q819646",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "北河内",
+    "deleted_date": "Nov.2,1971"
   },
   {
     "code": "25002",
@@ -4413,7 +5147,9 @@
     "lon": 135.151,
     "wikidata_id": "Q1205635",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "泉南",
+    "deleted_date": ""
   },
   {
     "code": "25003",
@@ -4425,7 +5161,9 @@
     "lon": 135.38333333,
     "wikidata_id": "Q646275",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "泉北",
+    "deleted_date": ""
   },
   {
     "code": "25004",
@@ -4437,7 +5175,9 @@
     "lon": 135.426,
     "wikidata_id": "Q1205516",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "豊能",
+    "deleted_date": ""
   },
   {
     "code": "25005",
@@ -4445,11 +5185,13 @@
     "deleted": true,
     "pref_code": "25",
     "pref_name": "Osaka",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.579277778,
+    "lon": 135.628611111,
+    "wikidata_id": "Q873583",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "中河内",
+    "deleted_date": "Apr.2,1965"
   },
   {
     "code": "25006",
@@ -4461,7 +5203,9 @@
     "lon": 135.6535,
     "wikidata_id": "Q783553",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三島",
+    "deleted_date": ""
   },
   {
     "code": "25007",
@@ -4473,7 +5217,9 @@
     "lon": 135.65,
     "wikidata_id": "Q1347323",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南河内",
+    "deleted_date": ""
   },
   {
     "code": "26001",
@@ -4485,7 +5231,9 @@
     "lon": 135.194133,
     "wikidata_id": "Q1131181",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "有田",
+    "deleted_date": ""
   },
   {
     "code": "26002",
@@ -4497,7 +5245,9 @@
     "lon": 135.557,
     "wikidata_id": "Q1131309",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "伊都",
+    "deleted_date": ""
   },
   {
     "code": "26003",
@@ -4509,7 +5259,9 @@
     "lon": 135.393,
     "wikidata_id": "Q1130990",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "海草",
+    "deleted_date": ""
   },
   {
     "code": "26004",
@@ -4517,11 +5269,13 @@
     "deleted": true,
     "pref_code": "26",
     "pref_name": "Wakayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.857416667,
+    "lon": 134.496638889,
+    "wikidata_id": "Q1205685",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "那賀",
+    "deleted_date": "Mar.31,2006"
   },
   {
     "code": "26005",
@@ -4533,7 +5287,9 @@
     "lon": 135.486,
     "wikidata_id": "Q1131323",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西牟婁",
+    "deleted_date": ""
   },
   {
     "code": "26006",
@@ -4545,7 +5301,9 @@
     "lon": 135.791,
     "wikidata_id": "Q1131175",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東牟婁",
+    "deleted_date": ""
   },
   {
     "code": "26007",
@@ -4557,7 +5315,9 @@
     "lon": 135.336,
     "wikidata_id": "Q1131164",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "日高",
+    "deleted_date": ""
   },
   {
     "code": "27001",
@@ -4569,7 +5329,9 @@
     "lon": 134.36667,
     "wikidata_id": "Q1042141",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "赤穂",
+    "deleted_date": ""
   },
   {
     "code": "27002",
@@ -4581,7 +5343,9 @@
     "lon": 134.83333,
     "wikidata_id": "Q4803324",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "朝来",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "27003",
@@ -4589,11 +5353,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.889972222,
+    "lon": 135.225444444,
+    "wikidata_id": "Q847607",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "有馬",
+    "deleted_date": "May.30,1958"
   },
   {
     "code": "27004",
@@ -4601,11 +5367,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.465875,
+    "lon": 134.912583333,
+    "wikidata_id": "Q6102453|Q3657725",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "出石",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "27005",
@@ -4617,7 +5385,9 @@
     "lon": 134.5892,
     "wikidata_id": "Q1042150",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "揖保",
+    "deleted_date": ""
   },
   {
     "code": "27006",
@@ -4625,11 +5395,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.82125,
+    "lon": 134.819333,
+    "wikidata_id": "Q11490967",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "印南",
+    "deleted_date": "Jan.31,1979"
   },
   {
     "code": "27007",
@@ -4641,7 +5413,9 @@
     "lon": 134.919,
     "wikidata_id": "Q1042066",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "加古",
+    "deleted_date": ""
   },
   {
     "code": "27008",
@@ -4649,11 +5423,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.923814815,
+    "lon": 134.863759259,
+    "wikidata_id": "Q11402179|Q17176555|Q17176387",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "加西",
+    "deleted_date": "Mar.31,1967"
   },
   {
     "code": "27009",
@@ -4661,11 +5437,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.92062037,
+    "lon": 134.994648148,
+    "wikidata_id": "Q2189377|Q2048813|Q2325052",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "加東",
+    "deleted_date": "Mar.19,2006"
   },
   {
     "code": "27010",
@@ -4677,7 +5455,9 @@
     "lon": 135.353,
     "wikidata_id": "Q1042053",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "川辺",
+    "deleted_date": ""
   },
   {
     "code": "27011",
@@ -4689,7 +5469,9 @@
     "lon": 134.754166666,
     "wikidata_id": "Q1042045",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "神崎",
+    "deleted_date": ""
   },
   {
     "code": "27012",
@@ -4697,11 +5479,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.596076389,
+    "lon": 134.740798611,
+    "wikidata_id": "Q6414198|Q7678035|Q5751503|Q6374892",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "城崎",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "27013",
@@ -4713,7 +5497,9 @@
     "lon": 134.372,
     "wikidata_id": "Q1042060",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "佐用",
+    "deleted_date": ""
   },
   {
     "code": "27014",
@@ -4721,11 +5507,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.824319444,
+    "lon": 134.608444444,
+    "wikidata_id": "Q5990099|Q8061102",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "飾磨",
+    "deleted_date": "Mar.26,2006"
   },
   {
     "code": "27015",
@@ -4733,11 +5521,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.98575,
+    "lon": 134.595583333,
+    "wikidata_id": "Q8050114",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "宍粟",
+    "deleted_date": "Mar.26,2006"
   },
   {
     "code": "27016",
@@ -4749,7 +5539,9 @@
     "lon": 134.902,
     "wikidata_id": "Q1042243",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "多可",
+    "deleted_date": ""
   },
   {
     "code": "27017",
@@ -4757,11 +5549,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.059756944,
+    "lon": 135.170847222,
+    "wikidata_id": "Q11377333|Q11603695|Q11629382|Q11368493",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "多紀",
+    "deleted_date": "Mar.31,1999"
   },
   {
     "code": "27018",
@@ -4773,7 +5567,9 @@
     "lon": 134.836,
     "wikidata_id": "Q7850141",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "津名",
+    "deleted_date": "Feb.10,2006"
   },
   {
     "code": "27019",
@@ -4781,11 +5577,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.168148148,
+    "lon": 135.064925926,
+    "wikidata_id": "Q11533692|Q5760340|Q4778606|Q6374868|Q7418828|Q5986143",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "氷上",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "27020",
@@ -4797,7 +5595,9 @@
     "lon": 134.551,
     "wikidata_id": "Q1155035",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "美方",
+    "deleted_date": ""
   },
   {
     "code": "27021",
@@ -4805,11 +5605,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.88666667,
+    "lon": 135.12416667,
+    "wikidata_id": "Q8054545",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "美嚢",
+    "deleted_date": "Oct.23,2005"
   },
   {
     "code": "27022",
@@ -4817,11 +5619,13 @@
     "deleted": true,
     "pref_code": "27",
     "pref_name": "Hyogo",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.300840278,
+    "lon": 134.766263889,
+    "wikidata_id": "Q11607844|Q7446624|Q6845247|Q6963173",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "三原",
+    "deleted_date": "Jan.10,2005"
   },
   {
     "code": "27023",
@@ -4833,7 +5637,9 @@
     "lon": 135.3523598,
     "wikidata_id": "Q11545988",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "武庫",
+    "deleted_date": "Mar.31,1954"
   },
   {
     "code": "27024",
@@ -4844,8 +5650,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "養父",
+    "deleted_date": "Mar.31,2004"
   },
   {
     "code": "28001",
@@ -4853,11 +5661,13 @@
     "deleted": true,
     "pref_code": "28",
     "pref_name": "Toyama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.727006944,
+    "lon": 137.089958333,
+    "wikidata_id": "Q994472|Q5209450|Q8081704|Q7496912",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "射水",
+    "deleted_date": "Oct.31,2005"
   },
   {
     "code": "28002",
@@ -4865,11 +5675,13 @@
     "deleted": true,
     "pref_code": "28",
     "pref_name": "Toyama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.594722221,
+    "lon": 137.251861094,
+    "wikidata_id": "Q8081805|Q8081695",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "上新川",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "28003",
@@ -4881,7 +5693,9 @@
     "lon": 137.616,
     "wikidata_id": "Q634439",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "下新川",
+    "deleted_date": ""
   },
   {
     "code": "28004",
@@ -4893,7 +5707,9 @@
     "lon": 137.502,
     "wikidata_id": "Q1204336",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "中新川",
+    "deleted_date": ""
   },
   {
     "code": "28005",
@@ -4904,8 +5720,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "西砺波",
+    "deleted_date": "Oct.31,2005"
   },
   {
     "code": "28006",
@@ -4913,11 +5731,13 @@
     "deleted": true,
     "pref_code": "28",
     "pref_name": "Toyama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.588534722,
+    "lon": 137.152201389,
+    "wikidata_id": "Q8050284|Q5506957|Q8047586|Q5908189",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "婦負",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "28007",
@@ -4925,11 +5745,13 @@
     "deleted": true,
     "pref_code": "28",
     "pref_name": "Toyama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.85555,
+    "lon": 136.965702778,
+    "wikidata_id": "Q11657393|Q11449532|Q11369562|Q11588695|Q11404809|Q11639670|Q11480765|Q11377561|Q11446579|Q11625105",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "氷見",
+    "deleted_date": "Mar.31,1954"
   },
   {
     "code": "28008",
@@ -4940,8 +5762,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "東砺波",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "29001",
@@ -4949,11 +5773,13 @@
     "deleted": true,
     "pref_code": "29",
     "pref_name": "Fukui",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.998722222,
+    "lon": 136.360611111,
+    "wikidata_id": "Q6884286",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "足羽",
+    "deleted_date": "Jan.30,2006"
   },
   {
     "code": "29002",
@@ -4965,7 +5791,9 @@
     "lon": 136.276388888,
     "wikidata_id": "Q1204530",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "今立",
+    "deleted_date": ""
   },
   {
     "code": "29003",
@@ -4977,7 +5805,9 @@
     "lon": 135.564,
     "wikidata_id": "Q384971",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "大飯",
+    "deleted_date": ""
   },
   {
     "code": "29004",
@@ -4985,11 +5815,13 @@
     "deleted": true,
     "pref_code": "29",
     "pref_name": "Fukui",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.270944444,
+    "lon": 136.898555556,
+    "wikidata_id": "Q1203744",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "大野",
+    "deleted_date": "Nov.6,2005"
   },
   {
     "code": "29005",
@@ -4997,11 +5829,13 @@
     "deleted": true,
     "pref_code": "29",
     "pref_name": "Fukui",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.400027778,
+    "lon": 135.682111111,
+    "wikidata_id": "Q6968522",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "遠敷",
+    "deleted_date": "Mar.2,2006"
   },
   {
     "code": "29006",
@@ -5009,11 +5843,13 @@
     "deleted": true,
     "pref_code": "29",
     "pref_name": "Fukui",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.166811111,
+    "lon": 136.218848611,
+    "wikidata_id": "Q6850274|Q177273|Q5675569|Q7402758",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "坂井",
+    "deleted_date": "Mar.19,2006"
   },
   {
     "code": "29007",
@@ -5025,7 +5861,9 @@
     "lon": 136.0555,
     "wikidata_id": "Q11499560",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "敦賀",
+    "deleted_date": "Jan.14,1955"
   },
   {
     "code": "29008",
@@ -5037,7 +5875,9 @@
     "lon": 136.22611111,
     "wikidata_id": "Q776029",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南条",
+    "deleted_date": ""
   },
   {
     "code": "29009",
@@ -5049,7 +5889,9 @@
     "lon": 136.068055555,
     "wikidata_id": "Q1204551",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "丹生",
+    "deleted_date": ""
   },
   {
     "code": "29010",
@@ -5061,7 +5903,9 @@
     "lon": 135.978,
     "wikidata_id": "Q1352523",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三方",
+    "deleted_date": ""
   },
   {
     "code": "29011",
@@ -5073,7 +5917,9 @@
     "lon": 136.357,
     "wikidata_id": "Q737826",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "吉田",
+    "deleted_date": ""
   },
   {
     "code": "29012",
@@ -5085,7 +5931,9 @@
     "lon": 135.891,
     "wikidata_id": "Q1204541",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三方上中",
+    "deleted_date": ""
   },
   {
     "code": "30001",
@@ -5097,7 +5945,9 @@
     "lon": 136.61,
     "wikidata_id": "Q1155548",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "石川",
+    "deleted_date": "Nov.10,2011"
   },
   {
     "code": "30002",
@@ -5105,11 +5955,13 @@
     "deleted": true,
     "pref_code": "30",
     "pref_name": "Ishikawa",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.246527778,
+    "lon": 136.371972222,
+    "wikidata_id": "Q8047872",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "江沼",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "30003",
@@ -5121,7 +5973,9 @@
     "lon": 136.902,
     "wikidata_id": "Q1130967",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "鹿島",
+    "deleted_date": ""
   },
   {
     "code": "30004",
@@ -5133,7 +5987,9 @@
     "lon": 136.773,
     "wikidata_id": "Q1130942",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "河北",
+    "deleted_date": ""
   },
   {
     "code": "30005",
@@ -5141,11 +5997,13 @@
     "deleted": true,
     "pref_code": "30",
     "pref_name": "Ishikawa",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.35325,
+    "lon": 137.244527778,
+    "wikidata_id": "Q7876747",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "珠洲",
+    "deleted_date": "Feb.28,2005"
   },
   {
     "code": "30006",
@@ -5157,7 +6015,9 @@
     "lon": 136.5338,
     "wikidata_id": "Q1130973",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "能美",
+    "deleted_date": ""
   },
   {
     "code": "30007",
@@ -5169,7 +6029,9 @@
     "lon": 136.8,
     "wikidata_id": "Q1130953",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "羽咋",
+    "deleted_date": ""
   },
   {
     "code": "30008",
@@ -5177,11 +6039,13 @@
     "deleted": true,
     "pref_code": "30",
     "pref_name": "Ishikawa",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 37.259152778,
+    "lon": 136.840152778,
+    "wikidata_id": "Q6907002|Q1349353",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "鳳至",
+    "deleted_date": "Feb.28,2005"
   },
   {
     "code": "30009",
@@ -5193,7 +6057,9 @@
     "lon": 137.034,
     "wikidata_id": "Q1130979",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "鳳珠",
+    "deleted_date": ""
   },
   {
     "code": "31001",
@@ -5205,7 +6071,9 @@
     "lon": 134.333333333,
     "wikidata_id": "Q1131540",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "英田",
+    "deleted_date": ""
   },
   {
     "code": "31002",
@@ -5213,11 +6081,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.733888889,
+    "lon": 134.039027778,
+    "wikidata_id": "Q104519736",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "赤磐",
+    "deleted_date": "Jan.21,2007"
   },
   {
     "code": "31003",
@@ -5229,7 +6099,9 @@
     "lon": 133.556094444,
     "wikidata_id": "Q1131820",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "浅口",
+    "deleted_date": ""
   },
   {
     "code": "31004",
@@ -5237,11 +6109,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.985243056,
+    "lon": 133.436451389,
+    "wikidata_id": "Q8081680|Q7497501|Q7706971|Q7705644",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "阿哲",
+    "deleted_date": "Mar.30,2005"
   },
   {
     "code": "31005",
@@ -5249,11 +6123,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.661824074,
+    "lon": 134.11412963,
+    "wikidata_id": "Q204799|Q7082701|Q7105505",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "邑久",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "31006",
@@ -5265,7 +6141,9 @@
     "lon": 133.588,
     "wikidata_id": "Q1131814",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "小田",
+    "deleted_date": ""
   },
   {
     "code": "31007",
@@ -5277,7 +6155,9 @@
     "lon": 134.162,
     "wikidata_id": "Q634914",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "勝田",
+    "deleted_date": ""
   },
   {
     "code": "31008",
@@ -5285,11 +6165,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 43.394291667,
+    "lon": 144.529958333,
+    "wikidata_id": "Q1208741|Q1186104",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "川上",
+    "deleted_date": "Sep.30,2004"
   },
   {
     "code": "31009",
@@ -5297,11 +6179,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.62902778,
+    "lon": 133.6922222,
+    "wikidata_id": "Q6721577",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "吉備",
+    "deleted_date": "Jul.31,2005"
   },
   {
     "code": "31010",
@@ -5313,7 +6197,9 @@
     "lon": 133.943,
     "wikidata_id": "Q1131568",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "久米",
+    "deleted_date": ""
   },
   {
     "code": "31011",
@@ -5321,11 +6207,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.544,
+    "lon": 133.864944444,
+    "wikidata_id": "Q98098667",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "児島",
+    "deleted_date": "Mar.21,2005"
   },
   {
     "code": "31012",
@@ -5333,11 +6221,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.6325,
+    "lon": 133.432416667,
+    "wikidata_id": "Q8056088",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "後月",
+    "deleted_date": "Feb.28,2005"
   },
   {
     "code": "31013",
@@ -5345,11 +6235,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.699555556,
+    "lon": 134.054444444,
+    "wikidata_id": "Q104519316",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "上道",
+    "deleted_date": "Apr.30,1971"
   },
   {
     "code": "31014",
@@ -5357,11 +6249,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.961611111,
+    "lon": 133.632916667,
+    "wikidata_id": "Q5878266",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "上房",
+    "deleted_date": "Mar.30,2005"
   },
   {
     "code": "31015",
@@ -5373,11 +6267,13 @@
     "lon": 133.8231,
     "wikidata_id": "Q1131693",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "都窪",
+    "deleted_date": ""
   },
   {
     "code": "31016",
-    "name": "Tomada",
+    "name": "Tomata",
     "deleted": false,
     "pref_code": "31",
     "pref_name": "Okayama",
@@ -5385,7 +6281,9 @@
     "lon": 133.898055555,
     "wikidata_id": "Q1131549",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "苫田",
+    "deleted_date": ""
   },
   {
     "code": "31017",
@@ -5397,7 +6295,9 @@
     "lon": 133.56,
     "wikidata_id": "Q1131714",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "真庭",
+    "deleted_date": ""
   },
   {
     "code": "31018",
@@ -5405,11 +6305,13 @@
     "deleted": true,
     "pref_code": "31",
     "pref_name": "Okayama",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.869318889,
+    "lon": 133.903786111,
+    "wikidata_id": "Q104519737",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "御津",
+    "deleted_date": "Jan.21,2007"
   },
   {
     "code": "31019",
@@ -5421,7 +6323,9 @@
     "lon": 134.135,
     "wikidata_id": "Q1155355",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "和気",
+    "deleted_date": ""
   },
   {
     "code": "31020",
@@ -5433,7 +6337,9 @@
     "lon": 133.745,
     "wikidata_id": "Q1131574",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "加賀",
+    "deleted_date": ""
   },
   {
     "code": "32001",
@@ -5444,8 +6350,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "安濃",
+    "deleted_date": "Mar.31,1954"
   },
   {
     "code": "32002",
@@ -5453,11 +6361,13 @@
     "deleted": true,
     "pref_code": "32",
     "pref_name": "Shimane",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.096527778,
+    "lon": 133.096805556,
+    "wikidata_id": "Q685865",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "海士",
+    "deleted_date": "Mar.31,1969"
   },
   {
     "code": "32003",
@@ -5469,7 +6379,9 @@
     "lon": 132.766,
     "wikidata_id": "Q1349339",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "飯石",
+    "deleted_date": ""
   },
   {
     "code": "32004",
@@ -5481,7 +6393,9 @@
     "lon": 132.513,
     "wikidata_id": "Q1205009",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "邑智",
+    "deleted_date": ""
   },
   {
     "code": "32005",
@@ -5489,11 +6403,13 @@
     "deleted": true,
     "pref_code": "32",
     "pref_name": "Shimane",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.319509259,
+    "lon": 132.92612037,
+    "wikidata_id": "Q11436158|Q11398869|Q6417338",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "大原",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "32006",
@@ -5505,7 +6421,9 @@
     "lon": 133.245,
     "wikidata_id": "Q735735",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "隠岐",
+    "deleted_date": ""
   },
   {
     "code": "32007",
@@ -5517,7 +6435,9 @@
     "lon": 132.513,
     "wikidata_id": "Q1205009",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "隠地",
+    "deleted_date": "Mar.31,1969"
   },
   {
     "code": "32008",
@@ -5529,7 +6449,9 @@
     "lon": 131.881,
     "wikidata_id": "Q1349420",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "鹿足",
+    "deleted_date": ""
   },
   {
     "code": "32009",
@@ -5537,11 +6459,13 @@
     "deleted": true,
     "pref_code": "32",
     "pref_name": "Shimane",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.251347222,
+    "lon": 133.339458333,
+    "wikidata_id": "Q7400090|Q5509971",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "周吉",
+    "deleted_date": "Mar.31,1969"
   },
   {
     "code": "32010",
@@ -5549,11 +6473,13 @@
     "deleted": true,
     "pref_code": "32",
     "pref_name": "Shimane",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.053527778,
+    "lon": 133.016944444,
+    "wikidata_id": "Q543193|Q1204968",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "知夫",
+    "deleted_date": "Mar.31,1969"
   },
   {
     "code": "32011",
@@ -5561,11 +6487,13 @@
     "deleted": true,
     "pref_code": "32",
     "pref_name": "Shimane",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.921796296,
+    "lon": 134.595861111,
+    "wikidata_id": "Q1205685|Q6960125|Q5649350",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "那賀",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "32012",
@@ -5577,7 +6505,9 @@
     "lon": 133.059,
     "wikidata_id": "Q1204696",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "仁多",
+    "deleted_date": ""
   },
   {
     "code": "32013",
@@ -5588,8 +6518,10 @@
     "lat": null,
     "lon": null,
     "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "llm_no_municipalities",
+    "ja_name": "迩摩",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "32014",
@@ -5597,11 +6529,13 @@
     "deleted": true,
     "pref_code": "32",
     "pref_name": "Shimane",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 35.360708333,
+    "lon": 133.225097222,
+    "wikidata_id": "Q5770731|Q5640669",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "能義",
+    "deleted_date": "Sep.30,2004"
   },
   {
     "code": "32015",
@@ -5613,7 +6547,9 @@
     "lon": 132.83,
     "wikidata_id": "Q1206215",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "簸川",
+    "deleted_date": "Sep.30,2011"
   },
   {
     "code": "32016",
@@ -5621,11 +6557,13 @@
     "deleted": true,
     "pref_code": "32",
     "pref_name": "Shimane",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.618833333,
+    "lon": 132.000263889,
+    "wikidata_id": "Q6881822|Q5760573",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "美濃",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "32017",
@@ -5637,7 +6575,9 @@
     "lon": 133.051111111,
     "wikidata_id": "Q1155799",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "八束",
+    "deleted_date": "Jul.31,2011"
   },
   {
     "code": "33001",
@@ -5645,11 +6585,13 @@
     "deleted": true,
     "pref_code": "33",
     "pref_name": "Yamaguchi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.050680556,
+    "lon": 131.19275,
+    "wikidata_id": "Q7413193|Q6448237",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "厚狭",
+    "deleted_date": "Mar.21,2005"
   },
   {
     "code": "33002",
@@ -5661,7 +6603,9 @@
     "lon": 131.57367,
     "wikidata_id": "Q1131627",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "阿武",
+    "deleted_date": ""
   },
   {
     "code": "33003",
@@ -5673,7 +6617,9 @@
     "lon": 132.288,
     "wikidata_id": "Q1042814",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "大島",
+    "deleted_date": ""
   },
   {
     "code": "33004",
@@ -5681,11 +6627,13 @@
     "deleted": true,
     "pref_code": "33",
     "pref_name": "Yamaguchi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.374564815,
+    "lon": 131.13762963,
+    "wikidata_id": "Q6880622|Q5701301|Q8062222",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "大津",
+    "deleted_date": "Mar.21,2005"
   },
   {
     "code": "33005",
@@ -5697,7 +6645,9 @@
     "lon": 132.2115,
     "wikidata_id": "Q303497",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "玖珂",
+    "deleted_date": ""
   },
   {
     "code": "33006",
@@ -5709,7 +6659,9 @@
     "lon": 132.068,
     "wikidata_id": "Q1042808",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "熊毛",
+    "deleted_date": ""
   },
   {
     "code": "33007",
@@ -5721,7 +6673,9 @@
     "lon": 131.655486,
     "wikidata_id": "Q7395781",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "佐波",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "33008",
@@ -5729,11 +6683,13 @@
     "deleted": true,
     "pref_code": "33",
     "pref_name": "Yamaguchi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.232027778,
+    "lon": 131.817222222,
+    "wikidata_id": "Q6364175",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "都濃",
+    "deleted_date": "Apr.20,2003"
   },
   {
     "code": "33009",
@@ -5741,11 +6697,13 @@
     "deleted": true,
     "pref_code": "33",
     "pref_name": "Yamaguchi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.191066862,
+    "lon": 130.99552825,
+    "wikidata_id": "Q6406403|Q7830728|Q7830936|Q5965183",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "豊浦",
+    "deleted_date": "Feb.12,2005"
   },
   {
     "code": "33010",
@@ -5753,11 +6711,13 @@
     "deleted": true,
     "pref_code": "33",
     "pref_name": "Yamaguchi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.219402778,
+    "lon": 131.317944444,
+    "wikidata_id": "Q995424|Q994760",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "美祢",
+    "deleted_date": "Mar.20,2008"
   },
   {
     "code": "33011",
@@ -5765,11 +6725,13 @@
     "deleted": true,
     "pref_code": "33",
     "pref_name": "Yamaguchi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.043138889,
+    "lon": 131.396314815,
+    "wikidata_id": "Q4697551|Q11463855|Q4699764",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "吉敷",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "34001",
@@ -5781,7 +6743,9 @@
     "lon": 134.381,
     "wikidata_id": "Q1131619",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "岩美",
+    "deleted_date": ""
   },
   {
     "code": "34002",
@@ -5793,7 +6757,9 @@
     "lon": 134.131472222,
     "wikidata_id": "Q6395302",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "気高",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "34003",
@@ -5805,7 +6771,9 @@
     "lon": 133.43,
     "wikidata_id": "Q917024",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西伯",
+    "deleted_date": ""
   },
   {
     "code": "34004",
@@ -5817,7 +6785,9 @@
     "lon": 133.767,
     "wikidata_id": "Q1131949",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東伯",
+    "deleted_date": ""
   },
   {
     "code": "34005",
@@ -5829,7 +6799,9 @@
     "lon": 133.293055555,
     "wikidata_id": "Q1043168",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "日野",
+    "deleted_date": ""
   },
   {
     "code": "34006",
@@ -5841,7 +6813,9 @@
     "lon": 134.363,
     "wikidata_id": "Q1043163",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "八頭",
+    "deleted_date": ""
   },
   {
     "code": "35001",
@@ -5853,7 +6827,9 @@
     "lon": 132.5574,
     "wikidata_id": "Q1351074",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "安芸",
+    "deleted_date": ""
   },
   {
     "code": "35002",
@@ -5861,11 +6837,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.470342593,
+    "lon": 132.494981481,
+    "wikidata_id": "Q11450431|Q11383212|Q11673193",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "安佐",
+    "deleted_date": "Mar.19,1973"
   },
   {
     "code": "35003",
@@ -5873,11 +6851,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.557125,
+    "lon": 133.273180556,
+    "wikidata_id": "Q11502125",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "芦品",
+    "deleted_date": "Feb.2,2003"
   },
   {
     "code": "35004",
@@ -5885,11 +6865,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.741116667,
+    "lon": 138.888266667,
+    "wikidata_id": "Q304491|Q1203861|Q1203741|Q1204017|Q1203949",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "賀茂",
+    "deleted_date": "Mar.21,2005"
   },
   {
     "code": "35005",
@@ -5897,11 +6879,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.728351852,
+    "lon": 133.088861111,
+    "wikidata_id": "Q6322186|Q6455246|Q7667617",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "甲奴",
+    "deleted_date": "Mar.30,2005"
   },
   {
     "code": "35006",
@@ -5909,11 +6893,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.295828889,
+    "lon": 132.306508889,
+    "wikidata_id": "Q11439692|Q3085146",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "佐伯",
+    "deleted_date": "Nov.2,2005"
   },
   {
     "code": "35007",
@@ -5925,7 +6911,9 @@
     "lon": 133.265,
     "wikidata_id": "Q1155579",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "神石",
+    "deleted_date": ""
   },
   {
     "code": "35008",
@@ -5937,7 +6925,9 @@
     "lon": 133.009,
     "wikidata_id": "Q1155247",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "世羅",
+    "deleted_date": ""
   },
   {
     "code": "35009",
@@ -5945,11 +6935,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.681537037,
+    "lon": 132.68949537,
+    "wikidata_id": "Q11413996|Q11390652|Q11608902|Q11669174|Q11577957|Q11415915",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "高田",
+    "deleted_date": "Feb.29,2004"
   },
   {
     "code": "35010",
@@ -5961,7 +6953,9 @@
     "lon": 132.885,
     "wikidata_id": "Q1155556",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "豊田",
+    "deleted_date": ""
   },
   {
     "code": "35011",
@@ -5973,7 +6967,9 @@
     "lon": 133.3364,
     "wikidata_id": "Q7069042",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "沼隈",
+    "deleted_date": "Jan.31,2005"
   },
   {
     "code": "35012",
@@ -5981,11 +6977,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.953816667,
+    "lon": 133.037205556,
+    "wikidata_id": "Q7400105|Q7862669|Q6441532|Q7677183|Q11547411",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "比婆",
+    "deleted_date": "Mar.30,2005"
   },
   {
     "code": "35013",
@@ -5993,11 +6991,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.546333333,
+    "lon": 133.374,
+    "wikidata_id": "Q6363861",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "深安",
+    "deleted_date": "Feb.28,2006"
   },
   {
     "code": "35014",
@@ -6005,11 +7005,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.795527778,
+    "lon": 132.857356481,
+    "wikidata_id": "Q6410149|Q5509395|Q7403141|Q6416365|Q6872896|Q6883722",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "双三",
+    "deleted_date": "Mar.31,2004"
   },
   {
     "code": "35015",
@@ -6017,11 +7019,13 @@
     "deleted": true,
     "pref_code": "35",
     "pref_name": "Hiroshima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.453305556,
+    "lon": 133.171972222,
+    "wikidata_id": "Q98328413|Q11415963",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "御調",
+    "deleted_date": "Mar.27,2005"
   },
   {
     "code": "35016",
@@ -6033,7 +7037,9 @@
     "lon": 132.349,
     "wikidata_id": "Q1155572",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "山県",
+    "deleted_date": ""
   },
   {
     "code": "36001",
@@ -6045,7 +7051,9 @@
     "lon": 133.944991,
     "wikidata_id": "Q1123066",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "綾歌",
+    "deleted_date": ""
   },
   {
     "code": "36002",
@@ -6057,7 +7065,9 @@
     "lon": 134.239,
     "wikidata_id": "Q8081554",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "大川",
+    "deleted_date": "Mar.31,2003"
   },
   {
     "code": "36003",
@@ -6069,7 +7079,9 @@
     "lon": 133.983,
     "wikidata_id": "Q1155934",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "香川",
+    "deleted_date": ""
   },
   {
     "code": "36004",
@@ -6081,7 +7093,9 @@
     "lon": 134.135,
     "wikidata_id": "Q1155929",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "木田",
+    "deleted_date": ""
   },
   {
     "code": "36005",
@@ -6093,7 +7107,9 @@
     "lon": 134.269,
     "wikidata_id": "Q643336",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "小豆",
+    "deleted_date": ""
   },
   {
     "code": "36006",
@@ -6105,7 +7121,9 @@
     "lon": 133.839,
     "wikidata_id": "Q1206155",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "仲多度",
+    "deleted_date": ""
   },
   {
     "code": "36007",
@@ -6113,11 +7131,13 @@
     "deleted": true,
     "pref_code": "36",
     "pref_name": "Kagawa",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.169583729,
+    "lon": 133.705701196,
+    "wikidata_id": "Q11671969|Q8047857|Q6868877|Q7830696|Q7678556|Q7039290|Q7402526",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "三豊",
+    "deleted_date": "Dec.31,2005"
   },
   {
     "code": "37001",
@@ -6125,11 +7145,13 @@
     "deleted": true,
     "pref_code": "37",
     "pref_name": "Tokushima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.090194444,
+    "lon": 134.284944444,
+    "wikidata_id": "Q5986083|Q11657563",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "阿波",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "37002",
@@ -6141,7 +7163,9 @@
     "lon": 134.482,
     "wikidata_id": "Q1156025",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "板野",
+    "deleted_date": ""
   },
   {
     "code": "37003",
@@ -6149,11 +7173,13 @@
     "deleted": true,
     "pref_code": "37",
     "pref_name": "Tokushima",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.052324074,
+    "lon": 134.31262963,
+    "wikidata_id": "Q6358968|Q6379870|Q28689703|Q6875163",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "麻植",
+    "deleted_date": "Sep.30,2004"
   },
   {
     "code": "37004",
@@ -6165,7 +7191,9 @@
     "lon": 134.375,
     "wikidata_id": "Q1155923",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "海部",
+    "deleted_date": ""
   },
   {
     "code": "37005",
@@ -6177,7 +7205,9 @@
     "lon": 134.416,
     "wikidata_id": "Q1119478",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "勝浦",
+    "deleted_date": ""
   },
   {
     "code": "37006",
@@ -6189,7 +7219,9 @@
     "lon": 134.244,
     "wikidata_id": "Q1156492",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "那賀",
+    "deleted_date": ""
   },
   {
     "code": "37007",
@@ -6201,7 +7233,9 @@
     "lon": 134.36,
     "wikidata_id": "Q1155732",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "名西",
+    "deleted_date": ""
   },
   {
     "code": "37008",
@@ -6213,7 +7247,9 @@
     "lon": 134.455,
     "wikidata_id": "Q1156486",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "名東",
+    "deleted_date": ""
   },
   {
     "code": "37009",
@@ -6225,7 +7261,9 @@
     "lon": 134.051,
     "wikidata_id": "Q1156496",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "美馬",
+    "deleted_date": ""
   },
   {
     "code": "37010",
@@ -6237,7 +7275,9 @@
     "lon": 133.914,
     "wikidata_id": "Q1156031",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三好",
+    "deleted_date": ""
   },
   {
     "code": "38001",
@@ -6249,7 +7289,9 @@
     "lon": 132.78305556,
     "wikidata_id": "Q1206427",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "伊予",
+    "deleted_date": ""
   },
   {
     "code": "38002",
@@ -6257,11 +7299,13 @@
     "deleted": true,
     "pref_code": "38",
     "pref_name": "Ehime",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.914518517,
+    "lon": 133.478416667,
+    "wikidata_id": "Q7497508|Q5288584|Q8194321",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "宇摩",
+    "deleted_date": "Mar.31,2004"
   },
   {
     "code": "38003",
@@ -6273,7 +7317,9 @@
     "lon": 133.178055555,
     "wikidata_id": "Q1206502",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "越智",
+    "deleted_date": ""
   },
   {
     "code": "38004",
@@ -6281,11 +7327,13 @@
     "deleted": true,
     "pref_code": "38",
     "pref_name": "Ehime",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.975277778,
+    "lon": 132.629694444,
+    "wikidata_id": "Q6960172",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "温泉",
+    "deleted_date": "Dec.31,2004"
   },
   {
     "code": "38005",
@@ -6297,7 +7345,9 @@
     "lon": 132.96,
     "wikidata_id": "Q1206413",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "上浮穴",
+    "deleted_date": ""
   },
   {
     "code": "38006",
@@ -6309,7 +7359,9 @@
     "lon": 132.742,
     "wikidata_id": "Q1206404",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "喜多",
+    "deleted_date": ""
   },
   {
     "code": "38007",
@@ -6321,7 +7373,9 @@
     "lon": 132.719,
     "wikidata_id": "Q1205907",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北宇和",
+    "deleted_date": ""
   },
   {
     "code": "38008",
@@ -6329,11 +7383,13 @@
     "deleted": true,
     "pref_code": "38",
     "pref_name": "Ehime",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.901666667,
+    "lon": 133.087694444,
+    "wikidata_id": "Q6428208|Q10750943",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "周桑",
+    "deleted_date": "Oct.31,2004"
   },
   {
     "code": "38009",
@@ -6341,11 +7397,13 @@
     "deleted": true,
     "pref_code": "38",
     "pref_name": "Ehime",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.922416667,
+    "lon": 133.305805556,
+    "wikidata_id": "Q11630874",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "新居",
+    "deleted_date": "Mar.31,1959"
   },
   {
     "code": "38010",
@@ -6357,7 +7415,9 @@
     "lon": 132.20111111,
     "wikidata_id": "Q1206492",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西宇和",
+    "deleted_date": ""
   },
   {
     "code": "38011",
@@ -6365,11 +7425,13 @@
     "deleted": true,
     "pref_code": "38",
     "pref_name": "Ehime",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.359826389,
+    "lon": 132.5843125,
+    "wikidata_id": "Q4700585|Q7903770|Q7048700|Q7498927",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "東宇和",
+    "deleted_date": "Mar.31,2004"
   },
   {
     "code": "38012",
@@ -6381,7 +7443,9 @@
     "lon": 132.584,
     "wikidata_id": "Q541999",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南宇和",
+    "deleted_date": ""
   },
   {
     "code": "39001",
@@ -6393,7 +7457,9 @@
     "lon": 133.167096,
     "wikidata_id": "Q1132141",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "吾川",
+    "deleted_date": ""
   },
   {
     "code": "39002",
@@ -6405,7 +7471,9 @@
     "lon": 134.091542,
     "wikidata_id": "Q1132266",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "安芸",
+    "deleted_date": ""
   },
   {
     "code": "39003",
@@ -6413,11 +7481,13 @@
     "deleted": true,
     "pref_code": "39",
     "pref_name": "Kochi",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.588836806,
+    "lon": 133.745545139,
+    "wikidata_id": "Q4700277|Q6346338|Q7047588|Q8049931|Q8056099|Q7827562|Q11667146|Q6901336",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "香美",
+    "deleted_date": "Feb.28,2006"
   },
   {
     "code": "39004",
@@ -6429,7 +7499,9 @@
     "lon": 133.08,
     "wikidata_id": "Q736755",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "高岡",
+    "deleted_date": ""
   },
   {
     "code": "39005",
@@ -6441,7 +7513,9 @@
     "lon": 133.462,
     "wikidata_id": "Q1132134",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "土佐",
+    "deleted_date": ""
   },
   {
     "code": "39006",
@@ -6453,7 +7527,9 @@
     "lon": 133.671,
     "wikidata_id": "Q1132123",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "長岡",
+    "deleted_date": ""
   },
   {
     "code": "39007",
@@ -6465,7 +7541,9 @@
     "lon": 132.844,
     "wikidata_id": "Q1132241",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "幡多",
+    "deleted_date": ""
   },
   {
     "code": "40001",
@@ -6477,7 +7555,9 @@
     "lon": 130.604166666,
     "wikidata_id": "Q720631",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "朝倉",
+    "deleted_date": ""
   },
   {
     "code": "40002",
@@ -6489,7 +7569,9 @@
     "lon": 130.18611111,
     "wikidata_id": "Q1132262",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "糸島",
+    "deleted_date": "Dec.31,2009"
   },
   {
     "code": "40003",
@@ -6501,7 +7583,9 @@
     "lon": 130.711131,
     "wikidata_id": "Q7878317",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "浮羽",
+    "deleted_date": "Mar.19,2005"
   },
   {
     "code": "40004",
@@ -6513,7 +7597,9 @@
     "lon": 130.636,
     "wikidata_id": "Q1156362",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "遠賀",
+    "deleted_date": ""
   },
   {
     "code": "40005",
@@ -6525,7 +7611,9 @@
     "lon": 130.51512,
     "wikidata_id": "Q1206294",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "糟屋",
+    "deleted_date": ""
   },
   {
     "code": "40006",
@@ -6537,7 +7625,9 @@
     "lon": 130.6793,
     "wikidata_id": "Q1156623",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "嘉穂",
+    "deleted_date": ""
   },
   {
     "code": "40007",
@@ -6549,7 +7639,9 @@
     "lon": 130.671,
     "wikidata_id": "Q1206433",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "鞍手",
+    "deleted_date": ""
   },
   {
     "code": "40008",
@@ -6557,11 +7649,13 @@
     "deleted": true,
     "pref_code": "40",
     "pref_name": "Fukuoka",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.518805556,
+    "lon": 130.336,
+    "wikidata_id": "Q7428587",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "早良",
+    "deleted_date": "Feb.28,1975"
   },
   {
     "code": "40009",
@@ -6573,7 +7667,9 @@
     "lon": 130.858,
     "wikidata_id": "Q1156353",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "田川",
+    "deleted_date": ""
   },
   {
     "code": "40010",
@@ -6585,7 +7681,9 @@
     "lon": 130.42202,
     "wikidata_id": "Q1072663",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "筑紫",
+    "deleted_date": "Sep.30,2018"
   },
   {
     "code": "40011",
@@ -6597,7 +7695,9 @@
     "lon": 131.044507,
     "wikidata_id": "Q1072644",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "築上",
+    "deleted_date": ""
   },
   {
     "code": "40012",
@@ -6609,7 +7709,9 @@
     "lon": 130.607,
     "wikidata_id": "Q1156095",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三井",
+    "deleted_date": ""
   },
   {
     "code": "40013",
@@ -6621,7 +7723,9 @@
     "lon": 130.493611111,
     "wikidata_id": "Q909101",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三池",
+    "deleted_date": "Jan.28,2007"
   },
   {
     "code": "40014",
@@ -6633,7 +7737,9 @@
     "lon": 130.4412,
     "wikidata_id": "Q528369",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三潴",
+    "deleted_date": ""
   },
   {
     "code": "40015",
@@ -6645,7 +7751,9 @@
     "lon": 130.918055555,
     "wikidata_id": "Q1156359",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "京都",
+    "deleted_date": ""
   },
   {
     "code": "40016",
@@ -6657,7 +7765,9 @@
     "lon": 130.491083,
     "wikidata_id": "Q6935606",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "宗像",
+    "deleted_date": "Mar.27,2005"
   },
   {
     "code": "40017",
@@ -6669,7 +7779,9 @@
     "lon": 130.461388888,
     "wikidata_id": "Q909507",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "山門",
+    "deleted_date": "Jan.28,2007"
   },
   {
     "code": "40018",
@@ -6681,7 +7793,9 @@
     "lon": 130.561,
     "wikidata_id": "Q1156374",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "八女",
+    "deleted_date": ""
   },
   {
     "code": "41001",
@@ -6689,11 +7803,13 @@
     "deleted": true,
     "pref_code": "41",
     "pref_name": "Saga",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.260666667,
+    "lon": 130.206618056,
+    "wikidata_id": "Q14941828|Q6845729|Q7901968|Q4805081",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "小城",
+    "deleted_date": "Feb.28,2005"
   },
   {
     "code": "41002",
@@ -6705,7 +7821,9 @@
     "lon": 130.393055555,
     "wikidata_id": "Q1043882",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "神埼",
+    "deleted_date": ""
   },
   {
     "code": "41003",
@@ -6717,7 +7835,9 @@
     "lon": 130.149,
     "wikidata_id": "Q1044239",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "杵島",
+    "deleted_date": ""
   },
   {
     "code": "41004",
@@ -6725,11 +7845,13 @@
     "deleted": true,
     "pref_code": "41",
     "pref_name": "Saga",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.211259259,
+    "lon": 130.28275,
+    "wikidata_id": "Q6379877|Q5754176|Q2067797",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "佐賀",
+    "deleted_date": "Sept.30,2007"
   },
   {
     "code": "41005",
@@ -6741,7 +7863,9 @@
     "lon": 129.859,
     "wikidata_id": "Q1132194",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西松浦",
+    "deleted_date": ""
   },
   {
     "code": "41006",
@@ -6753,7 +7877,9 @@
     "lon": 129.883333333,
     "wikidata_id": "Q1043844",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東松浦",
+    "deleted_date": ""
   },
   {
     "code": "41007",
@@ -6765,7 +7891,9 @@
     "lon": 130.183333333,
     "wikidata_id": "Q1132466",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "藤津",
+    "deleted_date": ""
   },
   {
     "code": "41008",
@@ -6777,7 +7905,9 @@
     "lon": 130.393055555,
     "wikidata_id": "Q1043864",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "三養基",
+    "deleted_date": ""
   },
   {
     "code": "42001",
@@ -6785,11 +7915,13 @@
     "deleted": true,
     "pref_code": "42",
     "pref_name": "Nagasaki",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.787159722,
+    "lon": 129.725208333,
+    "wikidata_id": "Q11643377|Q11400352|Q11614924|Q11587043",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "壱岐",
+    "deleted_date": "Feb.29,2004"
   },
   {
     "code": "42002",
@@ -6797,11 +7929,13 @@
     "deleted": true,
     "pref_code": "42",
     "pref_name": "Nagasaki",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.586666667,
+    "lon": 129.391666667,
+    "wikidata_id": "Q11476156|Q11359966|Q11358797",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "上県",
+    "deleted_date": "Feb.29,2004"
   },
   {
     "code": "42003",
@@ -6809,11 +7943,13 @@
     "deleted": true,
     "pref_code": "42",
     "pref_name": "Nagasaki",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 32.862395833,
+    "lon": 130.120805556,
+    "wikidata_id": "Q6912436|Q5994962|Q6143911|Q6428717",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "北高来",
+    "deleted_date": "Feb.28,2005"
   },
   {
     "code": "42004",
@@ -6825,7 +7961,9 @@
     "lon": 129.66,
     "wikidata_id": "Q1156155",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北松浦",
+    "deleted_date": ""
   },
   {
     "code": "42005",
@@ -6833,11 +7971,13 @@
     "deleted": true,
     "pref_code": "42",
     "pref_name": "Nagasaki",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 34.288898148,
+    "lon": 129.305833333,
+    "wikidata_id": "Q11410123|Q11609163|Q11633965",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "下県",
+    "deleted_date": "Feb.29,2004"
   },
   {
     "code": "42006",
@@ -6849,7 +7989,9 @@
     "lon": 129.868,
     "wikidata_id": "Q1156109",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西彼杵",
+    "deleted_date": ""
   },
   {
     "code": "42007",
@@ -6861,7 +8003,9 @@
     "lon": 129.879,
     "wikidata_id": "Q1156370",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東彼杵",
+    "deleted_date": ""
   },
   {
     "code": "42008",
@@ -6869,11 +8013,13 @@
     "deleted": true,
     "pref_code": "42",
     "pref_name": "Nagasaki",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 32.657822917,
+    "lon": 130.268836806,
+    "wikidata_id": "Q6381698|Q6441524|Q6863060|Q6417666|Q7040507|Q4790331|Q5510573|Q5507559",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "南高来",
+    "deleted_date": "Mar.30,2006"
   },
   {
     "code": "42009",
@@ -6885,7 +8031,9 @@
     "lon": 129.07916667,
     "wikidata_id": "Q1156377",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南松浦",
+    "deleted_date": ""
   },
   {
     "code": "43001",
@@ -6897,7 +8045,9 @@
     "lon": 130.531258,
     "wikidata_id": "Q1044260",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "葦北",
+    "deleted_date": ""
   },
   {
     "code": "43002",
@@ -6909,7 +8059,9 @@
     "lon": 131.088483,
     "wikidata_id": "Q940481",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "阿蘇",
+    "deleted_date": ""
   },
   {
     "code": "43003",
@@ -6921,7 +8073,9 @@
     "lon": 130.0475,
     "wikidata_id": "Q1132472",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "天草",
+    "deleted_date": ""
   },
   {
     "code": "43004",
@@ -6929,11 +8083,13 @@
     "deleted": true,
     "pref_code": "43",
     "pref_name": "Kumamoto",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 32.629708333,
+    "lon": 130.569444444,
+    "wikidata_id": "Q6880627|Q7498273",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "宇土",
+    "deleted_date": "Jan.14,2005"
   },
   {
     "code": "43005",
@@ -6945,7 +8101,9 @@
     "lon": 130.86,
     "wikidata_id": "Q1132187",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "上益城",
+    "deleted_date": ""
   },
   {
     "code": "43006",
@@ -6957,7 +8115,9 @@
     "lon": 130.7,
     "wikidata_id": "Q1043839",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "鹿本",
+    "deleted_date": "Mar.22,2010"
   },
   {
     "code": "43007",
@@ -6969,7 +8129,9 @@
     "lon": 130.884,
     "wikidata_id": "Q1043819",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "菊池",
+    "deleted_date": ""
   },
   {
     "code": "43008",
@@ -6981,7 +8143,9 @@
     "lon": 130.88,
     "wikidata_id": "Q1132476",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "球磨",
+    "deleted_date": ""
   },
   {
     "code": "43009",
@@ -6993,7 +8157,9 @@
     "lon": 130.869,
     "wikidata_id": "Q1043851",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "下益城",
+    "deleted_date": ""
   },
   {
     "code": "43010",
@@ -7005,7 +8171,9 @@
     "lon": 130.59,
     "wikidata_id": "Q1132375",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "玉名",
+    "deleted_date": ""
   },
   {
     "code": "43011",
@@ -7013,11 +8181,13 @@
     "deleted": true,
     "pref_code": "43",
     "pref_name": "Kumamoto",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 32.797111111,
+    "lon": 130.645145833,
+    "wikidata_id": "Q5878263|Q6379444|Q4701220|Q7699936",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "飽託",
+    "deleted_date": "Jan.31,1991"
   },
   {
     "code": "43012",
@@ -7029,7 +8199,9 @@
     "lon": 130.673055555,
     "wikidata_id": "Q1043800",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "八代",
+    "deleted_date": ""
   },
   {
     "code": "44001",
@@ -7037,11 +8209,13 @@
     "deleted": true,
     "pref_code": "44",
     "pref_name": "Oita",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.42975,
+    "lon": 131.335416667,
+    "wikidata_id": "Q6035217|Q3743745",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "宇佐",
+    "deleted_date": "Mar.30,2005"
   },
   {
     "code": "44002",
@@ -7049,11 +8223,13 @@
     "deleted": true,
     "pref_code": "44",
     "pref_name": "Oita",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.214175926,
+    "lon": 131.431916667,
+    "wikidata_id": "Q5678063|Q7506178|Q8189446",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "大分",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "44003",
@@ -7061,11 +8237,13 @@
     "deleted": true,
     "pref_code": "44",
     "pref_name": "Oita",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 36.270944444,
+    "lon": 136.898555556,
+    "wikidata_id": "Q1203744",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "大野",
+    "deleted_date": "Mar.30,2005"
   },
   {
     "code": "44004",
@@ -7073,11 +8251,13 @@
     "deleted": true,
     "pref_code": "44",
     "pref_name": "Oita",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.247027778,
+    "lon": 131.8765,
+    "wikidata_id": "Q7398999",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "北海部",
+    "deleted_date": "Dec.31,2004"
   },
   {
     "code": "44005",
@@ -7089,7 +8269,9 @@
     "lon": 131.161,
     "wikidata_id": "Q1132440",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "玖珠",
+    "deleted_date": ""
   },
   {
     "code": "44006",
@@ -7097,11 +8279,13 @@
     "deleted": true,
     "pref_code": "44",
     "pref_name": "Oita",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.477,
+    "lon": 131.1315,
+    "wikidata_id": "Q7418784|Q5891906|Q8046357|Q8047842",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "下毛",
+    "deleted_date": "Feb.28,2005"
   },
   {
     "code": "44007",
@@ -7109,11 +8293,13 @@
     "deleted": true,
     "pref_code": "44",
     "pref_name": "Oita",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.005685185,
+    "lon": 131.325638889,
+    "wikidata_id": "Q7080022|Q6442384|Q6964535",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "直入",
+    "deleted_date": "Mar.31,2005"
   },
   {
     "code": "44008",
@@ -7121,11 +8307,13 @@
     "deleted": true,
     "pref_code": "44",
     "pref_name": "Oita",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.495527778,
+    "lon": 131.557166667,
+    "wikidata_id": "Q8081722",
+    "query_used": "llm_wikipedia_deleted_subunits",
+    "error": "",
+    "ja_name": "西国東",
+    "deleted_date": "Sep.30,2005"
   },
   {
     "code": "44009",
@@ -7137,7 +8325,9 @@
     "lon": 131.541766,
     "wikidata_id": "Q1043858",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "速見",
+    "deleted_date": ""
   },
   {
     "code": "44010",
@@ -7149,7 +8339,9 @@
     "lon": 131.664444444,
     "wikidata_id": "Q1132357",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東国東",
+    "deleted_date": ""
   },
   {
     "code": "44011",
@@ -7157,11 +8349,13 @@
     "deleted": true,
     "pref_code": "44",
     "pref_name": "Oita",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 33.190695556,
+    "lon": 130.963916667,
+    "wikidata_id": "Q6729377|Q6960353|Q6358592|Q11434658|Q4739120",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "日田",
+    "deleted_date": "Mar.21,2005"
   },
   {
     "code": "44012",
@@ -7169,11 +8363,13 @@
     "deleted": true,
     "pref_code": "44",
     "pref_name": "Oita",
-    "lat": null,
-    "lon": null,
-    "wikidata_id": null,
-    "query_used": "local_catalog",
-    "error": "name_matched_but_no_coord_deleted"
+    "lat": 32.923888889,
+    "lon": 131.85678125,
+    "wikidata_id": "Q6358600|Q2786004|Q5896320|Q7881452|Q6964539|Q7850290|Q8055126|Q8007656",
+    "query_used": "llm_wikipedia_deleted_subunits_avg",
+    "error": "",
+    "ja_name": "南海部",
+    "deleted_date": "Mar.2,2005"
   },
   {
     "code": "45001",
@@ -7185,7 +8381,9 @@
     "lon": 131.173,
     "wikidata_id": "Q1132343",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "北諸県",
+    "deleted_date": ""
   },
   {
     "code": "45002",
@@ -7197,7 +8395,9 @@
     "lon": 131.483,
     "wikidata_id": "Q1132169",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "児湯",
+    "deleted_date": ""
   },
   {
     "code": "45003",
@@ -7209,7 +8409,9 @@
     "lon": 131.322,
     "wikidata_id": "Q1132448",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西臼杵",
+    "deleted_date": ""
   },
   {
     "code": "45004",
@@ -7221,7 +8423,9 @@
     "lon": 130.99,
     "wikidata_id": "Q1156846",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "西諸県",
+    "deleted_date": ""
   },
   {
     "code": "45005",
@@ -7233,7 +8437,9 @@
     "lon": 131.323,
     "wikidata_id": "Q1132445",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東臼杵",
+    "deleted_date": ""
   },
   {
     "code": "45006",
@@ -7245,7 +8451,9 @@
     "lon": 131.316666666,
     "wikidata_id": "Q1132180",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "東諸県",
+    "deleted_date": ""
   },
   {
     "code": "45007",
@@ -7257,7 +8465,9 @@
     "lon": 131.379,
     "wikidata_id": "Q1156629",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "南那珂",
+    "deleted_date": "Mar.29,2009"
   },
   {
     "code": "45008",
@@ -7269,7 +8479,9 @@
     "lon": 131.420277777,
     "wikidata_id": "Q1132017",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "宮崎",
+    "deleted_date": "Mar.22,2010"
   },
   {
     "code": "46001",
@@ -7281,7 +8493,9 @@
     "lon": 130.736111,
     "wikidata_id": "Q1132129",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "姶良",
+    "deleted_date": ""
   },
   {
     "code": "46002",
@@ -7293,7 +8507,9 @@
     "lon": 130.613055555,
     "wikidata_id": "Q994492",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "伊佐",
+    "deleted_date": "Oct.31,2008"
   },
   {
     "code": "46003",
@@ -7305,7 +8521,9 @@
     "lon": 130.152,
     "wikidata_id": "Q1043795",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "出水",
+    "deleted_date": ""
   },
   {
     "code": "46004",
@@ -7317,7 +8535,9 @@
     "lon": 130.6338,
     "wikidata_id": "Q5984941",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "揖宿",
+    "deleted_date": "Nov.30,2007"
   },
   {
     "code": "46005",
@@ -7329,7 +8549,9 @@
     "lon": 128.94,
     "wikidata_id": "Q1132452",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "大島",
+    "deleted_date": ""
   },
   {
     "code": "46006",
@@ -7341,7 +8563,9 @@
     "lon": 130.55,
     "wikidata_id": "Q1043830",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "鹿児島",
+    "deleted_date": ""
   },
   {
     "code": "46007",
@@ -7353,7 +8577,9 @@
     "lon": 130.296667,
     "wikidata_id": "Q6379640",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "川辺",
+    "deleted_date": "Nov.30,2007"
   },
   {
     "code": "46008",
@@ -7365,7 +8591,9 @@
     "lon": 130.863,
     "wikidata_id": "Q1043823",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "肝属",
+    "deleted_date": ""
   },
   {
     "code": "46009",
@@ -7377,7 +8605,9 @@
     "lon": 130.63734,
     "wikidata_id": "Q1132154",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "熊毛",
+    "deleted_date": ""
   },
   {
     "code": "46010",
@@ -7389,7 +8619,9 @@
     "lon": 130.46,
     "wikidata_id": "Q1132367",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "薩摩",
+    "deleted_date": ""
   },
   {
     "code": "46011",
@@ -7401,7 +8633,9 @@
     "lon": 130.983,
     "wikidata_id": "Q1043870",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "曽於",
+    "deleted_date": ""
   },
   {
     "code": "46012",
@@ -7413,7 +8647,9 @@
     "lon": 130.366667,
     "wikidata_id": "Q8192760",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "日置",
+    "deleted_date": "Nov.6,2005"
   },
   {
     "code": "47001",
@@ -7425,7 +8661,9 @@
     "lon": 128.13,
     "wikidata_id": "Q1330132",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "国頭",
+    "deleted_date": ""
   },
   {
     "code": "47002",
@@ -7437,7 +8675,9 @@
     "lon": 127.7225,
     "wikidata_id": "Q1206950",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "島尻",
+    "deleted_date": ""
   },
   {
     "code": "47003",
@@ -7449,7 +8689,9 @@
     "lon": 127.777222222,
     "wikidata_id": "Q1205862",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "中頭",
+    "deleted_date": ""
   },
   {
     "code": "47004",
@@ -7461,7 +8703,9 @@
     "lon": 124.695,
     "wikidata_id": "Q367648",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "宮古",
+    "deleted_date": ""
   },
   {
     "code": "47005",
@@ -7473,6 +8717,8 @@
     "lon": 123.866111111,
     "wikidata_id": "Q629725",
     "query_used": "local_catalog",
-    "error": ""
+    "error": "",
+    "ja_name": "八重山",
+    "deleted_date": ""
   }
 ]

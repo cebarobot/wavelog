@@ -2,4361 +2,5607 @@
   {
     "code": "01001",
     "name": "Akan",
+    "ja_name": "阿寒",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01002",
     "name": "Ashoro",
+    "ja_name": "足寄",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01003",
     "name": "Atsukeshi",
+    "ja_name": "厚岸",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01004",
     "name": "Atsuta",
+    "ja_name": "厚田",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01005",
     "name": "Abashiri",
+    "ja_name": "網走",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01006",
     "name": "Abuta(Shiribeshi)",
+    "ja_name": "虻田(後志)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01007",
     "name": "Abuta(Iburi)",
+    "ja_name": "虻田(胆振)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01008",
     "name": "Ishikari",
+    "ja_name": "石狩",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01009",
     "name": "Isoya",
+    "ja_name": "磯谷",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01010",
     "name": "Iwanai",
+    "ja_name": "岩内",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01011",
     "name": "Usu",
+    "ja_name": "有珠",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01012",
     "name": "Utasutsu",
+    "ja_name": "歌棄",
     "deleted": true,
+    "deleted_date": "Jan.14,1955",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01013",
     "name": "Urakawa",
+    "ja_name": "浦河",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01014",
     "name": "Uryu(Sorachi)",
+    "ja_name": "雨竜(空知）",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01015",
     "name": "Esashi",
+    "ja_name": "枝幸",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01016",
     "name": "Okushiri",
+    "ja_name": "奥尻",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01017",
     "name": "Oshoro",
+    "ja_name": "忍路",
     "deleted": true,
+    "deleted_date": "Mar.31,1958",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01018",
     "name": "Kasai",
+    "ja_name": "河西",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01019",
     "name": "Kato",
+    "ja_name": "河東",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01020",
     "name": "Kabato",
+    "ja_name": "樺戸",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01021",
     "name": "Kamiiso",
+    "ja_name": "上磯",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01022",
     "name": "Kamikawa(Tokachi)",
+    "ja_name": "上川(十勝)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01023",
     "name": "Kamikawa(Kamikawa)",
+    "ja_name": "上川(上川)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01024",
     "name": "Kameda",
+    "ja_name": "亀田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01025",
     "name": "Kayabe",
+    "ja_name": "茅部",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01026",
     "name": "Kawakami",
+    "ja_name": "川上",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01027",
     "name": "Kushiro",
+    "ja_name": "釧路",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01028",
     "name": "Kudo",
+    "ja_name": "久遠",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01029",
     "name": "Sapporo",
+    "ja_name": "札幌",
     "deleted": true,
+    "deleted_date": "Aug.31,1996",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01030",
     "name": "Samani",
+    "ja_name": "様似",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01031",
     "name": "Saru",
+    "ja_name": "沙流",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01032",
     "name": "Shizunai",
+    "ja_name": "静内",
     "deleted": true,
+    "deleted_date": "Mar.30,2006",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01033",
     "name": "Shibetsu",
+    "ja_name": "標津",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01034",
     "name": "Shimamaki",
+    "ja_name": "島牧",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01035",
     "name": "Shakotan",
+    "ja_name": "積丹",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01036",
     "name": "Shari",
+    "ja_name": "斜里",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01037",
     "name": "Shiraoi",
+    "ja_name": "白老",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01038",
     "name": "Shiranuka",
+    "ja_name": "白糠",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01039",
     "name": "Suttsu",
+    "ja_name": "寿都",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01040",
     "name": "Setana",
+    "ja_name": "瀬棚",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01041",
     "name": "Soya",
+    "ja_name": "宗谷",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01042",
     "name": "Sorachi(Sorachi)",
+    "ja_name": "空知(空知)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01043",
     "name": "Sorachi(Kamikawa)",
+    "ja_name": "空知(上川)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01044",
     "name": "Chitose",
+    "ja_name": "千歳",
     "deleted": true,
+    "deleted_date": "Oct.31,1970",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01045",
     "name": "Teshio(Rumoi)",
+    "ja_name": "天塩(留萌)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01046",
     "name": "Teshio(Soya)",
+    "ja_name": "天塩(宗谷)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01047",
     "name": "Tokachi",
+    "ja_name": "十勝",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01048",
     "name": "Tokoro",
+    "ja_name": "常呂",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01049",
     "name": "Tomamae",
+    "ja_name": "苫前",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01050",
     "name": "Nakagawa(Kamikawa)",
+    "ja_name": "中川(上川)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01051",
     "name": "Nakagawa(Tokachi)",
+    "ja_name": "中川(十勝)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01052",
     "name": "Niikappu",
+    "ja_name": "新冠",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01053",
     "name": "Nishi",
+    "ja_name": "爾志",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01054",
     "name": "Nemuro",
+    "ja_name": "根室",
     "deleted": true,
+    "deleted_date": "Jul.31,1957",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01055",
     "name": "Notsuke",
+    "ja_name": "野付",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01056",
     "name": "Hanasaki",
+    "ja_name": "花咲",
     "deleted": true,
+    "deleted_date": "Mar.31,1959",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01057",
     "name": "Hamamasu",
+    "ja_name": "浜益",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01058",
     "name": "Bikuni",
+    "ja_name": "美国",
     "deleted": true,
+    "deleted_date": "Sep.29,1956",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01059",
     "name": "Hiyama",
+    "ja_name": "檜山",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01060",
     "name": "Hiroo",
+    "ja_name": "広尾",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01061",
     "name": "Futoro",
+    "ja_name": "太櫓",
     "deleted": true,
+    "deleted_date": "Mar.31,1955",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01062",
     "name": "Furuu",
+    "ja_name": "古宇",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01063",
     "name": "Furubira",
+    "ja_name": "古平",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01064",
     "name": "Horoizumi",
+    "ja_name": "幌泉",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01065",
     "name": "Horobetsu",
+    "ja_name": "幌別",
     "deleted": true,
+    "deleted_date": "Jul.31,1970",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01066",
     "name": "Mashike",
+    "ja_name": "増毛",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01067",
     "name": "Matsumae",
+    "ja_name": "松前",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01068",
     "name": "Mitsuishi",
+    "ja_name": "三石",
     "deleted": true,
+    "deleted_date": "Mar.30,2006",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01069",
     "name": "Menashi",
+    "ja_name": "目梨",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01070",
     "name": "Mombetsu",
+    "ja_name": "紋別",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01071",
     "name": "Yamakoshi",
+    "ja_name": "山越",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01072",
     "name": "Yubari",
+    "ja_name": "夕張",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01073",
     "name": "Yufutsu(Iburi)",
+    "ja_name": "勇払(胆振)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01074",
     "name": "Yufutsu(Kamikawa)",
+    "ja_name": "勇払(上川)",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01075",
     "name": "Yoichi",
+    "ja_name": "余市",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01076",
     "name": "Rishiri",
+    "ja_name": "利尻",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01077",
     "name": "Rumoi",
+    "ja_name": "留萌",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01078",
     "name": "Rebun",
+    "ja_name": "礼文",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01079",
     "name": "Futami",
+    "ja_name": "二海",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01080",
     "name": "Hidaka",
+    "ja_name": "日高",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "01081",
     "name": "Uryu(Kamikawa)",
+    "ja_name": "雨竜(上川）",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "01",
     "pref_name": "Hokkaido"
   },
   {
     "code": "02001",
     "name": "Kamikita",
+    "ja_name": "上北",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "02",
     "pref_name": "Aomori"
   },
   {
     "code": "02002",
     "name": "Kitatsugaru",
+    "ja_name": "北津軽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "02",
     "pref_name": "Aomori"
   },
   {
     "code": "02003",
     "name": "Sannohe",
+    "ja_name": "三戸",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "02",
     "pref_name": "Aomori"
   },
   {
     "code": "02004",
     "name": "Shimokita",
+    "ja_name": "下北",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "02",
     "pref_name": "Aomori"
   },
   {
     "code": "02005",
     "name": "Nakatsugaru",
+    "ja_name": "中津軽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "02",
     "pref_name": "Aomori"
   },
   {
     "code": "02006",
     "name": "Nishitsugaru",
+    "ja_name": "西津軽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "02",
     "pref_name": "Aomori"
   },
   {
     "code": "02007",
     "name": "Higashitsugaru",
+    "ja_name": "東津軽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "02",
     "pref_name": "Aomori"
   },
   {
     "code": "02008",
     "name": "Minamitsugaru",
+    "ja_name": "南津軽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "02",
     "pref_name": "Aomori"
   },
   {
     "code": "03001",
     "name": "Isawa",
+    "ja_name": "胆沢",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03002",
     "name": "Iwate",
+    "ja_name": "岩手",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03003",
     "name": "Esashi",
+    "ja_name": "江刺",
     "deleted": true,
+    "deleted_date": "Nov.2,1958",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03004",
     "name": "Kamihei",
+    "ja_name": "上閉伊",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03005",
     "name": "Kunohe",
+    "ja_name": "九戸",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03006",
     "name": "Kesen",
+    "ja_name": "気仙",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03007",
     "name": "Shimohei",
+    "ja_name": "下閉伊",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03008",
     "name": "Shiwa",
+    "ja_name": "紫波",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03009",
     "name": "Nishiiwai",
+    "ja_name": "西磐井",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03010",
     "name": "Ninohe",
+    "ja_name": "二戸",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03011",
     "name": "Hienuki",
+    "ja_name": "稗貫",
     "deleted": true,
+    "deleted_date": "Dec.31,2005",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03012",
     "name": "Higashiiwai",
-    "deleted": false,
+    "ja_name": "東磐井",
+    "deleted": true,
+    "deleted_date": "Sep.25,2011",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "03013",
     "name": "Waga",
+    "ja_name": "和賀",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "03",
     "pref_name": "Iwate"
   },
   {
     "code": "04001",
     "name": "Ogachi",
+    "ja_name": "雄勝",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "04",
     "pref_name": "Akita"
   },
   {
     "code": "04002",
-    "name": "Kaduno",
+    "name": "Kazuno",
+    "ja_name": "鹿角",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "04",
     "pref_name": "Akita"
   },
   {
     "code": "04003",
     "name": "Kawabe",
+    "ja_name": "河辺",
     "deleted": true,
+    "deleted_date": "Jan.10,2005",
     "pref_code": "04",
     "pref_name": "Akita"
   },
   {
     "code": "04004",
     "name": "Kitaakita",
+    "ja_name": "北秋田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "04",
     "pref_name": "Akita"
   },
   {
     "code": "04005",
     "name": "Semboku",
+    "ja_name": "仙北",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "04",
     "pref_name": "Akita"
   },
   {
     "code": "04006",
     "name": "Hiraka",
+    "ja_name": "平鹿",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "04",
     "pref_name": "Akita"
   },
   {
     "code": "04007",
     "name": "Minamiakita",
+    "ja_name": "南秋田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "04",
     "pref_name": "Akita"
   },
   {
     "code": "04008",
     "name": "Yamamoto",
+    "ja_name": "山本",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "04",
     "pref_name": "Akita"
   },
   {
     "code": "04009",
     "name": "Yuri",
+    "ja_name": "由利",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "04",
     "pref_name": "Akita"
   },
   {
     "code": "05001",
     "name": "Akumi",
+    "ja_name": "飽海",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05002",
     "name": "Kitamurayama",
+    "ja_name": "北村山",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05003",
     "name": "Nishiokitama",
+    "ja_name": "西置賜",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05004",
     "name": "Nishitagawa",
+    "ja_name": "西田川",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05005",
     "name": "Nishimurayama",
+    "ja_name": "西村山",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05006",
     "name": "Higashiokitama",
+    "ja_name": "東置賜",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05007",
     "name": "Higashitagawa",
+    "ja_name": "東田川",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05008",
     "name": "Higashimurayama",
+    "ja_name": "東村山",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05009",
     "name": "Minamiokitama",
+    "ja_name": "南置賜",
     "deleted": true,
+    "deleted_date": "Mar.31,1958",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05010",
     "name": "Minamimurayama",
+    "ja_name": "南村山",
     "deleted": true,
+    "deleted_date": "Mar.20,1957",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "05011",
     "name": "Mogami",
+    "ja_name": "最上",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "05",
     "pref_name": "Yamagata"
   },
   {
     "code": "06001",
     "name": "Igu",
+    "ja_name": "伊具",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06002",
     "name": "Oshika",
+    "ja_name": "牡鹿",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06003",
     "name": "Katta",
+    "ja_name": "刈田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06004",
     "name": "Kami",
+    "ja_name": "加美",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06005",
     "name": "Kurihara",
+    "ja_name": "栗原",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06006",
     "name": "Kurokawa",
+    "ja_name": "黒川",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06007",
     "name": "Shida",
+    "ja_name": "志田",
     "deleted": true,
+    "deleted_date": "Mar.30,2006",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06008",
     "name": "Shibata",
+    "ja_name": "柴田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06009",
-    "name": "Tamadukuri",
+    "name": "Tamatsukuri",
+    "ja_name": "玉造",
     "deleted": true,
+    "deleted_date": "Mar.30,2006",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06010",
     "name": "Toda",
+    "ja_name": "遠田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06011",
     "name": "Tome",
+    "ja_name": "登米",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06012",
     "name": "Natori",
+    "ja_name": "名取",
     "deleted": true,
+    "deleted_date": "Feb.29,1988",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06013",
     "name": "Miyagi",
+    "ja_name": "宮城",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06014",
     "name": "Motoyoshi",
+    "ja_name": "本吉",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06015",
     "name": "Monou",
+    "ja_name": "桃生",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "06016",
     "name": "Watari",
+    "ja_name": "亘理",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "06",
     "pref_name": "Miyagi"
   },
   {
     "code": "07001",
     "name": "Asaka",
+    "ja_name": "安積",
     "deleted": true,
+    "deleted_date": "Apr.30,1965",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07002",
     "name": "Adachi",
+    "ja_name": "安達",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07003",
     "name": "Ishikawa",
+    "ja_name": "石川",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07004",
     "name": "Ishiki",
+    "ja_name": "石城",
     "deleted": true,
+    "deleted_date": "Sep.30,1966",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07005",
     "name": "Iwase",
+    "ja_name": "岩瀬",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07006",
     "name": "Onuma",
+    "ja_name": "大沼",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07007",
     "name": "Kawanuma",
+    "ja_name": "河沼",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07008",
-    "name": "Kitaaidu",
+    "name": "Kitaaizu",
+    "ja_name": "北会津",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07009",
     "name": "Shinobu",
+    "ja_name": "信夫",
     "deleted": true,
+    "deleted_date": "Sep.30,1968",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07010",
     "name": "Soma",
+    "ja_name": "相馬",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07011",
     "name": "Date",
+    "ja_name": "伊達",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07012",
     "name": "Tamura",
+    "ja_name": "田村",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07013",
     "name": "Nishishirakawa",
+    "ja_name": "西白河",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07014",
     "name": "Higashishirakawa",
+    "ja_name": "東白川",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07015",
     "name": "Futaba",
+    "ja_name": "双葉",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07016",
-    "name": "Minamiaidu",
+    "name": "Minamiaizu",
+    "ja_name": "南会津",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "07017",
     "name": "Yama",
+    "ja_name": "耶麻",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "07",
     "pref_name": "Fukushima"
   },
   {
     "code": "08001",
     "name": "Iwafune",
+    "ja_name": "岩船",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08002",
     "name": "Kariwa",
+    "ja_name": "刈羽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08003",
     "name": "Kitauonuma",
+    "ja_name": "北魚沼",
     "deleted": true,
+    "deleted_date": "Mar.30,2010",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08004",
     "name": "Kitakambara",
+    "ja_name": "北蒲原",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08005",
     "name": "Koshi",
+    "ja_name": "古志",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08006",
     "name": "Sado",
+    "ja_name": "佐渡",
     "deleted": true,
+    "deleted_date": "Feb.29,2004",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08007",
     "name": "Santo",
+    "ja_name": "三島",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08008",
     "name": "Nakauonuma",
+    "ja_name": "中魚沼",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08009",
     "name": "Nakakambara",
+    "ja_name": "中蒲原",
     "deleted": true,
+    "deleted_date": "Dec.31,2005",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08010",
     "name": "Nakakubiki",
+    "ja_name": "中頸城",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08011",
     "name": "Nishikambara",
+    "ja_name": "西蒲原",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08012",
     "name": "Nishikubiki",
+    "ja_name": "西頸城",
     "deleted": true,
+    "deleted_date": "Mar.18,2005",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08013",
     "name": "Higashikambara",
+    "ja_name": "東蒲原",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08014",
     "name": "Higashikubiki",
+    "ja_name": "東頸城",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08015",
     "name": "Minamiuonuma",
+    "ja_name": "南魚沼",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "08016",
     "name": "Minamikambara",
+    "ja_name": "南蒲原",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "08",
     "pref_name": "Niigata"
   },
   {
     "code": "09001",
     "name": "Kamiina",
+    "ja_name": "上伊那",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09002",
     "name": "Kamitakai",
+    "ja_name": "上高井",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09003",
     "name": "Kamiminochi",
+    "ja_name": "上水内",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09004",
     "name": "Kiso",
+    "ja_name": "木曽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09005",
     "name": "Kitaazumi",
+    "ja_name": "北安曇",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09006",
     "name": "Kitasaku",
+    "ja_name": "北佐久",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09007",
     "name": "Sarashina",
+    "ja_name": "更級",
     "deleted": true,
+    "deleted_date": "Dec.31,2004",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09008",
     "name": "Shimoina",
+    "ja_name": "下伊那",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09009",
     "name": "Shimotakai",
+    "ja_name": "下高井",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09010",
     "name": "Shimominochi",
+    "ja_name": "下水内",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09011",
     "name": "Suwa",
+    "ja_name": "諏訪",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09012",
     "name": "Chiisagata",
+    "ja_name": "小県",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09013",
     "name": "(Reserved)",
+    "ja_name": "(欠番）",
     "deleted": true,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09014",
     "name": "Hanishina",
+    "ja_name": "埴科",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09015",
     "name": "Higashichikuma",
+    "ja_name": "東筑摩",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09016",
     "name": "Minamiazumi",
+    "ja_name": "南安曇",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "09017",
     "name": "Minamisaku",
+    "ja_name": "南佐久",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "09",
     "pref_name": "Nagano"
   },
   {
     "code": "10001",
     "name": "Kitatama",
+    "ja_name": "北多摩",
     "deleted": true,
+    "deleted_date": "Nov.2,1970",
     "pref_code": "10",
     "pref_name": "Tokyo"
   },
   {
     "code": "10002",
     "name": "Nishitama",
+    "ja_name": "西多摩",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "10",
     "pref_name": "Tokyo"
   },
   {
     "code": "10003",
     "name": "Minamitama",
+    "ja_name": "南多摩",
     "deleted": true,
+    "deleted_date": "Oct.31,1971",
     "pref_code": "10",
     "pref_name": "Tokyo"
   },
   {
     "code": "10004",
-    "name": "Oshima",
+    "name": "Oshima-Shicho",
+    "ja_name": "大島支庁",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "10",
     "pref_name": "Tokyo"
   },
   {
     "code": "10005",
-    "name": "Miyake",
+    "name": "Miyake-Shicho",
+    "ja_name": "三宅支庁",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "10",
     "pref_name": "Tokyo"
   },
   {
     "code": "10006",
-    "name": "Hachijo",
+    "name": "Hachijo-Shicho",
+    "ja_name": "八丈支庁",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "10",
     "pref_name": "Tokyo"
   },
   {
     "code": "10007",
-    "name": "Ogasawara",
+    "name": "Ogasawara-Shicho",
+    "ja_name": "小笠原支庁",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "10",
     "pref_name": "Tokyo"
   },
   {
     "code": "11001",
     "name": "Aiko",
+    "ja_name": "愛甲",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "11",
     "pref_name": "Kanagawa"
   },
   {
     "code": "11002",
     "name": "Ashigarakami",
+    "ja_name": "足柄上",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "11",
     "pref_name": "Kanagawa"
   },
   {
     "code": "11003",
     "name": "Ashigarashimo",
+    "ja_name": "足柄下",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "11",
     "pref_name": "Kanagawa"
   },
   {
     "code": "11004",
     "name": "Koza",
+    "ja_name": "高座",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "11",
     "pref_name": "Kanagawa"
   },
   {
     "code": "11005",
     "name": "Tsukui",
+    "ja_name": "津久井",
     "deleted": true,
+    "deleted_date": "Mar.10,2007",
     "pref_code": "11",
     "pref_name": "Kanagawa"
   },
   {
     "code": "11006",
     "name": "Naka",
+    "ja_name": "中",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "11",
     "pref_name": "Kanagawa"
   },
   {
     "code": "11007",
     "name": "Miura",
+    "ja_name": "三浦",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "11",
     "pref_name": "Kanagawa"
   },
   {
     "code": "12001",
     "name": "Awa",
+    "ja_name": "安房",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12002",
     "name": "Isumi",
+    "ja_name": "夷隅",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12003",
     "name": "Ichihara",
+    "ja_name": "市原",
     "deleted": true,
+    "deleted_date": "Sep.30,1967",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12004",
     "name": "Inba",
+    "ja_name": "印旛",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12005",
     "name": "Kaijo",
+    "ja_name": "海上",
     "deleted": true,
+    "deleted_date": "Jun.30,2005",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12006",
     "name": "Katori",
+    "ja_name": "香取",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12007",
     "name": "Kimitsu",
+    "ja_name": "君津",
     "deleted": true,
+    "deleted_date": "Mar.31,1991",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12008",
     "name": "Sambu",
+    "ja_name": "山武",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12009",
     "name": "Sosa",
+    "ja_name": "匝瑳",
     "deleted": true,
+    "deleted_date": "Mar.26,2006",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12010",
     "name": "Chiba",
+    "ja_name": "千葉",
     "deleted": true,
+    "deleted_date": "Dec.31,1966",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12011",
     "name": "Chosei",
+    "ja_name": "長生",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "12012",
     "name": "Higashikatsushika",
+    "ja_name": "東葛飾",
     "deleted": true,
+    "deleted_date": "Mar.27,2005",
     "pref_code": "12",
     "pref_name": "Chiba"
   },
   {
     "code": "13001",
     "name": "Iruma",
+    "ja_name": "入間",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "13",
     "pref_name": "Saitama"
   },
   {
     "code": "13002",
     "name": "Osato",
+    "ja_name": "大里",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "13",
     "pref_name": "Saitama"
   },
   {
     "code": "13003",
     "name": "Kitaadachi",
+    "ja_name": "北足立",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "13",
     "pref_name": "Saitama"
   },
   {
     "code": "13004",
     "name": "Kitakatsushika",
+    "ja_name": "北葛飾",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "13",
     "pref_name": "Saitama"
   },
   {
     "code": "13005",
     "name": "Kitasaitama",
+    "ja_name": "北埼玉",
     "deleted": true,
+    "deleted_date": "Mar.22,2010",
     "pref_code": "13",
     "pref_name": "Saitama"
   },
   {
     "code": "13006",
     "name": "Kodama",
+    "ja_name": "児玉",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "13",
     "pref_name": "Saitama"
   },
   {
     "code": "13007",
     "name": "Chichibu",
+    "ja_name": "秩父",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "13",
     "pref_name": "Saitama"
   },
   {
     "code": "13008",
     "name": "Hiki",
+    "ja_name": "比企",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "13",
     "pref_name": "Saitama"
   },
   {
     "code": "13009",
     "name": "Minamisaitama",
+    "ja_name": "南埼玉",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "13",
     "pref_name": "Saitama"
   },
   {
     "code": "14001",
     "name": "Inashiki",
+    "ja_name": "稲敷",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14002",
     "name": "Kashima",
+    "ja_name": "鹿島",
     "deleted": true,
+    "deleted_date": "Oct.10,2005",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14003",
     "name": "Kitasoma",
+    "ja_name": "北相馬",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14004",
     "name": "Kuji",
+    "ja_name": "久慈",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14005",
     "name": "Sashima",
+    "ja_name": "猿島",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14006",
     "name": "Taga",
+    "ja_name": "多賀",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14007",
     "name": "Tsukuba",
+    "ja_name": "筑波",
     "deleted": true,
+    "deleted_date": "Mar.26,2006",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14008",
     "name": "Naka",
+    "ja_name": "那珂",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14009",
     "name": "Namegata",
+    "ja_name": "行方",
     "deleted": true,
+    "deleted_date": "Sep.1,2005",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14010",
     "name": "Niihari",
+    "ja_name": "新治",
     "deleted": true,
+    "deleted_date": "Mar.26,2006",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14011",
     "name": "Nishiibaraki",
+    "ja_name": "西茨城",
     "deleted": true,
+    "deleted_date": "Mar.18,2006",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14012",
     "name": "Higashiibaraki",
+    "ja_name": "東茨城",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14013",
     "name": "Makabe",
+    "ja_name": "真壁",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "14014",
     "name": "Yuki",
+    "ja_name": "結城",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "14",
     "pref_name": "Ibaraki"
   },
   {
     "code": "15001",
     "name": "Ashikaga",
+    "ja_name": "足利",
     "deleted": true,
+    "deleted_date": "Sep.30,1962",
     "pref_code": "15",
     "pref_name": "Tochigi"
   },
   {
     "code": "15002",
     "name": "Aso",
+    "ja_name": "安蘇",
     "deleted": true,
+    "deleted_date": "Feb.27,2005",
     "pref_code": "15",
     "pref_name": "Tochigi"
   },
   {
     "code": "15003",
     "name": "Kamitsuga",
+    "ja_name": "上都賀",
     "deleted": true,
+    "deleted_date": "Sep.30,2011",
     "pref_code": "15",
     "pref_name": "Tochigi"
   },
   {
     "code": "15004",
     "name": "Kawachi",
+    "ja_name": "河内",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "15",
     "pref_name": "Tochigi"
   },
   {
     "code": "15005",
     "name": "Shioya",
+    "ja_name": "塩谷",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "15",
     "pref_name": "Tochigi"
   },
   {
     "code": "15006",
     "name": "Shimotsuga",
+    "ja_name": "下都賀",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "15",
     "pref_name": "Tochigi"
   },
   {
     "code": "15007",
     "name": "Nasu",
+    "ja_name": "那須",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "15",
     "pref_name": "Tochigi"
   },
   {
     "code": "15008",
     "name": "Haga",
+    "ja_name": "芳賀",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "15",
     "pref_name": "Tochigi"
   },
   {
     "code": "16001",
     "name": "Agatsuma",
+    "ja_name": "吾妻",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16002",
     "name": "Usui",
+    "ja_name": "碓氷",
     "deleted": true,
+    "deleted_date": "Mar.17,2006",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16003",
     "name": "Ora",
+    "ja_name": "邑楽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16004",
     "name": "Kanra",
+    "ja_name": "甘楽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16005",
     "name": "Kitagumma",
+    "ja_name": "北群馬",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16006",
     "name": "Gumma",
+    "ja_name": "群馬",
     "deleted": true,
+    "deleted_date": "Sep.30,2006",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16007",
     "name": "Sawa",
+    "ja_name": "佐波",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16008",
     "name": "Seta",
+    "ja_name": "勢多",
     "deleted": true,
+    "deleted_date": "May.04,2009",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16009",
     "name": "Tano",
+    "ja_name": "多野",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16010",
     "name": "Tone",
+    "ja_name": "利根",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16011",
     "name": "Nitta",
+    "ja_name": "新田",
     "deleted": true,
+    "deleted_date": "Mar.26,2006",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "16012",
     "name": "Yamada",
+    "ja_name": "山田",
     "deleted": true,
+    "deleted_date": "Mar.26,2006",
     "pref_code": "16",
     "pref_name": "Gunma"
   },
   {
     "code": "17001",
     "name": "Kitakoma",
+    "ja_name": "北巨摩",
     "deleted": true,
+    "deleted_date": "Mar.14,2006",
     "pref_code": "17",
     "pref_name": "Yamanashi"
   },
   {
     "code": "17002",
     "name": "Kitatsuru",
+    "ja_name": "北都留",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "17",
     "pref_name": "Yamanashi"
   },
   {
     "code": "17003",
     "name": "Nakakoma",
+    "ja_name": "中巨摩",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "17",
     "pref_name": "Yamanashi"
   },
   {
     "code": "17004",
     "name": "Nishiyatsushiro",
+    "ja_name": "西八代",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "17",
     "pref_name": "Yamanashi"
   },
   {
     "code": "17005",
     "name": "Higashiyatsushiro",
+    "ja_name": "東八代",
     "deleted": true,
+    "deleted_date": "Jul.31,2006",
     "pref_code": "17",
     "pref_name": "Yamanashi"
   },
   {
     "code": "17006",
     "name": "Higashiyamanashi",
+    "ja_name": "東山梨",
     "deleted": true,
+    "deleted_date": "Oct.31,2005",
     "pref_code": "17",
     "pref_name": "Yamanashi"
   },
   {
     "code": "17007",
     "name": "Minamikoma",
+    "ja_name": "南巨摩",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "17",
     "pref_name": "Yamanashi"
   },
   {
     "code": "17008",
     "name": "Minamitsuru",
+    "ja_name": "南都留",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "17",
     "pref_name": "Yamanashi"
   },
   {
     "code": "18001",
     "name": "Abe",
+    "ja_name": "安倍",
     "deleted": true,
+    "deleted_date": "Dec.31,1968",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18002",
     "name": "Inasa",
+    "ja_name": "引佐",
     "deleted": true,
+    "deleted_date": "Jun.30,2005",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18003",
     "name": "Ihara",
+    "ja_name": "庵原",
     "deleted": true,
+    "deleted_date": "Oct.31,2008",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18004",
     "name": "Iwata",
+    "ja_name": "磐田",
     "deleted": true,
+    "deleted_date": "Jun.30,2005",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18005",
     "name": "Ogasa",
+    "ja_name": "小笠",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18006",
     "name": "Kamo",
+    "ja_name": "賀茂",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18007",
     "name": "Shida",
+    "ja_name": "志太",
     "deleted": true,
+    "deleted_date": "Dec.31,2008",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18008",
     "name": "Shuchi",
+    "ja_name": "周智",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18009",
     "name": "Sunto",
+    "ja_name": "駿東",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18010",
     "name": "Tagata",
+    "ja_name": "田方",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18011",
     "name": "Haibara",
+    "ja_name": "榛原",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18012",
     "name": "Hamana",
+    "ja_name": "浜名",
     "deleted": true,
+    "deleted_date": "Mar.22,2010",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "18013",
     "name": "Fuji",
+    "ja_name": "富士",
     "deleted": true,
+    "deleted_date": "Mar.22,2010",
     "pref_code": "18",
     "pref_name": "Shizuoka"
   },
   {
     "code": "19001",
-    "name": "Ampachi",
+    "name": "Anpachi",
+    "ja_name": "安八",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19002",
     "name": "Inaba",
+    "ja_name": "稲葉",
     "deleted": true,
+    "deleted_date": "Mar.31,1963",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19003",
     "name": "Ibi",
+    "ja_name": "揖斐",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19004",
     "name": "Ena",
+    "ja_name": "恵那",
     "deleted": true,
+    "deleted_date": "Feb.12,2005",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19005",
     "name": "Ono",
+    "ja_name": "大野",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19006",
     "name": "Kaizu",
+    "ja_name": "海津",
     "deleted": true,
+    "deleted_date": "Mar.27,2005",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19007",
     "name": "Kani",
+    "ja_name": "可児",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19008",
     "name": "Kamo",
+    "ja_name": "加茂",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19009",
     "name": "Gujo",
+    "ja_name": "郡上",
     "deleted": true,
+    "deleted_date": "Feb.29,2004",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19010",
     "name": "Toki",
+    "ja_name": "土岐",
     "deleted": true,
+    "deleted_date": "Jan.22,2006",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19011",
     "name": "Hashima",
+    "ja_name": "羽島",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19012",
     "name": "Fuwa",
+    "ja_name": "不破",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19013",
     "name": "Mashita",
+    "ja_name": "益田",
     "deleted": true,
+    "deleted_date": "Feb.29,2004",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19014",
     "name": "Mugi",
+    "ja_name": "武儀",
     "deleted": true,
+    "deleted_date": "Feb.6,2005",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19015",
     "name": "Motosu",
+    "ja_name": "本巣",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19016",
     "name": "Yamagata",
+    "ja_name": "山県",
     "deleted": true,
+    "deleted_date": "Mar.31,2003",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19017",
     "name": "Yoro",
+    "ja_name": "養老",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "19018",
     "name": "Yoshiki",
+    "ja_name": "吉城",
     "deleted": true,
+    "deleted_date": "Jan.31,2005",
     "pref_code": "19",
     "pref_name": "Gifu"
   },
   {
     "code": "20001",
     "name": "Aichi",
+    "ja_name": "愛知",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20002",
     "name": "Atsumi",
+    "ja_name": "渥美",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20003",
     "name": "Ama",
+    "ja_name": "海部",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20004",
     "name": "Kitashitara",
+    "ja_name": "北設楽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20005",
     "name": "Chita",
+    "ja_name": "知多",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20006",
     "name": "Nakashima",
+    "ja_name": "中島",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20007",
     "name": "Nishikasugai",
+    "ja_name": "西春日井",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20008",
     "name": "Nishikamo",
+    "ja_name": "西加茂",
     "deleted": true,
+    "deleted_date": "Jan.03,2010",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20009",
     "name": "Niwa",
+    "ja_name": "丹羽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20010",
     "name": "Nukata",
+    "ja_name": "額田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20011",
     "name": "Haguri",
+    "ja_name": "葉栗",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20012",
     "name": "Hazu",
+    "ja_name": "幡豆",
     "deleted": true,
+    "deleted_date": "Mar.31,2011",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20013",
     "name": "Higashikasugai",
+    "ja_name": "東春日井",
     "deleted": true,
+    "deleted_date": "Nov.30,1970",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20014",
     "name": "Higashikamo",
+    "ja_name": "東加茂",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20015",
     "name": "Hekikai",
+    "ja_name": "碧海",
     "deleted": true,
+    "deleted_date": "Nov.30,1970",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20016",
     "name": "Hoi",
+    "ja_name": "宝飯",
     "deleted": true,
+    "deleted_date": "Jan.31,2010",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20017",
     "name": "Minamishitara",
+    "ja_name": "南設楽",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "20018",
     "name": "Yana",
+    "ja_name": "八名",
     "deleted": true,
+    "deleted_date": "Sep.29,1956",
     "pref_code": "20",
     "pref_name": "Aichi"
   },
   {
     "code": "21001",
     "name": "Age",
+    "ja_name": "安芸",
     "deleted": true,
+    "deleted_date": "Dec.31,2005",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21002",
     "name": "Ano",
+    "ja_name": "安濃",
     "deleted": true,
+    "deleted_date": "Sep.29,1956",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21003",
     "name": "Ayama",
+    "ja_name": "阿山",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21004",
     "name": "Iinan",
+    "ja_name": "飯南",
     "deleted": true,
+    "deleted_date": "Dec.31,2004",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21005",
     "name": "Ichishi",
+    "ja_name": "一志",
     "deleted": true,
+    "deleted_date": "Dec.31,2005",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21006",
     "name": "Inabe",
+    "ja_name": "員弁",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21007",
     "name": "Kawage",
+    "ja_name": "河芸",
     "deleted": true,
+    "deleted_date": "Sep.29,1956",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21008",
     "name": "Kitamuro",
+    "ja_name": "北牟婁",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21009",
     "name": "Kuwana",
+    "ja_name": "桑名",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21010",
     "name": "Shima",
+    "ja_name": "志摩",
     "deleted": true,
+    "deleted_date": "Sep.30,2004",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21011",
     "name": "Suzuka",
+    "ja_name": "鈴鹿",
     "deleted": true,
+    "deleted_date": "Jan.10,2005",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21012",
     "name": "Taki",
+    "ja_name": "多気",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21013",
     "name": "Naga",
+    "ja_name": "名賀",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21014",
     "name": "Mie",
+    "ja_name": "三重",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21015",
     "name": "Minamimuro",
+    "ja_name": "南牟婁",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "21016",
     "name": "Watarai",
+    "ja_name": "度会",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "21",
     "pref_name": "Mie"
   },
   {
     "code": "22001",
     "name": "Amada",
+    "ja_name": "天田",
     "deleted": true,
+    "deleted_date": "Dec.31,2005",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22002",
     "name": "Ikaruga",
+    "ja_name": "何鹿",
     "deleted": true,
+    "deleted_date": "Sep.29,1956",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22003",
     "name": "Otokuni",
+    "ja_name": "乙訓",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22004",
     "name": "Kasa",
+    "ja_name": "加佐",
     "deleted": true,
+    "deleted_date": "Dec.31,2005",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22005",
     "name": "Kitakuwada",
+    "ja_name": "北桑田",
     "deleted": true,
+    "deleted_date": "Dec.31,2005",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22006",
-    "name": "Kuze",
+    "name": "Kuse",
+    "ja_name": "久世",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22007",
     "name": "Kumano",
+    "ja_name": "熊野",
     "deleted": true,
+    "deleted_date": "Mar.31,2004",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22008",
     "name": "Soraku",
+    "ja_name": "相楽",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22009",
     "name": "Takeno",
+    "ja_name": "竹野",
     "deleted": true,
+    "deleted_date": "Mar.31,2004",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22010",
-    "name": "Tsuduki",
+    "name": "Tsuzuki",
+    "ja_name": "綴喜",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22011",
     "name": "Naka",
+    "ja_name": "中",
     "deleted": true,
+    "deleted_date": "Mar.31,2004",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22012",
     "name": "Funai",
+    "ja_name": "船井",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22013",
     "name": "Minamikuwada",
+    "ja_name": "南桑田",
     "deleted": true,
+    "deleted_date": "Sep.29,1959",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "22014",
     "name": "Yoza",
+    "ja_name": "与謝",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "22",
     "pref_name": "Kyoto"
   },
   {
     "code": "23001",
     "name": "Ika",
+    "ja_name": "伊香",
     "deleted": true,
+    "deleted_date": "Dec.31,2009",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23002",
     "name": "Inukami",
+    "ja_name": "犬上",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23003",
     "name": "Echi",
+    "ja_name": "愛知",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23004",
     "name": "Gamou",
+    "ja_name": "蒲生",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23005",
     "name": "Kanzaki",
+    "ja_name": "神崎",
     "deleted": true,
+    "deleted_date": "Dec.31,2005",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23006",
     "name": "Kurita",
+    "ja_name": "栗太",
     "deleted": true,
+    "deleted_date": "Sep.30,2001",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23007",
     "name": "Koka",
+    "ja_name": "甲賀",
     "deleted": true,
+    "deleted_date": "Sep.30,2004",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23008",
     "name": "Sakata",
+    "ja_name": "坂田",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23009",
     "name": "Shiga",
+    "ja_name": "滋賀",
     "deleted": true,
+    "deleted_date": "Mar.19,2006",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23010",
     "name": "Takashima",
+    "ja_name": "高島",
     "deleted": true,
+    "deleted_date": "Dec.31,2004",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23011",
     "name": "Higashiazai",
+    "ja_name": "東浅井",
     "deleted": true,
+    "deleted_date": "Dec.31,2009",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "23012",
     "name": "Yasu",
+    "ja_name": "野洲",
     "deleted": true,
+    "deleted_date": "Sep.30,2004",
     "pref_code": "23",
     "pref_name": "Shiga"
   },
   {
     "code": "24001",
     "name": "Ikoma",
+    "ja_name": "生駒",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "24002",
     "name": "Uda",
+    "ja_name": "宇陀",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "24003",
     "name": "Uchi",
+    "ja_name": "宇智",
     "deleted": true,
+    "deleted_date": "Dec.31,1958",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "24004",
     "name": "Kitakatsuragi",
+    "ja_name": "北葛城",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "24005",
     "name": "Shiki",
+    "ja_name": "磯城",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "24006",
     "name": "Soekami",
+    "ja_name": "添上",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "24007",
     "name": "Takaichi",
+    "ja_name": "高市",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "24008",
     "name": "Minamikatsuragi",
+    "ja_name": "南葛城",
     "deleted": true,
+    "deleted_date": "Mar.30,1958",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "24009",
     "name": "Yamabe",
+    "ja_name": "山辺",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "24010",
     "name": "Yoshino",
+    "ja_name": "吉野",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "24",
     "pref_name": "Nara"
   },
   {
     "code": "25001",
     "name": "Kitakawachi",
+    "ja_name": "北河内",
     "deleted": true,
+    "deleted_date": "Nov.2,1971",
     "pref_code": "25",
     "pref_name": "Osaka"
   },
   {
     "code": "25002",
     "name": "Sennan",
+    "ja_name": "泉南",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "25",
     "pref_name": "Osaka"
   },
   {
     "code": "25003",
     "name": "Senboku",
+    "ja_name": "泉北",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "25",
     "pref_name": "Osaka"
   },
   {
     "code": "25004",
     "name": "Toyono",
+    "ja_name": "豊能",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "25",
     "pref_name": "Osaka"
   },
   {
     "code": "25005",
     "name": "Nakakawachi",
+    "ja_name": "中河内",
     "deleted": true,
+    "deleted_date": "Apr.2,1965",
     "pref_code": "25",
     "pref_name": "Osaka"
   },
   {
     "code": "25006",
     "name": "Mishima",
+    "ja_name": "三島",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "25",
     "pref_name": "Osaka"
   },
   {
     "code": "25007",
     "name": "Minamikawachi",
+    "ja_name": "南河内",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "25",
     "pref_name": "Osaka"
   },
   {
     "code": "26001",
     "name": "Arida",
+    "ja_name": "有田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "26",
     "pref_name": "Wakayama"
   },
   {
     "code": "26002",
     "name": "Ito",
+    "ja_name": "伊都",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "26",
     "pref_name": "Wakayama"
   },
   {
     "code": "26003",
     "name": "Kaiso",
+    "ja_name": "海草",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "26",
     "pref_name": "Wakayama"
   },
   {
     "code": "26004",
     "name": "Naga",
+    "ja_name": "那賀",
     "deleted": true,
+    "deleted_date": "Mar.31,2006",
     "pref_code": "26",
     "pref_name": "Wakayama"
   },
   {
     "code": "26005",
     "name": "Nishimuro",
+    "ja_name": "西牟婁",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "26",
     "pref_name": "Wakayama"
   },
   {
     "code": "26006",
     "name": "Higashimuro",
+    "ja_name": "東牟婁",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "26",
     "pref_name": "Wakayama"
   },
   {
     "code": "26007",
     "name": "Hidaka",
+    "ja_name": "日高",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "26",
     "pref_name": "Wakayama"
   },
   {
     "code": "27001",
     "name": "Akou",
+    "ja_name": "赤穂",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27002",
     "name": "Asago",
+    "ja_name": "朝来",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27003",
     "name": "Arima",
+    "ja_name": "有馬",
     "deleted": true,
+    "deleted_date": "May.30,1958",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27004",
     "name": "Izushi",
+    "ja_name": "出石",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27005",
     "name": "Ibo",
+    "ja_name": "揖保",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27006",
     "name": "Innami",
+    "ja_name": "印南",
     "deleted": true,
+    "deleted_date": "Jan.31,1979",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27007",
     "name": "Kako",
+    "ja_name": "加古",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27008",
     "name": "Kasai",
+    "ja_name": "加西",
     "deleted": true,
+    "deleted_date": "Mar.31,1967",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27009",
     "name": "Kato",
+    "ja_name": "加東",
     "deleted": true,
+    "deleted_date": "Mar.19,2006",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27010",
     "name": "Kawabe",
+    "ja_name": "川辺",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27011",
     "name": "Kanzaki",
+    "ja_name": "神崎",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27012",
     "name": "Kinosaki",
+    "ja_name": "城崎",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27013",
     "name": "Sayo",
+    "ja_name": "佐用",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27014",
     "name": "Shikama",
+    "ja_name": "飾磨",
     "deleted": true,
+    "deleted_date": "Mar.26,2006",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27015",
     "name": "Shiso",
+    "ja_name": "宍粟",
     "deleted": true,
+    "deleted_date": "Mar.26,2006",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27016",
     "name": "Taka",
+    "ja_name": "多可",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27017",
     "name": "Taki",
+    "ja_name": "多紀",
     "deleted": true,
+    "deleted_date": "Mar.31,1999",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27018",
     "name": "Tsuna",
+    "ja_name": "津名",
     "deleted": true,
+    "deleted_date": "Feb.10,2006",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27019",
     "name": "Hikami",
+    "ja_name": "氷上",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27020",
     "name": "Mikata",
+    "ja_name": "美方",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27021",
     "name": "Mino",
+    "ja_name": "美嚢",
     "deleted": true,
+    "deleted_date": "Oct.23,2005",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27022",
     "name": "Mihara",
+    "ja_name": "三原",
     "deleted": true,
+    "deleted_date": "Jan.10,2005",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27023",
     "name": "Muko",
+    "ja_name": "武庫",
     "deleted": true,
+    "deleted_date": "Mar.31,1954",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "27024",
     "name": "Yabu",
+    "ja_name": "養父",
     "deleted": true,
+    "deleted_date": "Mar.31,2004",
     "pref_code": "27",
     "pref_name": "Hyogo"
   },
   {
     "code": "28001",
     "name": "Imizu",
+    "ja_name": "射水",
     "deleted": true,
+    "deleted_date": "Oct.31,2005",
     "pref_code": "28",
     "pref_name": "Toyama"
   },
   {
     "code": "28002",
     "name": "Kaminiikawa",
+    "ja_name": "上新川",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "28",
     "pref_name": "Toyama"
   },
   {
     "code": "28003",
     "name": "Shimoniikawa",
+    "ja_name": "下新川",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "28",
     "pref_name": "Toyama"
   },
   {
     "code": "28004",
     "name": "Nakaniikawa",
+    "ja_name": "中新川",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "28",
     "pref_name": "Toyama"
   },
   {
     "code": "28005",
     "name": "Nishitonami",
+    "ja_name": "西砺波",
     "deleted": true,
+    "deleted_date": "Oct.31,2005",
     "pref_code": "28",
     "pref_name": "Toyama"
   },
   {
     "code": "28006",
     "name": "Nei",
+    "ja_name": "婦負",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "28",
     "pref_name": "Toyama"
   },
   {
     "code": "28007",
     "name": "Himi",
+    "ja_name": "氷見",
     "deleted": true,
+    "deleted_date": "Mar.31,1954",
     "pref_code": "28",
     "pref_name": "Toyama"
   },
   {
     "code": "28008",
     "name": "Higashitonami",
+    "ja_name": "東砺波",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "28",
     "pref_name": "Toyama"
   },
   {
     "code": "29001",
     "name": "Asuwa",
+    "ja_name": "足羽",
     "deleted": true,
+    "deleted_date": "Jan.30,2006",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29002",
     "name": "Imadate",
+    "ja_name": "今立",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29003",
     "name": "Oi",
+    "ja_name": "大飯",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29004",
     "name": "Ono",
+    "ja_name": "大野",
     "deleted": true,
+    "deleted_date": "Nov.6,2005",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29005",
     "name": "Onyu",
+    "ja_name": "遠敷",
     "deleted": true,
+    "deleted_date": "Mar.2,2006",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29006",
     "name": "Sakai",
+    "ja_name": "坂井",
     "deleted": true,
+    "deleted_date": "Mar.19,2006",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29007",
     "name": "Tsuruga",
+    "ja_name": "敦賀",
     "deleted": true,
+    "deleted_date": "Jan.14,1955",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29008",
     "name": "Nanjo",
+    "ja_name": "南条",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29009",
     "name": "Nyuu",
+    "ja_name": "丹生",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29010",
     "name": "Mikata",
+    "ja_name": "三方",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29011",
     "name": "Yoshida",
+    "ja_name": "吉田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "29012",
     "name": "Mikatakaminaka",
+    "ja_name": "三方上中",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "29",
     "pref_name": "Fukui"
   },
   {
     "code": "30001",
     "name": "Ishikawa",
+    "ja_name": "石川",
     "deleted": true,
+    "deleted_date": "Nov.10,2011",
     "pref_code": "30",
     "pref_name": "Ishikawa"
   },
   {
     "code": "30002",
     "name": "Enuma",
+    "ja_name": "江沼",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "30",
     "pref_name": "Ishikawa"
   },
   {
     "code": "30003",
     "name": "Kashima",
+    "ja_name": "鹿島",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "30",
     "pref_name": "Ishikawa"
   },
   {
     "code": "30004",
     "name": "Kahoku",
+    "ja_name": "河北",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "30",
     "pref_name": "Ishikawa"
   },
   {
     "code": "30005",
     "name": "Suzu",
+    "ja_name": "珠洲",
     "deleted": true,
+    "deleted_date": "Feb.28,2005",
     "pref_code": "30",
     "pref_name": "Ishikawa"
   },
   {
     "code": "30006",
     "name": "Nomi",
+    "ja_name": "能美",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "30",
     "pref_name": "Ishikawa"
   },
   {
     "code": "30007",
     "name": "Hakui",
+    "ja_name": "羽咋",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "30",
     "pref_name": "Ishikawa"
   },
   {
     "code": "30008",
     "name": "Fugeshi",
+    "ja_name": "鳳至",
     "deleted": true,
+    "deleted_date": "Feb.28,2005",
     "pref_code": "30",
     "pref_name": "Ishikawa"
   },
   {
     "code": "30009",
     "name": "Housu",
+    "ja_name": "鳳珠",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "30",
     "pref_name": "Ishikawa"
   },
   {
     "code": "31001",
     "name": "Aida",
+    "ja_name": "英田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31002",
     "name": "Akaiwa",
+    "ja_name": "赤磐",
     "deleted": true,
+    "deleted_date": "Jan.21,2007",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31003",
     "name": "Asakuchi",
+    "ja_name": "浅口",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31004",
     "name": "Atetsu",
+    "ja_name": "阿哲",
     "deleted": true,
+    "deleted_date": "Mar.30,2005",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31005",
     "name": "Oku",
+    "ja_name": "邑久",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31006",
     "name": "Oda",
+    "ja_name": "小田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31007",
     "name": "Katsuta",
+    "ja_name": "勝田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31008",
     "name": "Kawakami",
+    "ja_name": "川上",
     "deleted": true,
+    "deleted_date": "Sep.30,2004",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31009",
     "name": "Kibi",
+    "ja_name": "吉備",
     "deleted": true,
+    "deleted_date": "Jul.31,2005",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31010",
     "name": "Kume",
+    "ja_name": "久米",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31011",
     "name": "Kojima",
+    "ja_name": "児島",
     "deleted": true,
+    "deleted_date": "Mar.21,2005",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31012",
     "name": "Shitsuki",
+    "ja_name": "後月",
     "deleted": true,
+    "deleted_date": "Feb.28,2005",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31013",
     "name": "Jodo",
+    "ja_name": "上道",
     "deleted": true,
+    "deleted_date": "Apr.30,1971",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31014",
     "name": "Jobo",
+    "ja_name": "上房",
     "deleted": true,
+    "deleted_date": "Mar.30,2005",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31015",
     "name": "Tsukubo",
+    "ja_name": "都窪",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31016",
-    "name": "Tomada",
+    "name": "Tomata",
+    "ja_name": "苫田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31017",
     "name": "Maniwa",
+    "ja_name": "真庭",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31018",
     "name": "Mitsu",
+    "ja_name": "御津",
     "deleted": true,
+    "deleted_date": "Jan.21,2007",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31019",
     "name": "Wake",
+    "ja_name": "和気",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "31020",
     "name": "Kaga",
+    "ja_name": "加賀",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "31",
     "pref_name": "Okayama"
   },
   {
     "code": "32001",
     "name": "Ano",
+    "ja_name": "安濃",
     "deleted": true,
+    "deleted_date": "Mar.31,1954",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32002",
     "name": "Ama",
+    "ja_name": "海士",
     "deleted": true,
+    "deleted_date": "Mar.31,1969",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32003",
     "name": "Iishi",
+    "ja_name": "飯石",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32004",
     "name": "Ochi",
+    "ja_name": "邑智",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32005",
     "name": "Ohara",
+    "ja_name": "大原",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32006",
     "name": "Oki",
+    "ja_name": "隠岐",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32007",
     "name": "Ochi",
+    "ja_name": "隠地",
     "deleted": true,
+    "deleted_date": "Mar.31,1969",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32008",
     "name": "Kanoashi",
+    "ja_name": "鹿足",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32009",
     "name": "Suki",
+    "ja_name": "周吉",
     "deleted": true,
+    "deleted_date": "Mar.31,1969",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32010",
     "name": "Chibu",
+    "ja_name": "知夫",
     "deleted": true,
+    "deleted_date": "Mar.31,1969",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32011",
     "name": "Naka",
+    "ja_name": "那賀",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32012",
     "name": "Nita",
+    "ja_name": "仁多",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32013",
     "name": "Nima",
+    "ja_name": "迩摩",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32014",
     "name": "Nogi",
+    "ja_name": "能義",
     "deleted": true,
+    "deleted_date": "Sep.30,2004",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32015",
     "name": "Hikawa",
+    "ja_name": "簸川",
     "deleted": true,
+    "deleted_date": "Sep.30,2011",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32016",
     "name": "Mino",
+    "ja_name": "美濃",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "32017",
     "name": "Yatsuka",
+    "ja_name": "八束",
     "deleted": true,
+    "deleted_date": "Jul.31,2011",
     "pref_code": "32",
     "pref_name": "Shimane"
   },
   {
     "code": "33001",
     "name": "Asa",
+    "ja_name": "厚狭",
     "deleted": true,
+    "deleted_date": "Mar.21,2005",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33002",
     "name": "Abu",
+    "ja_name": "阿武",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33003",
     "name": "Oshima",
+    "ja_name": "大島",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33004",
     "name": "Otsu",
+    "ja_name": "大津",
     "deleted": true,
+    "deleted_date": "Mar.21,2005",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33005",
     "name": "Kuga",
+    "ja_name": "玖珂",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33006",
     "name": "Kumage",
+    "ja_name": "熊毛",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33007",
     "name": "Saba",
+    "ja_name": "佐波",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33008",
     "name": "Tsuno",
+    "ja_name": "都濃",
     "deleted": true,
+    "deleted_date": "Apr.20,2003",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33009",
     "name": "Toyoura",
+    "ja_name": "豊浦",
     "deleted": true,
+    "deleted_date": "Feb.12,2005",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33010",
     "name": "Mine",
+    "ja_name": "美祢",
     "deleted": true,
+    "deleted_date": "Mar.20,2008",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "33011",
     "name": "Yoshiki",
+    "ja_name": "吉敷",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "33",
     "pref_name": "Yamaguchi"
   },
   {
     "code": "34001",
     "name": "Iwami",
+    "ja_name": "岩美",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "34",
     "pref_name": "Tottori"
   },
   {
     "code": "34002",
     "name": "Ketaka",
+    "ja_name": "気高",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "34",
     "pref_name": "Tottori"
   },
   {
     "code": "34003",
     "name": "Saihaku",
+    "ja_name": "西伯",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "34",
     "pref_name": "Tottori"
   },
   {
     "code": "34004",
     "name": "Tohaku",
+    "ja_name": "東伯",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "34",
     "pref_name": "Tottori"
   },
   {
     "code": "34005",
     "name": "Hino",
+    "ja_name": "日野",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "34",
     "pref_name": "Tottori"
   },
   {
     "code": "34006",
     "name": "Yazu",
+    "ja_name": "八頭",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "34",
     "pref_name": "Tottori"
   },
   {
     "code": "35001",
     "name": "Aki",
+    "ja_name": "安芸",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35002",
     "name": "Asa",
+    "ja_name": "安佐",
     "deleted": true,
+    "deleted_date": "Mar.19,1973",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35003",
     "name": "Ashina",
+    "ja_name": "芦品",
     "deleted": true,
+    "deleted_date": "Feb.2,2003",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35004",
     "name": "Kamo",
+    "ja_name": "賀茂",
     "deleted": true,
+    "deleted_date": "Mar.21,2005",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35005",
     "name": "Konu",
+    "ja_name": "甲奴",
     "deleted": true,
+    "deleted_date": "Mar.30,2005",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35006",
     "name": "Saeki",
+    "ja_name": "佐伯",
     "deleted": true,
+    "deleted_date": "Nov.2,2005",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35007",
     "name": "Jinseki",
+    "ja_name": "神石",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35008",
     "name": "Sera",
+    "ja_name": "世羅",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35009",
     "name": "Takata",
+    "ja_name": "高田",
     "deleted": true,
+    "deleted_date": "Feb.29,2004",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35010",
     "name": "Toyota",
+    "ja_name": "豊田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35011",
     "name": "Numakuma",
+    "ja_name": "沼隈",
     "deleted": true,
+    "deleted_date": "Jan.31,2005",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35012",
     "name": "Hiba",
+    "ja_name": "比婆",
     "deleted": true,
+    "deleted_date": "Mar.30,2005",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35013",
     "name": "Fukayasu",
+    "ja_name": "深安",
     "deleted": true,
+    "deleted_date": "Feb.28,2006",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35014",
     "name": "Futami",
+    "ja_name": "双三",
     "deleted": true,
+    "deleted_date": "Mar.31,2004",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35015",
     "name": "Mitsugi",
+    "ja_name": "御調",
     "deleted": true,
+    "deleted_date": "Mar.27,2005",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "35016",
     "name": "Yamagata",
+    "ja_name": "山県",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "35",
     "pref_name": "Hiroshima"
   },
   {
     "code": "36001",
     "name": "Ayauta",
+    "ja_name": "綾歌",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "36",
     "pref_name": "Kagawa"
   },
   {
     "code": "36002",
     "name": "Okawa",
+    "ja_name": "大川",
     "deleted": true,
+    "deleted_date": "Mar.31,2003",
     "pref_code": "36",
     "pref_name": "Kagawa"
   },
   {
     "code": "36003",
     "name": "Kagawa",
+    "ja_name": "香川",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "36",
     "pref_name": "Kagawa"
   },
   {
     "code": "36004",
     "name": "Kita",
+    "ja_name": "木田",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "36",
     "pref_name": "Kagawa"
   },
   {
     "code": "36005",
     "name": "Syozu",
+    "ja_name": "小豆",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "36",
     "pref_name": "Kagawa"
   },
   {
     "code": "36006",
     "name": "Nakatado",
+    "ja_name": "仲多度",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "36",
     "pref_name": "Kagawa"
   },
   {
     "code": "36007",
     "name": "Mitoyo",
+    "ja_name": "三豊",
     "deleted": true,
+    "deleted_date": "Dec.31,2005",
     "pref_code": "36",
     "pref_name": "Kagawa"
   },
   {
     "code": "37001",
     "name": "Awa",
+    "ja_name": "阿波",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "37002",
     "name": "Itano",
+    "ja_name": "板野",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "37003",
     "name": "Oe",
+    "ja_name": "麻植",
     "deleted": true,
+    "deleted_date": "Sep.30,2004",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "37004",
     "name": "Kaifu",
+    "ja_name": "海部",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "37005",
     "name": "Katsuura",
+    "ja_name": "勝浦",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "37006",
     "name": "Naka",
+    "ja_name": "那賀",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "37007",
     "name": "Myozai",
+    "ja_name": "名西",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "37008",
     "name": "Myodo",
+    "ja_name": "名東",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "37009",
     "name": "Mima",
+    "ja_name": "美馬",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "37010",
     "name": "Miyoshi",
+    "ja_name": "三好",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "37",
     "pref_name": "Tokushima"
   },
   {
     "code": "38001",
     "name": "Iyo",
+    "ja_name": "伊予",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38002",
     "name": "Uma",
+    "ja_name": "宇摩",
     "deleted": true,
+    "deleted_date": "Mar.31,2004",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38003",
     "name": "Ochi",
+    "ja_name": "越智",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38004",
     "name": "Onsen",
+    "ja_name": "温泉",
     "deleted": true,
+    "deleted_date": "Dec.31,2004",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38005",
     "name": "Kamiukena",
+    "ja_name": "上浮穴",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38006",
     "name": "Kita",
+    "ja_name": "喜多",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38007",
     "name": "Kitauwa",
+    "ja_name": "北宇和",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38008",
     "name": "Shuso",
+    "ja_name": "周桑",
     "deleted": true,
+    "deleted_date": "Oct.31,2004",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38009",
     "name": "Nii",
+    "ja_name": "新居",
     "deleted": true,
+    "deleted_date": "Mar.31,1959",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38010",
     "name": "Nishiuwa",
+    "ja_name": "西宇和",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38011",
     "name": "Higashiuwa",
+    "ja_name": "東宇和",
     "deleted": true,
+    "deleted_date": "Mar.31,2004",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "38012",
     "name": "Minamiuwa",
+    "ja_name": "南宇和",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "38",
     "pref_name": "Ehime"
   },
   {
     "code": "39001",
     "name": "Agawa",
+    "ja_name": "吾川",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "39",
     "pref_name": "Kochi"
   },
   {
     "code": "39002",
     "name": "Aki",
+    "ja_name": "安芸",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "39",
     "pref_name": "Kochi"
   },
   {
     "code": "39003",
     "name": "Kami",
+    "ja_name": "香美",
     "deleted": true,
+    "deleted_date": "Feb.28,2006",
     "pref_code": "39",
     "pref_name": "Kochi"
   },
   {
     "code": "39004",
     "name": "Takaoka",
+    "ja_name": "高岡",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "39",
     "pref_name": "Kochi"
   },
   {
     "code": "39005",
     "name": "Tosa",
+    "ja_name": "土佐",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "39",
     "pref_name": "Kochi"
   },
   {
     "code": "39006",
     "name": "Nagaoka",
+    "ja_name": "長岡",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "39",
     "pref_name": "Kochi"
   },
   {
     "code": "39007",
     "name": "Hata",
+    "ja_name": "幡多",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "39",
     "pref_name": "Kochi"
   },
   {
     "code": "40001",
     "name": "Asakura",
+    "ja_name": "朝倉",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40002",
     "name": "Itoshima",
+    "ja_name": "糸島",
     "deleted": true,
+    "deleted_date": "Dec.31,2009",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40003",
     "name": "Ukiha",
+    "ja_name": "浮羽",
     "deleted": true,
+    "deleted_date": "Mar.19,2005",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40004",
     "name": "Onga",
+    "ja_name": "遠賀",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40005",
     "name": "Kasuya",
+    "ja_name": "糟屋",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40006",
     "name": "Kaho",
+    "ja_name": "嘉穂",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40007",
     "name": "Kurate",
+    "ja_name": "鞍手",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40008",
     "name": "Sawara",
+    "ja_name": "早良",
     "deleted": true,
+    "deleted_date": "Feb.28,1975",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40009",
     "name": "Tagawa",
+    "ja_name": "田川",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40010",
     "name": "Chikushi",
+    "ja_name": "筑紫",
     "deleted": true,
+    "deleted_date": "Sep.30,2018",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40011",
     "name": "Chikujo",
+    "ja_name": "築上",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40012",
     "name": "Mii",
+    "ja_name": "三井",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40013",
     "name": "Miike",
+    "ja_name": "三池",
     "deleted": true,
+    "deleted_date": "Jan.28,2007",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40014",
     "name": "Mizuma",
+    "ja_name": "三潴",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40015",
     "name": "Miyako",
+    "ja_name": "京都",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40016",
     "name": "Munakata",
+    "ja_name": "宗像",
     "deleted": true,
+    "deleted_date": "Mar.27,2005",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40017",
     "name": "Yamato",
+    "ja_name": "山門",
     "deleted": true,
+    "deleted_date": "Jan.28,2007",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "40018",
     "name": "Yame",
+    "ja_name": "八女",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "40",
     "pref_name": "Fukuoka"
   },
   {
     "code": "41001",
     "name": "Ogi",
+    "ja_name": "小城",
     "deleted": true,
+    "deleted_date": "Feb.28,2005",
     "pref_code": "41",
     "pref_name": "Saga"
   },
   {
     "code": "41002",
     "name": "Kanzaki",
+    "ja_name": "神埼",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "41",
     "pref_name": "Saga"
   },
   {
     "code": "41003",
     "name": "Kishima",
+    "ja_name": "杵島",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "41",
     "pref_name": "Saga"
   },
   {
     "code": "41004",
     "name": "Saga",
+    "ja_name": "佐賀",
     "deleted": true,
+    "deleted_date": "Sept.30,2007",
     "pref_code": "41",
     "pref_name": "Saga"
   },
   {
     "code": "41005",
     "name": "Nishimatsuura",
+    "ja_name": "西松浦",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "41",
     "pref_name": "Saga"
   },
   {
     "code": "41006",
     "name": "Higashimatsuura",
+    "ja_name": "東松浦",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "41",
     "pref_name": "Saga"
   },
   {
     "code": "41007",
     "name": "Fujitsu",
+    "ja_name": "藤津",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "41",
     "pref_name": "Saga"
   },
   {
     "code": "41008",
     "name": "Miyaki",
+    "ja_name": "三養基",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "41",
     "pref_name": "Saga"
   },
   {
     "code": "42001",
     "name": "Iki",
+    "ja_name": "壱岐",
     "deleted": true,
+    "deleted_date": "Feb.29,2004",
     "pref_code": "42",
     "pref_name": "Nagasaki"
   },
   {
     "code": "42002",
     "name": "Kamiagata",
+    "ja_name": "上県",
     "deleted": true,
+    "deleted_date": "Feb.29,2004",
     "pref_code": "42",
     "pref_name": "Nagasaki"
   },
   {
     "code": "42003",
     "name": "Kitatakaki",
+    "ja_name": "北高来",
     "deleted": true,
+    "deleted_date": "Feb.28,2005",
     "pref_code": "42",
     "pref_name": "Nagasaki"
   },
   {
     "code": "42004",
     "name": "Kitamatsuura",
+    "ja_name": "北松浦",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "42",
     "pref_name": "Nagasaki"
   },
   {
     "code": "42005",
     "name": "Shimoagata",
+    "ja_name": "下県",
     "deleted": true,
+    "deleted_date": "Feb.29,2004",
     "pref_code": "42",
     "pref_name": "Nagasaki"
   },
   {
     "code": "42006",
     "name": "Nishisonogi",
+    "ja_name": "西彼杵",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "42",
     "pref_name": "Nagasaki"
   },
   {
     "code": "42007",
     "name": "Higashisonogi",
+    "ja_name": "東彼杵",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "42",
     "pref_name": "Nagasaki"
   },
   {
     "code": "42008",
     "name": "Minamitakaki",
+    "ja_name": "南高来",
     "deleted": true,
+    "deleted_date": "Mar.30,2006",
     "pref_code": "42",
     "pref_name": "Nagasaki"
   },
   {
     "code": "42009",
     "name": "Minamimatsuura",
+    "ja_name": "南松浦",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "42",
     "pref_name": "Nagasaki"
   },
   {
     "code": "43001",
     "name": "Ashikita",
+    "ja_name": "葦北",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43002",
     "name": "Aso",
+    "ja_name": "阿蘇",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43003",
     "name": "Amakusa",
+    "ja_name": "天草",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43004",
     "name": "Uto",
+    "ja_name": "宇土",
     "deleted": true,
+    "deleted_date": "Jan.14,2005",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43005",
     "name": "Kamimashiki",
+    "ja_name": "上益城",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43006",
     "name": "Kamoto",
+    "ja_name": "鹿本",
     "deleted": true,
+    "deleted_date": "Mar.22,2010",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43007",
     "name": "Kikuchi",
+    "ja_name": "菊池",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43008",
     "name": "Kuma",
+    "ja_name": "球磨",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43009",
     "name": "Shimomashiki",
+    "ja_name": "下益城",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43010",
     "name": "Tamana",
+    "ja_name": "玉名",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43011",
     "name": "Hotaku",
+    "ja_name": "飽託",
     "deleted": true,
+    "deleted_date": "Jan.31,1991",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "43012",
     "name": "Yatsushiro",
+    "ja_name": "八代",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "43",
     "pref_name": "Kumamoto"
   },
   {
     "code": "44001",
     "name": "Usa",
+    "ja_name": "宇佐",
     "deleted": true,
+    "deleted_date": "Mar.30,2005",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44002",
     "name": "Oita",
+    "ja_name": "大分",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44003",
     "name": "Ono",
+    "ja_name": "大野",
     "deleted": true,
+    "deleted_date": "Mar.30,2005",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44004",
     "name": "Kitaamabe",
+    "ja_name": "北海部",
     "deleted": true,
+    "deleted_date": "Dec.31,2004",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44005",
     "name": "kusu",
+    "ja_name": "玖珠",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44006",
     "name": "Shimoge",
+    "ja_name": "下毛",
     "deleted": true,
+    "deleted_date": "Feb.28,2005",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44007",
     "name": "Naoiri",
+    "ja_name": "直入",
     "deleted": true,
+    "deleted_date": "Mar.31,2005",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44008",
     "name": "Nishikunisaki",
+    "ja_name": "西国東",
     "deleted": true,
+    "deleted_date": "Sep.30,2005",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44009",
     "name": "Hayami",
+    "ja_name": "速見",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44010",
     "name": "Higashikunisaki",
+    "ja_name": "東国東",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44011",
     "name": "Hita",
+    "ja_name": "日田",
     "deleted": true,
+    "deleted_date": "Mar.21,2005",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "44012",
     "name": "Minamiamabe",
+    "ja_name": "南海部",
     "deleted": true,
+    "deleted_date": "Mar.2,2005",
     "pref_code": "44",
     "pref_name": "Oita"
   },
   {
     "code": "45001",
     "name": "Kitamorokata",
+    "ja_name": "北諸県",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "45",
     "pref_name": "Miyazaki"
   },
   {
     "code": "45002",
     "name": "Koyu",
+    "ja_name": "児湯",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "45",
     "pref_name": "Miyazaki"
   },
   {
     "code": "45003",
     "name": "Nishiusuki",
+    "ja_name": "西臼杵",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "45",
     "pref_name": "Miyazaki"
   },
   {
     "code": "45004",
     "name": "Nishimorokata",
+    "ja_name": "西諸県",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "45",
     "pref_name": "Miyazaki"
   },
   {
     "code": "45005",
     "name": "Higashiusuki",
+    "ja_name": "東臼杵",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "45",
     "pref_name": "Miyazaki"
   },
   {
     "code": "45006",
     "name": "Higashimorokata",
+    "ja_name": "東諸県",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "45",
     "pref_name": "Miyazaki"
   },
   {
     "code": "45007",
     "name": "Minaminaka",
+    "ja_name": "南那珂",
     "deleted": true,
+    "deleted_date": "Mar.29,2009",
     "pref_code": "45",
     "pref_name": "Miyazaki"
   },
   {
     "code": "45008",
     "name": "Miyazaki",
+    "ja_name": "宮崎",
     "deleted": true,
+    "deleted_date": "Mar.22,2010",
     "pref_code": "45",
     "pref_name": "Miyazaki"
   },
   {
     "code": "46001",
     "name": "Aira",
+    "ja_name": "姶良",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46002",
     "name": "Isa",
+    "ja_name": "伊佐",
     "deleted": true,
+    "deleted_date": "Oct.31,2008",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46003",
     "name": "Izumi",
+    "ja_name": "出水",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46004",
     "name": "Ibusuki",
+    "ja_name": "揖宿",
     "deleted": true,
+    "deleted_date": "Nov.30,2007",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46005",
     "name": "Oshima",
+    "ja_name": "大島",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46006",
     "name": "Kagoshima",
+    "ja_name": "鹿児島",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46007",
     "name": "Kawanabe",
+    "ja_name": "川辺",
     "deleted": true,
+    "deleted_date": "Nov.30,2007",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46008",
     "name": "Kimotsuki",
+    "ja_name": "肝属",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46009",
     "name": "Kumage",
+    "ja_name": "熊毛",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46010",
     "name": "Satsuma",
+    "ja_name": "薩摩",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46011",
     "name": "Soo",
+    "ja_name": "曽於",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "46012",
     "name": "Hioki",
+    "ja_name": "日置",
     "deleted": true,
+    "deleted_date": "Nov.6,2005",
     "pref_code": "46",
     "pref_name": "Kagoshima"
   },
   {
     "code": "47001",
     "name": "Kunigami",
+    "ja_name": "国頭",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "47",
     "pref_name": "Okinawa"
   },
   {
     "code": "47002",
     "name": "Shimajiri",
+    "ja_name": "島尻",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "47",
     "pref_name": "Okinawa"
   },
   {
     "code": "47003",
     "name": "Nakagami",
+    "ja_name": "中頭",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "47",
     "pref_name": "Okinawa"
   },
   {
     "code": "47004",
     "name": "Miyako",
+    "ja_name": "宮古",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "47",
     "pref_name": "Okinawa"
   },
   {
     "code": "47005",
     "name": "Yaeyama",
+    "ja_name": "八重山",
     "deleted": false,
+    "deleted_date": "",
     "pref_code": "47",
     "pref_name": "Okinawa"
   }
