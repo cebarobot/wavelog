@@ -1,5 +1,68 @@
 # JCG 实施历史
 
+## 2026-03-08 - 新增交互式人工补坐标工具
+
+### 已完成
+
+1. 新增脚本：`temp/manual_fill_jcg_coords.py`
+2. 新增文档：`docs/jcg_manual_coord_fill_tool.md`
+
+### 脚本能力
+
+1. 自动扫描 `temp/jcg_with_coords.json` 中缺少 `lat/lon` 的条目。
+2. 逐条显示 `code/name/pref/deleted/error`，等待手动输入 Wikidata QID。
+3. 支持一次输入一个或多个 QID（空格、逗号、分号分隔）。
+4. 抓取每个 QID 的 `P625` 坐标并输出过程日志。
+5. 对所有抓到的坐标点计算平均值，并在确认后写入当前条目。
+6. 每次确认后立即原子写回 JSON，支持随时中断。
+
+### 运行方式
+
+按约定访问 Wikidata 时使用代理：
+
+```bash
+proxychains -q python3 temp/manual_fill_jcg_coords.py
+```
+
+## 2026-03-08 - 新增 JA 源重建与坐标文件同步脚本
+
+### 已完成
+
+1. 新增 `temp/rebuild_jcg_parsed_from_ja.py`
+  - 输入：`temp/jcg-list-ja.txt`
+  - 输出：`temp/jcg_parsed.json`
+  - 相比旧版解析结果新增字段：
+    - `ja_name`（郡名汉字）
+    - `deleted_date`（仅 deleted 条目写入）
+
+2. 新增 `temp/sync_jcg_with_coords_from_parsed.py`
+  - 依据 `jcg_parsed.json` 按 `code` 同步更新 `jcg_with_coords.json`
+  - 保留既有坐标相关字段（`lat/lon/wikidata_id/query_used/error`）
+  - 输出顺序与 `jcg_parsed.json` 保持一致
+
+## 2026-03-08 - 新增 LLM + 维基流水线自动补 deleted 郡坐标脚本
+
+### 已完成
+
+1. 新增 `temp/fill_deleted_coords_with_llm.py`
+   - 仅处理 `lat/lon` 缺失且 `error=name_matched_but_no_coord_deleted` 的条目
+   - 自动执行：
+     - 抓取日文维基郡条目
+     - 调用 LLM 提取消灭时下辖町/村
+     - 在郡条目中匹配这些町/村链接
+     - 访问町/村页面提取 Wikidata QID
+     - 抓取 QID 坐标并求平均后回写
+   - 每处理一个条目立即写入 JSON，支持随时中断
+
+2. 新增文档 `docs/jcg_llm_deleted_coord_fill.md`
+   - 包含环境变量、运行参数和失败原因说明
+
+### 2026-03-08 追加
+
+1. 为 `temp/fill_deleted_coords_with_llm.py` 增加 `--confirm` 人工确认模式。
+2. 在每条写入前展示拟更新的 `municipalities/qids/lat/lon`，并提示 `Apply this update? [Y/n]:`。
+3. 回车默认 `Y`，输入 `n` 时跳过该条并记录 `error=manual_rejected`。
+
 ## 2026-03-07 - Step 3: 获取 JCG 数据与坐标（首轮）
 
 ### 已完成
