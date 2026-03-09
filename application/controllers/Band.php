@@ -165,6 +165,7 @@ class Band extends CI_Controller {
 	    $band['helvetia'] 	= $this->security->xss_clean($this->input->post('helvetia'));
 	    $band['iota'] 		= $this->security->xss_clean($this->input->post('iota'));
 	    $band['jcc'] 		= $this->security->xss_clean($this->input->post('jcc'));
+	    $band['jcg'] 		= $this->security->xss_clean($this->input->post('jcg'));
 	    $band['pota'] 		= $this->security->xss_clean($this->input->post('pota'));
 	    $band['rac'] 		= $this->security->xss_clean($this->input->post('rac'));
 	    $band['sig'] 		= $this->security->xss_clean($this->input->post('sig'));

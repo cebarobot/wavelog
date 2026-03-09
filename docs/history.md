@@ -1,5 +1,37 @@
 # JCG 实施历史
 
+## 2026-03-09 - 完成 Step 4.2 ~ 4.5（控制器、前端、详情联动、Band联动）
+
+### 已完成
+
+1. `Awards.php` 接入 JCG 控制器方法
+- 新增：`jcg()`、`jcg_export()`、`jcg_guns()`、`jcg_map()`
+
+2. 新增 JCG 页面与前端脚本
+- `application/views/awards/jcg/index.php`
+- `assets/js/sections/jcg.js`
+- `assets/js/sections/jcgmap.js`
+
+3. QSO 详情联动（4.4）
+- `application/models/Logbook_model.php`
+- 在 `qso_details` 的类型分支中新增 `case 'JCG'`（`COL_CNTY + COL_DXCC=339`）
+
+4. 菜单与 Band 配置联动（4.5）
+- 菜单：`application/views/interface_assets/header.php`
+  - Japan 子菜单新增 `JCG` 入口
+- Band 迁移：`application/migrations/272_add_jcg_bandxuser.php`
+  - 新增字段：`bandxuser.jcg TINYINT NOT NULL DEFAULT 1`
+- Band 保存链路：
+  - `application/controllers/Band.php`（接收 `jcg`）
+  - `application/models/Bands.php`（`saveBand` 映射加入 `jcg`）
+  - `application/views/bands/index.php`（新增 `JCG` 列 + 总开关）
+  - `assets/js/sections/bands.js`（`saveBand` payload 增加 `jcg`）
+
+### 说明
+
+1. `272_add_jcg_bandxuser.php` 已创建，但需执行项目迁移流程后数据库字段才会生效。
+2. 代码层面已完成 4.4 与 4.5 的接入，后续可直接进入回归验证。
+
 ## 2026-03-08 - 新增交互式人工补坐标工具
 
 ### 已完成
