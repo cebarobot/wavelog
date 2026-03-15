@@ -621,6 +621,10 @@ class Logbook_model extends CI_Model {
 				$this->db->where('COL_CNTY', $searchphrase);
 				$this->db->where('COL_DXCC', '339');
 				break;
+			case 'JCG':
+				$this->db->where('COL_CNTY', $searchphrase);
+				$this->db->where('COL_DXCC', '339');
+				break;
 			case 'SOTA':
 				$this->db->where('COL_SOTA_REF', $searchphrase);
 				break;
