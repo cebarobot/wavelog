@@ -693,10 +693,6 @@ class Jcg_model extends CI_Model {
 
 		if ($postdata['notworked'] == NULL) {
 			if (isset($bandJcg)) {
-	/*
-	 * Function returns all worked, but not confirmed guns.
-	 * $postdata contains data from the form, e.g. LoTW/QSL confirmation filters.
-	 */
 				foreach ($jcgArray as $gun) {
 					if ($guns[$gun]['count'] == 0) {
 						unset($bandJcg[$gun]);
@@ -712,58 +708,10 @@ class Jcg_model extends CI_Model {
 		}
 	}
 
-	function getJcgBandConfirmed($location_list, $band, $postdata) {
-		$bindings = array();
-		$sql = "select adif as waja, name from dxcc_entities
-			join (
-				select col_dxcc from " . $this->config->item('table_name') . " thcv
-				where station_id in (" . $location_list . ") and col_dxcc > 0";
-		$sql .= $this->genfunctions->addBandToQuery($band, $bindings);
-
-		if ($postdata['mode'] != 'All') {
-			$sql .= " and (col_mode = ? or col_submode = ?)";
-			$bindings[] = $postdata['mode'];
-			$bindings[] = $postdata['mode'];
-		}
-
-		$sql .= $this->genfunctions->addQslToQuery($postdata);
-		$sql .= " group by col_dxcc
-				) x on dxcc_entities.adif = x.col_dxcc";
-
-		if ($postdata['includedeleted'] == NULL) {
-			$sql .= " and dxcc_entities.end is null";
-		}
-
-		$query = $this->db->query($sql, $bindings);
-		return $query->result();
-	}
-
-	function getJcgBandWorked($location_list, $band, $postdata) {
-		$bindings = array();
-		$sql = "select adif as waja, name from dxcc_entities
-			join (
-				select col_dxcc from " . $this->config->item('table_name') . " thcv
-				where station_id in (" . $location_list . ") and col_dxcc > 0";
-
-		$sql .= $this->genfunctions->addBandToQuery($band, $bindings);
-
-		if ($postdata['mode'] != 'All') {
-			$sql .= " and (col_mode = ? or col_submode = ?)";
-			$bindings[] = $postdata['mode'];
-			$bindings[] = $postdata['mode'];
-		}
-
-		$sql .= " group by col_dxcc
-				) x on dxcc_entities.adif = x.col_dxcc";
-
-		if ($postdata['includedeleted'] == NULL) {
-			$sql .= " and dxcc_entities.end is null";
-		}
-
-		$query = $this->db->query($sql, $bindings);
-		return $query->result();
-	}
-
+	/*
+	 * Function returns all worked, but not confirmed guns.
+	 * $postdata contains data from the form, e.g. LoTW/QSL confirmation filters.
+	 */
 	function getJcgWorked($location_list, $band, $postdata) {
 		$bindings = array();
 		$sql = "SELECT distinct col_cnty FROM " . $this->config->item('table_name') . " thcv
