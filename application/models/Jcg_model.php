@@ -913,16 +913,12 @@ class Jcg_model extends CI_Model {
 	 * Restrict queries to valid Japan/JCG entities only.
 	 */
 	function addStateToQuery() {
-		if (empty($this->jaGuns)) {
-			return " and 1=0";
-		}
-
 		$keys = array_map(function ($key) {
 			return $this->db->escape((string) $key);
 		}, array_keys($this->jaGuns));
 
 		$sql = '';
-		$sql .= " and COL_DXCC in ('339')";
+		$sql .= " and COL_DXCC in ('339', '177', '192')";   // Japan, Minami Torishima, Ogasawara
 		$sql .= " and COL_CNTY LIKE '_____'";
 		$sql .= " and COL_CNTY in (" . implode(',', $keys) . ")";
 		return $sql;
