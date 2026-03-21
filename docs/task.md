@@ -9,9 +9,9 @@
 ## 总体待办任务列表
 
 * [ ] JCC/JCG 改进
-  * [ ] 将 JCC/JCG 数据从 PHP 的 models 移动到单独的 JSON
-    * [ ] 整理 JCC、JCG 相关数据
-    * [ ] 处理现有的与 JCC/JCG 数据相关的 API
+  * [x] 将 JCC/JCG 数据从 PHP 的 models 移动到单独的 JSON
+    * [x] 整理 JCC、JCG 相关数据
+    * [x] 处理现有的与 JCC/JCG 数据相关的 API
   * [ ] 将 JCC/JCG 的代码进行合并，避免一份代码在多个地方使用
     * [ ] 合并 PHP 中的代码
     * [ ] 合并 js 中的代码

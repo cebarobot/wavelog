@@ -42,3 +42,25 @@
 
 - 已按确认要求保留 `ku_list.json` 的 `deleted` / `deleted_date`。
 - 罗马字均以 JARL 列表原文为准。
+
+## 2026-03-22：JCC/JCG 现有 API/前端链路收尾
+
+### 已完成
+
+1. JCC/JCG 地图数据加载链路改造完成：
+   - `assets/js/sections/jccmap.js` 直接读取 `assets/json/japan_award/jcc_list.json`
+   - `assets/js/sections/jcgmap.js` 直接读取 `assets/json/japan_award/jcg_list.json`
+
+2. 移除不必要的 JSON -> PHP 数组 -> JSON 中转链路：
+   - `application/models/Jcc_model.php` 移除中转方法（仅保留 JSON 加载与业务查询逻辑）
+   - `application/models/Jcg_model.php` 移除中转方法（仅保留 JSON 加载与业务查询逻辑）
+   - `application/controllers/Awards.php` 中对应接口改为直接输出静态 JSON 文件
+
+3. 模型中的 JSON 加载逻辑进一步简化：
+   - `loadJccDataFromJson()` 与 `loadJcgDataFromJson()` 改为直接解码赋值，避免冗余分支。
+
+### 结果
+
+- 当前“将 JCC/JCG 数据从 PHP 的 models 移动到单独的 JSON”子任务的两项子要求已完成：
+  - 整理 JCC/JCG 数据
+  - 处理现有相关 API
