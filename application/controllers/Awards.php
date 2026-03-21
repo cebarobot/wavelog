@@ -426,7 +426,7 @@ class Awards extends CI_Controller {
 		$data['jcc_summary'] = $this->jcc_model->get_entity_summary($bands, $postdata);
 
 		// Render Page
-		$data['page_title'] = sprintf(__("Awards 0227 - %s"), __("JCC"));
+		$data['page_title'] = sprintf(__("Awards - %s"), __("JCC"));
 		$this->load->view('interface_assets/header', $data);
 		$this->load->view('awards/jcc/index');
 		$this->load->view('interface_assets/footer', $footerData);

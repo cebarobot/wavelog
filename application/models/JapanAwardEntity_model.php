@@ -19,10 +19,7 @@ class JapanAwardEntity_model extends CI_Model {
 		$this->load->model('logbooks_model');
 		$logbooks_locations_array = $this->logbooks_model->list_logbook_relationships($this->session->userdata('active_station_logbook'));
 		$this->location_list = "'" . implode("','", $logbooks_locations_array) . "'";
-	}
 
-	protected function initializeEntityConfig($config) {
-		$this->entityConfig = array_merge($this->entityConfig, $config);
 		$this->loadEntityDataFromJson();
 	}
 
