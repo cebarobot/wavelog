@@ -20,34 +20,6 @@ class Jcc_model extends JapanAwardEntity_model {
 
 		$this->jaCities = $this->entityData;
 	}
-
-	function get_jcc_array($bands, $postdata) {
-		return $this->get_entity_array($bands, $postdata);
-	}
-
-	function getJccWorked($location_list, $band, $postdata) {
-		return $this->getWorked($location_list, $band, $postdata);
-	}
-
-	function getJccConfirmed($location_list, $band, $postdata) {
-		return $this->getConfirmed($location_list, $band, $postdata);
-	}
-
-	function get_jcc_summary($bands, $postdata) {
-		return $this->get_entity_summary($bands, $postdata);
-	}
-
-	function exportJcc($postdata) {
-		return $this->exportEntities($postdata);
-	}
-
-	function fetch_jcc_wkd($postdata) {
-		return $this->fetch_entity_wkd($postdata);
-	}
-
-	function fetch_jcc_cnfm($postdata) {
-		return $this->fetch_entity_cnfm($postdata);
-	}
 }
 
 ?>

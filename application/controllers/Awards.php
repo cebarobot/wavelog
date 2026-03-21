@@ -422,8 +422,8 @@ class Awards extends CI_Controller {
 			$postdata['mode'] = 'All';
 		}
 
-		$data['jcc_array'] = $this->jcc_model->get_jcc_array($bands, $postdata);
-		$data['jcc_summary'] = $this->jcc_model->get_jcc_summary($bands, $postdata);
+		$data['jcc_array'] = $this->jcc_model->get_entity_array($bands, $postdata);
+		$data['jcc_summary'] = $this->jcc_model->get_entity_summary($bands, $postdata);
 
 		// Render Page
 		$data['page_title'] = sprintf(__("Awards 0227 - %s"), __("JCC"));
@@ -445,7 +445,7 @@ class Awards extends CI_Controller {
 		$postdata['band'] = $this->security->xss_clean($this->input->post('band'));
 		$postdata['mode'] = $this->security->xss_clean($this->input->post('mode'));
 
-		$qsos = $this->Jcc_model->exportJcc($postdata);
+		$qsos = $this->Jcc_model->exportEntities($postdata);
 
 		$fp = fopen( 'php://output', 'w' );
 		$i=1;
@@ -511,8 +511,8 @@ class Awards extends CI_Controller {
 			$postdata['mode'] = 'All';
 		}
 
-		$data['jcg_array'] = $this->jcg_model->get_jcg_array($bands, $postdata);
-		$data['jcg_summary'] = $this->jcg_model->get_jcg_summary($bands, $postdata);
+		$data['jcg_array'] = $this->jcg_model->get_entity_array($bands, $postdata);
+		$data['jcg_summary'] = $this->jcg_model->get_entity_summary($bands, $postdata);
 
 		$data['page_title'] = sprintf(__("Awards - %s"), __("JCG"));
 		$this->load->view('interface_assets/header', $data);
@@ -533,7 +533,7 @@ class Awards extends CI_Controller {
 		$postdata['band'] = $this->security->xss_clean($this->input->post('band'));
 		$postdata['mode'] = $this->security->xss_clean($this->input->post('mode'));
 
-		$qsos = $this->Jcg_model->exportJcg($postdata);
+		$qsos = $this->Jcg_model->exportEntities($postdata);
 
 		$fp = fopen('php://output', 'w');
 		$i = 1;
@@ -1929,8 +1929,8 @@ class Awards extends CI_Controller {
 	    $postdata['band'] = $this->security->xss_clean($this->input->post('band'));
 	    $postdata['mode'] = $this->security->xss_clean($this->input->post('mode'));
 
-	    $jcc_wkd = $this->jcc_model->fetch_jcc_wkd($postdata);
-	    $jcc_cnfm = $this->jcc_model->fetch_jcc_cnfm($postdata);
+	    $jcc_wkd = $this->jcc_model->fetch_entity_wkd($postdata);
+	    $jcc_cnfm = $this->jcc_model->fetch_entity_cnfm($postdata);
 
 	    $jccs = [];
 	    foreach ($jcc_wkd as $jcc) {
@@ -1965,8 +1965,8 @@ class Awards extends CI_Controller {
 	    $postdata['band'] = $this->security->xss_clean($this->input->post('band'));
 	    $postdata['mode'] = $this->security->xss_clean($this->input->post('mode'));
 
-	    $jcg_wkd = $this->jcg_model->fetch_jcg_wkd($postdata);
-	    $jcg_cnfm = $this->jcg_model->fetch_jcg_cnfm($postdata);
+	    $jcg_wkd = $this->jcg_model->fetch_entity_wkd($postdata);
+	    $jcg_cnfm = $this->jcg_model->fetch_entity_cnfm($postdata);
 
 	    $jcgs = [];
 	    foreach ($jcg_wkd as $jcg) {
