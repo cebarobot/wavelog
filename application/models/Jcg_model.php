@@ -9,10 +9,13 @@ class Jcg_model extends CI_Model {
 		$this->load->model('logbooks_model');
 		$logbooks_locations_array = $this->logbooks_model->list_logbook_relationships($this->session->userdata('active_station_logbook'));
 		$this->location_list = "'" . implode("','", $logbooks_locations_array) . "'";
+        $this->loadJcgDataFromJson();
 	}
 
-	// TODO: Fill JCG master data.
-	public $jaGuns = array(
+    public $jaGuns = array();
+
+    /* Legacy inline JCG dataset retained temporarily for reference.
+    public $jaGuns = array(
         '01001' => array('name' => 'Akan', 'lat' => 43.230150, 'lon' => 144.321125, 'deleted' => false),
         '01002' => array('name' => 'Ashoro', 'lat' => 43.415556, 'lon' => 143.618333, 'deleted' => false),
         '01003' => array('name' => 'Atsukeshi', 'lat' => 43.135743, 'lon' => 144.916261, 'deleted' => false),
@@ -637,6 +640,43 @@ class Jcg_model extends CI_Model {
         '47004' => array('name' => 'Miyako', 'lat' => 24.653889, 'lon' => 124.695000, 'deleted' => false),
         '47005' => array('name' => 'Yaeyama', 'lat' => 24.274444, 'lon' => 123.866111, 'deleted' => false),
     );
+	*/
+
+    private function loadJcgDataFromJson() {
+        $path = FCPATH . 'assets/json/japan_award/jcg_list.json';
+        if (!is_readable($path)) {
+            return;
+        }
+
+        $content = file_get_contents($path);
+        if ($content === false) {
+            return;
+        }
+
+        $decoded = json_decode($content, true);
+        if (!is_array($decoded)) {
+            return;
+        }
+
+        $data = array();
+        foreach ($decoded as $code => $row) {
+            if (!is_array($row)) {
+                continue;
+            }
+            $data[(string)$code] = array(
+                'name' => $row['name'] ?? '',
+                'ja_name' => $row['ja_name'] ?? '',
+                'deleted' => (bool)($row['deleted'] ?? false),
+                'deleted_date' => $row['deleted_date'] ?? '',
+                'lat' => $row['lat'] ?? null,
+                'lon' => $row['lon'] ?? null,
+            );
+        }
+
+        if (!empty($data)) {
+            $this->jaGuns = $data;
+        }
+    }
 
 	/*
 	 * Build the JCG table dataset for the award page.

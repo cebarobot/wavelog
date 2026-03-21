@@ -9,8 +9,12 @@ class Jcc_model extends CI_Model {
 		$this->load->model('logbooks_model');
 		$logbooks_locations_array = $this->logbooks_model->list_logbook_relationships($this->session->userdata('active_station_logbook'));
 		$this->location_list = "'".implode("','",$logbooks_locations_array)."'";
+		$this->loadJccDataFromJson();
 	}
 
+	public $jaCities = array();
+
+	/* Legacy inline JCC dataset retained temporarily for reference.
 	public $jaCities = array(
 		'0101' => array( 'name' => 'Sapporo', 'lat' => 43.061936, 'lon' => 141.3542924),
 		'0102' => array( 'name' => 'Asahikawa', 'lat' => 43.7627501, 'lon' => 142.3579263),
@@ -927,6 +931,43 @@ class Jcc_model extends CI_Model {
 		'4714' => array( 'name' => 'Miyakojima', 'lat' => 24.8054647, 'lon' => 125.2811296),
 		'4715' => array( 'name' => 'Nanjo', 'lat' => 26.1625434, 'lon' => 127.771152)
 	);
+	*/
+
+	private function loadJccDataFromJson() {
+		$path = FCPATH . 'assets/json/japan_award/jcc_list.json';
+		if (!is_readable($path)) {
+			return;
+		}
+
+		$content = file_get_contents($path);
+		if ($content === false) {
+			return;
+		}
+
+		$decoded = json_decode($content, true);
+		if (!is_array($decoded)) {
+			return;
+		}
+
+		$data = array();
+		foreach ($decoded as $code => $row) {
+			if (!is_array($row)) {
+				continue;
+			}
+			$data[(string)$code] = array(
+				'name' => $row['name'] ?? '',
+				'ja_name' => $row['ja_name'] ?? '',
+				'deleted' => (bool)($row['deleted'] ?? false),
+				'deleted_date' => $row['deleted_date'] ?? '',
+				'lat' => $row['lat'] ?? null,
+				'lon' => $row['lon'] ?? null,
+			);
+		}
+
+		if (!empty($data)) {
+			$this->jaCities = $data;
+		}
+	}
 
 	function get_jcc_array($bands, $postdata) {
 
@@ -1158,10 +1199,18 @@ class Jcc_model extends CI_Model {
 
 
 	function addStateToQuery() {
+		if (empty($this->jaCities)) {
+			return " and 1 = 0";
+		}
+
+		$keys = array_map(function ($key) {
+			return $this->db->escape((string) $key);
+		}, array_keys($this->jaCities));
+
 		$sql = '';
 		$sql .= " and COL_DXCC in ('339')";
 		$sql .= " and (COL_CNTY LIKE '____' OR COL_CNTY LIKE '10____')";
-		$sql .= " and COL_CNTY in (".implode(',', array_keys($this->jaCities)).")";
+		$sql .= " and COL_CNTY in (" . implode(',', $keys) . ")";
 		return $sql;
 	}
 
