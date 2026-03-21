@@ -101,3 +101,25 @@
 
 - 本轮仅涉及 PHP model 层，不包含 JS 合并。
 - 兼容层策略已生效：重构集中在 model 内部，对上层接口保持稳定。
+
+## 2026-03-22：JCC/JCG Model 合并（PHP）第二轮收敛
+
+### 已完成
+
+1. 去除 `initializeEntityConfig` 显式注入调用：
+   - `application/models/JapanAwardEntity_model.php`
+   - 父类构造中自动合并默认配置与子类配置，并自动加载 JSON。
+
+2. JCC/JCG 子类改为“属性声明配置”风格：
+   - `application/models/Jcc_model.php`
+   - `application/models/Jcg_model.php`
+   - 子类仅保留配置属性与数据别名赋值，不再传入配置数组。
+
+3. `workedBandsKey` 暂时保持原样：
+   - JCC: `jcc`
+   - JCG: `jcg`
+
+### 说明
+
+- 当前模型结构更接近“基类 + 子类声明配置”的目标形态。
+- 本轮未引入 JS 层改动。
