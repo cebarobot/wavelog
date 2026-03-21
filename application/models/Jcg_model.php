@@ -643,39 +643,7 @@ class Jcg_model extends CI_Model {
 	*/
 
     private function loadJcgDataFromJson() {
-        $path = FCPATH . 'assets/json/japan_award/jcg_list.json';
-        if (!is_readable($path)) {
-            return;
-        }
-
-        $content = file_get_contents($path);
-        if ($content === false) {
-            return;
-        }
-
-        $decoded = json_decode($content, true);
-        if (!is_array($decoded)) {
-            return;
-        }
-
-        $data = array();
-        foreach ($decoded as $code => $row) {
-            if (!is_array($row)) {
-                continue;
-            }
-            $data[(string)$code] = array(
-                'name' => $row['name'] ?? '',
-                'ja_name' => $row['ja_name'] ?? '',
-                'deleted' => (bool)($row['deleted'] ?? false),
-                'deleted_date' => $row['deleted_date'] ?? '',
-                'lat' => $row['lat'] ?? null,
-                'lon' => $row['lon'] ?? null,
-            );
-        }
-
-        if (!empty($data)) {
-            $this->jaGuns = $data;
-        }
+        $this->jaGuns = json_decode(file_get_contents(FCPATH . 'assets/json/japan_award/jcg_list.json'), true);
     }
 
 	/*
@@ -1016,10 +984,6 @@ class Jcg_model extends CI_Model {
 		$sql .= ' ORDER BY COL_CNTY ASC';
 		$query = $this->db->query($sql, $bindings);
 		return $query->result();
-	}
-
-	function jcgGuns() {
-		return $this->jaGuns;
 	}
 
 }

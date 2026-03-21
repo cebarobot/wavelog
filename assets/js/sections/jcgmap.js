@@ -71,7 +71,7 @@ function load_jcg_map2(data, worked, confirmed, notworked) {
     var jcgstuff = {};
     $.ajax({
        dataType: "json",
-       url: base_url + 'index.php/awards/jcg_guns',
+         url: base_url + 'assets/json/japan_award/jcg_list.json',
        async: false,
        success: function(result) {
           for (var item in result) {

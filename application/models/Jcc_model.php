@@ -934,39 +934,7 @@ class Jcc_model extends CI_Model {
 	*/
 
 	private function loadJccDataFromJson() {
-		$path = FCPATH . 'assets/json/japan_award/jcc_list.json';
-		if (!is_readable($path)) {
-			return;
-		}
-
-		$content = file_get_contents($path);
-		if ($content === false) {
-			return;
-		}
-
-		$decoded = json_decode($content, true);
-		if (!is_array($decoded)) {
-			return;
-		}
-
-		$data = array();
-		foreach ($decoded as $code => $row) {
-			if (!is_array($row)) {
-				continue;
-			}
-			$data[(string)$code] = array(
-				'name' => $row['name'] ?? '',
-				'ja_name' => $row['ja_name'] ?? '',
-				'deleted' => (bool)($row['deleted'] ?? false),
-				'deleted_date' => $row['deleted_date'] ?? '',
-				'lat' => $row['lat'] ?? null,
-				'lon' => $row['lon'] ?? null,
-			);
-		}
-
-		if (!empty($data)) {
-			$this->jaCities = $data;
-		}
+		$this->jaCities = json_decode(file_get_contents(FCPATH . 'assets/json/japan_award/jcc_list.json'), true);
 	}
 
 	function get_jcc_array($bands, $postdata) {
@@ -1295,10 +1263,6 @@ class Jcc_model extends CI_Model {
 		$sql .= ' ORDER BY COL_CNTY ASC';
 		$query = $this->db->query($sql,$bindings);
 		return $query->result();
-	}
-
-	function jccCities() {
-		return $this->jaCities;
 	}
 
 }
