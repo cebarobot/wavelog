@@ -4,7 +4,7 @@
 改进 Wavelog 中由 JARL 颁发的日本业余无线电奖状，包括但不限于 AJD、WAJA、JCC (WACA)、JCG (WAGA)、WAKU、AJA 等。
 
 ## 当前任务：
-将 JCC/JCG 数据从 PHP 的 models 移动到单独的 JSON
+将 JCC/JCG 的代码进行合并，避免一份代码在多个地方使用
 
 ## 总体待办任务列表
 
@@ -32,6 +32,7 @@
 * 这些奖项的描述可以在这里找到：https://www.jarl.org/English/4_Library/A-4-2_Awards/award_list.htm
 
 ### JCC/JCG 改进
+#### 将 JCC/JCG 数据从 PHP 的 models 移动到单独的 JSON
 * JCC/JCG/Ku 的列表：
   * JCC list: https://www.jarl.org/Japanese/A_Shiryo/A-2_jcc-jcg/jcc-list.txt
   * JCG list: https://www.jarl.org/Japanese/A_Shiryo/A-2_jcc-jcg/jcg-list.txt
@@ -61,3 +62,8 @@ JSON 的格式类似于：
 }
 ```
 * 都道府县（Prefecture）不要坐标，不要是否删除/删除时间（因为不存在此类情形）。
+
+#### 将 JCC/JCG 的代码进行合并，避免一份代码在多个地方使用
+
+此任务目标是在逻辑几乎一致的 JCC/JCG 中践行 DRY（Don't Repeat Yourself）原则。
+

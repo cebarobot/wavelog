@@ -64,3 +64,40 @@
 - 当前“将 JCC/JCG 数据从 PHP 的 models 移动到单独的 JSON”子任务的两项子要求已完成：
   - 整理 JCC/JCG 数据
   - 处理现有相关 API
+
+## 2026-03-22：JCC/JCG Model 合并（PHP）第一轮落地
+
+### 已完成
+
+1. 新增通用基础模型：
+   - `application/models/JapanAwardEntity_model.php`
+   - 抽离并统一了 JCC/JCG 的公共逻辑：
+     - 表格数据构建（worked/confirmed/notworked）
+     - worked/confirmed 查询
+     - summary 统计
+     - export 与首条 QSO 获取
+     - 地图 worked/confirmed 数据查询
+
+2. JCC/JCG 模型改为兼容层：
+   - `application/models/Jcc_model.php`
+   - `application/models/Jcg_model.php`
+   - 保留原有对外方法名与调用方式，控制器/视图无需改动。
+
+3. 修复历史参数问题并统一参数入口：
+   - JCC 不再使用 `get_worked_bands('was')`。
+   - JCC/JCG 均改为使用 `get_worked_bands('japan_award')`。
+
+4. 在 `application/models/Bands.php` 增加 `japan_award` 映射逻辑：
+   - 优先兼容 `jcc`/`jcg` 字段并支持缺字段回退。
+   - 避免强依赖额外数据库迁移。
+
+5. DXCC 过滤统一：
+   - JCC/JCG 统一采用 `339/177/192`。
+
+6. 清理迁移：
+   - 移除未合入主线且本方案不再依赖的 `application/migrations/273_add_jcg_bandxuser.php`。
+
+### 说明
+
+- 本轮仅涉及 PHP model 层，不包含 JS 合并。
+- 兼容层策略已生效：重构集中在 model 内部，对上层接口保持稳定。
