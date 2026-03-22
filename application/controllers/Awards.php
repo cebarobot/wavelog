@@ -451,7 +451,7 @@ class Awards extends CI_Controller {
 		$i=1;
 		fputcsv($fp, array('No', 'Callsign', 'Date', 'Band', 'Mode', 'Remarks'), escape: '\\');
 		foreach ($qsos as $qso) {
-			fputcsv($fp, array($i, $qso['call'], $qso['date'], ($qso['prop_mode'] != null ? $qso['band'].' / '.$qso['prop_mode'] : $qso['band']), $qso['mode'], $qso['cnty'].' - '.$qso['jcc']), escape: '\\');
+			fputcsv($fp, array($i, $qso['call'], $qso['date'], ($qso['prop_mode'] != null ? $qso['band'].' / '.$qso['prop_mode'] : $qso['band']), $qso['mode'], $qso['entity_number'].' - '.$qso['entity_name']), escape: '\\');
 			$i++;
 		}
 		fclose($fp);
@@ -539,7 +539,7 @@ class Awards extends CI_Controller {
 		$i = 1;
 		fputcsv($fp, array('No', 'Callsign', 'Date', 'Band', 'Mode', 'Remarks'), escape: '\\');
 		foreach ($qsos as $qso) {
-			fputcsv($fp, array($i, $qso['call'], $qso['date'], ($qso['prop_mode'] != null ? $qso['band'] . ' / ' . $qso['prop_mode'] : $qso['band']), $qso['mode'], $qso['cnty'] . ' - ' . $qso['jcg']), escape: '\\');
+			fputcsv($fp, array($i, $qso['call'], $qso['date'], ($qso['prop_mode'] != null ? $qso['band'] . ' / ' . $qso['prop_mode'] : $qso['band']), $qso['mode'], $qso['entity_number'] . ' - ' . $qso['entity_name']), escape: '\\');
 			$i++;
 		}
 		fclose($fp);

@@ -7,8 +7,6 @@ class JapanAwardEntity_model extends CI_Model {
 	protected $entityConfig = array(
 		'awardType' => '',
 		'jsonPath' => '',
-		'entityLabel' => 'Entity',
-		'exportKey' => 'entity',
 		'workedBandsKey' => 'jcc',
 		'cntyPatternSql' => '',
 		'dxccList' => array('339', '177', '192'),
@@ -43,7 +41,7 @@ class JapanAwardEntity_model extends CI_Model {
 		foreach ($bands as $band) {
 			foreach ($entityArray as $entity) {
 				$bandEntity[$entity]['Number'] = $entity;
-				$bandEntity[$entity][$this->entityConfig['entityLabel']] = $this->entityData[$entity]['name'];
+				$bandEntity[$entity]['EntityName'] = $this->entityData[$entity]['name'];
 				$bandEntity[$entity][$band] = '-';
 			}
 
@@ -289,8 +287,8 @@ class JapanAwardEntity_model extends CI_Model {
 					'band' => $qso[0]->COL_BAND,
 					'mode' => $qso[0]->COL_MODE,
 					'prop_mode' => $qso[0]->COL_PROP_MODE,
-					'cnty' => $qso[0]->COL_CNTY,
-					$this->entityConfig['exportKey'] => isset($this->entityData[$qso[0]->COL_CNTY]) ? $this->entityData[$qso[0]->COL_CNTY]['name'] : '',
+					'entity_number' => $qso[0]->COL_CNTY,
+					'entity_name' => $this->entityData[$qso[0]->COL_CNTY]['name'],
 				);
 			}
 		}
