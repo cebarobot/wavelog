@@ -12,10 +12,10 @@ if (typeof(user_map_custom.unworked) !== 'undefined') {
    unworkedColor = user_map_custom.unworked.color;
 }
 
-function load_jcc_map() {
-    $('.nav-tabs a[href="#jccmaptab"]').tab('show');
+function load_jcg_map() {
+    $('.nav-tabs a[href="#jcgmaptab"]').tab('show');
     $.ajax({
-        url: base_url + 'index.php/awards/jcc_map',
+        url: base_url + 'index.php/awards/jcg_map',
         type: 'post',
         data: {
             band: $('#band2').val(),
@@ -30,7 +30,7 @@ function load_jcc_map() {
             eqsl: +$('#eqsl').prop('checked'),
         },
         success: function(data) {
-            load_jcc_map2(data, worked, confirmed, notworked);
+            load_jcg_map2(data, worked, confirmed, notworked);
         },
         error: function() {
 
@@ -38,18 +38,18 @@ function load_jcc_map() {
     });
 }
 
-function load_jcc_map2(data, worked, confirmed, notworked) {
+function load_jcg_map2(data, worked, confirmed, notworked) {
 
     // If map is already initialized
-    var container = L.DomUtil.get('jccmap');
+    var container = L.DomUtil.get('jcgmap');
 
     if(container != null){
         container._leaflet_id = null;
         container.remove();
-        $("#jccmaptab").append('<div id="jccmap" class="map-leaflet" ></div>');
+        $("#jcgmaptab").append('<div id="jcgmap" class="map-leaflet" ></div>');
     }
 
-    var map = new L.Map('jccmap', {
+    var map = new L.Map('jcgmap', {
         fullscreenControl: true,
         fullscreenControlOptions: {
           position: 'topleft'
@@ -68,19 +68,19 @@ function load_jcc_map2(data, worked, confirmed, notworked) {
     var confirmedcount = 0;
     var workednotconfirmedcount = 0;
 
-    var jccstuff = {};
+    var jcgstuff = {};
     $.ajax({
        dataType: "json",
-         url: base_url + 'assets/json/japan_award/jcc_list.json',
+         url: base_url + 'assets/json/japan_award/jcg_list.json',
        async: false,
        success: function(result) {
           for (var item in result) {
              var name = item.toString();
-             jccstuff[name] = [result[item]['name'], result[item]['lat'], result[item]['lon']];
+             jcgstuff[name] = [result[item]['name'], result[item]['lat'], result[item]['lon']];
           }
        }
     });
-    for (const [key, value] of Object.entries(jccstuff)) {
+    for (const [key, value] of Object.entries(jcgstuff)) {
        var D = [];
        if (key in data) {
           if (confirmed.checked == true) {
@@ -175,5 +175,5 @@ function addMarker(L, D, mapColor, map) {
 
 function onClick(e) {
     var marker = e.target;
-    displayContactsOnMap($("#jccmap"),marker.options.prefix, $('#band2').val(), 'All', 'All', $('#mode').val(), 'JCC');
+    displayContactsOnMap($("#jcgmap"), marker.options.prefix, $('#band2').val(), 'All', 'All', $('#mode').val(), 'JCG');
 }

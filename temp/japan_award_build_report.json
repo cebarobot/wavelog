@@ -1,0 +1,12 @@
+{
+  "pref_count": 47,
+  "jcc_count": 914,
+  "jcg_count": 623,
+  "ku_count": 183,
+  "missing_jcc_coords_count": 0,
+  "missing_jcg_coords_count": 1,
+  "missing_jcc_coords": [],
+  "missing_jcg_coords": [
+    "09013"
+  ]
+}

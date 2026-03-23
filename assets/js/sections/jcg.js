@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	$('#jccTable').DataTable({
+	$('#jcgTable').DataTable({
         "pageLength": 25,
         responsive: false,
         ordering: false,
@@ -19,7 +19,7 @@ $(document).ready(function () {
 
 function export_qsos() {
    $.ajax({
-       url: base_url + 'index.php/awards/jcc_export',
+       url: base_url + 'index.php/awards/jcg_export',
        type: 'post',
        xhrFields: {
           responseType: 'text/csv;charset=utf8',
