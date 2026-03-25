@@ -27,6 +27,7 @@ function export_qsos() {
        data: {
            band: $('#band2').val(),
            mode: $('#mode').val(),
+           prop_mode: $('#prop_mode').val(),
            worked: +$('#worked').prop('checked'),
            confirmed: +$('#confirmed').prop('checked'),
            notworked: +$('#notworked').prop('checked'),

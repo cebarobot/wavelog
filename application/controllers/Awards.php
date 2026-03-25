@@ -408,6 +408,7 @@ class Awards extends CI_Controller {
 			$postdata['includedeleted'] = $this->security->xss_clean($this->input->post('includedeleted'));
 			$postdata['band'] = $this->security->xss_clean($this->input->post('band'));
 			$postdata['mode'] = $this->security->xss_clean($this->input->post('mode'));
+			$postdata['prop_mode'] = $this->security->xss_clean($this->input->post('prop_mode'));
 		} else { // Setting default values at first load of page
 			$postdata['qsl'] = 1;
 			$postdata['lotw'] = 1;
@@ -420,6 +421,7 @@ class Awards extends CI_Controller {
 			$postdata['includedeleted'] = 0;
 			$postdata['band'] = 'All';
 			$postdata['mode'] = 'All';
+			$postdata['prop_mode'] = 'All';
 		}
 
 		$data['jcc_array'] = $this->jcc_model->get_jcc_array($bands, $postdata);
@@ -444,8 +446,9 @@ class Awards extends CI_Controller {
 		$postdata['notworked'] = $this->security->xss_clean($this->input->post('notworked'));
 		$postdata['band'] = $this->security->xss_clean($this->input->post('band'));
 		$postdata['mode'] = $this->security->xss_clean($this->input->post('mode'));
+		$postdata['prop_mode'] = $this->security->xss_clean($this->input->post('prop_mode'));
 
-		$qsos = $this->Jcc_model->exportJcc($postdata);
+		$qsos = $this->Jcc_model->export_jcc($postdata);
 
 		$fp = fopen( 'php://output', 'w' );
 		$i=1;
@@ -1928,6 +1931,7 @@ class Awards extends CI_Controller {
 	    $postdata['notworked'] = $this->input->post('notworked')  == 0 ? NULL: 1;
 	    $postdata['band'] = $this->security->xss_clean($this->input->post('band'));
 	    $postdata['mode'] = $this->security->xss_clean($this->input->post('mode'));
+	    $postdata['prop_mode'] = $this->security->xss_clean($this->input->post('prop_mode'));
 
 	    $jcc_wkd = $this->jcc_model->fetch_jcc_wkd($postdata);
 	    $jcc_cnfm = $this->jcc_model->fetch_jcc_cnfm($postdata);
@@ -1943,6 +1947,82 @@ class Awards extends CI_Controller {
 	    header('Content-Type: application/json');
 	    echo json_encode($jccs);
     }
+
+	/*
+		function jcc_entity_status_debug
+		Temporary HTML debug page for entity_status SQL and result
+	*/
+	public function jcc_entity_status_debug() {
+		if (ENVIRONMENT === 'production') {
+			show_404();
+			return;
+		}
+
+		$this->load->model('jcc_model');
+
+		$key_col = $this->input->get_post('key_col', true);
+		if ($key_col !== 'band' && $key_col !== 'mode') {
+			$key_col = 'none';
+		}
+
+		$postdata = array();
+		$postdata['qsl'] = ($this->input->get_post('qsl', true) ?? 0) == 0 ? null : 1;
+		$postdata['lotw'] = ($this->input->get_post('lotw', true) ?? 0) == 0 ? null : 1;
+		$postdata['eqsl'] = ($this->input->get_post('eqsl', true) ?? 0) == 0 ? null : 1;
+		$postdata['qrz'] = ($this->input->get_post('qrz', true) ?? 0) == 0 ? null : 1;
+		$postdata['clublog'] = ($this->input->get_post('clublog', true) ?? 0) == 0 ? null : 1;
+		$postdata['dcl'] = ($this->input->get_post('dcl', true) ?? 0) == 0 ? null : 1;
+		$postdata['band'] = $this->security->xss_clean($this->input->get_post('band', true) ?? 'All');
+		$postdata['mode'] = $this->security->xss_clean($this->input->get_post('mode', true) ?? 'All');
+		$postdata['prop_mode'] = $this->security->xss_clean($this->input->get_post('prop_mode', true) ?? 'All');
+
+		$debug = $this->jcc_model->get_entity_status_debug_data($postdata, $key_col);
+
+		header('Content-Type: text/html; charset=UTF-8');
+		echo '<!doctype html><html><head><meta charset="UTF-8"><title>JCC Entity Status Debug</title>';
+		echo '<style>body{font-family:Arial,sans-serif;margin:20px;line-height:1.4}pre{background:#f6f8fa;padding:12px;white-space:pre-wrap;border:1px solid #ddd;border-radius:6px}table{border-collapse:collapse;width:100%}th,td{border:1px solid #ddd;padding:8px;text-align:left}th{background:#f2f2f2}.meta{margin-bottom:10px;color:#333}</style>';
+		echo '</head><body>';
+		echo '<h1>JCC Entity Status Debug</h1>';
+		echo '<div class="meta"><strong>key_col:</strong> ' . htmlspecialchars($key_col, ENT_QUOTES, 'UTF-8') . '</div>';
+		echo '<div class="meta"><strong>filters:</strong> band=' . htmlspecialchars((string) $postdata['band'], ENT_QUOTES, 'UTF-8') . ', mode=' . htmlspecialchars((string) $postdata['mode'], ENT_QUOTES, 'UTF-8') . ', prop_mode=' . htmlspecialchars((string) $postdata['prop_mode'], ENT_QUOTES, 'UTF-8') . '</div>';
+
+		echo '<h2>Bindings</h2>';
+		echo '<pre>' . htmlspecialchars(print_r($debug['bindings'] ?? array(), true), ENT_QUOTES, 'UTF-8') . '</pre>';
+
+		echo '<h2>SQL Steps</h2>';
+		if (!empty($debug['sql_steps'])) {
+			foreach ($debug['sql_steps'] as $name => $sql) {
+				echo '<h3>Step ' . htmlspecialchars((string) $name, ENT_QUOTES, 'UTF-8') . '</h3>';
+				echo '<pre>' . htmlspecialchars((string) $sql, ENT_QUOTES, 'UTF-8') . '</pre>';
+			}
+		} else {
+			echo '<p>No SQL generated.</p>';
+		}
+
+		echo '<h2>Rows (' . count($debug['rows'] ?? array()) . ')</h2>';
+		$rows = $debug['rows'] ?? array();
+		if (count($rows) === 0) {
+			echo '<p>No rows returned.</p>';
+		} else {
+			echo '<table><thead><tr>';
+			$columns = array_keys($rows[0]);
+			foreach ($columns as $column) {
+				echo '<th>' . htmlspecialchars((string) $column, ENT_QUOTES, 'UTF-8') . '</th>';
+			}
+			echo '</tr></thead><tbody>';
+			foreach ($rows as $row) {
+				echo '<tr>';
+				foreach ($columns as $column) {
+					$value = isset($row[$column]) ? $row[$column] : '';
+					echo '<td>' . htmlspecialchars((string) $value, ENT_QUOTES, 'UTF-8') . '</td>';
+				}
+				echo '</tr>';
+			}
+			echo '</tbody></table>';
+		}
+
+		echo '</body></html>';
+	}
 
     /*
         function jcg_map

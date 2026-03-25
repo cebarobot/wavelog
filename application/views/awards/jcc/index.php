@@ -90,7 +90,7 @@
                 <label class="col-md-2 control-label" for="mode"><?= __("Mode"); ?></label>
                 <div class="col-md-2">
                 <select id="mode" name="mode" class="form-select form-select-sm">
-                    <option value="All" <?php if ($this->input->post('mode') == "All" || $this->input->method() !== 'mode') echo ' selected'; ?>><?= __("All"); ?></option>
+                    <option value="All" <?php if ($this->input->post('mode') == "All" || $this->input->method() !== 'post') echo ' selected'; ?>><?= __("All"); ?></option>
                     <?php
                     foreach($modes->result() as $mode){
                         if ($mode->submode == null) {
@@ -109,6 +109,33 @@
             </div>
 
             <div class="mb-3 row">
+                <label class="col-md-2 control-label" for="prop_mode"><?= __("Propagation Mode"); ?></label>
+                <div class="col-md-3">
+                    <select id="prop_mode" name="prop_mode" class="form-select form-select-sm">
+                        <option value="All" <?php if ($this->input->post('prop_mode') == "All" || $this->input->method() !== 'post') echo ' selected'; ?>><?= __("All"); ?></option>
+                        <option value="AS"<?php if ($this->input->post('prop_mode') == 'AS') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Aircraft Scatter"); ?></option>
+                        <option value="AUR"<?php if ($this->input->post('prop_mode') == 'AUR') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Aurora"); ?></option>
+                        <option value="AUE"<?php if ($this->input->post('prop_mode') == 'AUE') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Aurora-E"); ?></option>
+                        <option value="BS"<?php if ($this->input->post('prop_mode') == 'BS') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Back scatter"); ?></option>
+                        <option value="ECH"<?php if ($this->input->post('prop_mode') == 'ECH') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","EchoLink"); ?></option>
+                        <option value="EME"<?php if ($this->input->post('prop_mode') == 'EME') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Earth-Moon-Earth"); ?></option>
+                        <option value="ES"<?php if ($this->input->post('prop_mode') == 'ES') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Sporadic E"); ?></option>
+                        <option value="FAI"<?php if ($this->input->post('prop_mode') == 'FAI') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Field Aligned Irregularities"); ?></option>
+                        <option value="F2"<?php if ($this->input->post('prop_mode') == 'F2') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","F2 Reflection"); ?></option>
+                        <option value="INTERNET"<?php if ($this->input->post('prop_mode') == 'INTERNET') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Internet-assisted"); ?></option>
+                        <option value="ION"<?php if ($this->input->post('prop_mode') == 'ION') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Ionoscatter"); ?></option>
+                        <option value="IRL"<?php if ($this->input->post('prop_mode') == 'IRL') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","IRLP"); ?></option>
+                        <option value="MS"<?php if ($this->input->post('prop_mode') == 'MS') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Meteor scatter"); ?></option>
+                        <option value="RPT"<?php if ($this->input->post('prop_mode') == 'RPT') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Terrestrial or atmospheric repeater or transponder"); ?></option>
+                        <option value="RS"<?php if ($this->input->post('prop_mode') == 'RS') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Rain scatter"); ?></option>
+                        <option value="SAT"<?php if ($this->input->post('prop_mode') == 'SAT') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Satellite"); ?></option>
+                        <option value="TEP"<?php if ($this->input->post('prop_mode') == 'TEP') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Trans-equatorial"); ?></option>
+                        <option value="TR"<?php if ($this->input->post('prop_mode') == 'TR') { echo ' selected'; } ?>><?= _pgettext("Propagation Mode","Tropospheric ducting"); ?></option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="mb-3 row">
                 <label class="col-md-2 control-label" for="button1id"></label>
                 <div class="col-md-10">
                     <button id="button2id" type="reset" name="button2id" class="btn btn-sm btn-warning"><?= __("Reset"); ?></button>
@@ -117,6 +144,7 @@
                     <button type="button" onclick="load_jcc_map();" class="btn btn-info btn-sm"><i class="fas fa-globe-asia"></i> <?= __("Show JCC Map"); ?></button>
                     <button id="button3id" type="button" onclick="export_qsos();" name="button3id" class="btn btn-sm btn-info"><?= __("Export"); ?></button>
                     <?php } ?>
+					<a class="btn btn-sm btn-secondary" target="_blank" href="<?php echo site_url('awards/jcc_entity_status_debug?band=' . rawurlencode($this->input->post('band') ?? 'All') . '&mode=' . rawurlencode($this->input->post('mode') ?? 'All') . '&prop_mode=' . rawurlencode($this->input->post('prop_mode') ?? 'All') . '&qsl=' . (($this->input->post('qsl') || $this->input->method() !== 'post') ? '1' : '0') . '&lotw=' . (($this->input->post('lotw') || $this->input->method() !== 'post') ? '1' : '0') . '&eqsl=' . ($this->input->post('eqsl') ? '1' : '0') . '&qrz=' . ($this->input->post('qrz') ? '1' : '0') . '&clublog=' . ($this->input->post('clublog') ? '1' : '0') . '&includedeleted=' . ($this->input->post('includedeleted') ? '1' : '0')); ?>">JCC SQL Debug</a>
                 </div>
             </div>
 

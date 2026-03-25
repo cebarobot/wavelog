@@ -20,6 +20,7 @@ function load_jcc_map() {
         data: {
             band: $('#band2').val(),
             mode: $('#mode').val(),
+            prop_mode: $('#prop_mode').val(),
             worked: +$('#worked').prop('checked'),
             confirmed: +$('#confirmed').prop('checked'),
             notworked: +$('#notworked').prop('checked'),
@@ -175,5 +176,5 @@ function addMarker(L, D, mapColor, map) {
 
 function onClick(e) {
     var marker = e.target;
-    displayContactsOnMap($("#jccmap"),marker.options.prefix, $('#band2').val(), 'All', 'All', $('#mode').val(), 'JCC');
+    displayContactsOnMap($("#jccmap"), marker.options.prefix, $('#band2').val(), 'All', 'All', $('#mode').val(), 'JCC', '', '', '', $('#prop_mode').val());
 }
