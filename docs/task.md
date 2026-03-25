@@ -8,16 +8,14 @@
 
 ## 总体待办任务列表
 
-* [ ] JCC/JCG 改进
-  * [x] 将 JCC/JCG 数据从 PHP 的 models 移动到单独的 JSON
-    * [x] 整理 JCC、JCG 相关数据
-    * [x] 处理现有的与 JCC/JCG 数据相关的 API
-  * [ ] 将 JCC/JCG 的代码进行合并，避免一份代码在多个地方使用
-    * [ ] 合并 PHP 中的代码
-    * [ ] 合并 js 中的代码
-  * [ ] 为 JCC/JCG 增加已删除 JCC/JCG 的处理逻辑
-    * [ ] 评估可行性：检查与已删除 City/Gun 通联的 QSO 时间是否晚于 City/Gun 的删除时间
-    * [ ] 为奖状页面增加筛选：是否包括已删除的 City/Gun
+* [x] 获取 JCC/JCG/Ku 数据
+* [ ] 重构 JCC
+  * [ ] 重构 Jcc_model
+    * [ ] 设计 entity_status 查询
+    * [ ] 设计 export_qsos 查询
+    * [ ] 设计基于 entity_status 查询结果，输出表格、统计、Map 数据的功能
+  * [ ] 调整适配 Controller 和 View
+* [ ] 仿照 JCC 的新实现，重构 JCG
 * [ ] 仿照 JCC/JCG 增加 WAKU 功能
   * [ ] 整理 Ku-list 数据
   * [ ] 实现 WAKU 的代码
@@ -31,7 +29,86 @@
 
 * 这些奖项的描述可以在这里找到：https://www.jarl.org/English/4_Library/A-4-2_Awards/award_list.htm
 
-### JCC/JCG 改进
+### 重构 Jcc_model
+我们姑且称一个 city 为一个 entity。
+
+
+
+
+#### 设计 entity_status 查询
+总体要求，对于 (entity, key_col) 的组合，输出 confirmed：0 表示 worked_not_confirmed，1 表示 confirmed。
+
+具体步骤（伪 SQL）如下：
+
+1A:
+```
+select
+  col_cnty as entity,
+  col_band as band,
+  case
+    when col_submode = 'DSTAR' then 'DSTAR'
+    when col_mode in ('AM', 'FM', 'CW', 'SSB', 'ATV', 'FAX', 'SSTV', 'DIGITALVOICE') then col_mode
+    else 'DIGITAL'
+  end as mode,
+  ($addQslToQuery) as confirmed
+from
+  thcv
+where
+  col_dxcc in $japan_dxcc_list and
+  col_cnty in $jcc_list and           // !!!!
+  station_id in $location_list and
+  query_band_condition and            // addBandToQuery
+  query_mode_condition and            // addModeToQuery
+  query_prop_mode_condition           // addPropModeToQuery
+```
+
+1B:
+```
+select
+  left(col_cnty, 4) as entity,
+  col_band as band,
+  mode(略)
+from
+  thcv
+where
+  col_dxcc in $japan_dxcc_list and
+  col_cnty in $ku_list and            // !!!! 
+  station_id in $location_list and
+  query_band_condition and            // addBandToQuery
+  query_mode_condition and            // addModeToQuery
+  query_prop_mode_condition           // addPropModeToQuery
+```
+
+2A & 2B:
+```
+select
+  entity,
+  key_col,      // band or mode or nothing
+  max($addQslToQuery) as confirmed
+from
+  1A / 1B 的结果
+group by (entity, key_col)
+```
+
+3:
+```
+2A 结果
+union all
+2B 结果
+```
+
+4:
+对 3 结果再进行一次 2A/2B 一样的 group by
+
+额外的解释说明：
+* key_col 可以是 band、mode，或者没有 key_col。这应该是一个参数。
+* addQslToQuery 似乎可以用 genfunctions 中的，给出的应该是一个 or 起来的列表。
+* addBandToQuery 和 addModeToQuery 和 addPropModeToQuery 得自行实现
+  * col_band = $input_data
+  * col_mode = $input_data
+  * col_prop_mode = $input_data
+
+### [DONE] 获取 JCC/JCG/Ku 数据
 * JCC/JCG/Ku 的列表：
   * JCC list: https://www.jarl.org/Japanese/A_Shiryo/A-2_jcc-jcg/jcc-list.txt
   * JCG list: https://www.jarl.org/Japanese/A_Shiryo/A-2_jcc-jcg/jcg-list.txt

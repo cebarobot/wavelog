@@ -64,3 +64,25 @@
 - 当前“将 JCC/JCG 数据从 PHP 的 models 移动到单独的 JSON”子任务的两项子要求已完成：
   - 整理 JCC/JCG 数据
   - 处理现有相关 API
+
+## 2026-03-25：Jcc_model 审阅意见收敛
+
+### 已完成
+
+1. 修复 `Jcc_model` 中 `entity_status` 查询构造代码的语法错误。
+2. 将 `entity_status` 内部聚合路径统一为始终带 `key_col` 聚合，再在 `key_col = none` 时对外移除该字段。
+3. 简化 `union all` 与最终聚合 SQL 的构造，去除 `null key_expr` 分支。
+4. 将 band/mode/prop_mode 过滤辅助函数实际接入到 `entity_status` 基础查询中。
+
+### 备注
+
+- 本次只收敛审阅意见对应的 `Jcc_model` 内部实现，没有扩大到 `summary` 与 `export_jcc` 的进一步重构。
+
+## 2026-03-25：JCC 增加 Propagation Mode 过滤链路
+
+### 已完成
+
+1. 在 JCC 页面增加 `Propagation Mode` 下拉框，并保留当前选择状态。
+2. 在 `Awards::jcc`、`Awards::jcc_export`、`Awards::jcc_map` 中补齐 `prop_mode` 的读取与默认值。
+3. 在 JCC 的导出与地图 AJAX 请求中补齐 `prop_mode` 参数传递。
+4. 修复 `Jcc_model` 中对 `prop_mode` 的直接数组访问 warning，并让 summary/export/first_qso 查询支持该过滤条件。

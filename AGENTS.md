@@ -6,6 +6,10 @@ Wavelog is a self-hosted PHP application that allows you to log your amateur rad
 * Using PHP Codeigniter version 3
 * Using Bootstrap 5 for the user CSS framework
 
+## Style
+* 如无特殊说明，函数和变量通常使用下划线 snake_case 风格。
+* 严格限制兜底代码的使用，无必要不加入兜底代码。
+
 # Task
 Refer to docs/task.md
 
@@ -16,11 +20,19 @@ Refer to docs/task.md
 * docs/history.md is what the agent did
 
 ## 调试
+### python 脚本
 * 访问 wikidata 时，请在命令前加 proxychains
-* 本地没有安装 php，请使用 docker 来调用 php-cli（无需 sudo）。
-* 你不需要运行 python 脚本，告诉我命令即可。
 * python 用全局的 python 即可。
 * 各类 python 临时脚本放在 temp 文件夹下。
+
+### PHP cli
+* 本地没有安装 php，请使用 docker 来调用 php-cli（无需 sudo）。
+
+### 网站部署测试
+在工作目录下：
+1. 设置代理： `export https_proxy="http://172.31.80.1:7897"`、`export http_proxy="http://172.31.80.1:7897"`
+2. 构建 docker image：`docker compose build`
+3. 部署 docker compose：`docker compose up -d`
 
 ## language
 
