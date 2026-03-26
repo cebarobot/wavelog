@@ -34,6 +34,13 @@ class Jcc_model extends CI_Model {
 		});
 	}
 
+	private function build_band_key_expr() {
+		return "case
+			when col_prop_mode = 'SAT' then 'SAT'
+			else col_band
+		end";
+	}
+
 	private function build_mode_key_expr() {
 		return "case
 			when col_submode = 'DSTAR' then 'DSTAR'
@@ -87,7 +94,7 @@ class Jcc_model extends CI_Model {
 			$confirmed_expr . ' as confirmed',
 		);
 		if ($key_col === 'band') {
-			$select[] = 'col_band as key_col';
+			$select[] = $this->build_band_key_expr() . ' as key_col';
 		} else if ($key_col === 'mode') {
 			$select[] = $this->build_mode_key_expr() . ' as key_col';
 		} else {
@@ -106,10 +113,11 @@ class Jcc_model extends CI_Model {
 		if ($band != 'All') {
 			if ($band == 'SAT') {
 				$where[] = "(col_prop_mode = ?)";
+				$bindings[] = $band;
 			} else {
 				$where[] = "(col_band = ?)";
+				$bindings[] = $band;
 			}
-			$bindings[] = $band;
 		}
 		if ($mode != 'All') {
 			$where[] = "(col_mode = ? or col_submode = ?)";
@@ -178,113 +186,49 @@ class Jcc_model extends CI_Model {
 
 	function get_jcc_array($bands, $postdata) {
 
-		$jcc_array = array_keys($this->get_entity_data_for_postdata($this->jaCities, $postdata));
+		$jcc_list = $this->get_entity_data_for_postdata($this->jaCities, $postdata);
 		$prop_mode = $postdata['prop_mode'] ?? 'All';
 
-		$cities = array(); // Used for keeping track of which cities that are not worked
-		foreach ($jcc_array as $city) {                         // Generating array for use in the table
-			$cities[$city]['count'] = 0;                   // Inits each city's count
+		$cities = array();
+		// Initializing the array with all cities and bands
+		foreach ($jcc_list as $city => $city_data) {
+			$cities[$city]['Number'] = $city;
+			$cities[$city]['City'] = $city_data['name'];
+			$cities[$city]['count'] = 0;
+			foreach ($bands as $band) {
+				$cities[$city][$band] = '-';                  // Sets all to dash to indicate no result
+			}
 		}
 
-		$qsl = $this->genfunctions->gen_qsl_from_postdata($postdata);
+		$jcc_status = $this->query_entity_status($postdata, 'band');
 
-
-		foreach ($bands as $band) {
-			foreach ($jcc_array as $city) {                   // Generating array for use in the table
-				$band_jcc[$city]['Number'] = $city;
-				$band_jcc[$city]['City'] = $this->jaCities[$city]['name'];
-				$band_jcc[$city][$band] = '-';                  // Sets all to dash to indicate no result
-			}
-
-			if ($postdata['worked'] != NULL) {
-				$jcc_band = $this->get_jcc_worked($this->location_list, $band, $postdata);
-				foreach ($jcc_band as $line) {
-					$band_jcc[$line->col_cnty][$band] = '<div class="bg-danger awardsBgWarning"><a href=\'javascript:displayContacts("' . $line->col_cnty . '","' . $band . '","All","All","'. $postdata['mode'] . '","JCC", "", "", "", "' . $prop_mode . '")\'>W</a></div>';
-					$cities[$line->col_cnty]['count']++;
+		foreach ($jcc_status['rows'] as $row) {
+			if ($row['confirmed'] == 1) {
+				if ($postdata['confirmed'] != NULL) {
+					$cities[$row['entity']][$row['key_col']] = 'C';
+					$cities[$row['entity']]['count'] += 1;
 				}
-			}
-			if ($postdata['confirmed'] != NULL) {
-				$jcc_band = $this->get_jcc_confirmed($this->location_list, $band, $postdata);
-				foreach ($jcc_band as $line) {
-					$band_jcc[$line->col_cnty][$band] = '<div class="bg-success awardsBgSuccess"><a href=\'javascript:displayContacts("' . $line->col_cnty . '","' . $band . '","All","All","'. $postdata['mode'] . '","JCC", "'.$qsl.'", "", "", "' . $prop_mode . '")\'>C</a></div>';
-					$cities[$line->col_cnty]['count']++;
+			} else {
+				if ($postdata['worked'] != NULL) {
+					$cities[$row['entity']][$row['key_col']] = 'W';
+					$cities[$row['entity']]['count'] += 1;
 				}
-			}
-		}
-
-		// We want to remove the worked cities in the list, since we do not want to display them
-		if ($postdata['worked'] == NULL) {
-			$jcc_band = $this->get_jcc_worked($this->location_list, $postdata['band'], $postdata);
-			foreach ($jcc_band as $line) {
-				unset($band_jcc[$line->col_cnty]);
-			}
-		}
-
-		// We want to remove the confirmed cities in the list, since we do not want to display them
-		if ($postdata['confirmed'] == NULL) {
-			$was_band = $this->get_jcc_confirmed($this->location_list, $postdata['band'], $postdata);
-			foreach ($was_band as $line) {
-				unset($band_jcc[$line->col_cnty]);
 			}
 		}
 
 		if ($postdata['notworked'] == NULL) {
-			if (isset($band_jcc)) {
-				foreach ($jcc_array as $city) {
-					if ($cities[$city]['count'] == 0) {
-						unset($band_jcc[$city]);
-					};
+			foreach ($cities as $city => $city_data) {
+				if ($city_data['count'] == 0) {
+					unset($cities[$city]);
 				}
 			}
 		}
 
-		if (isset($band_jcc)) {
-			return $band_jcc;
+		if (isset($cities)) {
+			return $cities;
 		} else {
 			return 0;
 		}
-	}
-
-	/*
-	 * Function returns all worked, but not confirmed cities
-	 * $postdata contains data from the form, in this case Lotw or QSL are used
-	 */
-	function get_jcc_worked($location_list, $band, $postdata) {
-		$query_postdata = $postdata;
-		$query_postdata['band'] = $band;
-		$status_rows = $this->query_entity_status($query_postdata, 'none');
-
-		$result = array();
-		foreach ($status_rows['rows'] as $row) {
-			if ((int) $row['confirmed'] === 0) {
-				$line = new stdClass();
-				$line->col_cnty = $row['entity'];
-				$result[] = $line;
-			}
-		}
-
-		return $result;
-	}
-
-	/*
-	 * Function returns all confirmed cities on given band and on LoTW or QSL
-	 * $postdata contains data from the form, in this case Lotw or QSL are used
-	 */
-	function get_jcc_confirmed($location_list, $band, $postdata) {
-		$query_postdata = $postdata;
-		$query_postdata['band'] = $band;
-		$status_rows = $this->query_entity_status($query_postdata, 'none');
-
-		$result = array();
-		foreach ($status_rows['rows'] as $row) {
-			if ((int) $row['confirmed'] === 1) {
-				$line = new stdClass();
-				$line->col_cnty = $row['entity'];
-				$result[] = $line;
-			}
-		}
-
-		return $result;
 	}
 
 
@@ -329,7 +273,7 @@ class Jcc_model extends CI_Model {
 		} else if ($band == 'All') {
 			if ($prop_mode == 'All') {
 				$this->load->model('bands');
-				$bandslots = $this->bands->get_worked_bands('was');
+				$bandslots = $this->bands->get_worked_bands('jcc');
 				$bandslots_list = "'".implode("','",$bandslots)."'";
 
 				$sql .= " and thcv.col_band in (" . $bandslots_list . ")" .
@@ -361,8 +305,6 @@ class Jcc_model extends CI_Model {
 		return $query->result();
 	}
 
-		// ! 你注意，不要改不是这次重构引入的新函数。
-		// ! 只有新函数才改 snake_case，老函数保持原样。
 	function get_summary_by_band_confirmed($band, $postdata, $location_list) {
 		$bindings=[];
 		$prop_mode = $postdata['prop_mode'] ?? 'All';
@@ -375,7 +317,7 @@ class Jcc_model extends CI_Model {
 		} else if ($band == 'All') {
 			if ($prop_mode == 'All') {
 				$this->load->model('bands');
-				$bandslots = $this->bands->get_worked_bands('was');
+				$bandslots = $this->bands->get_worked_bands('jcc');
 				$bandslots_list = "'".implode("','",$bandslots)."'";
 
 				$sql .= " and thcv.col_band in (" . $bandslots_list . ")" .

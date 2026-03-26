@@ -1986,6 +1986,9 @@ class Awards extends CI_Controller {
 		echo '<div class="meta"><strong>key_col:</strong> ' . htmlspecialchars($key_col, ENT_QUOTES, 'UTF-8') . '</div>';
 		echo '<div class="meta"><strong>filters:</strong> band=' . htmlspecialchars((string) $postdata['band'], ENT_QUOTES, 'UTF-8') . ', mode=' . htmlspecialchars((string) $postdata['mode'], ENT_QUOTES, 'UTF-8') . ', prop_mode=' . htmlspecialchars((string) $postdata['prop_mode'], ENT_QUOTES, 'UTF-8') . '</div>';
 
+		echo '<h2>Jcc List</h2>';
+		echo '<pre>' . var_export($this->jcc_model->jaCities, true) . '</pre>';
+
 		echo '<h2>Bindings</h2>';
 		echo '<pre>' . htmlspecialchars(print_r($debug['bindings'] ?? array(), true), ENT_QUOTES, 'UTF-8') . '</pre>';
 
