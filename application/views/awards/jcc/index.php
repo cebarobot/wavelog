@@ -73,6 +73,16 @@
             </div>
 
             <div class="mb-3 row">
+                <div class="col-md-2"><?= __("Entities"); ?></div>
+                <div class="col-md-10">
+                    <div class="form-check-inline">
+                        <input class="form-check-input" type="checkbox" name="includedeleted" value="1" id="includedeleted" <?php if ($this->input->post('includedeleted')) echo ' checked="checked"'; ?> >
+                        <label class="form-check-label" for="includedeleted"><?= __("Include deleted"); ?></label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="mb-3 row">
                 <label class="col-md-2 control-label" for="band2"><?= __("Band"); ?></label>
                 <div class="col-md-2">
                     <select id="band2" name="band" class="form-select form-select-sm">
@@ -138,7 +148,7 @@
             <div class="mb-3 row">
                 <label class="col-md-2 control-label" for="button1id"></label>
                 <div class="col-md-10">
-                    <button id="button2id" type="reset" name="button2id" class="btn btn-sm btn-warning"><?= __("Reset"); ?></button>
+					<button id="button2id" type="button" name="button2id" class="btn btn-sm btn-warning"><?= __("Reset"); ?></button>
                     <button id="button1id" type="submit" name="button1id" class="btn btn-sm btn-primary"><?= __("Show"); ?></button>
                     <?php if ($jcc_array) {?>
                     <button type="button" onclick="load_jcc_map();" class="btn btn-info btn-sm"><i class="fas fa-globe-asia"></i> <?= __("Show JCC Map"); ?></button>
