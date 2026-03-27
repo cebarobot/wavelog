@@ -86,3 +86,19 @@
 2. 在 `Awards::jcc`、`Awards::jcc_export`、`Awards::jcc_map` 中补齐 `prop_mode` 的读取与默认值。
 3. 在 JCC 的导出与地图 AJAX 请求中补齐 `prop_mode` 参数传递。
 4. 修复 `Jcc_model` 中对 `prop_mode` 的直接数组访问 warning，并让 summary/export/first_qso 查询支持该过滤条件。
+
+## 2026-03-26：JCC 基于 entity_status 输出表格/统计/地图
+
+### 已完成
+
+1. `Awards::jcc` 改为先执行一次 `query_entity_status(..., 'band')`，再把原始结果分别交给表格和统计整形函数，避免重复 SQL 查询。
+2. `Jcc_model` 新增基于 `entity_status` 原始结果的表格与统计整形函数：
+   - 表格输出复用同一份 band 维度状态数据。
+   - 统计输出不再依赖 `get_summary_by_band` / `get_summary_by_band_confirmed` 的重复查库路径。
+3. `Awards::jcc_map` 改为先执行一次 `query_entity_status(..., 'none')`，再由 `Jcc_model` 直接格式化为地图前端所需的 `{ entity: [worked, confirmed] }` 结构。
+4. `docs/task.md` 中“基于 entity_status 查询结果，输出表格/统计/地图”三项子任务已标记完成。
+
+### 备注
+
+- 本次未处理 `export_qsos` 查询重构。
+- 本次未处理“将创建 logbook 查询链接的放到 view 去”子任务。

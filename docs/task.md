@@ -11,9 +11,12 @@
 * [x] 获取 JCC/JCG/Ku 数据
 * [ ] 重构 JCC
   * [ ] 重构 Jcc_model
-    * [ ] 设计 entity_status 查询
+    * [x] 设计 entity_status 查询
     * [ ] 设计 export_qsos 查询
-    * [ ] 设计基于 entity_status 查询结果，输出表格、统计、Map 数据的功能
+    * [x] 基于 entity_status 查询结果，输出表格
+    * [x] 基于 entity_status 查询结果，输出统计
+    * [x] 基于 entity_status 查询结果，输出地图
+    * [ ] 调整表格输出，将创建 logbook 查询链接的放到 view 去
   * [ ] 调整适配 Controller 和 View
 * [ ] 仿照 JCC 的新实现，重构 JCG
 * [ ] 仿照 JCC/JCG 增加 WAKU 功能
@@ -32,10 +35,19 @@
 ### 重构 Jcc_model
 我们姑且称一个 city 为一个 entity。
 
+#### 基于 entity_status 查询结果，输出表格/统计/地图
+
+提示：
+* 先在 controller 中调用 query_entity_status，然后把获得的原始数据交给 jcc_model 的数据处理函数
+  * 这样可以避免重复进行相同的 sql 查询。
+* 用于输出表格的 get_jcc_array 已经基本满足需求，除了上面有关 query_entity_status 调用的要求；
+* 用于输出统计的 get_jcc_summary 需要大改：
+  * get_summary_by_band、get_summary_by_band_confirmed 应该是不需要了。
+* 用于输出地图的 fetch_jcc_wkd 和 fetch_jcc_cnfm 需要大改：
+  * 这两个函数可以合并成一个，直接输出 Awards 控制器里 jcc_map() 所要求的格式即可。
 
 
-
-#### 设计 entity_status 查询
+#### [done] 设计 entity_status 查询
 总体要求，对于 (entity, key_col) 的组合，输出 confirmed：0 表示 worked_not_confirmed，1 表示 confirmed。
 
 具体步骤（伪 SQL）如下：
