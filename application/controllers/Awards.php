@@ -376,7 +376,7 @@ class Awards extends CI_Controller {
 			'assets/js/sections/jccmap.js'
 		];
 
-$this->load->helper('awards');
+		$this->load->helper('awards');
 		$this->load->model('jcc_model');
 		$this->load->model('modes');
 		$this->load->model('bands');

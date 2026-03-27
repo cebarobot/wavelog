@@ -142,7 +142,7 @@
                     <button id="button1id" type="submit" name="button1id" class="btn btn-sm btn-primary"><?= __("Show"); ?></button>
                     <?php if ($jcc_array) {?>
                     <button type="button" onclick="load_jcc_map();" class="btn btn-info btn-sm"><i class="fas fa-globe-asia"></i> <?= __("Show JCC Map"); ?></button>
-                    <button id="button3id" type="button" onclick="export_qsos();" name="button3id" class="btn btn-sm btn-info"><?= __("Export"); ?></button>
+					<button id="button3id" type="button" onclick="export_qsos();" name="button3id" class="btn btn-sm btn-info"><?= __("Export confirmed QSOs"); ?></button>
                     <?php } ?>
 					<a class="btn btn-sm btn-secondary" target="_blank" href="<?php echo site_url('awards/jcc_entity_status_debug?band=' . rawurlencode($this->input->post('band') ?? 'All') . '&mode=' . rawurlencode($this->input->post('mode') ?? 'All') . '&prop_mode=' . rawurlencode($this->input->post('prop_mode') ?? 'All') . '&qsl=' . (($this->input->post('qsl') || $this->input->method() !== 'post') ? '1' : '0') . '&lotw=' . (($this->input->post('lotw') || $this->input->method() !== 'post') ? '1' : '0') . '&eqsl=' . ($this->input->post('eqsl') ? '1' : '0') . '&qrz=' . ($this->input->post('qrz') ? '1' : '0') . '&clublog=' . ($this->input->post('clublog') ? '1' : '0') . '&includedeleted=' . ($this->input->post('includedeleted') ? '1' : '0')); ?>">JCC SQL Debug</a>
                 </div>
