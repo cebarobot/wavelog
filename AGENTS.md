@@ -39,3 +39,6 @@ Refer to docs/task.md
 * 总是使用中文和我交流。
 * 请用中文书写所有的 docs 中的文档。
 * 代码、注释、提交信息中总是使用英文。
+
+# Note
+* Use #tool:vscode/askQuestions to clarify intent with the user.

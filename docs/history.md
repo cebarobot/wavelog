@@ -102,3 +102,33 @@
 
 - 本次未处理 `export_qsos` 查询重构。
 - 本次未处理“将创建 logbook 查询链接的放到 view 去”子任务。
+
+## 2026-03-27：JCC 剩余收尾落地
+
+### 已完成
+
+1. `Jcc_model` 导出链路重构完成：
+   - 新增 `export_qsos` 单查询，替换旧的 `export_jcc + get_first_qso` 1+N 查询。
+   - `export_qsos` 的 QSL 条件与 `entity_status` 共用同一套构造逻辑。
+   - 导出结果按 4 位 JCC entity 聚合，Ku 记录会归并到所属 JCC。
+
+2. JCC 表格中的 logbook 链接生成逻辑移到 view/helper：
+   - 新增 `application/helpers/awards_helper.php`。
+   - `Jcc_model` 保持只返回 `W/C/-` 状态，不再负责生成 HTML。
+   - `application/views/awards/jcc/index.php` 通过 helper 生成 `displayContacts` 链接。
+
+3. 修复 JCC 页面筛选相关问题：
+   - `Reset` 改为回到全局默认值，而不是回到本次查询初始值。
+   - 补齐 `includedeleted` UI，并接入页面、地图、导出三条链路。
+   - 导出按钮文案调整为“只导出 confirmed QSOs”。
+
+4. 修复 JCC 明细查询覆盖 Ku 的问题：
+   - `Logbook_model::qso_details` 中 JCC 查询在传入 4 位 JCC 编号时，会同时匹配同前缀的 6 位 Ku。
+
+### 校验结果
+
+- `Jcc_model.php`、`Awards.php`、`Logbook_model.php`、`awards_helper.php`、`awards/jcc/index.php`、`assets/js/sections/jcc.js`、`assets/js/sections/jccmap.js` 均通过编辑器语法/静态错误检查。
+
+### 备注
+
+- 本次仅对 JCC 做最小闭环改造，没有同步重构 JCG 等其它 awards 的旧 HTML-in-model 逻辑。
