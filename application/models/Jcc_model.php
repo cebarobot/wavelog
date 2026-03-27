@@ -154,7 +154,7 @@ class Jcc_model extends CI_Model {
 		return $left_sql . " union all " . $right_sql;
 	}
 
-	function query_entity_status($postdata, $key_col = "none", $with_debug = false) {
+	function query_entity_status($postdata, $key_col = "none") {
 		$jcc_data = $this->filter_entity_data($this->ja_cities, $postdata);
 		$ku_data = $this->filter_entity_data($this->ja_kus, $postdata);
 		$jcc_in_list = $this->build_entity_in_list_sql($jcc_data);
@@ -174,25 +174,7 @@ class Jcc_model extends CI_Model {
 		$query = $this->db->query($step_4, $bindings);
 		$rows = $query->result_array();
 
-
-		$result = array('rows' => $rows);
-		if ($with_debug) {
-			$result['sql_steps'] = array(
-				'1A' => $step_1a,
-				'1B' => $step_1b,
-				'2A' => $step_2a,
-				'2B' => $step_2b,
-				'3' => $step_3,
-				'4' => $step_4,
-			);
-			$result['bindings'] = $bindings;
-		}
-
-		return $result;
-	}
-
-	function get_entity_status_debug_data($postdata, $key_col = 'none') {
-		return $this->query_entity_status($postdata, $key_col, true);
+		return $rows;
 	}
 
 	function get_jcc_array($bands, $postdata, $entity_status = null) {
@@ -214,7 +196,7 @@ class Jcc_model extends CI_Model {
 			}
 		}
 
-		foreach ($entity_status['rows'] as $row) {
+		foreach ($entity_status as $row) {
 			if ($row['confirmed'] == 1) {
 				if ($postdata['confirmed'] != NULL) {
 					$cities[$row['entity']][$row['key_col']] = 'C';
@@ -267,7 +249,7 @@ class Jcc_model extends CI_Model {
 		$worked_total = array();
 		$confirmed_total = array();
 
-		foreach ($entity_status['rows'] as $row) {
+		foreach ($entity_status as $row) {
 			$worked_total[$row['entity']] = true;
 			$summary['worked'][$row['key_col']] += 1;
 			if ($row['confirmed'] == 1) {
@@ -301,7 +283,7 @@ class Jcc_model extends CI_Model {
 		}
 
 		$jccs = array();
-		foreach ($entity_status['rows'] as $row) {
+		foreach ($entity_status as $row) {
 			$entity = $row['entity'];
 			if (!isset($jccs[$entity])) {
 				$jccs[$entity] = array(1, 0);
