@@ -618,7 +618,17 @@ class Logbook_model extends CI_Model {
 				}
 				break;
 			case 'JCC':
-				$this->db->where('COL_CNTY', $searchphrase);
+				if (preg_match('/^[0-9]{4}$/', $searchphrase) === 1) {
+					$this->db->group_start();
+					$this->db->where('COL_CNTY', $searchphrase);
+					$this->db->or_group_start();
+					$this->db->like('COL_CNTY', $searchphrase, 'after');
+					$this->db->where('CHAR_LENGTH(COL_CNTY) = 6', null, false);
+					$this->db->group_end();
+					$this->db->group_end();
+				} else {
+					$this->db->where('COL_CNTY', $searchphrase);
+				}
 				$this->db->where('COL_DXCC', '339');
 				break;
 			case 'JCG':
