@@ -1,0 +1,4671 @@
+[
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q578824"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.926111111 35.179444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q780521"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.873055555 35.168611111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中村区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1155209"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.952222222 35.070833333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "緑区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1155226"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.855 35.141666666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中川区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1155245"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.975833333 35.122222222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "天白区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1155273"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.934166666 35.150277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "昭和区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Shōwa-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1155280"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.010277777 35.175833333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名東区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Meitō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1155286"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.931111111 35.095)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1155291"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.976194444 35.203305555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "守山区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1207921"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.910277777 35.168611111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1207951"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.946444444 35.166444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "千種区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1207957"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.935 35.131666666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "瑞穂区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1207964"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.911666666 35.194166666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1207973"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.885833333 35.185555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1207982"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.885555555 35.107777777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "港区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11751"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1355625"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(136.911111111 35.128055555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "名古屋市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "熱田区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q580186"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.716034 35.010172)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "右京区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Ukyō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q275123"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.486111111 34.676388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34664"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q63436"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(132.455277777 34.385277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "広島市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34664"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q63440"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(132.455277777 34.385277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "広島市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "安佐南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34664"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q63442"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(132.455277777 34.385277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "広島市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34664"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q63444"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(132.455277777 34.385277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "広島市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "安佐北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34664"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q63446"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(132.455277777 34.385277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "広島市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "安芸区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34664"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q73718"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(132.455277777 34.385277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "広島市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "佐伯区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34664"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q73724"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(132.48247 34.39531)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "広島市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34664"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q73729"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(132.455277777 34.385277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "広島市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1075455"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.751388888 35.01)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中京区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Nakagyō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1076993"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.813611111 34.9725)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "山科区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1077022"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.755555555 34.9875)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "下京区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Shimogyō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1154588"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.693278 34.985041)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西京区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Nishikyō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1154649"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.746666666 34.976666666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1154970"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.754166666 35.041111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1197771"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.761388888 34.935555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "伏見区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1203862"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.776388888 34.996944444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東山区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1321824"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.756666666 35.029722222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "上京区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1321832"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.778333333 35.048333333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "京都市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "左京区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Sakyō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q26600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q948351"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.37 33.575833333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "福岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "城南区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Jōnan-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q26600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1071779"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.348333333 33.581944444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "福岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "早良区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q26600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1132402"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.323055555 33.582777777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "福岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q26600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1132419"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.426666666 33.561666666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "福岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q26600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1156273"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.38625 33.58375)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "福岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q26600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1206659"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.4225 33.616388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "福岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q26600"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1330839"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.414722222 33.591388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "福岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "博多区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q489009"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.518491666 34.638972222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "阿倍野区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q490508"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.546111111 34.701944444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "城東区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Jōtō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q490514"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.529444444 34.741111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東淀川区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q490520"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.539444444 34.652777777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "生野区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q490526"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.574166666 34.704166666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "鶴見区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q490581"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.528088888 34.701277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "都島区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q490592"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.519444444 34.657777777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "天王寺区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Tennōji-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q490594"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.486666666 34.721111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "淀川区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q570027"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.4727 34.650402777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大正区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Taishō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q861256"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.546111111 34.621111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "平野区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q861264"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.526613888 34.622119444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東住吉区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q861271"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.544166666 34.721388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "旭区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q861618"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.499630555 34.659444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浪速区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q876485"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.509722222 34.681111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q960258"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.452222222 34.683055555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "此花区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q985695"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.494444444 34.635)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西成区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q985701"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.541111111 34.67)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東成区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q985702"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.500627777 34.603675)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "住吉区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q985711"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.482777777 34.609444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "住之江区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q985728"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.472230555 34.692355555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "福島区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q985765"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.456388888 34.716944444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西淀川区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1207746"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.51 34.705555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1365114"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.460833333 34.663888888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "港区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11407543"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.500305 34.667131)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11437484"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.50637 34.71393561)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大淀区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q35765"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11526282"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.509687 34.681225)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大阪市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q170616"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q926492"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.17611111 35.56055556)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "千葉市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "緑区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q170616"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1075859"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.063055555 35.640277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "千葉市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "美浜区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q170616"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1075869"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.135833333 35.620555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "千葉市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q170616"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1075882"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.06916667 35.66277778)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "千葉市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "花見川区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q170616"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1075889"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.163 35.6294)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "千葉市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "若葉区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q170616"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1075905"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.107222222 35.636388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "千葉市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "稲毛区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1141068"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.643333333 35.444444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1141223"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.618888888 35.402222222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "磯子区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1143712"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.629444444 35.476944444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神奈川区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1153908"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.624444444 35.3375)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "金沢区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1153916"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.554166666 35.364444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "栄区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1153920"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.570555555 35.544722222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "都筑区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1153930"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.499166666 35.466388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "瀬谷区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1153953"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.544722222 35.474722222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "旭区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1153968"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.591388888 35.400555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "港南区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Kōnan-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1153982"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.608888888 35.431388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1192964"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.596111111 35.46)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "保土ケ谷区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1202820"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.6825 35.508333333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "鶴見区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1203361"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.537222222 35.552777777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "青葉区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1203373"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.538055555 35.5125)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "緑区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1203386"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.488611111 35.417777777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "泉区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1203393"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.616944444 35.453611111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1358965"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.633055555 35.518888888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "港北区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Kōhoku-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q277434"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.265555555 34.720277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東灘区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q686802"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.195833333 34.690555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q46747"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042308"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.870555555 38.269166666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "仙台市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "青葉区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q46747"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1043331"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.877222222 38.224444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "仙台市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "太白区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q46747"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1043338"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.881388888 38.326388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "仙台市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "泉区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q46747"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1043355"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.910277777 38.266388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "仙台市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "宮城野区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1078790"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.166666666 34.675833333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "兵庫区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Hyōgo-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1078801"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.150888888 34.665694444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "長田区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1078806"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.056722222 34.630527777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "垂水区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1078814"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.146166666 34.724166666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q46747"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1131743"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(140.900833333 38.244166666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "仙台市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "若林区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1154552"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(134.981583333 34.683166666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1154555"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.239722222 34.7125)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "灘区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1155010"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.133694444 34.658638888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "須磨区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q38283"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q524038"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.5325 35.396388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "横浜市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "戸塚区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q647388"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.405 43.047777777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "白石区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1079635"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.341111111 43.055277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1134006"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.363611111 43.076111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1134013"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.340833333 43.090833333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1134019"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.443888888 42.999444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "清田区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1134027"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.353333333 42.99)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1134225"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.391111111 43.013333333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "豊平区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1134339"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.245555555 43.121944444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "手稲区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1134346"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.474722222 43.036111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "厚別区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q37951"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1135640"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(141.300833333 43.074444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "札幌市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q153629"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.628611111 35.906111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "大宮区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Ōmiya-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q542542"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.620555555 35.93)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q976945"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.626156 35.88378)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1029251"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.633333333 35.833333333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q164234"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1041779"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.505833333 35.603888888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "川崎市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "麻生区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1062270"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.609444444 35.856944444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "桜区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1075040"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.566666666 35.916666666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q164234"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1076736"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.608055555 35.599444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "川崎市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "高津区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q164234"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1076753"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.578611111 35.589166666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "川崎市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "宮前区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q164234"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1076769"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.561944444 35.619722222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "川崎市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "多摩区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1130733"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.684444444 35.871388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "緑区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q164234"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1153579"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.6875 35.544444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "川崎市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "幸区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1154570"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.654444444 35.935277777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "見沼区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1154583"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.645538888 35.862008333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浦和区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q134635"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1184508"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.7 35.95)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "さいたま市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "岩槻区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q164234"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1204949"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.703333333 35.529444444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "川崎市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "川崎区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q164234"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1205359"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.655833333 35.576111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "川崎市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中原区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11574764"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.1813705 34.6908507)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "生田区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11621209"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "葺合区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q48320"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q109370447"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "神戸市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "湊東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q209779"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1132074"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.37333333 35.57138889)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "相模原市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q209779"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1132081"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.41666667 35.51666667)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "相模原市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q209779"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1132502"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.34472222 35.59583333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "相模原市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "緑区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q174691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q79385"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(138.489722222 35.015833333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "静岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "清水区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q179691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q711693"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.019166666 37.765833333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "新潟市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q179691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q711707"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.073055555 37.936944444)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "新潟市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q179691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q711716"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(138.971666666 37.873888888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "新潟市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q179691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q711733"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.114444444 37.788611111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "新潟市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "秋葉区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q179691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q711739"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.21861111 37.91638889)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "新潟市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q179691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q711744"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.094166666 37.867777777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "新潟市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "江南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q179691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q711756"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(138.889166666 37.760555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "新潟市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西蒲区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q179691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q711787"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(139.036388888 37.916111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "新潟市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q174691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042630"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(138.404166666 34.960555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "静岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "駿河区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185125"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1075863"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.726083333 34.710805555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜松市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185125"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1131075"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.645333333 34.692713888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜松市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185125"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1131084"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.791666666 34.741388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜松市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185125"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1131460"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.796944444 35.095555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜松市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "天竜区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Tenryū-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185125"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1131477"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.739722222 34.817777777)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜松市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q174691"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1131483"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(138.383611111 34.975)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "静岡市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "葵区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185125"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1131512"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.752222222 34.667222222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜松市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185125"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1203662"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.783333333 34.8)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜松市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q188806"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q857895"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.811944444 33.863611111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北九州市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "八幡東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q188806"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q858143"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.829444444 33.894722222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北九州市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "戸畑区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q188806"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q858184"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.811111111 33.905555555)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北九州市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "若松区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q188806"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q858201"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.884722222 33.846388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北九州市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "小倉南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q193428"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1041996"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.4905 34.486472)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "堺市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q193428"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042008"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.483055555 34.573333333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "堺市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "堺区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q193428"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042014"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.536591666 34.538191666)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "堺市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q188806"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042291"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.873611111 33.880833333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北九州市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "小倉北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q193428"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042487"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.498633333 34.528338888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "堺市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q193428"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042499"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.463975 34.534997222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "堺市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q193428"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042504"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.517172222 34.565463888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "堺市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q193428"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042511"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(135.559830555 34.538547222)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "堺市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "美原区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q188806"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1044377"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.760277777 33.861388888)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北九州市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "八幡西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q188806"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1045113"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.959722222 33.941111111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北九州市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "門司区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185125"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q117077169"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.7832575 34.7916503)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜松市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜名区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185125"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q117084743"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(137.7262391 34.7108169)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "浜松市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q199889"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q137716"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.708056 32.803333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "熊本市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中央区"
+    },
+    "wardRomanized": {
+      "type": "literal",
+      "value": "Chūō-ku"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q200078"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q852116"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(133.94305556 34.67083333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "岡山市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "中区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q200078"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q855478"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(133.919444444 34.655)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "岡山市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q200078"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q855491"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(134.03638889 34.65833333)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "岡山市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q199889"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q875464"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.76805556 32.78055556)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "熊本市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "東区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q199889"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q876926"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.69444444 32.90361111)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "熊本市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "北区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q199889"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q876960"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.6788889 32.71527778)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "熊本市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q199889"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q877003"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(130.6475 32.77638889)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "熊本市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "西区"
+    }
+  },
+  {
+    "city": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q200078"
+    },
+    "ward": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1042680"
+    },
+    "coord": {
+      "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+      "type": "literal",
+      "value": "Point(133.91958 34.59968)"
+    },
+    "cityLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "岡山市"
+    },
+    "wardLabel": {
+      "xml:lang": "ja",
+      "type": "literal",
+      "value": "南区"
+    }
+  }
+]
