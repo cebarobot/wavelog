@@ -24,10 +24,19 @@
 * [x] 为 jcc_list.json 补全政令指定都市信息
 * [x] 为 ku_list.json 补全坐标信息
 * [x] 格式化 jcc_list.json 和 jcg_list.json 中的日期
-* [ ] 将 Jcc_model 里面的公共函数迁移到 Aja_model
-* [ ] 实现 JCG
-* [ ] 实现 WAKU
-* [ ] 依托 JCC/JCG/WAKU 的实现，新增 AJA 功能
+* [ ] 扩展现有 Jcc_model 中的公共函数
+  * [ ] 对于生成 sql + bindings 对的函数，统一返回值格式
+  * [ ] 改进 build_entity_status_union_all_sql
+  * [ ] 调整 build_entity_query_where_sql 的参数
+  * [ ] 让 query_export_qsos 支持 key_col
+  * [ ] 让 query_entity_status 和 query_export_qsos 支持数组表达的多组查询
+  * [ ] 包装 query_entity_status 和 query_export_qsos
+  * [ ] 移动函数、分 model
+* [ ] 实现 JCG 的 Model
+* [ ] 实现 WAKU 的 Model
+* [ ] 实现 AJA 的 Model
+* [ ] 实现 JCG/WAKU 的 UI
+* [ ] 实现 AJA 的 UI
 
 ## 任务提示
 
@@ -42,61 +51,102 @@
 * 虽然市、区、郡数据中包含了删除日期（成为政令指定都市的日期），但暂时不考虑验证 QSO 的日期
   * 验证 QSO 日期需要把上述 list 写入数据库，目前不具备这一条件。
 
-### 为 jcc_list.json 补全政令指定都市信息
-* 增加 2 个字段，表示该市是否为政令指定都市、何时成为政令指定都市
-* 参考命名：`designated_city`，`designated_city_date`
+### 基于 Model 的逻辑复用
+对于 AJA、JCC、JCG、WAKU 奖状，查询请求一般可以分为 2 类：
+* entity_status：查询一个市郡区（+ band/mode）是否 worked/confirmed
+  * 对于表格，市郡区 + band
+  * 对于地图，只需要 市郡区
+* export_qso：查询一个市郡区（+ band/mode）最早的 QSO
+  * 对于 JCC、JCG、WAKU 只需要市郡区
+  * 对于 AJA，需要市郡区 + band
 
-解释：这在将来 AJA 奖状统计中将会很有用。
-* QSO 在城市指定为政令指定都市前的计入“市”的 slot，之后的计入“区”的 slot。
-* 目前不考虑验证 QSO 日期，只参照 deleted 的实现，直接在 AJA 统计中不包括政令指定都市。
+我们注意到，对这两类请求，总是需要拼接多组查询结果的：
 
-可使用 wikidata 数据，考虑的数据抓取方式：
-* 首先查询“属于”“政令指定都市”的数据项：P31 Q1749269
-* 查找 P31 Q1749269 的 P580 始于
+* 对于 JCC，包含 2 种情况：
+  1. 一般的市：COL_DXCC = '339' and COL_CNTY in jcc_list，entity 编号为 COL_CNTY
+  2. 政令市：COL_DXCC = '339' and COL_CNTY in ku_list，entity 编号为 LEFT(COL_CNTY, 4)
 
-结论与以下信息进行比对：
-```
-横浜市	1101	昭和31年9月1日	
-名古屋市	2001	昭和31年9月1日
-京都市	2201	昭和31年9月1日	
-大阪市	2501	昭和31年9月1日	
-神戸市	2701	昭和31年9月1日	
-北九州市	4021	昭和38年4月1日
-札幌市	0101	昭和47年4月1日	
-川崎市	1103	昭和47年4月1日	
-福岡市	4001	昭和47年4月1日	
-広島市	3501	昭和55年4月1日	
-仙台市	0601	平成元年4月1日
-千葉市	1201	平成4年4月1日
-さいたま市	1344	平成15年4月1日
-静岡市	1801	平成17年4月1日
-堺市	2502	平成18年4月1日
-新潟市	0801	平成19年4月1日
-浜松市	1802	平成19年4月1日
-岡山市	3101	平成21年4月1日
-相模原市	1110	平成22年４月１日
-熊本市	4301	平成24年４月１日
-```
+* 对于 JCG，包含 2 种情况：
+  1. 一般的郡：COL_DXCC = '339' and COL_CNTY in jcg_list，entity 编号为 COL_CNTY
+  2. 小笠原支庁：COL_DXCC in ('177', '192') ，entity 编号为 '10007'
 
-### 为 ku_list.json 补全坐标信息
-* 参考 jcc_list.json 和 jcg_list.json 的格式
-* 使用 wikidata 的数据，用 python 抓取
-* 访问 wikidata 时，请使用 proxychains
-* 脚本和中间结果存储到 temp 文件夹
+* 对于 WAKU，包含 1 种情况：
+  1. 一般的区：COL_DXCC = '339' and COL_CNTY in ku_list，entity 编号为 COL_CNTY
 
-考虑的数据抓取方式：
-* 首先查询“属于”“政令指定都市”的数据项：P31 Q1749269
-* 然后查找对每个政令指定都市，查找同时满足以下条件的区
-  * “属于”“行政区”：P31 Q137773
-  * “所在行政区”“某某市”：P131 Qxx
-* 然后对于每个区，匹配其“转写”：P2440
-  * 注意去掉字母帽子
-* 获取“地理坐标”：P625
+* 对于 AJA，包含 4 种情况：
+  1. 市：COL_DXCC = '339' and COL_CNTY in jcc_list，entity 编号为 COL_CNTY
+  2. 区：COL_DXCC = '339' and COL_CNTY in ku_list，entity 编号为 COL_CNTY
+  3. 郡：COL_DXCC = '339' and COL_CNTY in jcg_list，entity 编号为 COL_CNTY
+  4. 小笠原支庁：COL_DXCC in ('177', '192') ，entity 编号为 '10007'
 
-wikidata 可能查不到以下的区，请使用下面的 wikidata 项目的“地理坐标”P625
-* 402108 八幡区：Q3276115
-* 402109 小倉市：Q516373
-* 270110 葺合区：Q11621211
+#### 现状和修改要求
+1. 对于生成 sql + bindings 对的函数
+   * 返回值统一格式为：
+     ```php
+     return [
+         'sql' => $sql,
+         'bindings' => $bindings,
+     ];
+     ```
 
-### 格式化 jcc_list.json 和 jcg_list.json 中的日期
-将 deleted_date 字段的日期，格式化为 yyyy-mm-dd 的形式
+2. build_entity_status_union_all_sql
+   * 现有函数只支持两个 sql 的 union all
+   * 需要修改支持 n 个的 union all，即支持一个数组的 sql + bindings 对进行 union all
+   * 函数名称要变改，现在的名称不够通用
+
+3. build_entity_query_where_sql
+   * 现有函数中 DXCC 被写死在函数里，只允许传入 entity_in_list_sql
+   * 应当允许传入完整的条件 sql：
+     * 类似于：`COL_DXCC = '339' and COL_CNTY in (...)`
+
+4. query_export_qsos
+   * 现有函数不支持 key_col，这会影响将来的 AJA 导出
+   * 应当支持 key_col 的能力，即
+     * 对于 sql 里 row_number() 窗口函数，partition by 应当为 entity, key_col
+     * 对于 build_export_entity_source_query 中 select 的列，应当新增 band as key_col
+     * 允许指定 key_col 的类型
+     * 参考 entity_status 的 key_col
+   * 对于 JCC/JCG/WAKU，key_col 是 'All'，即 key_col 不关心
+   * 对于 AJA，key_col 是 band，即要导出所有 entity + band 的 QSO
+
+5. 对于 query_entity_status 和 query_export_qsos 两个完整 sql 的构造函数
+   * 应当根据“拼接多组查询结果”的要求，支持抽象的多组查询的输入
+     * 即，接受一个数组，每一行为一个包含 entity_expr、entity_cond 的数组
+       ```php
+       array(
+        array(
+          'entity_expr' => "COL_CNTY",
+          'entity_cond' => "COL_DXCC = '339' and COL_CNTY in jcg_list",
+        ),
+        array(
+          'entity_expr' => "'10007'",
+          'entity_cond' => "COL_DXCC in ('177', '192')",
+        ),
+       )
+
+6. 应在 query_entity_status 和 query_export_qsos 外，为 jcc/jcg/waku/aja 包装一个可以在 controller 调用的函数
+
+7. 模型拆分安排：
+   * 公共函数和 AJA 相关的放在 Aja_model 中
+   * JCC/JCG/WAKU 可以有自己的 model，继承自 Aja_model
+   * 请评估这一安排的合理性
+
+#### JCG/WAKU 的具体要求
+
+除此前列出的查询时的不同外，JCG/WAKU 和 JCC 的查询逻辑、UI 是一致的
+
+#### AJA 的具体要求
+
+AJA 导出 QSO 的表格格式与 JCC/JCG/WAKU 不同。
+
+其格式应当符合 temp/AJA-list_202401-ja.csv / temp/AJA-list_202401-en.csv 的样式：
+* 每个 entity 占 2 行，每个 band 占 2 列，从而每个 QSO 是 2 行 2 列的 4 格：
+  * 第一行：Mode、Callsign
+  * 第二行：Check、Date
+  * Check 留空。
+* entity 的顺序是：
+  * 按都道府县的序号顺序
+  * 每个都道府县内，按先市后郡的顺序
+  * 对于政令指定都市，先市，后插入该市的所有区
+
+AJA 的统计，需要按照市、郡、区分别统计每个波段的确认/通联数量。
