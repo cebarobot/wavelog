@@ -427,7 +427,7 @@ class Awards extends CI_Controller {
 		$data['bands'] = $bands; // Used for displaying selected band(s) in the table in the view
 
 		// Query the database for JCC status
-		$jcc_entity_status = $this->jcc_model->query_entity_status($postdata, 'band');
+		$jcc_entity_status = $this->jcc_model->query_jcc_entity_status($postdata, 'band');
 		
 		$data['jcc_array'] = $this->jcc_model->get_jcc_array($bands, $postdata, $jcc_entity_status);
 		$data['jcc_summary'] = $this->jcc_model->get_jcc_summary($bands, $postdata, $jcc_entity_status);
@@ -466,6 +466,205 @@ class Awards extends CI_Controller {
 				$qso['COL_TIME_ON'], 
 				$qso['COL_BAND'] . ($qso['COL_PROP_MODE'] ? (' / ' . $qso['COL_PROP_MODE']) : ''), 
 				$qso['COL_MODE'], 
+				$qso['entity'] . ' - ' . $qso['entity_name']
+			), escape: '\\');
+			$i++;
+		}
+		fclose($fp);
+		return;
+	}
+
+	/**
+	 * JCG Award - Japan Century Guns
+	 */
+	public function jcg() {
+		$footerData = [];
+		$footerData['scripts'] = [
+			'assets/js/sections/jcg.js',
+			'assets/js/sections/jcgmap.js'
+		];
+
+		$this->load->helper('awards');
+		$this->load->model('jcg_model');
+		$this->load->model('modes');
+		$this->load->model('bands');
+
+		if($this->input->method() === 'post') {
+			$postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+			$postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+			$postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+			$postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+			$postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+			$postdata['worked'] = ($this->input->post('worked', true) ?? 0) == 0 ? null : 1;
+			$postdata['confirmed'] = ($this->input->post('confirmed', true) ?? 0) == 0 ? null : 1;
+			$postdata['notworked'] = ($this->input->post('notworked', true) ?? 0) == 0 ? null : 1;
+			$postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
+			$postdata['band'] = $this->input->post('band', true) ?? 'All';
+			$postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+			$postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+		} else {
+			$postdata['qsl'] = 1;
+			$postdata['lotw'] = 1;
+			$postdata['eqsl'] = 1;
+			$postdata['qrz'] = null;
+			$postdata['clublog'] = null;
+			$postdata['worked'] = 1;
+			$postdata['confirmed'] = 1;
+			$postdata['notworked'] = null;
+			$postdata['includedeleted'] = null;
+			$postdata['band'] = 'All';
+			$postdata['mode'] = 'All';
+			$postdata['prop_mode'] = 'All';
+		}
+		$data['postdata'] = $postdata;
+
+		$data['worked_bands'] = $this->bands->get_worked_bands('jcc');
+		$data['modes'] = $this->modes->active();
+		$data['user_map_custom'] = $this->optionslib->get_map_custom();
+
+		if ($postdata['band'] == 'All') {
+			$bands = $data['worked_bands'];
+		} else {
+			$bands = [$postdata['band']];
+		}
+		$data['bands'] = $bands;
+
+		$jcg_entity_status = $this->jcg_model->query_jcg_entity_status($postdata, 'band');
+
+		$data['jcg_array'] = $this->jcg_model->get_jcg_array($bands, $postdata, $jcg_entity_status);
+		$data['jcg_summary'] = $this->jcg_model->get_jcg_summary($bands, $postdata, $jcg_entity_status);
+
+		$data['page_title'] = sprintf(__("Awards - %s"), __("JCG"));
+		$this->load->view('interface_assets/header', $data);
+		$this->load->view('awards/jcg/index');
+		$this->load->view('interface_assets/footer', $footerData);
+	}
+
+	/**
+	 * Export JCG QSOs as CSV
+	 */
+	public function jcg_export() {
+		$this->load->model('Jcg_model');
+		$postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+		$postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+		$postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+		$postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+		$postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+		$postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
+		$postdata['band'] = $this->input->post('band', true) ?? 'All';
+		$postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+		$postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+
+		$qsos = $this->Jcg_model->get_jcg_export($postdata);
+
+		$fp = fopen( 'php://output', 'w' );
+		$i=1;
+		fputcsv($fp, array('No', 'Callsign', 'Date', 'Band', 'Mode', 'Remarks'), escape: '\\');
+		foreach ($qsos as $qso) {
+			fputcsv($fp, array(
+				$i,
+				$qso['COL_CALL'],
+				$qso['COL_TIME_ON'],
+				$qso['COL_BAND'] . ($qso['COL_PROP_MODE'] ? (' / ' . $qso['COL_PROP_MODE']) : ''),
+				$qso['COL_MODE'],
+				$qso['entity'] . ' - ' . $qso['entity_name']
+			), escape: '\\');
+			$i++;
+		}
+		fclose($fp);
+		return;
+	}
+
+	/**
+	 * WAKU Award - Worked All Ku's
+	 */
+	public function waku() {
+		$footerData = [];
+		$footerData['scripts'] = [
+			'assets/js/sections/waku.js',
+			'assets/js/sections/wakumap.js'
+		];
+
+		$this->load->helper('awards');
+		$this->load->model('waku_model');
+		$this->load->model('modes');
+		$this->load->model('bands');
+
+		if($this->input->method() === 'post') {
+			$postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+			$postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+			$postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+			$postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+			$postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+			$postdata['worked'] = ($this->input->post('worked', true) ?? 0) == 0 ? null : 1;
+			$postdata['confirmed'] = ($this->input->post('confirmed', true) ?? 0) == 0 ? null : 1;
+			$postdata['notworked'] = ($this->input->post('notworked', true) ?? 0) == 0 ? null : 1;
+			$postdata['band'] = $this->input->post('band', true) ?? 'All';
+			$postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+			$postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+		} else {
+			$postdata['qsl'] = 1;
+			$postdata['lotw'] = 1;
+			$postdata['eqsl'] = 1;
+			$postdata['qrz'] = null;
+			$postdata['clublog'] = null;
+			$postdata['worked'] = 1;
+			$postdata['confirmed'] = 1;
+			$postdata['notworked'] = null;
+			$postdata['band'] = 'All';
+			$postdata['mode'] = 'All';
+			$postdata['prop_mode'] = 'All';
+		}
+		$data['postdata'] = $postdata;
+
+		$data['worked_bands'] = $this->bands->get_worked_bands('jcc');
+		$data['modes'] = $this->modes->active();
+		$data['user_map_custom'] = $this->optionslib->get_map_custom();
+
+		if ($postdata['band'] == 'All') {
+			$bands = $data['worked_bands'];
+		} else {
+			$bands = [$postdata['band']];
+		}
+		$data['bands'] = $bands;
+
+		$waku_entity_status = $this->waku_model->query_waku_entity_status($postdata, 'band');
+
+		$data['waku_array'] = $this->waku_model->get_waku_array($bands, $postdata, $waku_entity_status);
+		$data['waku_summary'] = $this->waku_model->get_waku_summary($bands, $postdata, $waku_entity_status);
+
+		$data['page_title'] = sprintf(__("Awards - %s"), __("WAKU"));
+		$this->load->view('interface_assets/header', $data);
+		$this->load->view('awards/waku/index');
+		$this->load->view('interface_assets/footer', $footerData);
+	}
+
+	/**
+	 * Export WAKU QSOs as CSV
+	 */
+	public function waku_export() {
+		$this->load->model('Waku_model');
+		$postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+		$postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+		$postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+		$postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+		$postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+		$postdata['band'] = $this->input->post('band', true) ?? 'All';
+		$postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+		$postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+
+		$qsos = $this->Waku_model->get_waku_export($postdata);
+
+		$fp = fopen( 'php://output', 'w' );
+		$i=1;
+		fputcsv($fp, array('No', 'Callsign', 'Date', 'Band', 'Mode', 'Remarks'), escape: '\\');
+		foreach ($qsos as $qso) {
+			fputcsv($fp, array(
+				$i,
+				$qso['COL_CALL'],
+				$qso['COL_TIME_ON'],
+				$qso['COL_BAND'] . ($qso['COL_PROP_MODE'] ? (' / ' . $qso['COL_PROP_MODE']) : ''),
+				$qso['COL_MODE'],
 				$qso['entity'] . ' - ' . $qso['entity_name']
 			), escape: '\\');
 			$i++;
@@ -1938,11 +2137,195 @@ class Awards extends CI_Controller {
 	    $postdata['mode'] = $this->input->post('mode', true) ?? 'All';
 	    $postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
 
-	    $jcc_entity_status = $this->jcc_model->query_entity_status($postdata, 'none');
+	    $jcc_entity_status = $this->jcc_model->query_jcc_entity_status($postdata, 'none');
 	    $jccs = $this->jcc_model->get_jcc_map_array($postdata, $jcc_entity_status);
 
 	    header('Content-Type: application/json');
 	    echo json_encode($jccs);
+    }
+
+	/**
+	 * Provide data for AJAX to render the JCG map
+	 */
+    public function jcg_map() {
+	    $this->load->model('jcg_model');
+	    $this->load->model('bands');
+
+	    $bands[] = $this->security->xss_clean($this->input->post('band'));
+
+	    $postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+	    $postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+	    $postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+	    $postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+	    $postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+	    $postdata['worked'] = ($this->input->post('worked', true) ?? 0) == 0 ? null : 1;
+	    $postdata['confirmed'] = ($this->input->post('confirmed', true) ?? 0) == 0 ? null : 1;
+	    $postdata['notworked'] = ($this->input->post('notworked', true) ?? 0) == 0 ? null : 1;
+	    $postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
+	    $postdata['band'] = $this->input->post('band', true) ?? 'All';
+	    $postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+	    $postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+
+	    $jcg_entity_status = $this->jcg_model->query_jcg_entity_status($postdata, 'none');
+	    $jcgs = $this->jcg_model->get_jcg_map_array($postdata, $jcg_entity_status);
+
+	    header('Content-Type: application/json');
+	    echo json_encode($jcgs);
+    }
+
+	/**
+	 * Provide data for AJAX to render the WAKU map
+	 */
+    public function waku_map() {
+	    $this->load->model('waku_model');
+	    $this->load->model('bands');
+
+	    $bands[] = $this->security->xss_clean($this->input->post('band'));
+
+	    $postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+	    $postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+	    $postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+	    $postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+	    $postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+	    $postdata['worked'] = ($this->input->post('worked', true) ?? 0) == 0 ? null : 1;
+	    $postdata['confirmed'] = ($this->input->post('confirmed', true) ?? 0) == 0 ? null : 1;
+	    $postdata['notworked'] = ($this->input->post('notworked', true) ?? 0) == 0 ? null : 1;
+	    $postdata['band'] = $this->input->post('band', true) ?? 'All';
+	    $postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+	    $postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+
+	    $waku_entity_status = $this->waku_model->query_waku_entity_status($postdata, 'none');
+	    $wakus = $this->waku_model->get_waku_map_array($postdata, $waku_entity_status);
+
+	    header('Content-Type: application/json');
+	    echo json_encode($wakus);
+    }
+
+	/**
+	 * AJA Award - All Japan Award
+	 */
+	public function aja() {
+		$footerData = [];
+		$footerData['scripts'] = [
+			'assets/js/sections/aja.js',
+			'assets/js/sections/ajamap.js'
+		];
+
+		$this->load->helper('awards');
+		$this->load->model('aja_model');
+		$this->load->model('modes');
+		$this->load->model('bands');
+
+		if($this->input->method() === 'post') {
+			$postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+			$postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+			$postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+			$postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+			$postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+			$postdata['worked'] = ($this->input->post('worked', true) ?? 0) == 0 ? null : 1;
+			$postdata['confirmed'] = ($this->input->post('confirmed', true) ?? 0) == 0 ? null : 1;
+			$postdata['notworked'] = ($this->input->post('notworked', true) ?? 0) == 0 ? null : 1;
+			$postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
+			$postdata['band'] = $this->input->post('band', true) ?? 'All';
+			$postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+			$postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+		} else {
+			$postdata['qsl'] = 1;
+			$postdata['lotw'] = 1;
+			$postdata['eqsl'] = 1;
+			$postdata['qrz'] = null;
+			$postdata['clublog'] = null;
+			$postdata['worked'] = 1;
+			$postdata['confirmed'] = 1;
+			$postdata['notworked'] = null;
+			$postdata['includedeleted'] = null;
+			$postdata['band'] = 'All';
+			$postdata['mode'] = 'All';
+			$postdata['prop_mode'] = 'All';
+		}
+		$data['postdata'] = $postdata;
+
+		$data['worked_bands'] = $this->bands->get_worked_bands('jcc');
+		$data['modes'] = $this->modes->active();
+		$data['user_map_custom'] = $this->optionslib->get_map_custom();
+
+		if ($postdata['band'] == 'All') {
+			$bands = $data['worked_bands'];
+		} else {
+			$bands = [$postdata['band']];
+		}
+		$data['bands'] = $bands;
+
+		$aja_entity_status = $this->aja_model->query_aja_entity_status($postdata, 'band');
+
+		$data['aja_array'] = $this->aja_model->get_aja_array($bands, $postdata, $aja_entity_status);
+		$data['aja_summary'] = $this->aja_model->get_aja_summary($bands, $postdata, $aja_entity_status);
+
+		$data['page_title'] = sprintf(__("Awards - %s"), __("AJA"));
+		$this->load->view('interface_assets/header', $data);
+		$this->load->view('awards/aja/index');
+		$this->load->view('interface_assets/footer', $footerData);
+	}
+
+	/**
+	 * Export AJA QSOs as CSV for Award Application
+	 */
+	public function aja_export() {
+		$this->load->model('aja_model');
+		$this->load->model('bands');
+
+		$postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+		$postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+		$postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+		$postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+		$postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+		$postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
+		$postdata['band'] = $this->input->post('band', true) ?? 'All';
+		$postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+		$postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+
+		$worked_bands = $this->bands->get_worked_bands('jcc');
+		if ($postdata['band'] == 'All') {
+			$bands = $worked_bands;
+		} else {
+			$bands = [$postdata['band']];
+		}
+
+		$csv_rows = $this->aja_model->get_aja_export($bands, $postdata);
+
+		$fp = fopen('php://output', 'w');
+		foreach ($csv_rows as $row) {
+			fputcsv($fp, $row, escape: '\\');
+		}
+		fclose($fp);
+		return;
+	}
+
+	/**
+	 * AJA Map data endpoint
+	 */
+    public function aja_map() {
+	    $this->load->model('aja_model');
+	    $this->load->model('bands');
+
+	    $postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+	    $postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+	    $postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+	    $postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+	    $postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+	    $postdata['worked'] = ($this->input->post('worked', true) ?? 0) == 0 ? null : 1;
+	    $postdata['confirmed'] = ($this->input->post('confirmed', true) ?? 0) == 0 ? null : 1;
+	    $postdata['notworked'] = ($this->input->post('notworked', true) ?? 0) == 0 ? null : 1;
+	    $postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
+	    $postdata['band'] = $this->input->post('band', true) ?? 'All';
+	    $postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+	    $postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+
+	    $aja_entity_status = $this->aja_model->query_aja_entity_status($postdata, 'none');
+	    $ajas = $this->aja_model->get_aja_map_array($postdata, $aja_entity_status);
+
+	    header('Content-Type: application/json');
+	    echo json_encode($ajas);
     }
 
     /*
