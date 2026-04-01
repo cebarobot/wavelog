@@ -24,19 +24,19 @@
 * [x] 为 jcc_list.json 补全政令指定都市信息
 * [x] 为 ku_list.json 补全坐标信息
 * [x] 格式化 jcc_list.json 和 jcg_list.json 中的日期
-* [ ] 扩展现有 Jcc_model 中的公共函数
-  * [ ] 对于生成 sql + bindings 对的函数，统一返回值格式
-  * [ ] 改进 build_entity_status_union_all_sql
-  * [ ] 调整 build_entity_query_where_sql 的参数
-  * [ ] 让 query_export_qsos 支持 key_col
-  * [ ] 让 query_entity_status 和 query_export_qsos 支持数组表达的多组查询
-  * [ ] 包装 query_entity_status 和 query_export_qsos
-  * [ ] 移动函数、分 model
-* [ ] 实现 JCG 的 Model
-* [ ] 实现 WAKU 的 Model
-* [ ] 实现 AJA 的 Model
-* [ ] 实现 JCG/WAKU 的 UI
-* [ ] 实现 AJA 的 UI
+* [x] 扩展现有 Jcc_model 中的公共函数
+  * [x] 对于生成 sql + bindings 对的函数，统一返回值格式
+  * [x] 改进 build_entity_status_union_all_sql
+  * [x] 调整 build_entity_query_where_sql 的参数
+  * [x] 让 query_export_qsos 支持 key_col
+  * [x] 让 query_entity_status 和 query_export_qsos 支持数组表达的多组查询
+  * [x] 包装 query_entity_status 和 query_export_qsos
+  * [x] 移动函数、分 model
+* [x] 实现 JCG 的 Model
+* [x] 实现 WAKU 的 Model
+* [x] 实现 AJA 的 Model
+* [x] 实现 JCG/WAKU 的 UI
+* [x] 实现 AJA 的 UI
 
 ## 任务提示
 
