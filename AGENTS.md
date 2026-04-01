@@ -34,6 +34,13 @@ Refer to docs/task.md
 2. 构建 docker image：`docker compose build`
 3. 部署 docker compose：`docker compose up -d`
 
+* 每次修改代码后都需要重新构建、重新部署。
+* 重新部署后，需要重新登录。
+* 访问网址：127.0.0.1:8086
+* 用户名：asdf
+* 密码：asdfasdf
+* 你可能需要用一些工具来模拟浏览器访问
+
 ## language
 
 * 总是使用中文和我交流。
