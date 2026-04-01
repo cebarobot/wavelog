@@ -76,62 +76,6 @@ class Jcc_model extends Aja_model {
 	}
 
 	/**
-	 * Get the JCC status array for display on the table
-	 * 	array[city][band] = 'C' if confirmed, 'W' if worked but not confirmed, '-' if not worked
-	 *
-	 * @param array $bands The list of bands to include in the result
-	 * @param array $postdata The postdata containing filter options
-	 * @param array|null $entity_status The pre-query entity status to use
-	 */
-	function get_jcc_array($bands, $postdata, $entity_status = null) {
-		if ($entity_status === null) {
-			$entity_status = $this->query_jcc_entity_status($postdata, 'band');
-		}
-
-		$jcc_list = $this->filter_entity_data($this->ja_cities, $postdata);
-
-		$cities = array();
-		// Initializing the array with all cities and bands
-		foreach ($jcc_list as $city => $city_data) {
-			$cities[$city]['Number'] = $city;
-			$cities[$city]['City'] = $city_data['name'];
-			$cities[$city]['count'] = 0;
-			foreach ($bands as $band) {
-				// Sets all to dash to indicate no result
-				$cities[$city][$band] = '-';
-			}
-		}
-
-		foreach ($entity_status as $row) {
-			if ($row['confirmed'] == 1) {
-				if ($postdata['confirmed'] != NULL) {
-					$cities[$row['entity']][$row['key_col']] = 'C';
-					$cities[$row['entity']]['count'] += 1;
-				}
-			} else {
-				if ($postdata['worked'] != NULL) {
-					$cities[$row['entity']][$row['key_col']] = 'W';
-					$cities[$row['entity']]['count'] += 1;
-				}
-			}
-		}
-
-		if ($postdata['notworked'] == NULL) {
-			foreach ($cities as $city => $city_data) {
-				if ($city_data['count'] == 0) {
-					unset($cities[$city]);
-				}
-			}
-		}
-
-		if (!empty($cities)) {
-			return $cities;
-		} else {
-			return 0;
-		}
-	}
-
-	/**
 	 * Build grouped slot data for the JCC demo grid.
 	 *
 	 * @param array $postdata The postdata containing filter options
@@ -202,13 +146,13 @@ class Jcc_model extends Aja_model {
 	}
 
 	/**
-	 * Build the overall summary for the JCC demo grid.
+	 * Build the overall summary for the grouped JCC grid.
 	 *
 	 * @param array $postdata The postdata containing filter options
 	 * @param array|null $entity_status The pre-query entity status to use
-	 * @return array The summary data for the demo
+	 * @return array The summary data for the grouped grid
 	 */
-	function get_jcc_demo_summary($postdata, $entity_status = null) {
+	function get_jcc_summary($postdata, $entity_status = null) {
 		if ($entity_status === null) {
 			$entity_status = $this->query_jcc_entity_status($postdata, 'none');
 		}
@@ -250,64 +194,6 @@ class Jcc_model extends Aja_model {
 			'confirmed_percent' => $total > 0 ? round(($confirmed / $total) * 100, 1) : 0,
 			'worked_only_percent' => $total > 0 ? round(($worked_only / $total) * 100, 1) : 0,
 		);
-	}
-
-
-	/**
-	 * Get the JCC summary array for display on the table
-	 * 	array['worked'][band] = count of worked cities for the band
-	 * 	array['confirmed'][band] = count of confirmed cities for the band
-	 *
-	 * @param array $bands The list of bands to include in the result
-	 * @param array $postdata The postdata containing filter options
-	 * @param array|null $entity_status The pre-query entity status to use
-	 */
-	function get_jcc_summary($bands, $postdata, $entity_status = null) {
-		if ($entity_status === null) {
-			$entity_status = $this->query_jcc_entity_status($postdata, 'band');
-		}
-
-		$summary = array(
-			'worked' => array(),
-			'confirmed' => array(),
-		);
-
-		// $worked_by_band = array();
-		// $confirmed_by_band = array();
-		foreach ($bands as $band) {
-			$summary['worked'][$band] = 0;
-			$summary['confirmed'][$band] = 0;
-		}
-
-		$worked_total = array();
-		$confirmed_total = array();
-
-		foreach ($entity_status as $row) {
-			$worked_total[$row['entity']] = true;
-			$summary['worked'][$row['key_col']] += 1;
-			if ($row['confirmed'] == 1) {
-				$confirmed_total[$row['entity']] = true;
-				$summary['confirmed'][$row['key_col']] += 1;
-			}
-		}
-
-		$summary['worked']['Total'] = count($worked_total);
-		$summary['confirmed']['Total'] = count($confirmed_total);
-
-		// make sure SAT is after Total
-		// I don't know why, but the origin design is such.
-		if (isset($summary['worked']['SAT']) && isset($summary['confirmed']['SAT'])) {
-			$summary_worked_sat = $summary['worked']['SAT'];
-			$summary_confirmed_sat = $summary['confirmed']['SAT'];
-
-			unset($summary['worked']['SAT']);
-			unset($summary['confirmed']['SAT']);
-
-			$summary['worked']['SAT'] = $summary_worked_sat;
-			$summary['confirmed']['SAT'] = $summary_confirmed_sat;
-		}
-
-		return $summary;
 	}
 
 	/**
