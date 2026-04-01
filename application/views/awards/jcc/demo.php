@@ -18,18 +18,57 @@
     }
 
     .award-grid-slot {
+        --award-slot-hover-color: inherit;
+        --award-slot-hover-bg: transparent;
+        --award-slot-hover-border-color: currentColor;
+        --award-slot-focus-shadow: 0 0 0 0.25rem rgba(var(--bs-secondary-rgb), 0.15);
         width: 3rem;
         height: 2rem;
         padding: 0 0.5rem;
         border-radius: 0.375rem;
         font-size: 0.9rem;
         line-height: 1;
-        transition: transform 0.12s ease, box-shadow 0.12s ease;
+        transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+        .award-grid-slot {
+            transition: none;
+        }
     }
 
     .award-grid-slot:hover {
-        transform: translateY(-1px);
-        box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.12);
+        color: var(--award-slot-hover-color) !important;
+        background-color: var(--award-slot-hover-bg) !important;
+        border-color: var(--award-slot-hover-border-color) !important;
+        text-decoration: none;
+        box-shadow: none;
+    }
+
+    .award-grid-slot:focus-visible {
+        outline: 0;
+        box-shadow: var(--award-slot-focus-shadow);
+    }
+
+    .award-grid-slot.text-bg-success {
+        --award-slot-hover-color: #fff;
+        --award-slot-hover-bg: color-mix(in srgb, var(--bs-success) 85%, black);
+        --award-slot-hover-border-color: color-mix(in srgb, var(--bs-success) 80%, black);
+        --award-slot-focus-shadow: 0 0 0 0.25rem rgba(var(--bs-success-rgb), 0.25);
+    }
+
+    .award-grid-slot.text-bg-danger {
+        --award-slot-hover-color: #fff;
+        --award-slot-hover-bg: color-mix(in srgb, var(--bs-danger) 85%, black);
+        --award-slot-hover-border-color: color-mix(in srgb, var(--bs-danger) 80%, black);
+        --award-slot-focus-shadow: 0 0 0 0.25rem rgba(var(--bs-danger-rgb), 0.25);
+    }
+
+    .award-grid-slot.text-bg-light {
+        --award-slot-hover-color: var(--bs-emphasis-color);
+        --award-slot-hover-bg: color-mix(in srgb, var(--bs-light) 85%, black);
+        --award-slot-hover-border-color: color-mix(in srgb, var(--bs-light) 80%, black);
+        --award-slot-focus-shadow: 0 0 0 0.25rem rgba(var(--bs-secondary-rgb), 0.15);
     }
 
     .award-grid-slot-empty {
@@ -40,12 +79,8 @@
         background-image: repeating-linear-gradient(135deg, rgba(0, 0, 0, 0.18) 0, rgba(0, 0, 0, 0.18) 2px, transparent 2px, transparent 6px);
     }
 
-    .award-grid-slot-designated {
-        box-shadow: inset 0 0 0 2px rgba(13, 110, 253, 0.4);
-    }
-
-    .award-grid-summary {
-        margin-top: 1.5rem;
+    .award-grid-progress {
+        height: 0.5rem;
     }
 
     @media (max-width: 991.98px) {
@@ -74,7 +109,7 @@
     <form class="form" action="<?php echo site_url('awards/jcc_demo'); ?>" method="post" enctype="multipart/form-data">
         <fieldset>
             <div class="mb-3 row">
-                <div class="col-md-2"><?= __("Show QSO with QSL Type"); ?></div>
+                <div class="col-md-2"><?= __("QSL Type"); ?></div>
                 <div class="col-md-10">
                     <div class="form-check-inline">
                         <input class="form-check-input" type="checkbox" name="qsl" value="1" id="qsl" <?php if (($postdata['qsl'] ?? null) == 1) echo ' checked="checked"'; ?> >
@@ -162,27 +197,69 @@
     </form>
 
     <div class="mt-4">
-        <div class="d-flex flex-wrap gap-3 mb-3 small text-body-secondary">
-            <div class="d-inline-flex align-items-center gap-2">
-                <span class="award-grid-legend-swatch rounded border border-success text-bg-success"></span>
-                <span><?= __("Confirmed"); ?></span>
+        <div class="border rounded px-3 py-2 mb-3">
+            <div class="d-flex flex-column flex-xl-row justify-content-between align-items-start align-items-xl-center gap-3">
+                <div class="d-flex flex-wrap align-items-center gap-3 gap-xl-4">
+                    <div class="d-inline-flex align-items-baseline gap-2">
+                        <span class="small text-body-secondary"><?= __("Confirmed"); ?></span>
+                        <span class="fs-5 fw-bold text-success"><?php echo $jcc_summary['confirmed']; ?></span>
+                        <span class="small text-body-secondary"><?php echo number_format($jcc_summary['confirmed_percent'], 1); ?>%</span>
+                    </div>
+                    <div class="d-inline-flex align-items-baseline gap-2">
+                        <span class="small text-body-secondary"><?= __("Worked"); ?></span>
+                        <span class="fs-5 fw-bold text-danger"><?php echo $jcc_summary['worked']; ?></span>
+                        <span class="small text-body-secondary"><?php echo number_format($jcc_summary['worked_percent'], 1); ?>%</span>
+                    </div>
+                    <div class="d-inline-flex align-items-baseline gap-2">
+                        <span class="small text-body-secondary"><?= __("Total"); ?></span>
+                        <span class="fs-5 fw-bold"><?php echo $jcc_summary['total']; ?></span>
+                    </div>
+                    <?php if (($postdata['includedeleted'] ?? null) == 1) { ?>
+                        <div class="d-inline-flex align-items-baseline gap-2">
+                            <span class="small text-body-secondary"><?= __("Deleted"); ?></span>
+                            <span class="fs-5 fw-bold text-body-secondary"><?php echo $jcc_summary['deleted']; ?></span>
+                        </div>
+                    <?php } ?>
+                </div>
+
+                <div class="d-flex flex-wrap align-items-center gap-3 small text-body-secondary justify-content-xl-end flex-shrink-0">
+                    <div class="d-inline-flex align-items-center gap-2">
+                        <span class="award-grid-legend-swatch rounded border border-success text-bg-success"></span>
+                        <span><?= __("Confirmed"); ?></span>
+                    </div>
+                    <div class="d-inline-flex align-items-center gap-2">
+                        <span class="award-grid-legend-swatch rounded border border-danger text-bg-danger"></span>
+                        <span><?= __("Worked not confirmed"); ?></span>
+                    </div>
+                    <div class="d-inline-flex align-items-center gap-2">
+                        <span class="award-grid-legend-swatch rounded border bg-body"></span>
+                        <span><?= __("Not worked"); ?></span>
+                    </div>
+                    <?php if (($postdata['includedeleted'] ?? null) == 1) { ?>
+                        <div class="d-inline-flex align-items-center gap-2">
+                            <span class="award-grid-legend-swatch award-grid-legend-swatch-deleted rounded border bg-body"></span>
+                            <span><?= __("Deleted"); ?></span>
+                        </div>
+                    <?php } ?>
+                </div>
             </div>
-            <div class="d-inline-flex align-items-center gap-2">
-                <span class="award-grid-legend-swatch rounded border border-danger text-bg-danger"></span>
-                <span><?= __("Worked not confirmed"); ?></span>
-            </div>
-            <div class="d-inline-flex align-items-center gap-2">
-                <span class="award-grid-legend-swatch rounded border bg-body"></span>
-                <span><?= __("Not worked"); ?></span>
-            </div>
-            <div class="d-inline-flex align-items-center gap-2">
-                <span class="award-grid-legend-swatch award-grid-legend-swatch-deleted rounded border bg-body"></span>
-                <span><?= __("Deleted"); ?></span>
+
+            <div class="progress award-grid-progress mt-2" role="progressbar" aria-label="<?= __("JCC progress"); ?>" aria-valuenow="<?php echo (int) round($jcc_summary['worked_percent']); ?>" aria-valuemin="0" aria-valuemax="100">
+                <div class="progress-bar bg-success" style="width: <?php echo $jcc_summary['confirmed_percent']; ?>%"></div>
+                <?php if (($jcc_summary['worked_only_percent'] ?? 0) > 0) { ?>
+                    <div class="progress-bar bg-danger" style="width: <?php echo $jcc_summary['worked_only_percent']; ?>%"></div>
+                <?php } ?>
             </div>
         </div>
 
+        <?php if (($postdata['includedeleted'] ?? null) == 1) { ?>
+            <div class="alert alert-warning" role="alert">
+                <?= __("Attention! Wavelog does not verify whether a QSO happened before the entity deletion date."); ?>
+            </div>
+        <?php } ?>
+
         <?php if (!$has_active_slots) { ?>
-            <div class="alert alert-info" role="alert">
+            <div class="alert alert-danger" role="alert">
                 <?= __("No worked or confirmed JCC slots match the current filters."); ?>
             </div>
         <?php } ?>
@@ -191,15 +268,10 @@
             <?php foreach ($jcc_groups as $group) { ?>
                 <section class="d-flex flex-column flex-lg-row gap-3 py-3 border-bottom">
                     <div class="award-grid-prefecture flex-shrink-0">
-                        <div class="gap-2 mb-1">
+                        <div class="d-flex align-items-center flex-wrap gap-2 mb-1">
                             <span class="fs-5 fw-bold"><?php echo $group['prefecture_code']; ?></span>
-                            <span class="fw-bold gap-2 mb-1"><?php echo $group['prefecture_name']; ?></span>
+                            <span class="fw-bold"><?php echo $group['prefecture_name']; ?></span>
                         </div>
-                        <!-- <div class="small text-body-secondary">
-                            <?php echo $group['confirmed_count']; ?> <?= __("Confirmed"); ?> /
-                            <?php echo $group['worked_count']; ?> <?= __("Worked"); ?> /
-                            <?php echo $group['slot_count']; ?> <?= __("Total"); ?>
-                        </div> -->
                     </div>
                     <div class="award-grid-slots d-flex flex-wrap gap-2">
                         <?php foreach ($group['slots'] as $slot) {
@@ -209,45 +281,6 @@
                 </section>
             <?php } ?>
         </div>
-    </div>
-
-    <?php
-    $summary_columns = array();
-    if (count($bands) > 1) {
-        $summary_columns = array_keys($jcc_summary['worked']);
-    } elseif (count($bands) === 1) {
-        $summary_columns = array($bands[0]);
-    } else {
-        $summary_columns = array('Total');
-    }
-    ?>
-
-    <div class="award-grid-summary">
-        <h3><?= __("Summary"); ?></h3>
-        <table class="table-sm tablesummary table table-bordered table-hover table-striped text-center">
-            <thead>
-                <tr>
-                    <th></th>
-                    <?php foreach ($summary_columns as $column) { ?>
-                        <th><?php echo $column === 'Total' ? '<b>' . __("Total") . '</b>' : $column; ?></th>
-                    <?php } ?>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td><?= __("Total worked"); ?></td>
-                    <?php foreach ($summary_columns as $column) { ?>
-                        <td><?php echo $jcc_summary['worked'][$column] ?? 0; ?></td>
-                    <?php } ?>
-                </tr>
-                <tr>
-                    <td><?= __("Total confirmed"); ?></td>
-                    <?php foreach ($summary_columns as $column) { ?>
-                        <td><?php echo $jcc_summary['confirmed'][$column] ?? 0; ?></td>
-                    <?php } ?>
-                </tr>
-            </tbody>
-        </table>
     </div>
 </div>
 

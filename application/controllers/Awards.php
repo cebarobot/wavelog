@@ -475,18 +475,12 @@ class Awards extends CI_Controller {
 
 		$data['worked_bands'] = $this->bands->get_worked_bands('jcc');
 		$data['modes'] = $this->modes->active();
+		$data['user_map_custom'] = $this->optionslib->get_map_custom();
 
-		if ($postdata['band'] == 'All') {
-			$bands = $data['worked_bands'];
-		} else {
-			$bands = [$postdata['band']];
-		}
-		$data['bands'] = $bands;
-
-		$jcc_entity_status = $this->jcc_model->query_jcc_entity_status($postdata, 'band');
+		$jcc_entity_status = $this->jcc_model->query_jcc_entity_status($postdata, 'none');
 		$data['jcc_groups'] = $this->jcc_model->get_jcc_grouped_grid($postdata, $jcc_entity_status);
-		$data['jcc_summary'] = $this->jcc_model->get_jcc_summary($bands, $postdata, $jcc_entity_status);
-		$data['has_active_slots'] = ($data['jcc_summary']['worked']['Total'] ?? 0) > 0;
+		$data['jcc_summary'] = $this->jcc_model->get_jcc_demo_summary($postdata, $jcc_entity_status);
+		$data['has_active_slots'] = ($data['jcc_summary']['worked'] ?? 0) > 0;
 
 		$data['page_title'] = 'Awards - JCC Demo';
 		$this->load->view('interface_assets/header', $data);

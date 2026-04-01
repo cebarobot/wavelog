@@ -140,7 +140,7 @@ class Jcc_model extends Aja_model {
 	 */
 	function get_jcc_grouped_grid($postdata, $entity_status = null) {
 		if ($entity_status === null) {
-			$entity_status = $this->query_jcc_entity_status($postdata, 'band');
+			$entity_status = $this->query_jcc_entity_status($postdata, 'none');
 		}
 
 		$jcc_list = $this->filter_entity_data($this->ja_cities, $postdata);
@@ -172,21 +172,11 @@ class Jcc_model extends Aja_model {
 				$groups[$prefecture_code] = array(
 					'prefecture_code' => $prefecture_code,
 					'prefecture_name' => $this->get_ja_prefecture_name($prefecture_code),
-					'slot_count' => 0,
-					'worked_count' => 0,
-					'confirmed_count' => 0,
 					'slots' => array(),
 				);
 			}
 
 			$status = $slot_status[$entity] ?? '-';
-			if ($status === 'C') {
-				$groups[$prefecture_code]['confirmed_count'] += 1;
-			}
-			if ($status === 'W' || $status === 'C') {
-				$groups[$prefecture_code]['worked_count'] += 1;
-			}
-			$groups[$prefecture_code]['slot_count'] += 1;
 
 			$groups[$prefecture_code]['slots'][] = array(
 				'entity' => $entity,
@@ -209,6 +199,57 @@ class Jcc_model extends Aja_model {
 		unset($group);
 
 		return $groups;
+	}
+
+	/**
+	 * Build the overall summary for the JCC demo grid.
+	 *
+	 * @param array $postdata The postdata containing filter options
+	 * @param array|null $entity_status The pre-query entity status to use
+	 * @return array The summary data for the demo
+	 */
+	function get_jcc_demo_summary($postdata, $entity_status = null) {
+		if ($entity_status === null) {
+			$entity_status = $this->query_jcc_entity_status($postdata, 'none');
+		}
+
+		$jcc_list = $this->filter_entity_data($this->ja_cities, $postdata);
+		$worked_entities = array();
+		$confirmed_entities = array();
+
+		foreach ($entity_status as $row) {
+			$entity = $row['entity'];
+			if (!array_key_exists($entity, $jcc_list)) {
+				continue;
+			}
+
+			$worked_entities[$entity] = true;
+			if ($row['confirmed'] == 1) {
+				$confirmed_entities[$entity] = true;
+			}
+		}
+
+		$total = count($jcc_list);
+		$deleted = 0;
+		foreach ($jcc_list as $city_data) {
+			if (!empty($city_data['deleted'])) {
+				$deleted += 1;
+			}
+		}
+		$worked = count($worked_entities);
+		$confirmed = count($confirmed_entities);
+		$worked_only = max(0, $worked - $confirmed);
+
+		return array(
+			'deleted' => $deleted,
+			'total' => $total,
+			'worked' => $worked,
+			'confirmed' => $confirmed,
+			'worked_only' => $worked_only,
+			'worked_percent' => $total > 0 ? round(($worked / $total) * 100, 1) : 0,
+			'confirmed_percent' => $total > 0 ? round(($confirmed / $total) * 100, 1) : 0,
+			'worked_only_percent' => $total > 0 ? round(($worked_only / $total) * 100, 1) : 0,
+		);
 	}
 
 

@@ -127,9 +127,6 @@ if (!function_exists('awards_render_jcc_grid_slot')) {
 		if (!empty($slot['deleted'])) {
 			$classes[] = 'award-grid-slot-deleted';
 		}
-		if (!empty($slot['is_designated_city'])) {
-			$classes[] = 'award-grid-slot-designated';
-		}
 
 		$tooltip_lines = array();
 		if (!empty($slot['number'])) {
@@ -138,14 +135,12 @@ if (!function_exists('awards_render_jcc_grid_slot')) {
 		if (!empty($slot['city_name'])) {
 			$tooltip_lines[] = html_escape($slot['city_name']);
 		}
-		if (!empty($slot['ja_city_name'])) {
-			$tooltip_lines[] = html_escape($slot['ja_city_name']);
-		}
+		// Temporarily hide the Japanese city name in the demo tooltip.
+		// if (!empty($slot['ja_city_name'])) {
+		// 	$tooltip_lines[] = html_escape($slot['ja_city_name']);
+		// }
 		if (!empty($slot['deleted'])) {
 			$tooltip_lines[] = html_escape(__("Deleted"));
-		}
-		if (!empty($slot['is_designated_city'])) {
-			$tooltip_lines[] = 'Designated city';
 		}
 
 		$tooltip_html = implode('<br>', $tooltip_lines);
@@ -156,14 +151,12 @@ if (!function_exists('awards_render_jcc_grid_slot')) {
 		if (!empty($slot['city_name'])) {
 			$title_parts[] = $slot['city_name'];
 		}
-		if (!empty($slot['ja_city_name'])) {
-			$title_parts[] = $slot['ja_city_name'];
-		}
+		// Temporarily hide the Japanese city name in the demo tooltip fallback title.
+		// if (!empty($slot['ja_city_name'])) {
+		// 	$title_parts[] = $slot['ja_city_name'];
+		// }
 		if (!empty($slot['deleted'])) {
 			$title_parts[] = __("Deleted");
-		}
-		if (!empty($slot['is_designated_city'])) {
-			$title_parts[] = 'Designated city';
 		}
 		$title = trim(implode(' - ', $title_parts));
 
