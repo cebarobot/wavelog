@@ -106,12 +106,22 @@ if (!function_exists('awards_render_jcc_grid_slot')) {
 	 * @return string The HTML string for the slot
 	 */
 	function awards_render_jcc_grid_slot($slot, $postdata) {
-		$classes = array('award-grid-slot');
+		$classes = array(
+			'award-grid-slot',
+			'badge',
+			'border',
+			'd-inline-flex',
+			'align-items-center',
+			'justify-content-center',
+			'fw-semibold',
+			'text-decoration-none',
+		);
 		if (($slot['status'] ?? '-') === 'C') {
-			$classes[] = 'award-grid-slot-confirmed';
+			$classes[] = 'text-bg-success';
 		} elseif (($slot['status'] ?? '-') === 'W') {
-			$classes[] = 'award-grid-slot-worked';
+			$classes[] = 'text-bg-danger';
 		} else {
+			$classes[] = 'text-bg-light';
 			$classes[] = 'award-grid-slot-empty';
 		}
 		if (!empty($slot['deleted'])) {
@@ -121,6 +131,24 @@ if (!function_exists('awards_render_jcc_grid_slot')) {
 			$classes[] = 'award-grid-slot-designated';
 		}
 
+		$tooltip_lines = array();
+		if (!empty($slot['number'])) {
+			$tooltip_lines[] = '<strong>' . html_escape($slot['number']) . '</strong>';
+		}
+		if (!empty($slot['city_name'])) {
+			$tooltip_lines[] = html_escape($slot['city_name']);
+		}
+		if (!empty($slot['ja_city_name'])) {
+			$tooltip_lines[] = html_escape($slot['ja_city_name']);
+		}
+		if (!empty($slot['deleted'])) {
+			$tooltip_lines[] = html_escape(__("Deleted"));
+		}
+		if (!empty($slot['is_designated_city'])) {
+			$tooltip_lines[] = 'Designated city';
+		}
+
+		$tooltip_html = implode('<br>', $tooltip_lines);
 		$title_parts = array();
 		if (!empty($slot['number'])) {
 			$title_parts[] = $slot['number'];
@@ -131,14 +159,19 @@ if (!function_exists('awards_render_jcc_grid_slot')) {
 		if (!empty($slot['ja_city_name'])) {
 			$title_parts[] = $slot['ja_city_name'];
 		}
-		$title = trim(implode(' ', $title_parts));
 		if (!empty($slot['deleted'])) {
-			$title .= ' (' . __("Deleted") . ')';
+			$title_parts[] = __("Deleted");
 		}
+		if (!empty($slot['is_designated_city'])) {
+			$title_parts[] = 'Designated city';
+		}
+		$title = trim(implode(' - ', $title_parts));
 
 		$label = html_escape($slot['short_number'] ?? $slot['number'] ?? '');
 		$class_name = html_escape(implode(' ', $classes));
 		$title_attr = html_escape($title);
+		$tooltip_attr = html_escape($tooltip_html);
+		$tooltip_data = ' data-bs-toggle="tooltip" data-bs-placement="top" data-bs-html="true" data-bs-title="' . $tooltip_attr . '" title="' . $title_attr . '"';
 
 		if (($slot['status'] ?? '-') === 'W' || ($slot['status'] ?? '-') === 'C') {
 			$qsl_string = ($slot['status'] ?? '-') === 'C' ? awards_build_qsl_string($postdata) : '';
@@ -150,9 +183,9 @@ if (!function_exists('awards_render_jcc_grid_slot')) {
 				$qsl_string,
 			);
 
-			return '<a class="' . $class_name . '" href="' . html_escape($href) . '" title="' . $title_attr . '" aria-label="' . $title_attr . '">' . $label . '</a>';
+			return '<a class="' . $class_name . '" href="' . html_escape($href) . '"' . $tooltip_data . ' aria-label="' . $title_attr . '">' . $label . '</a>';
 		}
 
-		return '<span class="' . $class_name . '" title="' . $title_attr . '" aria-label="' . $title_attr . '">' . $label . '</span>';
+		return '<span class="' . $class_name . '"' . $tooltip_data . ' aria-label="' . $title_attr . '">' . $label . '</span>';
 	}
 }
