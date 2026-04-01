@@ -30,12 +30,16 @@ Refer to docs/task.md
 
 ### 网站部署测试
 在工作目录下：
-1. 设置代理： `export https_proxy="http://172.31.80.1:7897"`、`export http_proxy="http://172.31.80.1:7897"`
-2. 构建 docker image：`docker compose build`
-3. 部署 docker compose：`docker compose up -d`
+<!-- 1. 设置代理： `export https_proxy="http://172.31.80.1:7897"`、`export http_proxy="http://172.31.80.1:7897"` -->
+2. 开发模式启动：`docker compose watch`
 
-* 每次修改代码后都需要重新构建、重新部署。
-* 重新部署后，需要重新登录。
+* 开发时请保持该命令在单独终端中运行。
+* 用户可能已经运行了该命令，开始前，请先检查 watch 是否已经在工作
+* `docker compose watch` 会按需构建并启动服务，然后进入 watch 模式。
+* 修改普通代码后，`wavelog-main` 会自动同步，不需要手动执行 `docker compose build` 和 `docker compose up -d`。
+* 修改 `Dockerfile` 或 `htaccess.sample` 后，watch 会自动重建 `wavelog-main`。
+* 普通代码同步后不需要重新登录；只有容器被自动重建后才可能需要重新登录。
+* 如果修改了 `docker-compose.yml`，需要重新执行 `docker compose watch`。
 * 访问网址：127.0.0.1:8086
 * 用户名：asdf
 * 密码：asdfasdf
