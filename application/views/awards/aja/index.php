@@ -181,73 +181,48 @@
         }
         echo '</tbody></table>';
 
-        // Summary section
-        $type_labels = array(
+        $summary_labels = array(
+            'city' => 'JCC count',
+            'gun' => 'JCG count',
+            'ku' => 'Ku count',
             'total' => __("Total"),
-            'city' => __("City"),
-            'gun' => __("Gun"),
-            'ku' => __("Ward"),
         );
+        $summary_bands = array_values(array_filter($bands, function ($band) {
+            return $band !== 'SAT';
+        }));
+        $show_sat = in_array('SAT', $bands);
 
-        $sat = in_array('SAT', $bands) ? 1 : 0;
-
-        foreach (array('total', 'city', 'gun', 'ku') as $type) {
-            $type_summary = $aja_summary[$type];
-            echo '<h2>' . __("Summary") . ' - ' . $type_labels[$type] . '</h2>';
+        $render_summary_table = function ($summary_key, $title) use ($aja_summary, $summary_labels, $summary_bands, $show_sat) {
+            echo '<h2>' . $title . '</h2>';
             echo '<table class="table-sm tablesummary table table-bordered table-hover table-striped table-condensed text-center">';
-
             echo '<thead><tr>';
-            if (count($bands) > 1) {
-                echo '<td></td>';
-                foreach($bands as $band) {
-                    if ($band != 'SAT') {
-                        echo '<td>' . $band . '</td>';
-                    }
-                }
-                echo '<td><b>' . __("Total") . '</b></td>';
-                if ($sat == 1) {
-                    echo '<td>' . __("SAT") . '</td>';
-                }
-            } else {
-                echo '<td></td><td><b>'.$bands[0].'</b></td>';
+            echo '<td></td>';
+            foreach ($summary_bands as $band) {
+                echo '<td>' . $band . '</td>';
+            }
+            echo '<td><b>' . __("Total") . '</b></td>';
+            if ($show_sat) {
+                echo '<td>' . __("SAT") . '</td>';
             }
             echo '</tr></thead>';
-
             echo '<tbody>';
-            echo '<tr><td>' . __("Total worked") . '</td>';
-            if (count($bands) > 2) {
-                $len_worked = count($type_summary['worked']);
-                $j = 0;
-                foreach ($type_summary['worked'] as $val) {
-                    if ($j == $len_worked - 1 - $sat) {
-                        echo '<td style="text-align: center"><b>' . $val . '</b></td>';
-                    } else {
-                        echo '<td style="text-align: center">' . $val . '</td>';
-                    }
-                    $j++;
+            foreach ($summary_labels as $type => $label) {
+                echo '<tr>';
+                echo '<td>' . $label . '</td>';
+                foreach ($summary_bands as $band) {
+                    echo '<td style="text-align: center">' . ($aja_summary[$type][$summary_key][$band] ?? 0) . '</td>';
                 }
-            } else {
-                echo '<td style="text-align: center"><b>' . $type_summary['worked']['Total'] . '</b></td>';
+                echo '<td style="text-align: center"><b>' . ($aja_summary[$type][$summary_key]['Total'] ?? 0) . '</b></td>';
+                if ($show_sat) {
+                    echo '<td style="text-align: center">' . ($aja_summary[$type][$summary_key]['SAT'] ?? 0) . '</td>';
+                }
+                echo '</tr>';
             }
-            echo '</tr>';
+            echo '</tbody></table>';
+        };
 
-            echo '<tr><td>' . __("Total confirmed") . '</td>';
-            if (count($bands) > 2) {
-                $len_confirmed = count($type_summary['confirmed']);
-                $j = 0;
-                foreach ($type_summary['confirmed'] as $val) {
-                    if ($j == $len_confirmed - 1 - $sat) {
-                        echo '<td style="text-align: center"><b>' . $val . '</b></td>';
-                    } else {
-                        echo '<td style="text-align: center">' . $val . '</td>';
-                    }
-                    $j++;
-                }
-            } else {
-                echo '<td style="text-align: center"><b>' . $type_summary['confirmed']['Total'] . '</b></td>';
-            }
-            echo '</tr></tbody></table>';
-        }
+        $render_summary_table('worked', __("Summary") . ' - ' . __("Worked"));
+        $render_summary_table('confirmed', __("Summary") . ' - ' . __("Confirmed"));
 
         echo '</div>';
     }

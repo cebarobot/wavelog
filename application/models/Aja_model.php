@@ -564,7 +564,7 @@ class Aja_model extends CI_Model {
 	 * @param array $postdata The postdata containing filter options
 	 * @param array|null $entity_status Pre-queried entity status
 	 * @return array ['city' => ..., 'gun' => ..., 'ku' => ..., 'total' => ...]
-	 *   each with ['worked' => [band => count, ...], 'confirmed' => [band => count, ...]]
+	 *   each with ['worked' => [band => count, 'Total' => slot_count], 'confirmed' => [...]]
 	 */
 	function get_aja_summary($bands, $postdata, $entity_status = null) {
 		if ($entity_status === null) {
@@ -584,31 +584,23 @@ class Aja_model extends CI_Model {
 			}
 		}
 
-		// Track unique entities per type for totals
-		$worked_entities = array('city' => array(), 'gun' => array(), 'ku' => array(), 'total' => array());
-		$confirmed_entities = array('city' => array(), 'gun' => array(), 'ku' => array(), 'total' => array());
-
 		foreach ($entity_status as $row) {
 			$entity = $row['entity'];
 			$type = $this->get_entity_type($entity);
 			$band = $row['key_col'];
 
-			$worked_entities[$type][$entity] = true;
-			$worked_entities['total'][$entity] = true;
 			$summary[$type]['worked'][$band] = ($summary[$type]['worked'][$band] ?? 0) + 1;
 			$summary['total']['worked'][$band] = ($summary['total']['worked'][$band] ?? 0) + 1;
 
 			if ($row['confirmed'] == 1) {
-				$confirmed_entities[$type][$entity] = true;
-				$confirmed_entities['total'][$entity] = true;
 				$summary[$type]['confirmed'][$band] = ($summary[$type]['confirmed'][$band] ?? 0) + 1;
 				$summary['total']['confirmed'][$band] = ($summary['total']['confirmed'][$band] ?? 0) + 1;
 			}
 		}
 
 		foreach ($types as $type) {
-			$summary[$type]['worked']['Total'] = count($worked_entities[$type]);
-			$summary[$type]['confirmed']['Total'] = count($confirmed_entities[$type]);
+			$summary[$type]['worked']['Total'] = array_sum($summary[$type]['worked']);
+			$summary[$type]['confirmed']['Total'] = array_sum($summary[$type]['confirmed']);
 
 			// Move SAT after Total
 			if (isset($summary[$type]['worked']['SAT'])) {

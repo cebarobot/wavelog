@@ -599,6 +599,7 @@ class Awards extends CI_Controller {
 			$postdata['worked'] = ($this->input->post('worked', true) ?? 0) == 0 ? null : 1;
 			$postdata['confirmed'] = ($this->input->post('confirmed', true) ?? 0) == 0 ? null : 1;
 			$postdata['notworked'] = ($this->input->post('notworked', true) ?? 0) == 0 ? null : 1;
+			$postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
 			$postdata['band'] = $this->input->post('band', true) ?? 'All';
 			$postdata['mode'] = $this->input->post('mode', true) ?? 'All';
 			$postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
@@ -611,6 +612,7 @@ class Awards extends CI_Controller {
 			$postdata['worked'] = 1;
 			$postdata['confirmed'] = 1;
 			$postdata['notworked'] = null;
+			$postdata['includedeleted'] = null;
 			$postdata['band'] = 'All';
 			$postdata['mode'] = 'All';
 			$postdata['prop_mode'] = 'All';
@@ -649,6 +651,7 @@ class Awards extends CI_Controller {
 		$postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
 		$postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
 		$postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+		$postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
 		$postdata['band'] = $this->input->post('band', true) ?? 'All';
 		$postdata['mode'] = $this->input->post('mode', true) ?? 'All';
 		$postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
@@ -2190,6 +2193,7 @@ class Awards extends CI_Controller {
 	    $postdata['worked'] = ($this->input->post('worked', true) ?? 0) == 0 ? null : 1;
 	    $postdata['confirmed'] = ($this->input->post('confirmed', true) ?? 0) == 0 ? null : 1;
 	    $postdata['notworked'] = ($this->input->post('notworked', true) ?? 0) == 0 ? null : 1;
+	    $postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
 	    $postdata['band'] = $this->input->post('band', true) ?? 'All';
 	    $postdata['mode'] = $this->input->post('mode', true) ?? 'All';
 	    $postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
