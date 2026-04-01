@@ -96,3 +96,63 @@ if (!function_exists('awards_render_jcc_cell')) {
 		return '<div class="' . $class_name . '"><a href="' . html_escape($href) . '">' . $status . '</a></div>';
 	}
 }
+
+if (!function_exists('awards_render_jcc_grid_slot')) {
+	/**
+	 * Renders a slot for the grouped JCC demo grid.
+	 *
+	 * @param array $slot The slot metadata
+	 * @param array $postdata The postdata containing filter options
+	 * @return string The HTML string for the slot
+	 */
+	function awards_render_jcc_grid_slot($slot, $postdata) {
+		$classes = array('award-grid-slot');
+		if (($slot['status'] ?? '-') === 'C') {
+			$classes[] = 'award-grid-slot-confirmed';
+		} elseif (($slot['status'] ?? '-') === 'W') {
+			$classes[] = 'award-grid-slot-worked';
+		} else {
+			$classes[] = 'award-grid-slot-empty';
+		}
+		if (!empty($slot['deleted'])) {
+			$classes[] = 'award-grid-slot-deleted';
+		}
+		if (!empty($slot['is_designated_city'])) {
+			$classes[] = 'award-grid-slot-designated';
+		}
+
+		$title_parts = array();
+		if (!empty($slot['number'])) {
+			$title_parts[] = $slot['number'];
+		}
+		if (!empty($slot['city_name'])) {
+			$title_parts[] = $slot['city_name'];
+		}
+		if (!empty($slot['ja_city_name'])) {
+			$title_parts[] = $slot['ja_city_name'];
+		}
+		$title = trim(implode(' ', $title_parts));
+		if (!empty($slot['deleted'])) {
+			$title .= ' (' . __("Deleted") . ')';
+		}
+
+		$label = html_escape($slot['short_number'] ?? $slot['number'] ?? '');
+		$class_name = html_escape(implode(' ', $classes));
+		$title_attr = html_escape($title);
+
+		if (($slot['status'] ?? '-') === 'W' || ($slot['status'] ?? '-') === 'C') {
+			$qsl_string = ($slot['status'] ?? '-') === 'C' ? awards_build_qsl_string($postdata) : '';
+			$href = awards_build_display_contacts_href(
+				$slot['entity'] ?? '',
+				$postdata['band'] ?? 'All',
+				$postdata['mode'] ?? 'All',
+				'JCC',
+				$qsl_string,
+			);
+
+			return '<a class="' . $class_name . '" href="' . html_escape($href) . '" title="' . $title_attr . '" aria-label="' . $title_attr . '">' . $label . '</a>';
+		}
+
+		return '<span class="' . $class_name . '" title="' . $title_attr . '" aria-label="' . $title_attr . '">' . $label . '</span>';
+	}
+}

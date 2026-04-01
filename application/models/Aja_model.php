@@ -9,11 +9,71 @@ class Aja_model extends CI_Model {
 	private $aja_kus = null;
 	private $aja_guns = null;
 
+	protected $ja_prefectures = array(
+		'01' => 'Hokkaido',
+		'02' => 'Aomori',
+		'03' => 'Iwate',
+		'04' => 'Akita',
+		'05' => 'Yamagata',
+		'06' => 'Miyagi',
+		'07' => 'Fukushima',
+		'08' => 'Niigata',
+		'09' => 'Nagano',
+		'10' => 'Tokyo',
+		'11' => 'Kanagawa',
+		'12' => 'Chiba',
+		'13' => 'Saitama',
+		'14' => 'Ibaraki',
+		'15' => 'Tochigi',
+		'16' => 'Gunma',
+		'17' => 'Yamanashi',
+		'18' => 'Shizuoka',
+		'19' => 'Gifu',
+		'20' => 'Aichi',
+		'21' => 'Mie',
+		'22' => 'Kyoto',
+		'23' => 'Shiga',
+		'24' => 'Nara',
+		'25' => 'Osaka',
+		'26' => 'Wakayama',
+		'27' => 'Hyogo',
+		'28' => 'Toyama',
+		'29' => 'Fukui',
+		'30' => 'Ishikawa',
+		'31' => 'Okayama',
+		'32' => 'Shimane',
+		'33' => 'Yamaguchi',
+		'34' => 'Tottori',
+		'35' => 'Hiroshima',
+		'36' => 'Kagawa',
+		'37' => 'Tokushima',
+		'38' => 'Ehime',
+		'39' => 'Kochi',
+		'40' => 'Fukuoka',
+		'41' => 'Saga',
+		'42' => 'Nagasaki',
+		'43' => 'Kumamoto',
+		'44' => 'Oita',
+		'45' => 'Miyazaki',
+		'46' => 'Kagoshima',
+		'47' => 'Okinawa',
+	);
+
 	function __construct() {
 		$this->load->library('Genfunctions');
 		$this->load->model('logbooks_model');
 		$logbooks_locations_array = $this->logbooks_model->list_logbook_relationships($this->session->userdata('active_station_logbook'));
 		$this->location_list = "'" . implode("','", $logbooks_locations_array) . "'";
+	}
+
+	/**
+	 * Get the display name for a Japanese prefecture code.
+	 *
+	 * @param string $prefecture_code The 2-digit prefecture code
+	 * @return string The prefecture name
+	 */
+	protected function get_ja_prefecture_name($prefecture_code) {
+		return $this->ja_prefectures[$prefecture_code] ?? $prefecture_code;
 	}
 
 	/**

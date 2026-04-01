@@ -131,6 +131,86 @@ class Jcc_model extends Aja_model {
 		}
 	}
 
+	/**
+	 * Build grouped slot data for the JCC demo grid.
+	 *
+	 * @param array $postdata The postdata containing filter options
+	 * @param array|null $entity_status The pre-query entity status to use
+	 * @return array Grouped slot data keyed by prefecture code
+	 */
+	function get_jcc_grouped_grid($postdata, $entity_status = null) {
+		if ($entity_status === null) {
+			$entity_status = $this->query_jcc_entity_status($postdata, 'band');
+		}
+
+		$jcc_list = $this->filter_entity_data($this->ja_cities, $postdata);
+		$slot_status = array();
+		foreach ($jcc_list as $entity => $city_data) {
+			$slot_status[$entity] = '-';
+		}
+
+		foreach ($entity_status as $row) {
+			$entity = $row['entity'];
+			if (!array_key_exists($entity, $jcc_list)) {
+				continue;
+			}
+
+			if ($row['confirmed'] == 1) {
+				$slot_status[$entity] = 'C';
+				continue;
+			}
+
+			if ($slot_status[$entity] !== 'C') {
+				$slot_status[$entity] = 'W';
+			}
+		}
+
+		$groups = array();
+		foreach ($jcc_list as $entity => $city_data) {
+			$prefecture_code = substr((string) $entity, 0, 2);
+			if (!isset($groups[$prefecture_code])) {
+				$groups[$prefecture_code] = array(
+					'prefecture_code' => $prefecture_code,
+					'prefecture_name' => $this->get_ja_prefecture_name($prefecture_code),
+					'slot_count' => 0,
+					'worked_count' => 0,
+					'confirmed_count' => 0,
+					'slots' => array(),
+				);
+			}
+
+			$status = $slot_status[$entity] ?? '-';
+			if ($status === 'C') {
+				$groups[$prefecture_code]['confirmed_count'] += 1;
+			}
+			if ($status === 'W' || $status === 'C') {
+				$groups[$prefecture_code]['worked_count'] += 1;
+			}
+			$groups[$prefecture_code]['slot_count'] += 1;
+
+			$groups[$prefecture_code]['slots'][] = array(
+				'entity' => $entity,
+				'number' => $entity,
+				'short_number' => substr((string) $entity, 2),
+				'city_name' => $city_data['name'] ?? '',
+				'ja_city_name' => $city_data['ja_name'] ?? '',
+				'status' => $status,
+				'deleted' => !empty($city_data['deleted']),
+				'is_designated_city' => !empty($city_data['designated_city']),
+			);
+		}
+
+		ksort($groups, SORT_STRING);
+		foreach ($groups as &$group) {
+			usort($group['slots'], function ($left, $right) {
+				return strcmp($left['entity'], $right['entity']);
+			});
+		}
+		unset($group);
+
+		return $groups;
+	}
+
 
 	/**
 	 * Get the JCC summary array for display on the table

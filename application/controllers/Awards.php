@@ -440,6 +440,61 @@ class Awards extends CI_Controller {
 	}
 
 	/**
+	 * JCC Award grouped grid demo page.
+	 */
+	public function jcc_demo() {
+		$footerData = [];
+
+		$this->load->helper('awards');
+		$this->load->model('jcc_model');
+		$this->load->model('modes');
+		$this->load->model('bands');
+
+		if ($this->input->method() === 'post') {
+			$postdata['qsl'] = ($this->input->post('qsl', true) ?? 0) == 0 ? null : 1;
+			$postdata['lotw'] = ($this->input->post('lotw', true) ?? 0) == 0 ? null : 1;
+			$postdata['eqsl'] = ($this->input->post('eqsl', true) ?? 0) == 0 ? null : 1;
+			$postdata['qrz'] = ($this->input->post('qrz', true) ?? 0) == 0 ? null : 1;
+			$postdata['clublog'] = ($this->input->post('clublog', true) ?? 0) == 0 ? null : 1;
+			$postdata['includedeleted'] = ($this->input->post('includedeleted', true) ?? 0) == 0 ? null : 1;
+			$postdata['band'] = $this->input->post('band', true) ?? 'All';
+			$postdata['mode'] = $this->input->post('mode', true) ?? 'All';
+			$postdata['prop_mode'] = $this->input->post('prop_mode', true) ?? 'All';
+		} else {
+			$postdata['qsl'] = 1;
+			$postdata['lotw'] = 1;
+			$postdata['eqsl'] = 1;
+			$postdata['qrz'] = null;
+			$postdata['clublog'] = null;
+			$postdata['includedeleted'] = null;
+			$postdata['band'] = 'All';
+			$postdata['mode'] = 'All';
+			$postdata['prop_mode'] = 'All';
+		}
+		$data['postdata'] = $postdata;
+
+		$data['worked_bands'] = $this->bands->get_worked_bands('jcc');
+		$data['modes'] = $this->modes->active();
+
+		if ($postdata['band'] == 'All') {
+			$bands = $data['worked_bands'];
+		} else {
+			$bands = [$postdata['band']];
+		}
+		$data['bands'] = $bands;
+
+		$jcc_entity_status = $this->jcc_model->query_jcc_entity_status($postdata, 'band');
+		$data['jcc_groups'] = $this->jcc_model->get_jcc_grouped_grid($postdata, $jcc_entity_status);
+		$data['jcc_summary'] = $this->jcc_model->get_jcc_summary($bands, $postdata, $jcc_entity_status);
+		$data['has_active_slots'] = ($data['jcc_summary']['worked']['Total'] ?? 0) > 0;
+
+		$data['page_title'] = 'Awards - JCC Demo';
+		$this->load->view('interface_assets/header', $data);
+		$this->load->view('awards/jcc/demo');
+		$this->load->view('interface_assets/footer', $footerData);
+	}
+
+	/**
 	 * Export JCC QSOs as CSV for Award Application
 	 */
 	public function jcc_export() {
