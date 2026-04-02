@@ -82,7 +82,7 @@ class Jcc_model extends Aja_model {
 	 * @param array|null $entity_status The pre-query entity status to use
 	 * @return array Grouped slot data keyed by prefecture code
 	 */
-	function get_jcc_grouped_grid($postdata, $entity_status = null) {
+	function get_jcc_grouped_slot($postdata, $entity_status = null) {
 		if ($entity_status === null) {
 			$entity_status = $this->query_jcc_entity_status($postdata, 'none');
 		}

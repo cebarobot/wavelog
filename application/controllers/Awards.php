@@ -416,7 +416,7 @@ class Awards extends CI_Controller {
 		$data['user_map_custom'] = $this->optionslib->get_map_custom();
 
 		$jcc_entity_status = $this->jcc_model->query_jcc_entity_status($postdata, 'none');
-		$data['jcc_groups'] = $this->jcc_model->get_jcc_grouped_grid($postdata, $jcc_entity_status);
+		$data['jcc_groups'] = $this->jcc_model->get_jcc_grouped_slot($postdata, $jcc_entity_status);
 		$data['jcc_summary'] = $this->jcc_model->get_jcc_summary($postdata, $jcc_entity_status);
 		$data['has_active_slots'] = ($data['jcc_summary']['worked'] ?? 0) > 0;
 
